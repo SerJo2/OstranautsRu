@@ -5,6 +5,8 @@
 
 Перевод Ostranauts на Русский язык
 
+[Количество добавленных строк за день](CHANGELOG_BY_STRINGS.MD)
+
 Данный репозиторий является форком [отсюда](https://steamcommunity.com/sharedfiles/filedetails/?id=3653661769)
 
 ## Вклад
