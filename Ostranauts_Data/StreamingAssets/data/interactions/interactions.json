@@ -2,8 +2,8 @@
 [
   {
     "strName" : "ACTAddConnection",
-    "strTitle" : "AddConnection",
-    "strDesc" : "[us] [adds] connection to [them]",
+    "strTitle" : "Соединить",
+    "strDesc" : "[us] [adds] Соединяет с [them]",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
     "fTargetPointRange" : 1,
@@ -27,8 +27,8 @@
   },
   {
     "strName" : "ACTRemoveConnection",
-    "strTitle" : "Remove Connection",
-    "strDesc" : "[us] [removes] connection to [them]",
+    "strTitle" : "Удалить соединение",
+    "strDesc" : "[us] [removes] соединение с [them]",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
     "fTargetPointRange" : 1,
@@ -52,8 +52,8 @@
   },
   {
     "strName" : "ACTAddSignal",
-    "strTitle" : "Add Signal",
-    "strDesc" : "[us] [adds] signal to [them]",
+    "strTitle" : "Добавить сигнал",
+    "strDesc" : "[us] [adds] сигнал к [them]",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
     "fTargetPointRange" : 1,
@@ -78,8 +78,8 @@
   },
   {
     "strName" : "ACTRemoveSignal",
-    "strTitle" : "Remove Signal",
-    "strDesc" : "[us] [removes] signal to [them]",
+    "strTitle" : "Убрать сигнал",
+    "strDesc" : "[us] [removes] сигнал с [them]",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
     "fTargetPointRange" : 1,
@@ -105,7 +105,7 @@
   {
     "strName" : "ACTBash",
     "strTitle" : "Ударить",
-    "strDesc" : "[us] [is] going to bash [them].",
+    "strDesc" : "[us] [is] собирается ударить [them].",
     "strTooltip" : "Понижает уровень здоровья цели до тех пор, пока она не будет повреждена или уничтожена.",
     "strActionGroup" : "Work",
     "nQabOrderPriority" : -4,
@@ -139,9 +139,9 @@
   },
   {
     "strName" : "ACTBashBig",
-    "strTitle" : "Bash",
-    "strDesc" : "[us] [is] going to bash [them].",
-    "strTooltip" : "Reduces target's condition until it is damaged or destroyed.",
+    "strTitle" : "Ударить",
+    "strDesc" : "[us] [is] собирается ударить [them].",
+    "strTooltip" : "Понижает уровень здоровья цели до тех пор, пока она не будет повреждена или уничтожена.",
     "strActionGroup" : "Work",
     "nQabOrderPriority" : -4,
     "strTargetPoint" : "bash",
@@ -174,7 +174,7 @@
   },
   {
     "strName" : "ACTBashAllow",
-    "strTitle" : "Bash",
+    "strTitle" : "Ударить",
     "strDesc" : "[us] [bashes] [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -202,7 +202,7 @@
   },
   {
     "strName" : "ACTBashAllowStrong",
-    "strTitle" : "Bash (Strong)",
+    "strTitle" : "Ударить (сильно)",
     "strDesc" : "[us] [whales] on [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -230,8 +230,8 @@
   },
   {
     "strName" : "BlowDust",
-    "strTitle" : "Blow Dust",
-    "strDesc" : "[us] blows the dust out of [them].",
+    "strTitle" : "Сдуть пыль",
+    "strDesc" : "[us] сдувает пыль с [them].",
     "strActionGroup" : "Use",
     "fTargetPointRange" : 1,
     "fDuration"         : 0.0003,
@@ -245,7 +245,7 @@
   {
     "strName" : "ACTCancelTaskThem",
     "strTitle" : "Отменить задачу",
-    "strDesc" : "[us] [cancels] tasks on [them].",
+    "strDesc" : "[us] [cancels] задачу на [them].",
     "strActionGroup" : "Use",
     "fTargetPointRange" : 0,
     "fDuration"         : 0.0,
@@ -258,8 +258,8 @@
   },
   {
     "strName" : "ACTChairSit",
-    "strTitle" : "Sit",
-    "strDesc" : "[us] [sits] on [them].",
+    "strTitle" : "Сидеть",
+    "strDesc" : "[us] [sits] на [them].",
     "strTooltip" : "Sits down.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "sit",
@@ -293,8 +293,8 @@
   },
   {
     "strName" : "ACTChairSitAllow",
-    "strTitle" : "Sitting",
-    "strDesc" : "[us] [is] sitting on [them].",
+    "strTitle" : "Сидеть",
+    "strDesc" : "[us] [is] сидит на [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "sit",
     "fTargetPointRange" : 0,
@@ -323,8 +323,8 @@
   
   {
     "strName" : "ACTChairSitCancel",
-    "strTitle" : "Getting Up",
-    "strDesc" : "[us] [stops] sitting.",
+    "strTitle" : "Встать",
+    "strDesc" : "[us] [stops] сидеть.",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "strTeleport"       : "use",
@@ -353,8 +353,8 @@
   },
   {
     "strName" : "ACTChairSitEnd",
-    "strTitle" : "Getting Up",
-    "strDesc" : "[us] [stops] sitting.",
+    "strTitle" : "Встать",
+    "strDesc" : "[us] [stops] сидеть",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -385,9 +385,9 @@
   
   {
     "strName" : "ACTChairSitSecure",
-    "strTitle" : "Sit",
-    "strDesc" : "[us] [sits] fastened securely on [them].",
-    "strTooltip" : "Sits down and fastens securely.",
+    "strTitle" : "Сидеть",
+    "strDesc" : "[us] [sits] надежно закрепляется на [them].",
+    "strTooltip" : "Садится и надежно закрепляется.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "sit",
     "fTargetPointRange" : 2,
@@ -421,8 +421,8 @@
   },
   {
     "strName" : "ACTChairSitSecureAllow",
-    "strTitle" : "Sitting",
-    "strDesc" : "[us] [is] sitting securely on [them].",
+    "strTitle" : "Сидеть",
+    "strDesc" : "[us] [is] надежно сидит на [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "sit",
     "fTargetPointRange" : 0,
@@ -451,8 +451,8 @@
   
   {
     "strName" : "ACTChairSitSecureCancel",
-    "strTitle" : "Getting Up",
-    "strDesc" : "[us] [unfastens] and [stops] sitting.",
+    "strTitle" : "Встать",
+    "strDesc" : "[us] [unfastens] и [stops] сидеть.",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "strTeleport"       : "use",
@@ -481,8 +481,8 @@
   },
   {
     "strName" : "ACTChairSitSecureEnd",
-    "strTitle" : "Getting Up",
-    "strDesc" : "[us][unfastens] and [stops] sitting.",
+    "strTitle" : "Встать",
+    "strDesc" : "[us][unfastens] и [stops] сидеть.",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -574,8 +574,8 @@
   
   {
     "strName" : "ACTKioskUseNPCCancel",
-    "strTitle" : "Finishing Up",
-    "strDesc" : "[us] [stops] using [them].",
+    "strTitle" : "Заканчивать",
+    "strDesc" : "[us] [stops] использовать [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -1314,8 +1314,8 @@
   {
     "strName" : "ACTFloorGrate01Patch",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -1934,8 +1934,8 @@
   {
     "strName" : "ACTFloorGrate01PatchNPC",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -1987,8 +1987,8 @@
   {
     "strName" : "ACTWall1x1PatchNPC",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2039,9 +2039,9 @@
   
   {
     "strName" : "ACTWallPlastic1x1PatchNPC",
-    "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strTitle" : "Заплатка",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2092,8 +2092,8 @@
   {
     "strName" : "ACTWallWindow1x1PatchNPC",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2296,8 +2296,8 @@
   },
   {
     "strName" : "ACTWall1x1RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2323,7 +2323,7 @@
   },
   {
     "strName" : "ACTWall1x1RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2347,8 +2347,8 @@
   
   {
     "strName" : "ACTWallPlastic1x1RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2374,7 +2374,7 @@
   },
   {
     "strName" : "ACTWallPlastic1x1RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2397,8 +2397,8 @@
   },
   {
     "strName" : "ACTWallWindow1x1RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2424,7 +2424,7 @@
   },
   {
     "strName" : "ACTWallWindow1x1RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2447,8 +2447,8 @@
   },
   {
     "strName" : "ACTFloorGrate01RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2474,7 +2474,7 @@
   },
   {
     "strName" : "ACTFloorGrate01RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2497,8 +2497,8 @@
   },
   {
     "strName" : "ACTAlarmN2RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2524,7 +2524,7 @@
   },
   {
     "strName" : "ACTAlarmN2RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2547,8 +2547,8 @@
   },
   {
     "strName" : "ACTAlarmO2RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2574,7 +2574,7 @@
   },
   {
     "strName" : "ACTAlarmO2RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2597,8 +2597,8 @@
   },
   {
     "strName" : "ACTAlarmCO2RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2624,7 +2624,7 @@
   },
   {
     "strName" : "ACTAlarmCO2RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2647,8 +2647,8 @@
   },
   {
     "strName" : "ACTAlarmContaminantsRepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2674,7 +2674,7 @@
   },
   {
     "strName" : "ACTAlarmContaminantsRepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2697,8 +2697,8 @@
   },
   {
     "strName" : "ACTAlarmTempRepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2724,7 +2724,7 @@
   },
   {
     "strName" : "ACTAlarmTempRepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2747,8 +2747,8 @@
   },
   {
     "strName" : "ACTConduit00RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 2,
@@ -2774,7 +2774,7 @@
   },
   {
     "strName" : "ACTConduit00RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2797,8 +2797,8 @@
   },
   {
     "strName" : "ACTCooler01RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2824,7 +2824,7 @@
   },
   {
     "strName" : "ACTCooler01RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2847,8 +2847,8 @@
   },
   {
     "strName" : "ACTHeater01RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2874,7 +2874,7 @@
   },
   {
     "strName" : "ACTHeater01RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2897,8 +2897,8 @@
   },
   {
     "strName" : "ACTAirPump02RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -2924,7 +2924,7 @@
   },
   {
     "strName" : "ACTAirPump02RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2947,8 +2947,8 @@
   },
   {
     "strName" : "ACTAtmoScrubber01RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 50,
@@ -2974,7 +2974,7 @@
   },
   {
     "strName" : "ACTAtmoScrubber01RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -2997,8 +2997,8 @@
   },
   {
     "strName" : "ACTAtmoScrubber02RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 50,
@@ -3024,7 +3024,7 @@
   },
   {
     "strName" : "ACTAtmoScrubber02RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -3047,8 +3047,8 @@
   },
   {
     "strName" : "ACTRTAO2RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 10,
@@ -3074,7 +3074,7 @@
   },
   {
     "strName" : "ACTRTAO2RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -3097,8 +3097,8 @@
   },
   {
     "strName" : "ACTRTAN2RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 10,
@@ -3124,7 +3124,7 @@
   },
   {
     "strName" : "ACTRTAN2RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -3147,8 +3147,8 @@
   },
   {
     "strName" : "ACTRTACO2RepairNPC",
-    "strTitle" : "Repair",
-    "strDesc" : "[us] [starts] repairing the damage to [them].",
+    "strTitle" : "Ремонт",
+    "strDesc" : "[us] [starts] ремонтировать повреждения [them].",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 50,
@@ -3174,7 +3174,7 @@
   },
   {
     "strName" : "ACTRTACO2RepairNPCAllow",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] is repaired.",
     "strActionGroup" : "Work",
     "strTargetPoint" : null,
@@ -3908,7 +3908,7 @@
   },
   {
     "strName" : "ACTRepairTEMP",
-    "strTitle" : "Repair",
+    "strTitle" : "Ремонт",
     "strDesc" : "[us] [is] going to repair [them].",
     "strTooltip" : "Repairs a non-functioning, damaged item so it works again.",
     "strActionGroup" : "Work",
@@ -4097,8 +4097,8 @@
   {
     "strName" : "ACTStorageBinFloor1x101Patch",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -6165,8 +6165,8 @@
   {
     "strName" : "ACTWall1x1Patch",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -6220,8 +6220,8 @@
   {
     "strName" : "ACTWallPlastic1x1Patch",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -6447,8 +6447,8 @@
   {
     "strName" : "ACTWallWindow1x1Patch",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -6502,8 +6502,8 @@
   {
     "strName" : "ACTWallWindow1x1SqPatch",
     "strTitle" : "Patch",
-    "strDesc" : "[us] [starts] patching a hole in [them].",
-    "strTooltip" : "Applies a patch to rapidly seal gas leaks.",
+    "strDesc" : "[us] [starts] заделывает дыру в [them].",
+    "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1.5,
@@ -6985,8 +6985,8 @@
   },
   {
     "strName" : "CGEncShadyDealIntro",
-    "strTitle" : "Shady deal.",
-    "strDesc" : "You are approached by a coworker who has developed a less-than-legal method for making cash on the side. Apparently they have been tagging high value salvage as junk in the system for the last six weeks. After the false tag they leave the part onboard the derelict and sell the location to the highest bidder.\n\nThis scheme always involves the complicity of the breaker doing the final sweep, and today that happens to be you. The piece in question is a busted reactor, and you know it will fetch a pretty penny on the black market.\n\nIt's a big take, if you can pull it off. But there are risks...",
+    "strTitle" : "Темная сделка.",
+    "strDesc" : "К вам обращается коллега, который разработал не совсем законный способ заработать на стороне. По всей видимости, в течение последних шести недель он маркировал в системе ценные детали как мусор. После ложной маркировки он оставляет детали на борту заброшенного корабля и продает местонахождение тому, кто предложит самую высокую цену.\\n\\nВ этой схеме всегда участвует сговорщик, который проводит окончательную проверку, и сегодня этим сговорщиком являетесь вы. Речь идет о сломанном реакторе, и вы знаете, что он принесет немалую прибыль на черном рынке.\\n\\nЕсли вам удастся это сделать, вы получите большую сумму. Но есть риски...",
     "CTTestUs" : "TNotIsImprisoned",
     "aInverse"          : [
       "CGEncShadyDealJoinFail",
@@ -7003,8 +7003,8 @@
   },
   {
     "strName" : "CGEncShadyDealGatherIntel",
-    "strTitle" : "Gather Intel for Cops",
-    "strDesc" : "You decline the offer but keep an eye on the involved parties. It's a good scheme. Runs like clockwork. After a couple weeks you know all the names, locations, and timings.\n\nYou bring this intel to an AyoSec officer. They are shocked by the level of detail. It's not a career case, but it's close enough.\n\nNow you have a friend on the force plus some valuable information to boot.\n\n",
+    "strTitle" : "Собрать информацию для полиции",
+    "strDesc" : "Вы отклоняете предложение, но продолжаете следить за участниками. Это хороший план. Все идет как по маслу. Через пару недель вы знаете все имена, места и сроки.\nВы передаете эту информацию сотруднику AyoSec. Они потрясены уровнем детализации. Это не дело всей карьеры, но почти.\\n\\nТеперь у вас есть друг в полиции и ценная информация.\\n\\n",
     "fDuration"         : 0.0,
     "LootCTsUs" : "CTEncShadyDealGatherIntel",
     "strThemType"       : "Self",
@@ -7014,8 +7014,8 @@
   },
   {
     "strName" : "CGEncShadyDealBackstab",
-    "strTitle" : "Backstab Them",
-    "strDesc" : "It's a good scheme. But it would be better if it were yours.\n\nSo you play nice for a couple weeks as a lookout all while spreading some vicious rumors about the ringleader to the rest of the crew: that they're working for AyoSec, that they're skimming off the top, that they are going to flip to management at any moment.\n\nIt isn't long before everyone involved wants this person out of the way. You play the rational actor during the meeting when everyone decides to beat the shit out of them on the labor barge during the next shift change.\n\nWhen that dirty work is done, everyone decides you should run the con from here on out. You humbly accept.\n\n",
+    "strTitle" : "Предать их",
+    "strDesc" : "Это хороший план. Но было бы лучше, если бы она была твоей.\n\nПоэтому ты пару недель ведешь себя прилично, выполняя роль наблюдателя, и в то же время распространяешь среди остальных членов команды злобные слухи о главарях: что они работают на AyoSec, что они снимают сливки, что они в любой момент могут перейти на сторону руководства.\n\nНе проходит много времени, как все участники хотят избавиться от этого человека. Вы ведете себя как рациональный человек во время собрания, когда все решают избить его на барже во время следующей смены. Когда грязная работа сделана, все решают, что отныне вы должны руководить аферой. Вы скромно соглашаетесь.\n\n",
     "fDuration"         : 0.0,
     "LootCTsUs" : "CTEncShadyDealBackstab",
     "strThemType"       : "Self",
@@ -7025,8 +7025,8 @@
   },
   {
     "strName" : "CGEncShadyDealReportThem",
-    "strTitle" : "Report to Ayotimiwa",
-    "strDesc" : "Disturbed by this brazen act of theft, you go straight to the highest level manager you can find. The manager calls in their attached AyoSec detail and together the three of you hash out the various culprits in the scheme.\n\nBefore you leave the office the manager hands you something as a gift. It's a limited edition Ayotimiwa hoodie. What a treat.\n\n",
+    "strTitle" : "Доложить Ayotimiwa",
+    "strDesc" : "Возмущенный этим наглым актом воровства, вы сразу же обращаетесь к самому высокопоставленному менеджеру, которого можете найти. Руководитель вызывает прикрепленную к нему группу AyoSec, и вы все трое вместе обсуждаете различных виновников этого преступления.\n\nПеред тем как вы покидаете офис, руководитель вручает вам подарок. Это худи Ayotimiwa из ограниченной серии. Какое удовольствие.\n\n",
     "fDuration"         : 0.0,
     "LootCTsUs" : "CTEncShadyDealReportThem",
     "strThemType"       : "Self",
@@ -7040,8 +7040,8 @@
   },
   {
     "strName" : "CGEncShadyDealViolence",
-    "strTitle" : "Instigate Violence",
-    "strDesc" : "Something about this whole scheme doesn't sit right with you. In fact, you don't like the way this person is looking at you. Do they think they are better than you? Tougher?\n\nYou ask them as much and then don't listen to their answer. A scuffle ensues. One thing leads to another and somebody (not you!) gets brained with a crowbar.\n\nIf they wanted to avoid said fate, you think to yourself as you flee the scene, then they shouldn't have implied you were some kind of weakling. You sure showed them who the weakling is.\n\n",
+    "strTitle" : "Подстрекать к насилию",
+    "strDesc" : "Что-то в этой всей схеме не устраивает вас. На самом деле, вам не нравится, как этот человек на вас смотрит. Он считает себя лучше вас? Сильнее?\n\nВы спрашиваете его об этом, но не слушаете его ответ. Начинается драка. Одно ведет к другому, и кто-то (не вы!) получает удар ломом по голове.\n\nЕсли он хотел избежать такой участи, думаете вы, убегая с места происшествия, то не стоило намекать, что вы какой-то слабак. Вы точно показали ему, кто здесь слабак.\n\n",
     "fDuration"         : 0.0,
     "LootCTsUs" : "CTEncShadyDealViolence",
     "strThemType"       : "Self",
@@ -7051,8 +7051,8 @@
   },
   {
     "strName" : "CGEncShadyDealJoinSuccess",
-    "strTitle" : "RISK: Join the Scheme (Street Smarts)",
-    "strDesc" : "The plan is a good one, but hell if you're going to be the one left holding the bag. You keep a digital record of the false tags as insurance to guarantee you get your cut.\n\nSure enough, the ringleader tries to squeeze you when it's time to pay up. You use the evidence to blackmail them for a larger share.\n\nAnd more importantly, you get out clean.\n\n",
+    "strTitle" : "РИСК: Присоединиться к схеме (Уличная смекалка)",
+    "strDesc" : "TПлан хороший, но черт возьми, если ты будешь тем, кто останется с пустыми руками. Вы сохраняете цифровую запись поддельных меток в качестве страховки, чтобы гарантировать себе свою долю.\n\nКак и следовало ожидать, когда приходит время расплаты, главарь пытается выжать из вас больше. Вы используете доказательства, чтобы шантажировать его и получить большую долю.\n\nИ, что еще более важно, вы выходите из ситуации чистым.\n\n",
     "CTTestUs" : "CTShadyDealFailTestForb",
     "LootCTsUs" : "CTEncShadyDealSuccess",
     "fDuration"         : 0.0,
@@ -7060,8 +7060,8 @@
   },
   {
     "strName" : "CGEncShipHulkSalvage",
-    "strTitle" : "Hulk Salvage.",
-    "strDesc" : "Ship: You discover a spaceship hulk that could still be made spaceworthy. It'll take some elbow grease, and you'll have to source some replacement parts. Plus, technically, it'd be stealing from the junkyard. Stealing junk, but still stealing. The yard owners won't like it when they find out...",
+    "strTitle" : "Починка обломков.",
+    "strDesc" : "Корабль: вы обнаруживаете обломки космического корабля, который еще можно сделать пригодным для полетов. Это потребует некоторых усилий, и вам придется найти запасные части. К тому же, с технической точки зрения, это будет кража со свалки. Кража мусора, но все же кража. Владельцы свалки не будут рады, когда об этом узнают...",
     "fTargetPointRange" : 0,
     "aInverse"          : [
     ],
@@ -7074,8 +7074,8 @@
   },
   {
     "strName" : "CGEncShipPAX2020Intro",
-    "strTitle" : "Hulk Salvage.",
-    "strDesc" : "You discover a spaceship hulk that could still be made spaceworthy. It'll take some elbow grease, and you'll have to source some replacement parts.\n\nPlus, technically, it'd be stealing from the junkyard. Stealing junk, buuuuut...still stealing. The yard owners won't like it when they find out.",
+    "strTitle" : "Починка обломков.",
+    "strDesc" : "Вы обнаруживаете обломки космического корабля, который еще можно сделать пригодным для полетов. Это потребует немало усилий, и вам придется найти запасные части.\n\nКроме того, технически это будет кража со свалки. Кража мусора, но... все равно кража. Владельцы свалки не будут рады, когда об этом узнают.",
     "fTargetPointRange" : 0,
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
@@ -7086,8 +7086,8 @@
   },
   {
     "strName" : "CGEncShipPAX2020Take",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You know what? You're doing it. Screw this life prying metal warts off heaps of junk for your crumbs of daily bread. From now on, you call the shots. Just as soon as you can get this thing flying again...",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Знаешь что? Ты это делаешь. К черту эту жизнь, когда приходится выковыривать металлические бородавки из куч хлама за крохи хлеба насущного. С этого момента ты будешь принимать решения. Как только сможешь заставить эту штуку снова летать...",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "bEquip"          : true,
@@ -7101,7 +7101,7 @@
   {
     "strName" : "CGEncShipbreakerSaveMoney",
     "strTitle" : "Отложить немного денег.",
-    "strDesc" : "Shipbreaking is a nearly impossible grind, but you know with enough discipline you can leave each month with a little extra cash socked away. So you cut back on your drinking, swap a few kiosk meals for Trenchers chow, even take an extra shift here and there.\n\nIt's not much, but by the end of the year, you've got something that's beginning to resemble a nest egg.\n\n",
+    "strDesc" : "Разборка кораблей — это почти невозможная работа, но вы знаете, что при достаточной дисциплине каждый месяц можно откладывать немного денег. Поэтому вы сокращаете расходы на алкоголь, заменяете несколько обедов в киоске на еду из Trenchers, даже берете дополнительные смены здесь и там.\n\nЭто не много, но к концу года у вас появляется нечто, что начинает напоминать сбережения.\n\n",
     "aInverse"          : [
     ],
     "bRandomInverse"    : true,
@@ -7112,8 +7112,8 @@
   },
   {
     "strName" : "CGEncShipSalvageContainerPodIntro",
-    "strTitle" : "Retrofitted Shipping Container.",
-    "strDesc" : "You found an affordable ship! It's a standard shipping container.\n\nWith a nav station bolted on.\n\nAnd that's pretty much all there is to say about it.\n\nDue to a lack of environmental life support and other crucial systems onboard, Ogiso's Register has given this vessel an OSR of \"very low,\" indicating that it is legal for sale but poses a significant risk of death to crew.",
+    "strTitle" : "Модернизированный транспортный контейнер.",
+    "strDesc" : "Вы нашли недорогое судно! Это стандартный транспортный контейнер.\n\nС привинченной навигационной станцией.\n\nИ это практически все, что можно сказать о нем.\n\nИз-за отсутствия систем жизнеобеспечения и других важных систем на борту, Реестр Огисо присвоил этому судну рейтинг OSR \"очень низкий\", что означает, что его продажа является законной, но представляет значительный риск для жизни экипажа.",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvageContainerPodTake"
@@ -7127,7 +7127,7 @@
   {
     "strName" : "CGEncShipSalvagePodIntro",
     "strTitle" : "Сборщик обломков.",
-    "strDesc" : "You happen across an ad for a Ryokka Tu-77a salvage pod. It's little more than a tin can with maneuvering jets and life support, but it'll get you around the K-Leg boneyard well enough. More importantly, it could be a means to avoid long lines at the day labour berth, and avoiding the 'salvage tax' levied by yard transports.\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный,\" что указывает на легальность его продажи, но и на отсутствие каких-либо систем, кроме базовых для перелёта и поддержания жизни. ",
+    "strDesc" : "Вы наткнулись на объявление о продаже спасательного капсулы Ryokka Tu-77a. Это чуть больше, чем жестяная банка с маневренными двигателями и системой жизнеобеспечения, но она вполне подойдет для передвижения по кладбищу K-Leg. Что еще более важно, это может быть способом избежать длинных очередей на причале для поденных рабочих и уклониться от \\\"налога на утилизацию\\\", взимаемого транспортными компаниями верфи.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что указывает на легальность его продажи, но и на отсутствие каких-либо систем, кроме базовых для перелета и поддержания жизни.",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodTake"
@@ -7139,8 +7139,8 @@
   },
   {
     "strName" : "CGEncShipMakeshiftSalvagePodIntro",
-    "strTitle" : "Makeshift Salvage Pod.",
-    "strDesc" : "Using a cheap, mortgaged derelict as a frame, you're able to scrape together enough spare parts to retrofit your own salvage pod, a comical replica of its factory-line kin. It takes years of hard work, and agonising choices over what can be spared toward your project and what must be sold to survive. But finally it's finished - as finished as it's ever going to be.\n\nDue to the external hull features on this craft, Ogiso's Register has given this vessel an OSR of \"low,\" indicating that it is legal for sale but poses some risk of death to crew.  ",
+    "strTitle" : "Импровизированная спасательная капсула.",
+    "strDesc" : "Используя в качестве каркаса дешевый заброшенный корабль, купленный в ипотеку, вы можете собрать достаточно запасных частей, чтобы переоборудовать свою собственную спасательную капсулу, комичную копию своих заводских собратьев. Это требует многих лет упорного труда и мучительных решений о том, что можно потратить на ваш проект, а что нужно продать, чтобы выжить. Но, наконец, он готов — настолько готов, насколько это вообще возможно.\n\nИз-за особенностей внешнего корпуса этого судна, Огисо Регистр присвоил ему рейтинг OSR \"низкий\", что означает, что его продажа законна, но он представляет определенную опасность для жизни экипажа.  ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvageSledTake"
@@ -7153,8 +7153,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodEnduranceIntro",
-    "strTitle" : "Endurance Salvage Pod.",
-    "strDesc" : "You happen across an ad for a heavily used Ryokka Tu-76a endurance salvage pod. There's not much there but maneuvering jets and life support, but it can fly. The endurance model of the TU was built for longer range salvage operations, and so it is equipped with a bed and wash facilities. The one for purchase is in very rough shape, however. It would require some serious elbow grease to bring it back to form.\n\nOgiso's Register has given this vessel an OSR of \"moderate,\" indicating that it is legal for sale but does not possess ship systems beyond basic travel and life support.",
+    "strTitle" : "Спасательный модуль повышенной прочности.",
+    "strDesc" : "Вы наткнулись на объявление о продаже сильно изношенного спасательного модуля повышенной прочности Ryokka Tu-76a. В нем нет ничего, кроме маневренных двигателей и системы жизнеобеспечения, но он может летать. Модель TU повышенной прочности была создана для спасательных операций на больших расстояниях, поэтому она оснащена кроватью и санузлом. Однако предлагаемый для продажи капсула находится в очень плохом состоянии. Чтобы привести его в порядок, потребуются серьезные усилия.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа является законной, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения.",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodEnduranceTake"
@@ -7166,8 +7166,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodSmallIntro",
-    "strTitle" : "Small Salvage Pod.",
-    "strDesc" : "You happen across an ad for a Ryokka Tu-70a compact salvage pod. These models are simple, mostly just life support and thrusters, but they work just fine for local travel in the Boneyard. The particular TU model available has a smaller floor plan, making it more fuel efficient and lightweight than other Ryokka models.\n\nOgiso's Register has given this vessel an OSR of \"moderate,\" indicating that it is legal for sale but does not possess ship systems beyond basic travel and life support. ",
+    "strTitle" : "Малый спасательный модуль.",
+    "strDesc" : "Вы наткнулись на объявление о продаже компактного спасательного модуля Ryokka Tu-70a. Эти модели простые, в основном состоят из систем жизнеобеспечения и двигателей, но они отлично подходят для местных поездок по Бонейарду. Конкретная доступная модель TU имеет меньшую площадь, что делает ее более экономичной и легкой по сравнению с другими моделями Ryokka.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что оно разрешено к продаже, но не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodSmallTake"
@@ -7179,8 +7179,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodTestIntro",
-    "strTitle" : "Salvage Pod.",
-    "strDesc" : "You happen across an ad for a \"classic\" Testudo Lilliput test pod. It's a relic from 2038, and not a valuable one. It would look more at home in a museum than in flight. Last time it was in operation might have been as a ferry between Earth and Luna. But it has life support, maneuvering jets, and a Nav Station, so it will do the job. It even comes standard with two jump seats in case you want to start a little crew.\n\nOgiso's Register has given this vessel an OSR of \"moderate,\" indicating that it is legal for sale but does not possess ship systems beyond basic travel and life support. ",
+    "strTitle" : "Спасательный корабль.",
+    "strDesc" : "Вы наткнулись на объявление о продаже «классического» испытательного корабля Testudo Lilliput. Это реликвия 2038 года, и не очень ценная. Ему больше подошло бы место в музее, чем в полете. Последний раз он, возможно, использовался в качестве парома между Землей и Луной. Но в ней есть система жизнеобеспечения, маневренные двигатели и навигационная станция, так что она подойдет для этой задачи. В ней даже есть два дополнительных сиденья на случай, если вы захотите собрать небольшую команду.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа законна, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodTestTake"
@@ -7193,8 +7193,8 @@
   },
   {
     "strName" : "CGEncShipShuttleSmallIntro",
-    "strTitle" : "Small Shuttle.",
-    "strDesc" : "You happen across a seller trying to offload a Testudo Dream. It's a small shuttlecraft used to ferry passengers in local space. It's not pretty, but it has life support, thrusters, and even a few jump seats if you have friends you don't like so well. Might be just what you need to escape the daily grind as a ship breaker!\n\nOgiso's Register has given this vessel an OSR of \"moderate,\" indicating that it is legal for sale but does not possess ship systems beyond basic travel and life support. ",
+    "strTitle" : "Малый шаттл.",
+    "strDesc" : "Вы случайно наткнулись на продавца, который пытается сбыть Testudo Dream. Это небольшой шаттл, используемый для перевозки пассажиров в местном космосе. Он некрасивый, но имеет систему жизнеобеспечения, двигатели и даже несколько складных сидений, если у вас есть друзья, которые вам не очень нравятся. Возможно, это именно то, что вам нужно, чтобы сбежать от повседневной рутины в качестве судоразделочника!\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа является законной, но оно не обладает судовыми системами, кроме базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipShuttleSmallTake"
@@ -7206,8 +7206,8 @@
   },
   {
     "strName" : "CGEncShipSalvageUtilityPodIntro",
-    "strTitle" : "Utility Pod.",
-    "strDesc" : "You manage to find a lead on someone selling a Testudo Melody. It's a small ship with life support, power and thrusters, but many of the vital components are exposed to hard vacuum, making it difficult to maintain without a pressure suit. That said, any ship could be a means to avoid day gigs on OKLG.\n\nOgiso's Register has given this vessel an OSR of \"moderate,\" indicating that it is legal for sale but does not possess ship systems beyond basic travel and life support. ",
+    "strTitle" : "Утилитарный корабль.",
+    "strDesc" : "Вам удалось найти информацию о том, что кто-то продает Testudo Melody. Это небольшой корабль с системой жизнеобеспечения, энергоснабжением и двигателями, но многие из важных компонентов подвержены воздействию жесткого вакуума, что затрудняет его обслуживание без скафандра. Тем не менее, любой корабль может стать средством избежать дневной работы на OKLG.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа является законной, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvageUtilityPodTake"
@@ -7323,8 +7323,8 @@
   
   {
     "strName" : "CGEncRichSchmuckIntro",
-    "strTitle" : "King Incognito",
-    "strDesc" : "You're drinking at the local watering hole after your shift, when you see the unicorn. They're the scion of an Ayotimiwa executive, sneaking out to rub shoulders and bump uglies with the common folk. You wince as they try to pay for their round in yuan - it's dollars for the likes of us, friend.\n\nIf you're careful, and lucky, they could be an opportunity.",
+    "strTitle" : "Король инкогнито",
+    "strDesc" : "Вы пьете в местном баре после смены, когда видите единорога. Это потомок руководителя Ayotimiwa, который тайком выбрался, чтобы пообщаться с простыми людьми. Вы морщитесь, когда он пытается заплатить за выпивку юанями — для таких, как мы, здесь принимают только доллары, друг мой.\n\nЕсли вы будете осторожны и вам повезет, это может стать для вас шансом.",
     "aInverse"          : [
     "CGEncRichSchmuckInciteRiot",
     "CGEncRichSchmuckPickpocket",
@@ -7557,7 +7557,7 @@
   {
     "strName" : "CGEncPodDisasterIntro",
     "strTitle" : "Occupational Hazard",
-    "strDesc" : "Midway through scrapping yet another hulk, the cockpit of your allotted salvage pod lights up with red tell-tales. Suddenly you're under thrust, as one of the engines sends you spiraling away from the hulk's orbit into the black. It's unresponsive, and nobody has the fuel to come save you; you're expendable.\n\nIf you want to live, it's up to you.",
+    "strDesc" : "В середине процесса утилизации очередного корпуса корабля в кабине вашего спасательного модуля загораются красные индикаторы. Внезапно вы попадаете под тягу одного из двигателей, который выносит вас из орбиты корпуса корабля в черную бездну. Он не реагирует на команды, и у кого-либо нет топлива, чтобы спасти вас; вы не нужны. \\n\\nЕсли вы хотите жить, все зависит от вас.",
     "aInverse"          : [
     "CGEncPodDisasterHackEngine",
     "CGEncPodDisasterNavigate",
@@ -7573,8 +7573,8 @@
   },
 {
     "strName" : "CGEncPodDisasterHackEngine",
-    "strTitle" : "Hack Engine",
-    "strDesc" : "These old engines are full of software vulnerabilities, you've known this ever since an exploratory dive, but never had you considered trying to exploit them under 3Gs of thrust.\n\nSuddenly a connection request appears on your Portal. \"Tech support here,\" drawls the cowboy hacker under whom you've been studying. \"What seems to be the problem?\"\n\nTogether you smash the stack on the engine and trigger a reboot. Crisis averted, you start the burn back to the hulk. The unauthorised leave and fuel expenses are docked from your pay, of course.",
+    "strTitle" : "Взломать двигатель",
+    "strDesc" : "Эти старые двигатели полны уязвимостей в программном обеспечении, вы знали об этом с момента исследовательского погружения, но никогда не думали о том, чтобы воспользоваться ими при тяге 3G. Внезапно на вашем портале появляется запрос на подключение. \"Техническая поддержка\", — протягивает ковбой-хакер, у которого вы учились. \"В чем проблема?\" Вместе вы разбиваете стек на двигателе и запускаете перезагрузку. Кризис предотвращен, вы начинаете возвращаться к кораблю. Несанкционированный отпуск и расходы на топливо, конечно же, вычитаются из вашей зарплаты.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7586,9 +7586,8 @@
 },
 {
     "strName" : "CGEncPodDisasterNavigate",
-    "strTitle" : "Take the Stick",
-    "strDesc" : "It takes some truly inventive flying. With judicious timed burns of the RCS you slowly nudge your orbit nearer to that of an oncoming ore hauler. In the last stage of the interception you bail out of the doomed pod, firing every bit of reactant left in suit's maneuvering thrusters, desperately hoping not to become a proverbial bug on the windshield.\n\nThey hook you on their way past, and slowly reel in the tether. It's magnetised to your boot. The whole experience is moderately humiliating, but at least you hit it off with one of the friendlier spacers on the ore hauler who insists it's the funniest thing they've seen all year.",
-    "aInverse"          : [
+    "strTitle" : "Взять управление",
+    "strDesc" : "Для этого требуется действительно изобретательный полет. С помощью разумно рассчитанных по времени запусков RCS вы постепенно приближаете свою орбиту к орбите приближающегося грузового корабля. На последнем этапе перехвата вы покидаете обреченный модуль, запуская все оставшиеся в маневровых двигателях скафандра реактивные вещества, отчаянно надеясь не стать жуком на лобовом стекле. \n\nОни зацепляют вас на своем пути и медленно втягивают трос. Он примагничивается к вашему ботинку. Все это довольно унизительно, но, по крайней мере, вы подружились с одним из самых дружелюбных космонавтов на грузовом корабле, который утверждает, что это самое забавное, что он видел за весь год.",    "aInverse"          : [
     ],
     "fDuration"         : 0.0,
     "LootCTsUs"       : "CTEncPodDisasterNavigate",
@@ -7758,8 +7757,8 @@
 
   {
     "strName" : "CGEncRareSalvageIntro",
-    "strTitle" : "Rare Salvage",
-    "strDesc" : "She's a real beauty, the Testudo Heavy Lifter 448, and it's with a confusing mix of honour and dismay that you're contracted to take her apart.\n\nOn day four of the break you're welding through a wall compartment when something catches your eye. You snap off the torch and take a closer look. Your breath catches at the sight: a Miura intake regulator, the apex of the defunct company's technical achievements, today one of the rarest aftermarket parts in the game.\n\nIt's popular on other markets, too. Maybe Ayotimiwa don't need to know about this?",
+    "strTitle" : "Редкий Трофей",
+    "strDesc" : "Testudo Heavy Lifter 448 — настоящая красавица, и вы с чувством смешанного уважения и огорчения заключаете контракт на ее разборку. На четвертый день перерыва вы свариваете стенной отсек, когда что-то привлекает ваше внимание. Вы отключаете горелку и присматриваетесь. От увиденного у вас перехватывает дыхание: это регулятор впуска Miura, вершина технических достижений несуществующей компании, сегодня одна из самых редких запчастей на рынке. Она популярна и на других рынках. Может, Айотимиве не нужно об этом знать?",
     "aInverse"          : [
     "CGEncRareSalvageTellAyotimiwa",
     "CGEncRareSalvageSmuggleItOffSite",
@@ -7775,8 +7774,8 @@
   },
 {
     "strName" : "CGEncRareSalvageTellAyotimiwa",
-    "strTitle" : "Notify Ayotimiwa Corporate",
-    "strDesc" : "Maybe you disapprove of the practice, or perhaps it just isn't worth the risk this time. You've been audited before. It's never fun trying to explain where your extra spending money comes from. Whatever your reason, you notify your supervisor, who in turn notifies their supervisor, and again, and so on. A special team is dispatched from the Ayotimiwa HQ prism, who carefully cut out the offending part, place it in a sealed container, and promptly leave it in the exhaust path of a fusion torch.\n\nYou are considered for, but ultimately not awarded, an official letter of commendation. In lieu of said honor you are gifted a t-shirt emblazoned with the Ayotimiwa logo.",
+    "strTitle" : "Оповестить корпорацию Айотимива",
+    "strDesc" : "Возможно, вы не одобряете такую практику, а может быть, просто не стоит рисковать в этот раз. Вы уже проходили аудит. Никогда не бывает приятно объяснять, откуда взялись ваши дополнительные расходы. Какова бы ни была ваша причина, вы сообщаете об этом своему начальнику, который, в свою очередь, сообщает своему начальнику, и так далее. Из штаб-квартиры Айотимива отправляется специальная команда, которая аккуратно вырезает часть, помещает ее в запечатанный контейнер и незамедлительно оставляет в вытяжном канале плазменной горелки. \\n\\nВас рассматривают для получения официального благодарственного письма, но в конечном итоге его не выдают. Вместо этой чести вам дарят футболку с логотипом Айотимива.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7791,8 +7790,8 @@
 },
 {
   "strName" : "CGEncRareSalvageSmash",
-  "strTitle" : "Smash It and Feel Alive",
-  "strDesc" : "In a way, destruction is itself an act of creation. Thousands in fact. A transformation of one thing into many, many things. Into smithereens.\n\nThis is on your mind as you take the first crack at the fabled Miura Hydra with a crowbar. Your blow dents the royal blue aluminum housing and knocks something loose in an internal assembly. Two screws and a washer roll out from beneath the machine like the first pieces of candy escaping a doomed pinata.\n\nThis is enough to unleash a manic flurry of blows you recall only as a white hot elation. Every muscle in your body dedicates itself to this singular task, a rare harmonious mind-body flow state that produces a rhythm of impacts that sends chunks of ruined metal flying across the entire cabin.\n\nWhen you finally return to your senses, you can barely recognize the Miura for what it was. A few internal components remain intact. There's blood on your hand. A long channel of it running from a cut on your arm that you can't feel.\n\nYou are so exhausted you can barely manage a thought. At last.",
+  "strTitle" : "Разбить и почувствовать себя живым",
+  "strDesc" : "В некотором смысле, разрушение само по себе является актом созидания. Тысячами актов. Превращением одной вещи во множество других. В осколки.\\n\\nОб этом ты думаешь, когда впервые бьешь по легендарной Miura Hydra ломом. Ваш удар вмял королевско-синий алюминиевый корпус и выбил что-то из внутренней сборки. Два винта и шайба выкатились из-под машины, как первые конфеты, выпадающие из обреченной пиньяты.\\n\\nЭтого достаточно, чтобы вызвать маниакальную серию ударов, которые вы запомните только как белое горячее возбуждение. Каждый мускул вашего тела посвящает себя этой единственной задаче, редкому гармоничному состоянию тела и разума, которое порождает ритм ударов, разбрасывающих куски разрушенного металла по всей кабине. \\n\\nКогда вы наконец приходите в себя, вы едва можете узнать Miura в том виде, в каком она была. Некоторые внутренние компоненты остались нетронутыми. На вашей руке кровь.\\n\\nДлинная струйка течет из пореза на руке, которого вы не чувствуете. Вы настолько измотаны, что едва можете думать. Наконец-то.",
   "aInverse"          : [
   ],
   "fDuration"         : 0.0,
@@ -7804,8 +7803,8 @@
 },
 {
     "strName" : "CGEncRareSalvageSmuggleItOffSite",
-    "strTitle" : "Smuggle It Through the Blackmarket",
-    "strDesc" : "It's all too simple. Strip the part out, hide an RFID tag amidst the wreckage, chuck it on the garbage sled. When the sled reaches Overflow Processing (the 'junkyard of junkyards', as the locals would have it), someone sufficiently bribed will find the part, remove it, edit the log, and reroute it back into the hands of one of K-Leg's many fences. You get a finder's fee and a fortnight of prudent paranoia, which soon subsides. Such is life.",
+    "strTitle" : "Продать на черном рынке",
+    "strDesc" : "Все слишком просто. Вытащи деталь, спрячь RFID-метку среди обломков, выбрось все на мусорную тележку. Когда тележка доедет до Overflow Processing (по-местному \"свалка свалок\"), кто-нибудь, кому заплатили достаточно, найдет деталь, снимет ее, отредактирует журнал и перенаправит ее обратно в руки одного из многочисленных скупщиков K-Leg. Вы получаете вознаграждение за находку и две недели осторожной паранойи, которая вскоре проходит. Такова жизнь.",
     "aLootItms" : [
       "addus,SOCNameDropCrim"
     ],
@@ -7821,8 +7820,8 @@
 },
 {
     "strName" : "CGEncRareSalvageTakeItForYourselfSuccess",
-    "strTitle" : "RISK: Take It For Yourself (Patient)",
-    "strDesc" : "Your dream ship - you have one, don't deny it, everyone here does - your dream ship has a Miura regulator. If you're gonna dream, why not dream big? And a pair of Weber ignition lasers, a Zhuangzi reactor, all on a Titan Shipyards frame. Your letters of marque from five different planetary LEOs are framed in the crew mess. Dalisay streams her aerobics routine from your ready room. Wait, where were we? Oh yes: you've disassembled the regulator and you're taking it back to your dormitory, piece by piece, shift by shift. You're going to hide it and sit on it like a small mammal in hibernation. Or maybe a desert flower, waiting for the rain.\n\nThis isn't insane. This is perfectly normal behaviour.",
+    "strTitle" : "РИСК: Забрать для себя (Patient)",
+    "strDesc" : "Корабль твоей мечты — у тебя есть такой, не отрицай, у всех здесь есть — корабль твоей мечты оснащен регулятором Miura. Если уж мечтать, то почему бы не мечтать по-крупному? И парой лазеров зажигания Weber, реактором Zhuangzi, и все это на корпусе Titan Shipyards. Твои каперские грамоты от пяти разных планетарных LEO вывешены в столовой экипажа. Dalisay транслирует свои занятия аэробикой из твоей комнаты отдыха. Подождите, на чем мы остановились? Ах да: вы разобрали регулятор и везете его обратно в свое общежитие, по частям, смена за сменой. Вы собираетесь спрятать его и сидеть на нем, как маленькое млекопитающее в спячке. Или, может быть, как пустынный цветок, ожидающий дождя. Это не безумие. Это совершенно нормальное поведение",
     "aLootItms" : [
       "addus,ItmRareSalvageTakeItForYourself"
     ],
@@ -7838,8 +7837,8 @@
 },
 {
   "strName" : "CGEncRareSalvageTakeItForYourselfFail",
-  "strTitle" : "RISK: Take It For Yourself (Patient)",
-  "strDesc" : "Your plan is to move slow and steady, to wait for opportune moments, to stare lovingly at the Hydra only when you are alone with it. But by day seven of the break, the allure of the piece is just too much to handle.\n\nThe moment your site manager signals that they are going for a piss break you set to work, convinced you can strip the part out and hide it somewhere safe before they get back.\n\nBut while you manage to uninstall the piece, your manager returns to find you stowing it in a lesser known air duct of the 448, and there's nothing you can say to convince them that's where it belongs.\n\nYour manager calls the infraction into AyoSec, and the corp has run your trial and developed sentencing before the end of the shift. Two armed officers lead you offsite and straight to booking.\n\nThe AyoSec-run Azikiwe Brig isn't hard time at Prokofiev, but it's not ideal either. You're still going to have to get crafty if you want to get out of here with all your limbs.\n\n",
+  "strTitle" : "РИСК: Забрать для себя (Patient)",
+  "strDesc" : "Ваш план состоит в том, чтобы действовать медленно и осторожно, дожидаться подходящего момента и любоваться Hydra только тогда, когда вы остаетесь с ней наедине. Но к седьмому дню перерыва очарование этой детали становится просто непосильным.\\n\\nВ тот момент, когда ваш руководитель дает сигнал, что он уходит в туалет, вы приступаете к делу, убежденные, что сможете снять деталь и спрятать ее в безопасном месте, пока он не вернется.\\n\\nНо пока вы успеваете демонтировать деталь, ваш руководитель возвращается и застает вас за тем, как вы прячете ее в малоизвестном воздуховоде 448, и вы не можете ничего сказать, чтобы убедить его, что она находится там, где и должна быть.\\n\\nВаш руководитель сообщает о нарушении в AyoSec, и корпорация проводит ваше судебное разбирательство и выносит приговор до конца смены. Два вооруженных офицера выводят вас с территории и отправляют прямо в изолятор.\\n\\nАзикиве-Бриг, управляемый AyoSec, не так страшен, как Прокофьев, но и идеальным его тоже не назовешь. Вам все равно придется проявить изобретательность, если вы хотите выбраться отсюда целым и невредимым.\n\n",
   "aLootItms" : [
   ],
   "aInverse"          : [
@@ -7855,8 +7854,8 @@
 },
 {
     "strName" : "CGEncRareSalvageBribeBoss",
-    "strTitle" : "Bribe Your Boss and Split the Profits",
-    "strDesc" : "Ayotimiwa's middle management know which way the solar wind blows (rimwards, unless something has gone terribly wrong). Uncle Ayo doesn't want to know about how its legendary black markets are run, and it definitely doesn't want whistleblowers. But, as ever, there's a right way and a wrong way to approach a bribe. And in either case rumors always find a way to get back to the fraud unit of Ayosec.\n\nAll this runs through your head as you slip your supervisor a credit chip and ask them to take an early lunch on you. You watch as her eyes glaze over. It's clearly something she's had to do many times before. \"Just don't fuck it up,\" she says brusquely, and heads back to the pod. Good advice in general, you think, as you fire up the welder. Assuming you don't, the part will net you far more than the bribe at the end of the day. A good haul, even though it will inevitably attract a little heat from the authorities.",
+    "strTitle" : "Подкупить своего босса и разделите прибыль",
+    "strDesc" : "Среднее руководство Ayotimiwa знает, в какую сторону дует солнечный ветер (в сторону края, если только не произошло что-то ужасное). Дядя Айо не хочет знать, как работают легендарные черные рынки, и уж точно не хочет, чтобы кто-то стал информатором. Но, как всегда, есть правильный и неправильный подход к взятке. И в любом случае слухи всегда доходят до отдела по борьбе с мошенничеством Ayosec.\\n\\nВсе это проносится в вашей голове, когда вы суете своему начальнику кредитный чип и просите его пойти на ранний обед за ваш счет. Вы наблюдаете, как ее глаза затуманиваются. Очевидно, что ей приходилось делать это много раз. \\\"Только не облажайся\\\", — резко говорит она и возвращается в кабину. В целом, это хороший совет, думаешь ты, включая сварочный аппарат. Если не облажаешься, то в конце дня эта деталь принесет тебе гораздо больше, чем взятка. Хороший улов, даже если он неизбежно привлечет немного внимания со стороны властей.",
     "aLootItms" : [
       "addus,SOCNameDropManager"
     ],
@@ -7871,8 +7870,8 @@
 },
 {
   "strName" : "CGEncAnotherYear",
-  "strTitle" : "Another Year",
-  "strDesc" : "Despite your best efforts, your dream of owning your own salvage ship still eludes you. You find yourself wondering if a change of strategy is in order.\n\nHow will you spend the upcoming year?\n\n",
+  "strTitle" : "Еще один год",
+  "strDesc" : "Несмотря на все ваши усилия, ваша мечта о собственном спасательном корабле по-прежнему остается недостижимой. Вы задаетесь вопросом, не пора ли изменить стратегию.\n\nКак вы проведете предстоящий год?\n\n",
   "aInverse"          : [
     "CGLiveFastList",
     "CGSaveUpList",
@@ -7885,8 +7884,8 @@
 
 {
     "strName" : "CGEncPokerGameIntro",
-    "strTitle" : "Poker Game",
-    "strDesc" : "Queen of Diamonds on the river. Matches up nicely with your ladies, turns your two pair into a full house. Huang, the guy who got you into this game, is out. The ancient Nigerian shipping magnate folds. The suit, who you guess is an off-duty military contractor by her demeanour, folds. It's just you and the High Roller, and he's been trailing for a while now.\n\n\"Tell you what,\" he says, smiling faintly underneath his mirrorshades. \"Let's make this interesting.\" He tosses a command key for a starship onto the table. The other players go from quiet to deadly still. His only out was the inside straight draw for the straight flush ... and surely he wouldn't bluff with something so valuable. Right?",
+    "strTitle" : "Игра в покер",
+    "strDesc" : "Дама бубен на ривере. Хорошо сочетается с вашими дамами, превращает вашу двойку в фулл-хаус. Хуан, парень, который втянул вас в эту игру, выбыл. Старинный нигерийский судоходный магнат сбрасывает карты. Дама, которая, судя по ее поведению, является военным подрядчиком, находящимся не при исполнении служебных обязанностей, сбрасывает карты. Остались только вы и Хай Роллер, который уже некоторое время отстает. \\n\\n\\\"Знаешь что, — говорит он, слабо улыбаясь под зеркальными очками. — Давай сделаем это интересным\\\". Он бросает на стол капитанский ключ для звездолета. Другие игроки переходят от тишины к мертвой тишине. Его единственным шансом был внутренний стрит-дро для стрит-флеша... и он точно не стал бы блефовать с чем-то столь ценным. Верно?",
     "aInverse"          : [
     "CGEncPokerGameCallBluffSuccess",
     "CGEncPokerGameCallBluffFail",
@@ -7903,8 +7902,8 @@
 
 {
   "strName" : "CGEncPokerGameCallBluffFail",
-  "strTitle" : "RISK: Call The Bluff (Gambling Skill)",
-  "strDesc" : "The high roller flips up suited connectors, exactly what he needed to make the straight flush. One of the best hands in the game and today it's your worst nightmare. He takes back his key fob and every chip you own. The bet leaves you penniless. Back to square one.",
+  "strTitle" : "РИСК: Вызов блефу (навык азартных игр)",
+  "strDesc" : "Хайроллер открывает одномастные карты, именно то, что ему нужно для стрит-флеша. Одна из лучших комбинаций в игре, а сегодня — ваш худший кошмар. Он забирает свой брелок и все ваши фишки. Ставка оставляет вас без гроша. Назад к исходной точке.",
   "aInverse"          : [
   ],
   "fDuration"         : 0.0,
@@ -7917,8 +7916,8 @@
 },
 {
     "strName" : "CGEncPokerGameCallBluffSuccess",
-    "strTitle" : "RISK: Call The Bluff (Gambling Skill)",
-    "strDesc" : "The more you think about it, the more you realise the strength of the bluff. This game is off the books, so to speak. Nobody's verified this command key. It could be a novelty belt fob for all you know. That's the double bluff.\n\nYou're confident you have his number. You push your chips into the pot and...\n\nHe has nothing. Of course. High Roller? Gotta be an act. He's a scammer. The mirrorshades were a dead giveaway - they're not even ironically cool these days.\n\nSo goes your thinking as you head to the dock, ready to endure a bit of ribbing at the hand of the harbormaster when you tell them your story.\n\nExcept it isn't just a story. The damned thing is really here. It's a deathtrap, mind you. More power than sense. But it's yours now.",
+    "strTitle" : "РИСК: Вызов блефу (навык азартных игр)",
+    "strDesc" : "Чем больше вы об этом думаете, тем больше понимаете силу блефа. Эта игра, так сказать, не по правилам. Никто не проверял эту командную клавишу. Насколько вы знаете, это может быть просто новый брелок для ремня. Это двойной блеф. \n\nВы уверены, что разгадали его. Вы ставите свои фишки в банк и... \n\nУ него ничего нет. Конечно. Хайроллер? Должно быть, это игра. Он мошенник. Зеркальные очки были явным признаком — в наши дни они даже не выглядят иронично круто. Так вы думаете, направляясь к причалу, готовый выслушать насмешки от капитана порта, когда расскажете ему свою историю. Только это не просто история. Эта проклятая штука действительно здесь. Это смертельная ловушка, имейте в виду. Больше мощности, чем здравого смысла. Но теперь она ваша.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7934,8 +7933,8 @@
 },
 {
     "strName" : "CGEncPokerGameTechnicality",
-    "strTitle" : "Call Him On A Technicality",
-    "strDesc" : "\"We're playing for cash,\" you say, looking between the other players in bemusement. \"If you don't have the cash, you know what to do.\"\n\nHe shrugs and takes the key back. You win this pot but can't help thinking you've missed a chance to play better.",
+    "strTitle" : "Обвинить его в нарушшении правил",
+    "strDesc" : "\"Мы играем на деньги\", — говорите вы, с недоумением глядя на других игроков. \"Если у вас нет денег, вы знаете, что делать\".\n\nОн пожимает плечами и забирает ключ. Вы выиграли этот банк, но не можете отделаться от мысли, что упустили шанс сыграть лучше.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7947,8 +7946,8 @@
 },
 {
     "strName" : "CGEncPokerGameFold",
-    "strTitle" : "No Thanks...Fold",
-    "strDesc" : "Folding a full house is never easy. But the game continues, and you still walk away with a decent cash reward at the end of the day.",
+    "strTitle" : "Нет, спасибо... Сброшу",
+    "strDesc" : "Скидывать фул-хаус никогда не бывает легко. Но игра продолжается, и в конце дня вы все равно уходите с приличным денежным вознаграждением.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7960,8 +7959,8 @@
 },
 {
     "strName" : "CGEncPokerGameYoink",
-    "strTitle" : "Grab The Key And Run",
-    "strDesc" : "You consider the small plastic jewel lying on the table, compare it to the tall but diminishing stack of chips that represents your buy-in for tonight's game. On some level, it's a no brainer.\n\nYou snatch the key from out the pot, kick off from your chair, and fly toward the door.\n\nThe bouncer on the other side isn't prepared for you to bowl past him, sending him careening into a wall garden feature. Cries follow you out the room and down the hall, and you hightail it to the dock.\n\nYou'll make some enemies in the underworld for this, and you can kiss your buy-in goodbye. But the ship is yours!\n\n",
+    "strTitle" : "Схватить ключ и бежать",
+    "strDesc" : "Вы рассматриваете маленькую пластиковую драгоценность, лежащую на столе, сравниваете ее с высокой, но уменьшающейся стопкой фишек, которая представляет ваш бай-ин для сегодняшней игры. В некотором смысле, это очевидно.\n\nВы выхватываете ключ из горшка, срываетесь со стула и летите к двери. Охранник на другой стороне не готов к тому, что вы промчитесь мимо него, отбросив его на садовую ограду. Крики следуют за вами из комнаты и по коридору, а вы мчитесь к причалу. Из-за этого у вас появятся враги в преступном мире, и вы можете попрощаться со своим вкладом. Но корабль ваш!\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7978,8 +7977,8 @@
 },
 {
     "strName" : "CGEncPokerGameCheat",
-    "strTitle" : "Cheat",
-    "strDesc" : "Mirrorshades. Cool idea, only about a hundred years out of fashion, and for good reason. Cyberware is too dumb not to be networked, and once you cracked it, you've been able to see through this poseur's eyes for the last twenty hands. You take a peek and find that for once the guy is actually holding a monster. \n\n You try and make a big show about the lay down but something about it doesn't sit right with the off-duty Ayosec officer playing bouncer behind you. You leave before he finishes his counter ops but he follows you outside anyway and then tunes you up for good measure. \n\n For whatever reason, he only pockets half of your ill-gotten winnings after the beatdown. Not a bad night, all things considered.",
+    "strTitle" : "Сжульничать",
+    "strDesc" : "Зеркальные очки. Классная идея, только вот уже сто лет как вышла из моды, и не без причины. Кибернетическое оборудование слишком тупое, чтобы не быть подключенным к сети, и как только ты взломал его, ты можешь видеть глазами этого позера последние двадцать раздач. Ты заглядываешь и обнаруживаешь, что на этот раз парень действительно держит в руках монстра.\n\nТы пытаешься устроить громкое представление, но что-то в этом не нравится внеслужебному офицеру Ayosec, играющему роль вышибалы за твоей спиной. Ты уходишь, прежде чем он заканчивает свои контрмеры, но он все равно следует за тобой на улицу и для верности набивает тебе морду. \n\n По какой-то причине после избиения он забирает только половину твоих нечестно нажитых выигрышей. В общем, неплохая ночь, учитывая все обстоятельства.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7991,7 +7990,7 @@
 },
 {
    "strName" : "CGEncTooHot",
-   "strDesc" : "It's hot.\n\nChronic issues with the neighbourhood's HVAC have metastacised into a full breakdown. Waterboys lug skins of hot exhaust water from portable AC back and forth between the reservoir. Whole dorm families lie comatose in the access hallways, desperate for the airflow from further along the station. While emergency crews attempt to rig up a solution, you and everyone else in Sector 21 are stuck sweating it out.\n\nHow do you cope with the heat?",
+   "strDesc" : "Жарко.\n\nХронические проблемы с системой отопления, вентиляции и кондиционирования воздуха в районе привели к полному выходу ее из строя. Водоносы таскают мешки с горячей отработанной водой из переносных кондиционеров туда-сюда между резервуаром. Целые семьи из общежития лежат в коме в коридорах, отчаянно нуждаясь в воздушном потоке из более отдаленных частей станции. Пока аварийные бригады пытаются найти решение, вы и все остальные в Секторе 21 потеете от жары.\n\nКак вы справитесь с жарой?",
    "aInverse" :
    [
       "CGSetUpYourOwnAC",
@@ -8005,7 +8004,7 @@
 },
 {
    "strName" : "CGEncFoodShortage",
-   "strDesc" : "The Linus Torvalds, a Venusian freighter, went missing en route to K-Leg (or so the rumour goes; no-one seems to know the specifics). The Torvalds was apparently carrying some kind of plant drug (again, no specifics) to prevent our grow-ops from coming down with a microgravity-related plant sickness or growth defect.\n\nAll anybody knows for sure is that food stocks are running out, and the station is in a panic.\n\nThe commissary couldn't serve you. You're starving, and you have been for three shifts straight. Folks are eyeing each other over bean pouches, even Trenchers.\n\nHow are you going to eat?",
+   "strDesc" : "Венерианский грузовой корабль Linus Torvalds пропал без вести по пути в K-Leg (так гласят слухи; никто не знает подробностей). По всей видимости, Torvalds перевозил какой-то растительный препарат (опять же, подробности неизвестны) для предотвращения заболеваний растений или нарушений роста, связанных с микрогравитацией, на наших плантациях. \n\nВсе, что известно наверняка, — это то, что запасы продовольствия заканчиваются, и на станции царит паника.\n\nКомиссариат не может вас обслужить. Вы голодаете, и это продолжается уже три смены подряд. Люди переглядываются через пакеты с фасолью, даже Тренчеры.\n\nКак вы будете питаться?",
    "aInverse" :
    [
       "CGStealALoafOfBreadToFeedYourStarvingSelf",
@@ -8133,8 +8132,8 @@
   },
   {
     "strName" : "CGEncCrackdownIntro",
-    "strTitle" : "Crackdown",
-    "strDesc" : "\"Zhou, Zhou, Zhouyi!\" a woman calls. You stop what you're doing, mouth dry. So do the dozen or so other day-workers in the cramped dormitory, a 'Silver Class Econopartment' in ASC Barracks.\n\nThat's the signal from the next pod over. They're coming.\n\nOutside the door and up the access corridor, you hear the clatter of mag boots marching in double time. A half dozen of your neighbours flee through the back door. Moments later you hear a series of sharp cracks and screams - shocker rounds, you hope.\n\nYou've got a moment to act. What do you do?",
+    "strTitle" : "Преследование",
+    "strDesc" : "\"Чжоу, Чжоу, Чжоуи!\" — кричит женщина. Вы прекращаете то, что делаете, у вас пересыхает во рту. То же самое делают и десяток других поденных рабочих в тесном общежитии, 'эконом-квартире серебряного класса' в казармах ASC.\n\nЭто сигнал от соседнего коробля.  Они идут. За дверью и в коридоре слышен стук магнитных ботинок, шагающих в двойном темпе. Полдюжины ваших соседей убегают через заднюю дверь. Через мгновение вы слышите серию резких хлопков и криков — надеюсь, это шоковые патроны.\n\nУ вас есть время действовать. Что вы сделаете?",
     "aInverse"          : [
     "CGEncCrackdownVents",
     "CGEncCrackdownBluff",
@@ -8150,8 +8149,8 @@
   },
   {
     "strName" : "CGEncCrackdownVents",
-    "strTitle" : "Hide In An Air Vent",
-    "strDesc" : "You saw it coming. To be fair, so did everyone else; crackdowns are almost, but not quite, a regular occurrence in this neighborhood. But unlike everyone else, you did something about it.\n\nThe bolthole you prepared, an air vent in the side hull, opens without a hitch. You slither inside just as the first AyoSecs barge into the dorm.\n\n You watch as they subdue your dorm-mates. Hardly close friends, it nevertheless hurts to watch. Later, as contraband is piled for seizure and serially unlicensed workers are rounded up for transfer to the penal labor sector, you think one of them catches your eye. Yes, you're sure they do - they're looking at you, a bemused smile spreading across their bloody face. For a moment, you think they're about to sell you out.\n\n But instead, as rough hands pull them away, they wink.\n\n",
+    "strTitle" : "Спрятаться в вентиляционной шахте",
+    "strDesc" : "Ты предвидел это. Честно говоря, как и все остальные; рейды — почти, но не совсем, обычное явление в этом районе. Но в отличие от всех остальных, ты что-то предпринял.\n\nУкрытие, которое ты подготовил, вентиляционная шахта в боковом корпусе, открывается без проблем. Вы скользите внутрь как раз в тот момент, когда первые сотрудники AyoSec врываются в общежитие.\n\n Вы наблюдаете, как они подчиняют ваших соседей по общежитию. Хотя вы и не были близкими друзьями, вам все равно больно на это смотреть. Позже, когда контрабанда складывается в кучу для конфискации, а нелегальные рабочие собираются для перевода в сектор принудительного труда, вам кажется, что один из них ловит ваш взгляд. Да, вы уверены, что это так — он смотрит на вас, и на его окровавленном лице расплывается удивленная улыбка. На мгновение вам кажется, что он собирается вас сдать. Но вместо этого, когда грубые руки утаскивают его, он подмигивает вам.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8163,7 +8162,7 @@
   },
   {
     "strName" : "CGEncCrackdownBluff",
-    "strTitle" : "Bluff",
+    "strTitle" : "Блеф",
     "strDesc" : "You can't run a grift without preparation. You can't pull one off without a little luck. Fortunately, today you have both.\n\nThere's a rumour going around that a bureau of AyoSec inserts plainclothes police into communities like this one. If they exist, they've covered their trail so far. With nothing else to go on, you spent three long nights painstakingly copying, modelling, and printing a fake security badge. It won't pass close inspection, but if it goes according to plan, it won't have to.\n\nAs the inspector reaches your position in the lineup, you make sure she catches sight of your badge, flat against your palm. You stare straight ahead. This is a confidence game. First one to blink loses.\n\nThe inspector gives you a long look, but when she rifles through your belongings, she doesn't react to what you have hidden in there.\n\n\"Your work visa is invalid,\" she says impassively. \"I'll let you off with a warning this time.\"\n\nShe moves on down the line. Two weeks later you see an Ayotimiwa deposit into the account you set up in the forged IDs name.\n\n",
     "aInverse"          : [
     ],

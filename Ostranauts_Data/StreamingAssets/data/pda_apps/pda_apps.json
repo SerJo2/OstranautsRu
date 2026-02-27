@@ -1,42 +1,42 @@
 [
     {
-        "strName" : "home", 
-        "strFriendlyName" : "HOME", 
+        "strName" : "Домой",
+        "strFriendlyName" : "ДОМОЙ",
         "strIcon" : "pda_apps/IcoPDAHome",
         "bHidden" : true
     },
     {
-      "strName" : "inventory", 
-      "strFriendlyName" : "ITEMS", 
+      "strName" : "инвентарь",
+      "strFriendlyName" : "ВЕЩИ",
       "strIcon" : "pda_apps/IcoPDAInv",
         "bHidden" : false
     },
     {
-      "strName" : "zones", 
-      "strFriendlyName" : "ZONES", 
+      "strName" : "зоны",
+      "strFriendlyName" : "ЗОНЫ",
       "strIcon" : "pda_apps/IcoPDAZones",
         "bHidden" : false
     },
     {
-        "strName" : "goals", 
-        "strFriendlyName" : "GOALS", 
+        "strName" : "цели",
+        "strFriendlyName" : "ЦЕЛИ",
         "strIcon" : "pda_apps/IcoPDAObjectives",
         "bHidden" : false
     },
     {
-        "strName" : "roster", 
-        "strFriendlyName" : "ROSTER", 
+        "strName" : "ростер",
+        "strFriendlyName" : "РОСТЕР",
         "strIcon" : "pda_apps/IcoPDADuties",
         "bHidden" : false
     },
     {
-        "strName" : "socials", 
-        "strFriendlyName" : "SOCIAL", 
+        "strName" : "соцсети",
+        "strFriendlyName" : "соцсети",
         "strIcon" : "pda_apps/IcoPDASocial",
         "bHidden" : false
     },
     {
-        "strName" : "gigs", 
+        "strName" : "задания",
         "strFriendlyName" : "ЗАДАНИЯ", 
         "strIcon" : "pda_apps/IcoPDAGigNexus",
         "bHidden" : false
@@ -48,14 +48,14 @@
         "bHidden" : false
     },
     {
-        "strName" : "files", 
-        "strFriendlyName" : "FILES", 
+        "strName" : "файлы",
+        "strFriendlyName" : "ФАЙЛЫ",
         "strIcon" : "pda_apps/IcoPDAStorage",
         "bHidden" : false
     },
     {
-        "strName" : "navmap", 
-        "strFriendlyName" : "NAVMAP", 
+        "strName" : "navmap",
+        "strFriendlyName" : "NAVMAP",
         "strIcon" : "pda_apps/IcoPDANAV",
         "bHidden" : false
     },
@@ -72,8 +72,8 @@
         "bHidden" : false
     },
     {
-        "strName" : "build", 
-        "strFriendlyName" : "INSTALL", 
+        "strName" : "строительство",
+        "strFriendlyName" : "УСТАНОВКА",
         "strIcon" : "pda_apps/IcoBuildMenu",
         "bHidden" : false
     },
