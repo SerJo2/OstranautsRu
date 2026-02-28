@@ -6,578 +6,578 @@
   },
   {
     "strName": "TutorialObjectives",
-    "strNodeLabel": "Tutorial Objectives",
+    "strNodeLabel": "Цели Обучения",
     "strImage": "encounters/EncFirstDockOKLG",
-    "strArticleTitle": "Tutorial Objectives Hub",
-    "strArticleBody": "Welcome to the Ostranauts tutorial!\n\nAs you take your first steps through the world, you'll receive tutorial objectives which will lead you through some basic gameplay mechanics.\n\nThey will have links to articles like this one, here, with more information and context about that objective.\n\nYou can mute these popups with the mute button in the top right."
+    "strArticleTitle": "ХАБ целей обучения",
+    "strArticleBody": "Добро пожаловать в обучение Ostranauts!\n\nКогда вы сделаете первые шаги в этом мире, вы получите цели обучения, которые познакомят вас с некоторыми основными механиками игрового процесса.\n\nОни будут содержать ссылки на статьи, подобные этой, с более подробной информацией и контекстом о данной цели.\n\nВы можете отключить эти всплывающие окна с помощью кнопки отключения в правом верхнем углу."
   },
   {
     "strName": "TutorialUnpause1",
-    "strNodeLabel": "Tutorial: Time Controls",
+    "strNodeLabel": "Обучение: Управление Временем",
     "strImage": "info/timecontrolsPlayHighlighted",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Pause & Unpause",
-    "strLookup": "Time Controls",
+    "strArticleTitle": "Пауза И Воспроизведение",
+    "strLookup": "Управление временем",
     "strTutorialKey": "Unpause World",
     "nArticleTitleStyle" : 1,
     "escapeChar" : "␞",
-    "strArticleBody": "Ostranauts is a busy game, but you can always pause, take a break, and plan your next move.\n\nThe Pause and Play controls are crucial to navigating the System in the 'third' dimension: time. The game starts with the simulation paused. It's all downhill from here!\n\nPressing ␞40␞, or clicking the time control play button, will toggle the passage of time."
+    "strArticleBody": "Ostranauts — это динамичная игра, но вы всегда можете поставить ее на паузу, сделать перерыв и спланировать свой следующий ход. Кнопки Пауза и Воспроизведение играют ключевую роль в навигации по системе в 'третьем' измерении: времени. Игра начинается с приостановленной симуляцией. Дальше будет только легче!\n\nНажатие ␞40␞ или щелчок по кнопке воспроизведения на панели управления временем переключает ход времени"
   },
   {
     "strName": "TutorialUnpause2",
-    "strNodeLabel": "Time Controls",
+    "strNodeLabel": "Управление Временем",
     "strImage": "info/timecontrolsFFWDHighlighted",
     "strNodeParent": "TutorialUnpause1",
-    "strArticleTitle": "Time Travel (normal)",
-    "strLookup": "Time Controls",
+    "strArticleTitle": "Путешествие Во Времени (обычное)",
+    "strLookup": "Управление временем",
     "escapeChar" : "␞",
-    "strArticleBody": "The time controls allow you to increase the speed of the simulation, up to 16x Earth-normal of 1s/s. They also allow you to decrease it to 0.25x speed.\n\nPress ␞41␞ to speed things up. Press ␞42␞ to slow things down.\n\nIf your character is working on a particularly slow task, setting the speed to 4x, or even up to 16x, can make the wait more manageable. If you're navigating a life-or-death situation, try using 0.5x or 0.25x to prolong your life (or death)."
+    "strArticleBody": "Элементы управления временем позволяют увеличить скорость симуляции до 16 раз по сравнению с нормальной скоростью на Земле, равной 1 с/с. Они также позволяют уменьшить скорость до 0,25 раз. Нажмите ␞42␞, чтобы замедлить процесс.\n\nЕсли ваш персонаж выполняет особенно медленную задачу, установка скорости в 4 раза или даже до 16 раз может сделать ожидание более терпимым. Если вы находитесь в ситуации, когда речь идет о жизни и смерти, попробуйте использовать скорость 0,5 или 0,25, чтобы продлить свою жизнь (или смерть)."
   },
   {
     "strName": "TutorialUnpause3",
-    "strNodeLabel": "A Warning",
+    "strNodeLabel": "Предупреждение",
     "strImage": "info/timecontrols16x",
     "strNodeParent": "TutorialUnpause1",
-    "strArticleTitle": "Time Travel (advanced)",
-    "strLookup": "Time Controls",
-    "strArticleBody": "Warning: do not use 16x while docking unless you <i>really</i> know what you're doing."
+    "strArticleTitle": "Путешествие Во Времени (продвинутое)",
+    "strLookup": "Управление временем",
+    "strArticleBody": "Предупреждение: не используйте 16x во время стыковки, если вы не <i>абсолютно</i> знаете, что делаете"
   },
   {
     "strName": "TutorialObjectivePopups",
-    "strNodeLabel": "Tutorial: Objective Popups",
+    "strNodeLabel": "Обучение: Всплывающие окна",
     "strImage": "info/objectivepopup",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Objective Popups",
-    "strLookup": "ObjectivePopups",
+    "strArticleTitle": "Всплывающие окна",
+    "strLookup": "Всплывающие Окна",
     "strTutorialKey": "Find Objective Target",
-    "strArticleBody": "While following the tutorial, you'll be seeing a lot of these popups flying around the screen. Once past it, they'll be less frequent.\n\nIf that's not soon enough for you, there's an option in your PDA to mute tutorial notifications.\n\nYour PDA can be opened with the buttons on the left side of the screen, or you can jump to the tutorial settings page with the mute button in the upper right corner of this window."
+    "strArticleBody": "Во время прохождения учебника вы будете видеть много всплывающих окон на экране. После прохождения они будут появляться реже.\n\nЕсли вам это не нравится, в вашем КПК есть опция отключения уведомлений учебника.\n\nКПК можно открыть с помощью кнопок в левой части экрана, или вы можете перейти на страницу настроек учебника с помощью кнопки отключения звука в правом верхнем углу этого окна."
   },
   {
     "strName": "TutorialObjectivePopups2",
-    "strNodeLabel": "Using objective popups",
+    "strNodeLabel": "Использование всплывающих окон",
     "strImage": "info/objectiveicons",
     "strNodeParent": "TutorialObjectivePopups",
-    "strArticleTitle": "Using objective popups",
-    "strLookup": "ObjectivePopups",
-    "strArticleBody": "Left-clicking an objective popup will zoom the camera to the position of the objective's target. \n\nRight-clicking an objective popup will mute that objective from appearing on the HUD. You can still refer back to the objective in the GOALS app of your PDA."
+    "strArticleTitle": "Использование Всплывающие окна",
+    "strLookup": "Всплывающие Окна",
+    "strArticleBody": "Щелчок левой кнопкой мыши по всплывающему окну с целью приведет к увеличению камеры до положения цели.\\n\\nЩелчок правой кнопкой мыши по всплывающему окну с целью приведет к отключению отображения этой цели на HUD. Вы по-прежнему можете обратиться к цели в приложении GOALS на своем КПК"
   },
   {
     "strName": "TutorialObjectivePopups3",
-    "strNodeLabel": "Non-tutorial popups",
+    "strNodeLabel": "Всплывающие окна, не относящиеся к обучению",
     "strImage": "info/objectivesPDA",
     "strNodeParent": "TutorialObjectivePopups",
-    "strArticleTitle": "Non-tutorial popups",
-    "strLookup": "ObjectivePopups",
-    "strArticleBody": "From time to time you'll get objectives relating to events you witness or people you meet. They could be someone who needs help with a task, unwanted attention from the law, or maybe something that is making a strange sound on board the ship.\n\nBut if you don't care a fig about any of that, and muting isn't final enough, you can abandon those objectives in the GOALS app of your PDA."
+    "strArticleTitle": "Всплывающие окна, не относящиеся к обучению",
+    "strLookup": "Всплывающие Окна",
+    "strArticleBody": "Время от времени вы будете получать задания, связанные с событиями, свидетелем которых вы стали, или людьми, которых вы встретили. Это может быть кто-то, кому нужна помощь в выполнении задания, нежелательное внимание со стороны закона или, возможно, что-то, что издает странный звук на борту корабля.\n\nНо если вам все это наплевать, и отключение звука не является окончательным решением, вы можете отказаться от этих целей в приложении GOALS на своем КПК"
   },
   {
     "strName": "TutorialHighlightingInteractables",
-    "strNodeLabel": "Tutorial: Highlighting Interactables",
+    "strNodeLabel": "Обучение: Выделение Используемых Объектов",
     "strImage": "info/interactableshighlight",
     "strNodeParent": "TutorialObjectives",
     "strTutorialKey": "Highlight Interactables & Hotkeys",
-    "strArticleTitle": "Highlighting Interactables & Other Overlays",
+    "strArticleTitle": "Выделение Используемых Объектов & Прочие Оверлеи",
     "escapeChar" : "␞",
-    "strArticleBody": "By default, holding ␞128␞ highlights interactable objects near your captain. Often this will be crates, compartments, or things with an inventory that your captain can rummage through. \n\nHowever, it also highlights switches, appliances, and anything else that accepts a 'Use' type of action, coloured blue on the item's context menu (a.k.a. Quick Action Bar, or QAB)."
+    "strArticleBody": "По умолчанию удерживание ␞128␞ выделяет объекты, с которыми можно взаимодействовать, рядом с вашим капитаном. Часто это будут ящики, отсеки или предметы с инвентарем, которые ваш капитан может обыскать.\n\nОднако также выделяются переключатели, приборы и все остальное, что принимает действие типа «Использовать», окрашенное в синий цвет в контекстном меню предмета (также известном как панель быстрых действий или QAB)."
   },
   {
     "strName": "TutorialToggleSwitch1",
-    "strNodeLabel": "Tutorial: Interactions & The Quick Action Bar",
+    "strNodeLabel": "Обучение: Взаимодействия & Панель Быстрых действий",
     "strImage": "info/lightswitch",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Let's Toggle A Switch",
-    "strLookup": "Interactions",
+    "strArticleTitle": "Нажмем на переключатель",
+    "strLookup": "Взаимодействия",
     "strTutorialKey": "Toggle the Switch",
-    "strArticleBody": "Just like in real life, you can use light switches to turn lights on and off. Unlike real life, you'll have to right-click on them first.\n\nBy the end of the tutorial, the knowledge for how to interact with objects will switch on. Not unlike a light switch."
+    "strArticleBody": "Как и в реальной жизни, вы можете использовать выключатели, чтобы включать и выключать свет. В отличие от реальной жизни, вам сначала нужно щелкнуть по ним правой кнопкой мыши.\n\nК концу учебника вы освоите навыки взаимодействия с объектами. Это похоже на работу с выключателем света"
   },
   {
     "strName": "TutorialToggleSwitch2",
-    "strNodeLabel": "The Quick Action Bar",
+    "strNodeLabel": "Панель Быстрых Действий",
     "strImage": "info/QAB",
     "strNodeParent": "TutorialToggleSwitch1",
-    "strArticleTitle": "Easy as Q-A-B",
-    "strLookup": "Interactions",
-    "strArticleBody": "Right-clicking an object in the world will bring up the Quick Action Bar (QAB). The QAB lists the interactions your character can perform on the selected object.\n\nIn the case of our light switch here, you can perform a blue action called 'Toggle Power', which is hard sci-fi lingo meaning 'to turn on or off'."
+    "strArticleTitle": "Легко как Q-A-B",
+    "strLookup": "Взаимодействия",
+    "strArticleBody": "Щелкнув правой кнопкой мыши по объекту в мире, вы вызовете панель быстрых действий (QAB). QAB содержит список действий, которые ваш персонаж может выполнить с выбранным объектом.\n\nВ случае с нашим выключателем света вы можете выполнить синее действие под названием 'Переключить Питание', что в жаргоне научной фантастики означает 'включить или выключить'"
   },
   {
     "strName": "TutorialToggleSwitch3",
-    "strNodeLabel": "QAB Hotkeys",
+    "strNodeLabel": "Горячие Клавиши QAB",
     "strImage": "info/QABZoomed",
     "strNodeParent": "TutorialToggleSwitch1",
-    "strArticleTitle": "Easy as 1-2-3",
-    "strLookup": "Interactions",
+    "strArticleTitle": "Легко как 1-2-3",
+    "strLookup": "Взаимодействия",
     "escapeChar" : "␞",
-    "strArticleBody": "Next to the first four options of the QAB are numbers 1-4. \n\nPressing ␞120␞, ␞121␞, ␞122␞, and ␞123␞ on your keyboard will perform those actions correspondingly. It's a little quicker than clicking into the QAB, if you're the keyboard shortcut kind. \n\nYou know, backlit keys and neon case fans."
+    "strArticleBody": "Рядом с первыми четырьмя опциями QAB находятся цифры 1–4.\n\nНажатие клавиш ␞120␞, ␞121␞, ␞122␞ и ␞123␞ на клавиатуре выполнит соответствующие действия. Это немного быстрее, чем нажимать на QAB, если вы предпочитаете использовать горячие клавиши.\n\nВы знаете, подсветка клавиш и неоновые вентиляторы корпуса."
   },
   {
     "strName": "TutorialToggleSwitch2.5",
-    "strNodeLabel": "The Quick Action Bar",
+    "strNodeLabel": "Панель Быстрых Действий",
     "strImage": "info/interactionsbash",
     "strNodeParent": "TutorialToggleSwitch1",
-    "strArticleTitle": "Easy as Q-A-B",
-    "strLookup": "Interactions",
-    "strArticleBody": "There are a lot of interactions available to you, especially on fixtures, like 'Uninstall' and 'Bash'. \n\nAvoid those while in this phase of the tutorial. Stay your mighty hand for now."
+    "strArticleTitle": "Легко как Q-A-B",
+    "strLookup": "Взаимодействия",
+    "strArticleBody": "Вам доступно множество взаимодействий, особенно с фиксаторами, таких как 'Удалить' и 'Удар'.\n\nИзбегайте их на этом этапе учебника. Пока что держите свою могучую руку в покое."
   },
   {
     "strName": "TutorialToggleSwitch2.55",
-    "strNodeLabel": "QAB Buttons",
+    "strNodeLabel": "Кнопки QAB",
     "strImage": "info/QABPin",
     "strNodeParent": "TutorialToggleSwitch1",
-    "strArticleTitle": "At The Touch Of A Button",
-    "strLookup": "Interactions",
-    "strArticleBody": "Along the QAB are a series of helpful buttons. In order: 'Expand/Collapse', 'Refresh', 'Pin/Unpin', and 'Close'. They're mostly self-explanatory, but let's talk about 'Pin/Unpin'.\n\n'Pin/Unpin' attaches the QAB to the world position of the selected object. Otherwise, it'll stay in its position on screen for familiarity's sake.\n\nDragging the QAB will leave it pinned it to the last position dragged to. Unpinning it will snap it back to its corresponding item."
+    "strArticleTitle": "Одним нажатием кнопки",
+    "strLookup": "Взаимодействия",
+    "strArticleBody": "Вдоль QAB расположена серия полезных кнопок. В порядке: 'Развернуть/Свернуть', 'Обновить', 'Закрепить/Открепить' и 'Закрыть'. В основном они не требуют пояснений, но давайте поговорим о 'Закрепить/Открепить'.\n\n'Закрепить/Открепить' прикрепляет QAB к мировому положению выбранного объекта. В противном случае он останется в своем положении на экране для удобства пользователя.\n\nПри перетаскивании QAB он останется закрепленным в последнем положении, в которое его перетащили. Открепление вернет его к соответствующему элементу."
   },
   {
     "strName": "TutorialToggleSwitch4",
-    "strNodeLabel": "Interactions & Systems",
+    "strNodeLabel": "Взаимодействия & Системы",
     "strImage": "info/lightcomplete",
     "strNodeParent": "TutorialToggleSwitch1",
-    "strArticleTitle": "The Charge Of The Light Frigate",
-    "strLookup": "Interactions",
-    "strArticleBody": "Once your character completes 'Toggle Power', charged electrons from a battery on the station will flow through a diode, and the diode will emit light.\n\nIt's very useful for seeing things that don't illuminate on their own."
+    "strArticleTitle": "Атака легкого фрегата",
+    "strLookup": "Взаимодействия",
+    "strArticleBody": "Как только ваш персонаж завершит 'Переключение питания', заряженные электроны из батареи на станции будут протекать через диод, и диод будет излучать свет.\n\nЭто очень полезно для осмотра предметов, которые не светятся сами по себе."
   },
   {
     "strName": "TutorialInventory1",
-    "strNodeLabel": "Tutorial: Inventory",
+    "strNodeLabel": "Обучение: Инвентарь",
     "strImage": "info/inventory1",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Opening Your Inventory",
-    "strLookup": "Inventory",
+    "strArticleTitle": "Открытие Инвентаря",
+    "strLookup": "Инвентарь",
     "strTutorialKey": "Open Your Inventory",
     "escapeChar" : "␞",
-    "strArticleBody": "This is why we're all here, isn't it? The loot.\n\nPresssing ␞50␞ opens your inventory. ␞50␞ closes it again. \n\nClicking on your character's portrait will open your inventory, and also center the camera on your character."
+    "strArticleBody": "Вот почему мы все здесь, не так ли? Добыча.\n\nНажатие ␞50␞ открывает ваш инвентарь. ␞50␞ закрывает его снова.\n\nНажатие на портрет вашего персонажа откроет ваш инвентарь, а также центрирует камеру на вашем персонаже"
   },
   {
     "strName": "TutorialInventory1.5",
-    "strNodeLabel": "Tutorial: Inventory",
+    "strNodeLabel": "Обучение: Инвентарь",
     "strImage": "info/inventoryclickclothes",
     "strNodeParent": "TutorialInventory1",
-    "strArticleTitle": "Opening Your Inventory",
-    "strLookup": "Inventory",
-    "strArticleBody": "Clicking on an item in your inventory will attach it to the mouse cursor, readying it to be moved to another slot. \n\nWhen the item is attached to the cursor, if you position it over an empty slot or container grid space, then click, you'll put it in that slot. \n\nIf the slot already has an item in it, it will stack like items or swap with unlike items."
+    "strArticleTitle": "Открытие Инвентаря",
+    "strLookup": "Инвентарь",
+    "strArticleBody": "При нажатии на предмет в инвентаре он прикрепляется к курсору мыши, готовый к перемещению в другое ячейку.\n\nКогда предмет прикреплен к курсору, если вы поместите его над пустым слотом или ячейкой контейнера, а затем нажмете, вы поместите его в этот слот.\n\nЕсли в слоте уже есть предмет, он будет сложен с похожими предметами или заменен на непохожие предметы"
   },
   {
     "strName": "TutorialInventory2",
-    "strNodeLabel": "Tutorial: Inventory Interactions",
+    "strNodeLabel": "Обучение: Взаимодействие с Инвентарем",
     "strImage": "info/inventoryGround",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "The Ground Grid",
-    "strLookup": "Using The Inventory",
-    "strArticleBody": "Items can also be picked-up and droped on the ground tiles surrounding your captain.\n\nThe cursor will indicate if the item is close enough to grab with a hand, and will show feet instead if it requires walking to reach.\n\nShift clicking on an item on the ground will auto-equip it to your character. Shift clicking any carried item will throw it to the ground."
+    "strArticleTitle": "Наземная сетка",
+    "strLookup": "Использование Инвентаря",
+    "strArticleBody": "Предметы также можно подбирать и бросать на плитки земли, окружающие вашего капитана.\n\nКурсор укажет, находится ли предмет достаточно близко, чтобы его можно было взять рукой, и покажет ноги, если для его достижения необходимо пройтись.\n\nНажатие клавиши Shift и щелчок по предмету на земле автоматически экипирует его вашему персонажу. Нажатие клавиши Shift и щелчок по любому переносимому предмету бросит его на землю."
   },
   {
     "strName": "TutorialInventory2.1",
-    "strNodeLabel": "Getting Dressed",
+    "strNodeLabel": "Одеться",
     "strImage": "info/inventorydress",
     "strNodeParent": "TutorialInventory2",
-    "strArticleTitle": "Getting Dressed",
-    "strLookup": "Using The Inventory",
+    "strArticleTitle": "Одеться",
+    "strLookup": "Использование Инвентаря",
     "strTutorialKey": "Get Dressed",
-    "strArticleBody": "Your overalls are strewn on the ground next to you, along with your shoes. You may have to hunt around for the second shoe.\n\nGoing barefoot, or wearing a shoe on the wrong foot, will give you a footwear debuff."
+    "strArticleBody": "Ваш комбинезон разбросан на земле рядом с вами, вместе с вашей обувью. Возможно, вам придется поискать вторую туфлю.\n\nЕсли вы будете ходить босиком или наденете туфлю не на ту ногу, вы получите дебафф обуви"
   },
   {
     "strName": "TutorialInventory3",
-    "strNodeLabel": "Tutorial: Pressure Suit",
+    "strNodeLabel": "Обучение: Скафандр",
     "strImage": "info/inventoryRackLocation",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Get Your Pressure Suit",
-    "strLookup": "Pressure Suit",
+    "strArticleTitle": "Получите свой скафандр",
+    "strLookup": "Скафандр",
     "strTutorialKey": "Collect Pressure Suit and Helmet",
     "escapeChar" : "␞",
-    "strArticleBody": "In the storage bin nearby are your pressure suit, helmet, and carry bag.\n\nAll three items are of vital but not equal importance for surviving hard vacuum."
+    "strArticleBody": "В ящике для хранения рядом находятся ваш скафандр, шлем и сумка для переноски.\n\nВсе три предмета имеют жизненно важное, но не одинаковое значение для выживания в условиях жесткого вакуума"
   },
   {
     "strName": "TutorialInventory3.5",
-    "strNodeLabel": "Equipping Your Bag",
+    "strNodeLabel": "Экипировка вашей сумки",
     "strImage": "info/inventorybagslot",
     "strNodeParent": "TutorialInventory3",
-    "strArticleTitle": "And Go Get Your Bag",
-    "strLookup": "Pressure Suit",
-    "strArticleBody": "Once you've located the items, you needn't equip them right away. After all, you're already dressed - the suits are skintight, unflattering, and sweaty. But don't leave them behind! \n\nThe bag can be worn on a custom slot in your inventory, in the top right of the paper doll window.\n\nWith the expanded carrying capacity afforded by your bag, you've got space to store your vacuum survival gear, and more besides."
+    "strArticleTitle": "И иди за своей сумкой",
+    "strLookup": "Скафандр",
+    "strArticleBody": "Найдя предметы, не нужно сразу же их надевать. В конце концов, вы и так уже одеты — костюмы облегают тело, не выглядят привлекательно и вызывают потливость. Но не оставляйте их!\n\nСумку можно носить в специальном слоте в инвентаре, в правом верхнем углу окна бумажной куклы.\n\nБлагодаря увеличенной вместимости сумки у вас будет место для хранения вашего вакуумного снаряжения для выживания и многого другого."
   },
   {
     "strName": "TutorialInventory4",
-    "strNodeLabel": "Tutorial: Pressure Suit",
+    "strNodeLabel": "Обучение: Скафандр",
     "strImage": "info/inventoryhelmet",
     "strNodeParent": "TutorialInventory3",
-    "strArticleTitle": "Because It Suits You",
-    "strLookup": "Pressure Suit",
-    "strArticleBody": "A word about pressure suits: we mentioned that they're skintight, and you'll have to take your clothes off to equip them, including shoes off of both feet.\n\nThe helmet is not just skintight but airtight, and it's filled with air taken from the environment when you put it on. If you put it on right now and forget about it, you'll start to get all hot and CO2 poison-y.\n\nIf that happens, don't panic! Just make sure that when you take it off to refresh, you're in a safe place surrounded by lots of lovely breathable air."
+    "strArticleTitle": "Потому что это тебе подходит",
+    "strLookup": "Скафандр",
+    "strArticleBody": "Несколько слов о скафандрах: мы уже упоминали, что они облегают тело, и чтобы их надеть, нужно снять всю одежду, включая обувь с обеих ног. Шлем не только облегает тело, но и герметичен, и при надевании он наполняется воздухом из окружающей среды. Если вы наденете его сейчас и забудете об этом, вам станет жарко и вы начнете испытывать отравление углекислым газом.\n\nЕсли это произойдет, не паникуйте! Просто убедитесь, что когда вы снимаете его, чтобы освежиться, вы находитесь в безопасном месте, окруженном большим количеством свежего воздуха."
   },
   {
     "strName": "TutorialContainers1",
-    "strNodeLabel": "Tutorial: Containers",
+    "strNodeLabel": "Обучение: Контейнеры",
     "strImage": "info/containersslots",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Containers & Slots & What Goes In Them",
-    "strLookup": "Containers",
-    "strArticleBody": "Some containers and slots have rules about what items they will accept. For example, shirts don't go on feet slots, but shoes do. Pants can have containers, colloquially called 'pockets'. These will fit screwdrivers, but not toolboxes. Power tools take batteries.\n\nBut you can't put a nuclear reactor in a backpack. Unless you had a very large backpack."
+    "strArticleTitle": "Контейнеры, слоты и что в них помещается",
+    "strLookup": "Контейнеры",
+    "strArticleBody": "Некоторые контейнеры и слоты имеют правила относительно того, какие предметы они принимают. Например, рубашки не помещаются в слоты для ног, а обувь — да. Брюки могут иметь контейнеры, которые в разговорной речи называются «карманами». В них помещаются отвертки, но не ящики с инструментами. Электроинструменты работают от батареек.\n\nНо вы не можете положить ядерный реактор в рюкзак. Если только у вас нет очень большого рюкзака."
   }, 
   {
     "strName": "TutorialVisitShip1",
-    "strNodeLabel": "Tutorial: Leaving K-LEG",
+    "strNodeLabel": "Обучение: Покидание K-LEG",
     "strImage": "info/tutorialtoolbox",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Leaving your room",
-    "strLookup": "Anabasis",
+    "strArticleTitle": "Выход из комнаты",
+    "strLookup": "Анабазис",
     "strTutorialKey": "Visit Your Ship",
-    "strArticleBody": "Your new ship, obtained through means legal or pragmatic, is waiting for you in OKLG's dock.\n\nYour toolbox is waiting for you by the door. Don't leave home without it."
+    "strArticleBody": "Ваш новый корабль, приобретенный законным или прагматичным способом, ждет вас в доке OKLG.\n\nВаш ящик с инструментами ждет вас у двери. Не выходите из дома без него"
   },
   {
     "strName": "TutorialVisitShip1.5",
-    "strNodeLabel": "Leaving Your Room",
+    "strNodeLabel": "Выход их вашей комнаты",
     "strImage": "info/walkleftclick",
     "strNodeParent": "TutorialVisitShip1",
-    "strArticleTitle": "Where Is My Ship?",
-    "strLookup": "Anabasis",
-    "strArticleBody": "Left-clicking on a walkable tile outside your room will move your captain there, opening any doors along the way. \n\nTo find your ship, you can left-click on the objective notification to zoom to its position.\n\nLeaving your room will trigger an Encounter screen: you're walking K-LEG's hallways as a space captain for the very first time."
+    "strArticleTitle": "Где мой корабль?",
+    "strLookup": "Анабазис",
+    "strArticleBody": "Щелкнув левой кнопкой мыши по проходимой плитке за пределами вашей комнаты, вы переместите своего капитана туда, открыв все двери по пути.\n\nЧтобы найти свой корабль, вы можете щелкнуть левой кнопкой мыши по уведомлению о цели, чтобы увеличить его положение.\n\nВыход из комнаты вызовет экран 'Встреча': вы впервые идете по коридорам K-LEG в качестве космического капитана."
   },
   {
     "strName": "TutorialVisitShip2",
-    "strNodeLabel": "The Dock",
+    "strNodeLabel": "Док",
     "strImage": "info/docks",
     "strNodeParent": "TutorialVisitShip1",
-    "strArticleTitle": "No really, where is my ship?",
-    "strLookup": "Anabasis",
-    "strArticleBody": "There's a lot to take in, so no stress if you're having trouble locating your ship. There are airlock signs on the floor pointing the way. If you follow those, you'll find the dock.\n\nHere's a picture of the dock, just to the south and west of your dorm on K-LEG."
+    "strArticleTitle": "Нет, серьезно, где мой корабль?",
+    "strLookup": "Анабазис",
+    "strArticleBody": "Здесь много всего, так что не переживайте, если не можете найти свой корабль. На полу есть указатели, указывающие путь к шлюзу. Если вы будете следовать за ними, то найдете док.\n\nВот фотография дока, он находится к югу и западу от вашего общежития на K-LEG."
   },
   {
     "strName": "TutorialVisitShip2.5",
-    "strNodeLabel": "South? West??!",
+    "strNodeLabel": "Юг? Запад??!",
     "strImage": "info/SSW",
     "strNodeParent": "TutorialVisitShip1",
-    "strArticleTitle": "No really, where is my ship?",
-    "strLookup": "Anabasis",
-    "strArticleBody": "You might be saying, \"But Blue Bottle Games, there's no south OR west in space!\" \n\nHowever, in the lore, the Tharsis government legislated that there <i>is</i> a south or west in space, shortly after they discovered the Solar System was projected orthographically."
+    "strArticleTitle": "Нет, серьезно, где мой корабль?",
+    "strLookup": "Анабазис",
+    "strArticleBody": "Вы можете сказать: \"Но Blue Bottle Games, в космосе нет юга ИЛИ запада!\"\n\nОднако, согласно легенде, правительство Тарсиса законодательно установило, что в космосе <i>есть</i> юг и запад, вскоре после того, как они обнаружили, что Солнечная система проецируется ортографически"
   },
   {
     "strName": "TutorialRoomAtmosphere",
-    "strNodeLabel": "Tutorial: Compartments & Atmosphere",
+    "strNodeLabel": "Обучение: Отсеки и атмосфера",
     "strImage": "info/spacesnapshot",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Compartments & Atmosphere",
-    "strLookup": "The MTT",
+    "strArticleTitle": "Отсеки и атмосфера",
+    "strLookup": "MTT",
     "strTutorialKey": "Check room atmosphere",
     "nLookup": 1,
-    "strArticleBody": "We can't hide the truth from you any longer: Ostranauts is set in space. There's no air in space. You can't breathe without air. And sometimes, by extension, you can't breathe in Ostranauts.\n\nIt's important to check the hull integrity of a room if you're not absolutely sure it's safe. It could be open to the horrible void of space, leading to a swift death for an unprepared player.\n\nWe'll tell you how to escape this fate ... in the next article, to boost our engagement metrics."
+    "strArticleBody": "Мы больше не можем скрывать от вас правду: действие Ostranauts происходит в космосе. В космосе нет воздуха. Без воздуха дышать невозможно. И иногда, по аналогии, вы не можете дышать в Ostranauts.\n\nВажно проверять целостность корпуса комнаты, если вы не уверены, что она безопасна. Она может быть открыта для ужасной пустоты космоса, что приведет к быстрой смерти неподготовленного игрока.\n\nМы расскажем вам, как избежать этой участи... в следующей статье, чтобы повысить наши показатели вовлеченности"
   },
   {
     "strName": "TutorialRoomAtmosphere2",
-    "strNodeLabel": "The Mega Tooltip",
+    "strNodeLabel": "Mega Tooltip",
     "strImage": "info/MTT1",
     "strNodeParent": "TutorialRoomAtmosphere",
-    "strArticleTitle": "The Mega Tooltip",
-    "strLookup": "The MTT",
+    "strArticleTitle": "Mega Tooltip",
+    "strLookup": "MTT",
     "strTutorialKey": "Expand MTT menu",
     "nLookup": 1,
-    "strArticleBody": "That big bastard in the top-right corner is the Mega Tooltip (MTT).\n\nIt's a window, a very large and detailed window, into any entity in the game. If you want to know about something, right-click it and check the MTT."
+    "strArticleBody": "Этот большой объект в правом верхнем углу — это Mega Tooltip (MTT).\n\nЭто окно, очень большое и подробное окно, в которое можно заглянуть в любой объект в игре. Если вы хотите что-то узнать, щелкните по нему правой кнопкой мыши и проверьте MTT"
   },
   {
     "strName": "TutorialRoomAtmosphere3",
-    "strNodeLabel": "Overlapping Objects & Compartments",
+    "strNodeLabel": "Перекрывающиеся объекты и отсеки",
     "strImage": "info/MTT2",
     "strNodeParent": "TutorialRoomAtmosphere",
-    "strArticleTitle": "Overlapping Objects & Compartments",
-    "strLookup": "The MTT",
+    "strArticleTitle": "Перекрывающиеся объекты и отсеки",
+    "strLookup": "MTT",
     "nLookup": 2,
-    "strArticleBody": "In the case of overlapping objects, right-click the same tile to drill down a layer at a time. The base layer of a ship tile is called the 'Compartment'.\n\nCompartments tell you the gas contents of the room. In the case of the starting ship, it should be full of a nitrogen/oxygen mix commonly known as 'air', but it's always good to check.\n\nIf there is a dangerous gas mixture in a compartment, exact details will display near your cursor."
+    "strArticleBody": "В случае перекрытия объектов щелкните правой кнопкой мыши на одной и той же плитке, чтобы поочередно просматривать слои. Базовый слой плитки корабля называется «отсеком».\n\nОтсеки показывают содержание газа в помещении. В случае стартового корабля он должен быть заполнен смесью азота и кислорода, обычно называемой 'воздухом', но всегда лучше проверить.\n\nЕсли в отсеке находится опасная смесь газов, точные данные будут отображаться рядом с курсором"
   },
   {
     "strName": "TutorialRoomAtmosphere4",
-    "strNodeLabel": "Conditions",
+    "strNodeLabel": "Состояния",
     "strImage": "info/MTT3",
     "strNodeParent": "TutorialRoomAtmosphere",
-    "strArticleTitle": "Conditions",
-    "strLookup": "The MTT",
+    "strArticleTitle": "Состояния",
+    "strLookup": "MTT",
     "nLookup": 3,
-    "strArticleBody": "The MTT displays all publicly available information about an object in the game world, including all its Conditions. But what is a Condition, and should you be nervous it was capitalized just now? \n\nConditions are adjectives that describe an object. For example, the Condition 'Damaged' is applied to the floor when perforated by a micrometeoroid.\n\n Similarly, the Condition 'Bleeding' may be applied to your character when perforated by a micrometeoroid.\n\nWatch out for micrometeoroids."
+    "strArticleBody": "MTT отображает всю общедоступную информацию об объекте в игровом мире, включая все его состояния. Но что такое состояние и стоит ли нервничать из-за того, что оно было написано с большой буквы? \n\nСостояния — это прилагательные, которые описывают объект. Например, состояние 'поврежден' применяется к полу, когда он пробит микрометеоритом.\n\n Аналогично, состояние 'кровотечение' может быть применено к вашему персонажу, когда он пробит микрометеоритом.\n\nБерегитесь микрометеоритов"
   },
   {
     "strName": "TutorialRoomAtmosphere6",
-    "strNodeLabel": "Show More",
+    "strNodeLabel": "Показать Больше",
     "strImage": "info/MTT4",
     "strNodeParent": "TutorialRoomAtmosphere",
-    "strArticleTitle": "Show More",
-    "strLookup": "The MTT",
+    "strArticleTitle": "Показать Больше",
+    "strLookup": "MTT",
     "nLookup": 5,
-    "strArticleBody": "When you click 'show more' on the MTT, you'll see a list of all the visible Conditions on that object. \n\nSome Conditions are intended to be invisible to the player, and only tracked internally by the game.\n\nVisible Conditions are mostly things your character would know or could reasonably infer about an object."
+    "strArticleBody": "Когда вы нажмете 'Показать Больше' на MTT, вы увидите список всех видимых условий для этого объекта.\n\nНекоторые условия предназначены для того, чтобы быть невидимыми для игрока, и отслеживаются только внутри игры.\n\nВидимые условия — это в основном вещи, которые ваш персонаж знает или может разумно предположить об объекте."
   },
   {
     "strName": "TutorialRoomAtmosphere7",
-    "strNodeLabel": "So Much Information",
+    "strNodeLabel": "Так Много Информации",
     "strImage": "info/MTTTemp",
     "strNodeParent": "TutorialRoomAtmosphere",
-    "strArticleTitle": "So Much Information",
-    "strLookup": "The MTT",
+    "strArticleTitle": "Так Много Информации",
+    "strLookup": "MTT",
     "nLookup": 5,
-    "strArticleBody": "</i>... 'reasonably infer' ...</i> Yes, your character senses the ambient temperature to the nearest microdegree. It's something all spacefarers can do."
+    "strArticleBody": "</i>... 'разумно предположить' ...</i> Да, ваш персонаж ощущает температуру окружающей среды с точностью до микроградуса. Это умеют все космонавты."
   },
   {
     "strName": "TutorialWearAndTear",
-    "strNodeLabel": "Tutorial: Vizor & Wear",
+    "strNodeLabel": "Обучение: Vizor & Wear",
     "strImage": "info/PDAVizor",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "PDA Vizor App",
-    "strLookup": "Vizor App",
+    "strArticleTitle": "КПК Vizor",
+    "strLookup": "Vizor",
     "strTutorialKey": "Toggle Wear & Damage Viz",
     "nLookup": 1,
     "escapeChar" : "␞",
-    "strArticleBody": "Pressing ␞91␞ will bring up the PDA's Vizor app, which allows you to see the world through various informational overlays.\n\nThe available Vizor modes are controlled by Cartridges stored inside your PDA, which you can both purchase and find in the world.\n\nNote that the PDA must be in the forearm slot for Vizor mode to work."
+    "strArticleBody": "Нажатие ␞91␞ вызовет приложение Vizor на КПК, которое позволяет вам видеть мир через различные информационные наложения.\n\nДоступные режимы Vizor управляются картриджами, хранящимися внутри вашего КПК, которые вы можете как приобрести, так и найти в мире.\n\nОбратите внимание, что для работы режима Vizor КПК должен находиться в слоте на предплечье"
   },
   {
     "strName": "TutorialWearAndTear2",
-    "strNodeLabel": "Tutorial: Wear & Tear",
+    "strNodeLabel": "Обучение: Износ",
     "strImage": "info/WearTear",
     "strNodeParent": "TutorialWearAndTear",
-    "strArticleTitle": "Damage Overlay",
-    "strLookup": "Vizor App",
+    "strArticleTitle": "Оверлей Износа",
+    "strLookup": "Vizor",
     "nLookup": 1,
-    "strArticleBody": "Choosing DAMAGE in the Vizor App shows an overlay of damaged objects nearby. White is pristine, red is damaged. Pink is a bit dinged up.\n\nPressing DEFAULT toggles the overlay view off again."
+    "strArticleBody": "Выбор ПОВРЕЖДЕНИЯ в приложении Vizor отображает оверлей поврежденных объектов поблизости. Белый цвет означает неповрежденные объекты, красный — поврежденные. Розовый цвет означает слегка поврежденные объекты.\n\nНажатие ПО УМОЛЧАНИЮ снова отключает отображение наложения»"
   },
   {
     "strName": "TutorialChangeRosterPermission",
-    "strNodeLabel": "Tutorial: Change Roster Permission",
+    "strNodeLabel": "Обучение: Изменения Прав В Ростере",
     "strImage": "info/roster",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Tutorial: The Roster Menu",
-    "strLookup": "Permissions",
+    "strArticleTitle": "Обучение: Ростер",
+    "strLookup": "Права",
     "strTutorialKey": "Change Roster Permissions",
-    "strArticleBody": "The Roster menu allows you to set rules for how your characters behave, including work schedules and other permissions.\n\nBy default, your crew will not open any doors with a pressure difference, as that risks venting the entire room's atmosphere.\n\nDisembark allows the crew member to leave the ship.\n\nRestore Parts allows the crew member to automatically repair ship components during their work schedule."
+    "strArticleBody": "Меню Ростер позволяет устанавливать правила поведения персонажей, включая график работы и другие разрешения. По умолчанию ваша команда не будет открывать двери с перепадом давления, так как это может привести к выходу всей атмосферы из помещения. Функция Высадка позволяет члену экипажа покинуть корабль. Функция Восстановление деталей позволяет члену экипажа автоматически ремонтировать компоненты корабля во время своего рабочего графика"
   },
   {
     "strName": "TutorialRestoreNavStation",
-    "strNodeLabel": "Tutorial: Restore Nav Station",
+    "strNodeLabel": "Обучение: Восстановление Навигационной",
     "strImage": "info/WearTearNav",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Tutorial: Restore Nav Station",
-    "strLookup": "Repairing",
+    "strArticleTitle": "Обучение: Восстановление Навигационной",
+    "strLookup": "Починка",
     "strTutorialKey": "Restore Nav Station",
     "nLookup": 1,
-    "strArticleBody": "The NAV station, along with most of your starting ship, is a bit worse for wear.\n\nYou don't <i>actually</i> need to fix anything yet, it's worn but functional. And you certainly don't need to restore everything all the way up, which might take a while.\n\nRest assured that if you undock immediately, your ship will get you to a derelict or two before it needs any maintenance."
+    "strArticleBody": "Навигационная, как и большая часть вашего стартового корабля, находится в не самом лучшем состоянии. И вам, конечно, не нужно восстанавливать все до конца, что может занять некоторое время.\n\nБудьте уверены, что если вы сразу же отстыкуетесь, ваш корабль доставит вас к одному или двум заброшенным кораблям, прежде чем ему понадобится техническое обслуживание."
   },
   {
     "strName": "TutorialRestoreNavStation2",
-    "strNodeLabel": "Tutorial: Restore Nav Station",
+    "strNodeLabel": "Обучение: Восстановление Навигационной",
     "strImage": "info/WearTearNavRestore",
     "strNodeParent": "TutorialRestoreNavStation",
-    "strArticleTitle": "Tutorial: Restore Nav Station",
-    "strLookup": "Restoration",
+    "strArticleTitle": "Обучение: Восстановление Навигационной",
+    "strLookup": "Восстановление",
     "nLookup": 2,
-    "strArticleBody": "Right-clicking on the NAV station will bring up the QAB.\n\nLeft-clicking on Restore, or pressing Restore's hotkey, begins restoring the object to like new.\n\nSit back and let your captain work. Better them than you, right?"
+    "strArticleBody": "Щелчок правой кнопкой мыши по Навигационной вызовет QAB.\n\nЩелчок левой кнопкой мыши по Восстановить или нажатие горячей клавиши Восстановить запускает восстановление объекта до состояния нового.\n\nУстройтесь поудобнее и позвольте капитану работать. Лучше он, чем вы, верно?"
   },
   {
     "strName": "TutorialRestoreNavStation3",
-    "strNodeLabel": "Tutorial: Restore Nav Station",
+    "strNodeLabel": "Обучение: Восстановление Навигационной",
     "strImage": "info/interactionNumbers",
     "strNodeParent": "TutorialRestoreNavStation",
-    "strArticleTitle": "Tutorial: Restore Nav Station",
-    "strLookup": "Restoration",
+    "strArticleTitle": "Обучение: Восстановление Навигационной",
+    "strLookup": "Восстановление",
     "nLookup": 3,
-    "strArticleBody": "You've probably noticed these two bars, and maybe that little number. You're very observant, it's something we see and love about you.\n\nRestoring is an extended action. Each individual restore cycle, represented by the top bar, contributes a little bit to the overall progress, represented by the bottom bar. It might take a few minutes, even a few hours, to complete.\n\nThe number is the multiplier granted by your character's skill level in that task, combined with the quality of the tool you're using. A higher number means a faster application of that skill."
+    "strArticleBody": "Вы, наверное, заметили эти две полоски и, возможно, маленькую цифру. Вы очень наблюдательны, и это то, что мы ценим в вас. Каждый отдельный цикл восстановления, представленный верхней полосой, вносит небольшой вклад в общий прогресс, представленный нижней полосой. На его завершение может уйти несколько минут, а то и несколько часов.\n\nЧисло — это множитель, который зависит от уровня навыка вашего персонажа в данной задаче, а также от качества используемого вами инструмента. Чем выше число, тем быстрее применяется этот навык."
   },
   {
     "strName": "TutorialRestoreNavStation4",
-    "strNodeLabel": "Tutorial: Restore Nav Station",
+    "strNodeLabel": "Обучение: Восстановление Навигационной",
     "strImage": "info/WearTearClose",
     "strNodeParent": "TutorialRestoreNavStation",
-    "strArticleTitle": "Tutorial: Restore Nav Station",
-    "strLookup": "Restoration",
+    "strArticleTitle": "Обучение: Восстановление Навигационной",
+    "strLookup": "Восстановление",
     "strTutorialKey": "Hide Wear & Tear Info",
     "nLookup": 5,
-    "strArticleBody": "Use the PDA Vizor app to toggle the overlay off again.\n\nThis step might seem redundant. You've probably already done it, maybe even several times.\n\nBut the last thing we want is someone stuck with it on, walking around in a pink and red miasma."
+    "strArticleBody": "Используйте приложение PDA Vizor, чтобы снова отключить наложение.\n\nЭтот шаг может показаться лишним. Вы, вероятно, уже сделали это, возможно, даже несколько раз.\n\nНо последнее, чего мы хотим, — это чтобы кто-то застрял с включенным наложением и ходил в розово-красном тумане."
   },
   {
     "strName": "TutorialUseNavStation1",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/navUse",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "Use the Nav Station",
-    "strArticleBody": "<i>Captain on deck.</i>\n\nTo pilot your spaceship, right-click on the NAV console and select 'Use'.\n\n(Note: You may have to click 'Cancel Action' if you don't wish to wait for your character to finish their current action. E.g. restoring the NAV.)"
+    "strArticleBody": "<i>Капитан на палубе.</i>\n\nЧтобы управлять своим космическим кораблём, щелкните правой кнопкой мыши на Навигационной и выберите 'Использовать'.\n\n(Примечание: возможно, вам придётся нажать 'Отменить действие', если вы не хотите ждать, пока ваш персонаж завершит текущее действие, например восстановление Навигационной.)"
   },
   {
     "strName": "TutorialUseNavStation2",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/navSelectComms",
     "strNodeParent": "TutorialUseNavStation1",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "Switch to Comms Controls",
-    "strArticleBody": "I hope you like knobs, because the NAV UI has a lot of them.\n\nOur ship is still docked with K-LEG, and can't go anywhere yet, not without destroying the docking arm and most of the station.\n\nAlong the right edge of the NAV UI is a bar pointing to the COMMS controls. That's where you'll need to go to undock."
+    "strArticleBody": "Надеюсь, вам нравятся ручки, потому что в интерфейсе Навигационной их очень много.\n\nНаш корабль по-прежнему пристыкован к K-LEG и пока не может никуда улететь, если только не разрушить стыковочный манипулятор и большую часть станции.\n\nПо правому краю интерфейса находится панель, указывающая на элементы управления COMMS. Именно туда вам нужно будет перейти, чтобы отстыковаться"
   },
   {
     "strName": "TutorialUseNavStation3",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/navButtons",
     "strNodeParent": "TutorialUseNavStation1",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "",
-    "strArticleBody": "Visually the COMMS screen is a little less overwhelming, but it presents a risk of social interaction, and is frightening for that reason.\n\nFind K-LEG in the menus. Its ID code is OKLG. You can request undocking permissions through there. \n\nClicking the CLAMPS button when the icon next to it is lit green will detach your ship from the station."
+    "strArticleBody": "Визуально экран COMMS выглядит немного менее устрашающим, но он представляет риск социального взаимодействия и поэтому вызывает страх.\n\nНайдите K-LEG в меню. Его идентификационный код — OKLG. Через него вы можете запросить разрешение на отстыковку.\n\nНажатие кнопки CLAMPS, когда значок рядом с ней светится зеленым цветом, отсоединит ваш корабль от станции"
   },
   {
     "strName": "TutorialUseNavStation3.5",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/commsSwitchBack",
     "strNodeParent": "TutorialUseNavStation1",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "Switch to Nav Screen",
-    "strArticleBody": "We're undocked! We're floating in space!\n\nTime to get underway. The long button along the left side of the COMMS UI switches back to the NAV screen."
+    "strArticleBody": "Мы отстыковались! Мы плывем в космосе!\n\nПора отправляться в путь. Длинная кнопка в левой части интерфейса COMMS переключает обратно на экран NAV"
   },
   {
     "strName": "TutorialUseNavStation3.75",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/dontcrash",
     "strNodeParent": "TutorialUseNavStation1",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "Dismiss Note",
-    "strArticleBody": "Once upon a time, a cheerily penned note was all a player had to pilot a hundred ton space vessel. Now, in the enlightened age of a dedicated tutorial, those poor souls who went before us are Laika to our Gagarin.\n\nIf you choose not to read it, bear in mind you're skipping one of the rare unique art assets our independent game studio can afford."
+    "strArticleBody": "Когда-то игроку для управления стотонным космическим кораблём хватало одной весёлой записки. Теперь, в просвещённую эпоху специальных учебных пособий, те бедняги, которые шли перед нами, являются Лайкой для нашего Гагарина. \n\nЕсли вы решите не читать это, имейте в виду, что вы пропускаете один из редких уникальных художественных ресурсов, которые может себе позволить наша независимая игровая студия."
   },
   {
     "strName": "TutorialUseNavStation4",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/navScreenTarget",
     "strNodeParent": "TutorialUseNavStation1",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "Target K-Leg Station",
-    "strArticleBody": "You can target K-LEG station on the map by left-clicking its icon. Targeting the station will read out a list of physical properties, like your relative and cross velocity.\n\nYou might notice that if you click into empty space while the game is unpaused, the map target abruptly shoots offscreen. This is because it targets a fixed point in space, and we (and the station, and everything in The System) are orbiting Sol at what physicists call 'very fast' speeds.\n\nAll ships and orbital bodies in the game are subject to these same Newtonian mechanics."
+    "strArticleBody": "Вы можете выбрать станцию K-LEG на карте, щелкнув по ее значку левой кнопкой мыши. При выборе станции будет отображен список физических свойств, таких как ваша относительная и поперечная скорость. Это происходит потому, что она нацелена на фиксированную точку в пространстве, а мы (и станция, и все в Системе) вращаемся вокруг Сол с тем, что физики называют 'очень высокой' скоростью.\n\nВсе корабли и орбитальные тела в игре подчиняются тем же законам ньютоновской механики."
   },
   {
     "strName": "TutorialUseNavStation5",
-    "strNodeLabel": "Tutorial: Using The Nav Station",
+    "strNodeLabel": "Обучение: Использование Навигационной",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialUseNavStation1",
-    "strArticleTitle": "Tutorial: Use Nav Station",
-    "strLookup": "Navigation",
+    "strArticleTitle": "Обучение: Использование Навигационной",
+    "strLookup": "Навигация",
     "strTutorialKey": "",
-    "strArticleBody": "The top of the panel shows the most significant gravity well affecting your ship. Below that are these properties:\n\nVREL: Velocity: Relative, or how fast the target is moving compared with you. When you thrust toward it, the number increases. When they thrust toward you, the number increases. It decreases when either of you decelerate.\n\nRNG: Range. How far you are from the target. When you thrust toward it, the number decreases.\n\nVCRS: Velocity: Cross, or how fast the target is moving 'sideways' when compared to an imaginary line between you and your target.\n\nBRG: Bearing, or the angle in degrees between your forward orientation and the target. As the note says, zero is dead on.\n\nETA: Estimated Time of Arrival, an Americanism for 'are we there yet?'\n\nFUEL: Fungible Units of Energetic Liquid, such as petroleum.\n\nDELTA V: Delta-V is a tricky one. In our spacefaring context, it's a measure of how much your remaining fuel can change your current velocity. Many pilots use it to keep track of how many speed changes they can make before running out of fuel."
+    "strArticleBody": "В верхней части панели отображается наиболее значительный гравитационный колодец, влияющий на ваш корабль. Ниже приведены следующие свойства:\n\nVREL: Скорость: относительная, или насколько быстро цель движется по сравнению с вами. Когда вы движетесь к ней, число увеличивается. Когда она движется к вам, число увеличивается. Оно уменьшается, когда кто-либо из вас замедляется.\n\nRNG: Дальность. Как далеко вы находитесь от цели. Когда вы двигаетесь к ней, число уменьшается.\n\nVCRS: Скорость: поперечная, или как быстро цель движется «вбок» по сравнению с воображаемой линией между вами и вашей целью.\n\nBRG: Азимут, или угол в градусах между вашим направлением движения вперед и целью. Как сказано в примечании, ноль означает точное совпадение.\n\nETA: расчетное время прибытия, американский термин, означающий 'мы уже приехали?'.\n\nFUEL: заменяемые единицы энергетической жидкости, такие как нефть.\n\nDELTA V: Delta-V — сложный термин. В контексте космических полетов это показатель того, насколько оставшееся топливо может изменить вашу текущую скорость. Многие пилоты используют его, чтобы отслеживать, сколько изменений скорости они могут сделать, прежде чем закончится топливо."
   },
   {
     "strName": "TutorialSpaceTravel1",
-    "strNodeLabel": "Tutorial: Spaceship Spin Controls",
+    "strNodeLabel": "Обучение: Управление вращением космического корабля",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Tutorial: Spaceship Spin Controls",
-    "strLookup": "Space Travel",
+    "strArticleTitle": "TОбучение: Управление вращением космического корабля",
+    "strLookup": "Космические Путешествия",
     "strTutorialKey": "Calibrate Clockwise Thrust",
     "escapeChar" : "␞",
-    "strArticleBody": "Let's get to grips with the Reaction Control System (RCS). That's jargon for all the thrusters, intake regulators, and other bits of plumbing that make your ship go.\n\nPressing ␞75␞ will fire the yaw Attitude Control counterclockwise, or - follow me here - turn your ship to its left. Take it out for a spin.\n\nPressing ␞74␞ will rotate clockwise, back in the other direction."
+    "strArticleBody": "Давайте разберемся с системой управления реактивным движением (RCS). Это жаргонный термин, обозначающий все двигатели, регуляторы впуска и другие детали, которые обеспечивают движение вашего корабля. Нажатие ␞75␞ запустит систему управления курсом против часовой стрелки или, проще говоря, повернет ваш корабль влево. Попробуйте это в действии. Нажатие ␞74␞ приведет к повороту по часовой стрелке, в обратном направлении"
   },
   {
     "strName": "TutorialSpaceTravel2",
-    "strNodeLabel": "Tutorial: Spaceship Spin Controls",
+    "strNodeLabel": "Обучение: Управление вращением космического корабля",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialSpaceTravel1",
-    "strArticleTitle": "Tutorial: Spaceship Spin Controls",
-    "strLookup": "Space Travel",
+    "strArticleTitle": "Обучение: Управление вращением космического корабля",
+    "strLookup": "Космические Путешествия",
     "strTutorialKey": "Stop Spin",
     "escapeChar" : "␞",
-    "strArticleBody": "To stop all rotation, press ␞76␞.\n\nThis can be useful if you're ever in an uncontrolled spin and need to slow down."
+    "strArticleBody": "Чтобы остановить все вращения, нажмите ␞76␞.\n\nЭто может быть полезно, если вы попали в неконтролируемое вращение и вам нужно замедлиться"
   },
   {
     "strName": "TutorialSpaceTravel3",
-    "strNodeLabel": "Tutorial: Spaceship Spin Controls",
+    "strNodeLabel": "Обучение: Управление вращением космического корабля",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialSpaceTravel1",
-    "strArticleTitle": "Tutorial: Spaceship Spin Controls",
-    "strLookup": "Space Travel",
+    "strArticleTitle": "Обучение: Управление вращением космического корабля",
+    "strLookup": "Космические Путешествия",
     "strTutorialKey": "",
     "escapeChar" : "␞",
-    "strArticleBody": "Once you're pointing toward K-LEG, it's time for pushback.\n\nPressing ␞71␞ fires your bow-facing thrusters, putting much-needed distance between you and the station."
+    "strArticleBody": "Как только вы повернетесь к K-LEG, пора отталкиваться.\n\nНажав ␞71␞, вы запустите двигатели, расположенные в носовой части, что позволит вам создать необходимое расстояние между вами и станцией"
   },
   {
     "strName": "TutorialSpaceTravel4",
-    "strNodeLabel": "Tutorial: Spaceship Spin Controls",
+    "strNodeLabel": "Обучение: Управление вращением космического корабля",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialSpaceTravel1",
-    "strArticleTitle": "Tutorial: Spaceship Spin Controls",
-    "strLookup": "Space Travel",
+    "strArticleTitle": "Обучение: Управление вращением космического корабля",
+    "strLookup": "Космические Путешествия",
     "strTutorialKey": "",
     "escapeChar" : "␞",
-    "strArticleBody": "Spaceship hotkeys\nMain thruster: ␞70␞\nLeft thruster: ␞72␞ \nRight thruster: ␞73␞ \nBow thruster : ␞71␞ \nAttitude control counterclockwise: ␞75␞ \nAttitude control \nclockwise: ␞74␞ \nMatch velocity: ␞78␞ \nStop Rotation: ␞76␞ "
+    "strArticleBody": "Горячие клавиши космического корабля\nГлавный двигатель: ␞70␞\nЛевый двигатель: ␞72␞ \nПравый двигатель: ␞73␞ \nНосовой двигатель : ␞71␞ \nУправление ориентацией против часовой стрелки: ␞75␞ \nУправление ориентацией \nпо часовой стрелке: ␞74␞ \nСоответствие скорости: ␞78␞ \nОстановить вращение: ␞76␞ "
   },
   {
     "strName": "TutorialDerelict1",
-    "strNodeLabel": "Tutorial: Salvaging a Derelict",
+    "strNodeLabel": "Обучение: Утилизация Обломков",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "The Tutorial Derelict",
-    "strLookup": "Salvage",
+    "strArticleTitle": "Обучающий обломок",
+    "strLookup": "Утилизация",
     "strTutorialKey": "Pick Up Permit",
-    "strArticleBody": "Salvaging is lucrative, dangerous work, so Ayotimiwa offers licenses to those foolhardy and desperate enough to take it.\n\nSalvage licenses have a duration of validity, usually on the order of days. When it expires, they will become invalid, and their legal protections forfeit.\n\nReading the salvage license will show how long it's valid for. If it runs out while you're salvaging, don't panic just yet. Ayotimiwa has security crawling the junkyard looking for illegal scavs, but they're not infallible.\n\nIt's not yet a crime until the law catches up with you. That's always been our policy."
+    "strArticleBody": "Утилизация — это прибыльное, но опасное занятие, поэтому Айотимива предлагает лицензии тем, кто достаточно безрассуден и отчаян, чтобы им заниматься. Если срок истечет во время работ, не паникуйте. Айотимива нанял охранников, которые патрулируют свалку в поисках незаконных спасателей, но они не всесильны. До тех пор, пока вас не поймает закон, это не является преступлением. Такова наша политика."
   },
   {
     "strName": "TutorialDerelict2",
-    "strNodeLabel": "Tutorial: Obstacles to Salvage",
+    "strNodeLabel": "Обучение: Препятствия Утилизации",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialDerelict1",
-    "strArticleTitle": "Doors, Walls, Power & Applied Force",
-    "strLookup": "Salvage",
+    "strArticleTitle": "Двери, Стены, Энергия и Приложенная сила",
+    "strLookup": "Утилизация",
     "strTutorialKey": "Access The Bridge",
-    "strArticleBody": "While you're out there salvaging in the big wide junkyard, you're going to come across all kinds of derelicts with all kinds of problems.\n\nHere in this tutorial derelict, we've simulated - at great expense - some common problems. For instance, that power network? Missing a conduit. Further in, there's a door. That door? Damaged somehow!\n\nBut maybe if that loose conduit nearby could be installed to complete the circuit, or you could find a crowbar for the unpowered door..."
+    "strArticleBody": "Когда вы будете заниматься спасением на огромной свалке, вам встретятся всевозможные заброшенные объекты с самыми разными проблемами. В этом учебном пособии мы за большие деньги смоделировали некоторые распространенные проблемы. Например, эта электрическая сеть? Отсутствует провод. Дальше есть дверь. Эта дверь? Каким-то образом повреждена!\n\nНо, возможно, если бы можно было установить тот свободный провод поблизости, чтобы замкнуть цепь, или найти ломик для двери без питания..."
   },
   {
     "strName": "TutorialDerelict3",
-    "strNodeLabel": "Tutorial: Choice Paralysis",
+    "strNodeLabel": "Обучение: Проблема Выбора",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialDerelict1",
-    "strArticleTitle": "What To Take And What To Leave Behind",
-    "strLookup": "Salvage",
+    "strArticleTitle": "Что взять с собой, а что оставить",
+    "strLookup": "Утилизация",
     "strTutorialKey": "Salvage The Bridge",
-    "strArticleBody": "The markets, plural, back on K-LEG will pay top dollar for whatever salvage you can strip out of a derelict. The rarer the part, the better the condition, the more top the dollar.\n\nHowever, it's a time consuming task, and your air isn't getting any more breathable. Try to prioritise the more valuable parts to strip - pause if you need to. \n\nYou have a vague context of what items are worth, represented by the number of dollar signs displayed on the MTT for that item. With a better business sense, you can know the exact dollar amount it is worth instead.\n\nSomething to consider: the commercial value is not the only way you might decide what to take home with you..."
+    "strArticleBody": "Рынки, во множественном числе, на K-LEG заплатят высокую цену за любые детали, которые вы сможете извлечь из заброшенного корабля. Чем реже деталь, чем лучше ее состояние, тем выше цена. Однако это трудоемкая задача, а ваш запас воздуха не увеличивается. Постарайтесь отдать приоритет более ценным деталям — при необходимости сделайте перерыв.\n\nВы имеете общее представление о стоимости предметов, которая отображается в виде количества знаков доллара на MTT для каждого предмета. Имея лучшее понимание бизнеса, вы можете узнать точную сумму в долларах, которую стоит предмет.\n\nЧто следует учитывать: коммерческая стоимость — не единственный фактор, который может повлиять на ваше решение о том, что взять с собой домой..."
   },
   {
     "strName": "TutorialDerelict4",
-    "strNodeLabel": "Tutorial: The Return Journey",
+    "strNodeLabel": "Обучение: Возвращение",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialDerelict1",
-    "strArticleTitle": "When Your Pockets Are Full ...",
-    "strLookup": "Salvage",
+    "strArticleTitle": "Когда твои карманы полны ...",
+    "strLookup": "Утилизация",
     "strTutorialKey": "Return to K-LEG",
-    "strArticleBody": "When you feel you've scavenged a commodity surplus, it's time to pack up and fly back to K-LEG.\n\nWe can't really tell you when that is - that's up to you. But try uninstalling some of the more expensive parts and dragging them back to your ship. Get something that displays well, y'know?\n\nWe won't hold your hand back to K-LEG, either. This step will conclude the second you set foot on K-LEG station proper, and not before."
+    "strArticleBody": "Когда вы почувствуете, что собрали достаточно товаров, пора собираться и лететь обратно на K-LEG. Мы не можем сказать вам, когда именно это произойдет — решать вам. Но попробуйте демонтировать некоторые из более дорогих деталей и оттащить их обратно на корабль. Возьмите что-нибудь, что хорошо выглядит, понимаете?\n\nМы не будем сопровождать вас обратно на K-LEG. Этот этап завершится в тот момент, когда вы ступите на станцию K-LEG, и ни секундой раньше."
   },
   {
     "strName": "TutorialKLEGReturn1",
-    "strNodeLabel": "Tutorial: Station Upkeep",
+    "strNodeLabel": "Обучение: Эксплуатация Станции",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "Exchanging Marginal Utilities",
-    "strLookup": "Upkeep",
+    "strArticleTitle": "Обмен предельной полезностью",
+    "strLookup": "Эксплуатация",
     "strTutorialKey": "Sell Salvage at a Kiosk",
-    "strArticleBody": "There are several ways to turn your items into dollars. The easiest is through the kiosks dotted around the K-LEG hub.\n\nThe licensed kiosk can only be accessed while you're carrying a valid salvage permit, like the one you picked up on the derelict. It will buy back most items at a reasonable price.\n\nThe scrap kiosk, on the other hand, is relegated to low-value scrap and parts, but is always available. Even to the unlicensed.\n\nThen there is the matter of a rumor about a black market fixer..."
+    "strArticleBody": "Есть несколько способов превратить ваши предметы в деньги. Самый простой — через киоски, разбросанные по всему центру K-LEG. Доступ к лицензированному киоску можно получить только при наличии действительного разрешения на утилизацию, такого как то, которое вы получили на заброшенном корабле. Киоск выкупит большинство предметов по разумной цене.\n\nКиоск по сбору металлолома, с другой стороны, принимает только малоценный металлолом и детали, но он всегда доступен. Даже для тех, кто не имеет лицензии.\n\nЕсть еще слухи о черном рынке..."
   },
   {
     "strName": "TutorialKLEGReturn2",
-    "strNodeLabel": "Tutorial: Bills",
+    "strNodeLabel": "Обучение: Счета",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialKLEGReturn1",
-    "strArticleTitle": "Keeping The Vultures At Bay",
-    "strLookup": "Upkeep",
+    "strArticleTitle": "Держать стервятников на расстоянии",
+    "strLookup": "Эксплуатация",
     "strTutorialKey": "Pay Docking Fee",
-    "strArticleBody": "Now you have some money in your pocket, you're wondering what it's good for. Don't fret: space life has all sorts of hidden charges and liens to track and pay off.\n\nYou can find them and track them in the finances screen, accessible by clicking your cash balance on the main UI.\n\nDocking with K-LEG is relatively cheap, but someone's counting those beans."
+    "strArticleBody": "Теперь, когда у вас есть немного денег в кармане, вы задаетесь вопросом, на что их потратить. Не волнуйтесь: в космической жизни есть всевозможные скрытые расходы и залоги, которые нужно отслеживать и погашать.\n\nВы можете найти и отслеживать их на экране финансов, доступном по нажатию на ваш денежный баланс в главном интерфейсе.\n\nСтыковка с K-LEG относительно дешевая, но кто-то все равно считает эти деньги"
   },
   {
     "strName": "TutorialKLEGReturn3",
-    "strNodeLabel": "Tutorial: Fuel",
+    "strNodeLabel": "Обучение: Топливо",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialKLEGReturn1",
-    "strArticleTitle": "Fungible Units Of Energetic Liquid refilling",
-    "strLookup": "Upkeep",
+    "strArticleTitle": "Замена энергетической жидкости",
+    "strLookup": "Эксплуатация",
     "strTutorialKey": "Refuel at a Fuel Kiosk",
-    "strArticleBody": "The last step of station upkeep is right near the docking airlock. The fuel kiosk will let you refill missing reactant, gases, and recharge your batteries (literally if not figuratively).\n\nMake sure you're topped up before heading out again."
+    "strArticleBody": "Последний этап эксплуатации станции находится прямо у стыковочного шлюза. На заправочной станции вы сможете пополнить запасы реагентов, газов и зарядить батареи (в прямом смысле, а не в переносном).\n\nУбедитесь, что вы полностью заправились, прежде чем снова отправляться в путь"
   },
   {
     "strName": "TutorialMainConclusion",
-    "strNodeLabel": "Tutorial No More",
+    "strNodeLabel": "Больше Нет Обучения",
     "strImage": "info/timecontrols",
     "strNodeParent": "TutorialObjectives",
-    "strArticleTitle": "The End! (?)",
+    "strArticleTitle": "Конец! (?)",
     "strLookup": "",
     "strTutorialKey": "Tutorial Complete",
-    "strArticleBody": "You have reached the end of the main tutorial!\n\nTake a deep breath. You earned it!\n\nThere's much more to see in Ostranauts, and more to learn. In future, we might offer more tutorials for more advanced features, especially if we get feedback saying that's what you want.\n\nIn the meantime, what happens next is up to you. Travel the System. Fall in love. Get in a fight, make some money, solve a mystery. Build your dream ship. And resist oppression. Wherever you can, in whatever form you can, always and forever. \n\nGood luck."
+    "strArticleBody": "Вы дошли до конца основного учебного курса!\n\nСделайте глубокий вдох. Вы это заслужили!\n\nВ Ostranauts есть еще много интересного, и многому еще предстоит научиться. В будущем мы, возможно, предложим дополнительные учебные курсы по более продвинутым функциям, особенно если получим отзывы, что вы этого хотите.\n\nА пока что, что будет дальше, зависит от вас. Путешествуйте по системе. Влюбитесь. Вступайте в драки, зарабатывайте деньги, разгадывайте загадки. Постройте корабль своей мечты. И сопротивляйтесь угнетению. Где бы вы ни были, в любой форме, всегда и вечно.\n\nУдачи"
   }
 ]

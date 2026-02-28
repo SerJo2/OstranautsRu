@@ -6986,7 +6986,7 @@
   {
     "strName" : "CGEncShadyDealIntro",
     "strTitle" : "Темная сделка.",
-    "strDesc" : "К вам обращается коллега, который разработал не совсем законный способ заработать на стороне. По всей видимости, в течение последних шести недель он маркировал в системе ценные детали как мусор. После ложной маркировки он оставляет детали на борту заброшенного корабля и продает местонахождение тому, кто предложит самую высокую цену.\\n\\nВ этой схеме всегда участвует сговорщик, который проводит окончательную проверку, и сегодня этим сговорщиком являетесь вы. Речь идет о сломанном реакторе, и вы знаете, что он принесет немалую прибыль на черном рынке.\\n\\nЕсли вам удастся это сделать, вы получите большую сумму. Но есть риски...",
+    "strDesc" : "К вам обращается коллега, который разработал не совсем законный способ заработать на стороне. По всей видимости, в течение последних шести недель он маркировал в системе ценные детали как мусор. После ложной маркировки он оставляет детали на борту заброшенного корабля и продает местонахождение тому, кто предложит самую высокую цену.\n\nВ этой схеме всегда участвует сговорщик, который проводит окончательную проверку, и сегодня этим сговорщиком являетесь вы. Речь идет о сломанном реакторе, и вы знаете, что он принесет немалую прибыль на черном рынке.\n\nЕсли вам удастся это сделать, вы получите большую сумму. Но есть риски...",
     "CTTestUs" : "TNotIsImprisoned",
     "aInverse"          : [
       "CGEncShadyDealJoinFail",
@@ -7004,7 +7004,7 @@
   {
     "strName" : "CGEncShadyDealGatherIntel",
     "strTitle" : "Собрать информацию для полиции",
-    "strDesc" : "Вы отклоняете предложение, но продолжаете следить за участниками. Это хороший план. Все идет как по маслу. Через пару недель вы знаете все имена, места и сроки.\nВы передаете эту информацию сотруднику AyoSec. Они потрясены уровнем детализации. Это не дело всей карьеры, но почти.\\n\\nТеперь у вас есть друг в полиции и ценная информация.\\n\\n",
+    "strDesc" : "Вы отклоняете предложение, но продолжаете следить за участниками. Это хороший план. Все идет как по маслу. Через пару недель вы знаете все имена, места и сроки.\nВы передаете эту информацию сотруднику AyoSec. Они потрясены уровнем детализации. Это не дело всей карьеры, но почти.\n\nТеперь у вас есть друг в полиции и ценная информация.\n\n",
     "fDuration"         : 0.0,
     "LootCTsUs" : "CTEncShadyDealGatherIntel",
     "strThemType"       : "Self",
@@ -7127,7 +7127,7 @@
   {
     "strName" : "CGEncShipSalvagePodIntro",
     "strTitle" : "Сборщик обломков.",
-    "strDesc" : "Вы наткнулись на объявление о продаже спасательного капсулы Ryokka Tu-77a. Это чуть больше, чем жестяная банка с маневренными двигателями и системой жизнеобеспечения, но она вполне подойдет для передвижения по кладбищу K-Leg. Что еще более важно, это может быть способом избежать длинных очередей на причале для поденных рабочих и уклониться от \\\"налога на утилизацию\\\", взимаемого транспортными компаниями верфи.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что указывает на легальность его продажи, но и на отсутствие каких-либо систем, кроме базовых для перелета и поддержания жизни.",
+    "strDesc" : "Вы наткнулись на объявление о продаже утилизационного капсулы Ryokka Tu-77a. Это чуть больше, чем жестяная банка с маневренными двигателями и системой жизнеобеспечения, но она вполне подойдет для передвижения по кладбищу K-Leg. Что еще более важно, это может быть способом избежать длинных очередей на причале для поденных рабочих и уклониться от \"налога на утилизацию\", взимаемого транспортными компаниями верфи.\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный\", что указывает на легальность его продажи, но и на отсутствие каких-либо систем, кроме базовых для перелета и поддержания жизни.",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodTake"
@@ -7139,8 +7139,8 @@
   },
   {
     "strName" : "CGEncShipMakeshiftSalvagePodIntro",
-    "strTitle" : "Импровизированная спасательная капсула.",
-    "strDesc" : "Используя в качестве каркаса дешевый заброшенный корабль, купленный в ипотеку, вы можете собрать достаточно запасных частей, чтобы переоборудовать свою собственную спасательную капсулу, комичную копию своих заводских собратьев. Это требует многих лет упорного труда и мучительных решений о том, что можно потратить на ваш проект, а что нужно продать, чтобы выжить. Но, наконец, он готов — настолько готов, насколько это вообще возможно.\n\nИз-за особенностей внешнего корпуса этого судна, Огисо Регистр присвоил ему рейтинг OSR \"низкий\", что означает, что его продажа законна, но он представляет определенную опасность для жизни экипажа.  ",
+    "strTitle" : "Импровизированный утилизационный корабль",
+    "strDesc" : "Используя в качестве каркаса дешевый заброшенный корабль, купленный в ипотеку, вы можете собрать достаточно запасных частей, чтобы переоборудовать свой собственный утилизационный корабль, комичную копию своих заводских собратьев. Это требует многих лет упорного труда и мучительных решений о том, что можно потратить на ваш проект, а что нужно продать, чтобы выжить. Но, наконец, он готов — настолько готов, насколько это вообще возможно.\n\nИз-за особенностей внешнего корпуса этого судна, Огисо Регистр присвоил ему рейтинг OSR \"низкий\", что означает, что его продажа законна, но он представляет определенную опасность для жизни экипажа.  ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvageSledTake"
@@ -7153,8 +7153,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodEnduranceIntro",
-    "strTitle" : "Спасательный модуль повышенной прочности.",
-    "strDesc" : "Вы наткнулись на объявление о продаже сильно изношенного спасательного модуля повышенной прочности Ryokka Tu-76a. В нем нет ничего, кроме маневренных двигателей и системы жизнеобеспечения, но он может летать. Модель TU повышенной прочности была создана для спасательных операций на больших расстояниях, поэтому она оснащена кроватью и санузлом. Однако предлагаемый для продажи капсула находится в очень плохом состоянии. Чтобы привести его в порядок, потребуются серьезные усилия.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа является законной, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения.",
+    "strTitle" : "Утилизационный корабль повышенной прочности.",
+    "strDesc" : "Вы наткнулись на объявление о продаже сильно изношенного утилизационного корабля повышенной прочности Ryokka Tu-76a. В нем нет ничего, кроме маневренных двигателей и системы жизнеобеспечения, но он может летать. Модель TU повышенной прочности была создана для утилизационных операций на больших расстояниях, поэтому она оснащена кроватью и санузлом. Однако предлагаемый для продажи капсула находится в очень плохом состоянии. Чтобы привести его в порядок, потребуются серьезные усилия.\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный\", что означает, что его продажа является законной, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения.",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodEnduranceTake"
@@ -7166,8 +7166,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodSmallIntro",
-    "strTitle" : "Малый спасательный модуль.",
-    "strDesc" : "Вы наткнулись на объявление о продаже компактного спасательного модуля Ryokka Tu-70a. Эти модели простые, в основном состоят из систем жизнеобеспечения и двигателей, но они отлично подходят для местных поездок по Бонейарду. Конкретная доступная модель TU имеет меньшую площадь, что делает ее более экономичной и легкой по сравнению с другими моделями Ryokka.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что оно разрешено к продаже, но не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
+    "strTitle" : "Малый утилизационный корабль.",
+    "strDesc" : "Вы наткнулись на объявление о продаже компактного утилизационного корабля Ryokka Tu-70a. Эти модели простые, в основном состоят из систем жизнеобеспечения и двигателей, но они отлично подходят для местных поездок по Бонейарду. Конкретная доступная модель TU имеет меньшую площадь, что делает ее более экономичной и легкой по сравнению с другими моделями Ryokka.\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный\", что означает, что оно разрешено к продаже, но не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodSmallTake"
@@ -7180,7 +7180,7 @@
   {
     "strName" : "CGEncShipSalvagePodTestIntro",
     "strTitle" : "Спасательный корабль.",
-    "strDesc" : "Вы наткнулись на объявление о продаже «классического» испытательного корабля Testudo Lilliput. Это реликвия 2038 года, и не очень ценная. Ему больше подошло бы место в музее, чем в полете. Последний раз он, возможно, использовался в качестве парома между Землей и Луной. Но в ней есть система жизнеобеспечения, маневренные двигатели и навигационная станция, так что она подойдет для этой задачи. В ней даже есть два дополнительных сиденья на случай, если вы захотите собрать небольшую команду.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа законна, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
+    "strDesc" : "Вы наткнулись на объявление о продаже «классического» испытательного корабля Testudo Lilliput. Это реликвия 2038 года, и не очень ценная. Ему больше подошло бы место в музее, чем в полете. Последний раз он, возможно, использовался в качестве парома между Землей и Луной. Но в ней есть система жизнеобеспечения, маневренные двигатели и навигационная станция, так что она подойдет для этой задачи. В ней даже есть два дополнительных сиденья на случай, если вы захотите собрать небольшую команду.\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный\", что означает, что его продажа законна, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvagePodTestTake"
@@ -7194,7 +7194,7 @@
   {
     "strName" : "CGEncShipShuttleSmallIntro",
     "strTitle" : "Малый шаттл.",
-    "strDesc" : "Вы случайно наткнулись на продавца, который пытается сбыть Testudo Dream. Это небольшой шаттл, используемый для перевозки пассажиров в местном космосе. Он некрасивый, но имеет систему жизнеобеспечения, двигатели и даже несколько складных сидений, если у вас есть друзья, которые вам не очень нравятся. Возможно, это именно то, что вам нужно, чтобы сбежать от повседневной рутины в качестве судоразделочника!\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа является законной, но оно не обладает судовыми системами, кроме базовых систем передвижения и жизнеобеспечения. ",
+    "strDesc" : "Вы случайно наткнулись на продавца, который пытается сбыть Testudo Dream. Это небольшой шаттл, используемый для перевозки пассажиров в местном космосе. Он некрасивый, но имеет систему жизнеобеспечения, двигатели и даже несколько складных сидений, если у вас есть друзья, которые вам не очень нравятся. Возможно, это именно то, что вам нужно, чтобы сбежать от повседневной рутины в качестве судоразделочника!\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный\", что означает, что его продажа является законной, но оно не обладает судовыми системами, кроме базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipShuttleSmallTake"
@@ -7207,7 +7207,7 @@
   {
     "strName" : "CGEncShipSalvageUtilityPodIntro",
     "strTitle" : "Утилитарный корабль.",
-    "strDesc" : "Вам удалось найти информацию о том, что кто-то продает Testudo Melody. Это небольшой корабль с системой жизнеобеспечения, энергоснабжением и двигателями, но многие из важных компонентов подвержены воздействию жесткого вакуума, что затрудняет его обслуживание без скафандра. Тем не менее, любой корабль может стать средством избежать дневной работы на OKLG.\\n\\nРеестр Огисо присвоил этому судну рейтинг OSR \\\"умеренный\\\", что означает, что его продажа является законной, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
+    "strDesc" : "Вам удалось найти информацию о том, что кто-то продает Testudo Melody. Это небольшой корабль с системой жизнеобеспечения, энергоснабжением и двигателями, но многие из важных компонентов подвержены воздействию жесткого вакуума, что затрудняет его обслуживание без скафандра. Тем не менее, любой корабль может стать средством избежать дневной работы на OKLG.\n\nРеестр Огисо присвоил этому судну рейтинг OSR \"умеренный\", что означает, что его продажа является законной, но он не обладает системами, выходящими за рамки базовых систем передвижения и жизнеобеспечения. ",
     "aInverse"          : [
       "CGEncShipSalvagePodCont",
       "CGEncShipSalvageUtilityPodTake"
@@ -7222,8 +7222,8 @@
 
   {
     "strName" : "CGEncShipSalvageContainerPodTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "This \"ship\" is probably more of a coffin. But it's <i>your</i> coffin, damnit. Free and clear.\n\nBesides, there's something kinda poetic about picking over the bones of long-dead vessels in a portable grave.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Этот \nкорабль\n скорее похож на гроб. Но это твой гроб, черт возьми. Свободный и чистый.\n\nКроме того, есть что-то поэтическое в том, чтобы рыться в костях давно погибших судов в переносном гробу.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7233,8 +7233,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You're now the proud owner of a Tu-77a, and you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Теперь вы являетесь счастливым обладателем Ту-77а и можете добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи.\n\nТеперь, когда вы действуете по собственному усмотрению, ваш следующий шаг зависит только от вас. Может быть, найти пару ценных деталей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день ради чужой прибыли. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7245,8 +7245,8 @@
   },
   {
     "strName" : "CGEncShipSalvageSledTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "Well it ain't much, but at least now you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Ну, это не много, но по крайней мере теперь ты можешь добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи. Теперь, когда ты действуешь по собственному усмотрению, следующий шаг зависит от тебя. Может быть, найти пару ценных деталей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день ради чужой прибыли. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7256,8 +7256,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodEnduranceTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You're now the proud owner of a Tu-76a, and you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Теперь вы являетесь счастливым обладателем Ту-76а и можете добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи.\n\nМожет быть, найти пару ценных деталей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день ради чужой прибыли. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7267,8 +7267,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodSmallTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You're now the proud owner of a Tu-70a, and you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Теперь вы являетесь счастливым обладателем Ту-70а и можете добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи. Может быть, найти пару ценных запчастей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день ради чужой прибыли. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7278,8 +7278,8 @@
   },
   {
     "strName" : "CGEncShipSalvagePodTestTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You're now the proud owner of a Testudo Lilliput, and you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Теперь вы являетесь счастливым обладателем Testudo Lilliput и можете добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи.\n\nТеперь, когда вы действуете по собственному усмотрению, ваш следующий шаг зависит только от вас. Может быть, найти пару ценных деталей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день для чьей-то выгоды. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7289,8 +7289,8 @@
   },
   {
     "strName" : "CGEncShipShuttleSmallTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You're now the proud owner of a Testudo Dream, and you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Теперь вы являетесь счастливым обладателем Testudo Dream и можете добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи.\n\nТеперь, когда вы действуете по собственному усмотрению, ваш следующий шаг зависит только от вас. Может быть, найти пару ценных деталей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день ради чужой прибыли. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7300,8 +7300,8 @@
   },
   {
     "strName" : "CGEncShipSalvageUtilityPodTake",
-    "strTitle" : "Take Ship",
-    "strDesc" : "You're now the proud owner of a Testudo Melody, and you can now reach some of the outer derelicts beyond the watchful eye of the yard masters.\n\nNow that you're on your own terms, your next move is up to you. Maybe score a valuable part or two for resale, or reuse? Pull down a platinum tier payout on a gig? Or maybe even discover a ship discarded before its time?\n\nWhatever the case, it beats sweating in a suit all day for someone else's profit. Time to get out there and find your future.",
+    "strTitle" : "Забрать Корабль",
+    "strDesc" : "Теперь вы являетесь счастливым обладателем Testudo Melody и можете добраться до некоторых заброшенных кораблей, находящихся за пределами поля зрения надзирателей верфи.\n\nТеперь, когда вы действуете по собственному усмотрению, ваш следующий шаг зависит только от вас. Может быть, найти пару ценных деталей для перепродажи или повторного использования? Получить платиновый уровень оплаты за работу? Или, может быть, даже обнаружить корабль, выброшенный раньше времени?\n\nВ любом случае, это лучше, чем потеть в костюме весь день ради чужой прибыли. Пора выйти и найти свое будущее.",
     "fDuration"         : 0.0,
     "strThemType"       : "Self",
     "aLootItms"         :
@@ -7343,8 +7343,8 @@
   },
     {
       "strName" : "CGEncRichSchmuckIntroMan",
-      "strTitle" : "King Incognito",
-      "strDesc" : "You're drinking at the local watering hole after your shift, when you see the unicorn. They're the scion of an Ayotimiwa executive, sneaking out to rub shoulders and bump uglies with the common folk. You wince as they try to pay for their round in yuan - it's dollars for the likes of us, friend.\n\nIf you're careful, and lucky, they could be an opportunity.",
+      "strTitle" : "Король инкогнито",
+      "strDesc" : "Вы пьете в местном баре после смены, когда видите единорога. Это отпрыск руководителя Ayotimiwa, который тайком выбрался, чтобы пообщаться с простыми людьми и развлечься. Вы морщитесь, когда он пытается заплатить за выпивку юанями — для таких, как мы, здесь принимают только доллары, друг мой.\n\nЕсли вы будете осторожны и вам повезет, он может стать для вас шансом.",
       "aInverse"          : [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -7362,8 +7362,8 @@
     },
     {
       "strName" : "CGEncRichSchmuckIntroWoman",
-      "strTitle" : "King Incognito",
-      "strDesc" : "You're drinking at the local watering hole after your shift, when you see the unicorn. They're the scion of an Ayotimiwa executive, sneaking out to rub shoulders and bump uglies with the common folk. You wince as they try to pay for their round in yuan - it's dollars for the likes of us, friend.\n\nIf you're careful, and lucky, they could be an opportunity.",
+      "strTitle" : "Король Инкогнито",
+      "strDesc" : "Вы пьете в местном баре после смены, когда видите единорога. Это потомок руководителя Ayotimiwa, который тайком выбрался, чтобы пообщаться с простыми людьми. Вы морщитесь, когда он пытается заплатить за выпивку юанями — для таких, как мы, здесь принимают только доллары, друг мой.\n\nЕсли вы будете осторожны и вам повезет, он может стать для вас шансом.",
       "aInverse"          : [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -7381,8 +7381,8 @@
     },
     {
       "strName" : "CGEncRichSchmuckIntroNB",
-      "strTitle" : "King Incognito",
-      "strDesc" : "You're drinking at the local watering hole after your shift, when you see the unicorn. They're the scion of an Ayotimiwa executive, sneaking out to rub shoulders and bump uglies with the common folk. You wince as they try to pay for their round in yuan - it's dollars for the likes of us, friend.\n\nIf you're careful, and lucky, they could be an opportunity.",
+      "strTitle" : "Король Инкогнито",
+      "strDesc" : "Вы пьете в местном баре после смены, когда видите единорога. Это потомок руководителя Ayotimiwa, который тайком выбрался, чтобы пообщаться с простыми людьми. Вы морщитесь, когда он пытается заплатить за выпивку юанями — для таких, как мы, здесь принимают только доллары, друг мой.\n\nЕсли вы будете осторожны и вам повезет, он может стать для вас шансом.",
       "aInverse"          : [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -7400,8 +7400,8 @@
     },
     {
       "strName" : "CGEncRichSchmuckIntroNone",
-      "strTitle" : "King Incognito",
-      "strDesc" : "You're drinking at the local watering hole after your shift, when you see the unicorn. They're the scion of an Ayotimiwa executive, sneaking out to rub shoulders and bump uglies with the common folk. You wince as they try to pay for their round in yuan - it's dollars for the likes of us, friend.\n\nIf you're careful, and lucky, they could be an opportunity.",
+      "strTitle" : "Король Инкогнито",
+      "strDesc" : "Вы пьете в местном баре после смены, когда видите единорога. Это потомок руководителя Ayotimiwa, который тайком выбрался, чтобы пообщаться с простыми людьми. Вы морщитесь, когда он пытается заплатить за выпивку юанями — для таких, как мы, здесь принимают только доллары, друг мой.\n\nЕсли вы будете осторожны и вам повезет, он может стать для вас шансом.",
       "aInverse"          : [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -7418,8 +7418,8 @@
     },
   {
     "strName" : "CGEncRichSchmuckInciteRiot",
-    "strTitle" : "Start a Riot",
-    "strDesc" : "Okay, so maybe you've been drinking tonight. Maybe your feelings aren't so much fleece the rich as eat the rich. K-Leg bars are volatile at the best of times, and it takes only a bit of theatricality from you to set the dogs on them and their fancy silk clothes.\n\nIt turns ugly, however, when one of their hangers-on reveals herself to be the security detail, and trigger-happy to boot. The subsonic rounds are deafening in the confines of the bar. Suddenly everything is in chaos, people are bleeding on the floor, and AyoSec is on their way. Time you were on yours.\n\nAh, well. Blacklisted from another bar. It's not such a bad outcome, is it? It's important to keep these things in perspective.",
+    "strTitle" : "Начать бунт",
+    "strDesc" : "Ладно, может быть, ты сегодня выпил. Возможно, вы не столько хотите ограбить богатых, сколько съесть их. Бары K-Leg и в лучшие времена отличаются нестабильностью, и вам достаточно проявить немного театральности, чтобы натравить на них и их модные шелковые наряды собак.\n\nОднако ситуация оборачивается плохо, когда одна из их прихвостней оказывается охранником и к тому же любит пострелять. Дозвуковые пули оглушают в замкнутом пространстве бара. Внезапно все погружается в хаос, люди истекают кровью на полу, а AyoSec уже в пути. Пора тебе убираться отсюда. Ну, ладно. Тебя занесли в черный список еще одного бара. Не такой уж плохой исход, правда? Важно сохранять объективный взгляд на вещи.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7432,8 +7432,8 @@
   },
   {
     "strName" : "CGEncRichSchmuckPickpocket",
-    "strTitle" : "Pick their Pocket",
-    "strDesc" : "They're a mark if ever there was one. They might as well have a target embroidered on the back of their bamboo silk tunic.\n\nYou wait until after the fourth round. When they stagger back from the head, you make your move, brush into them on their way out. They don't notice a thing.",
+    "strTitle" : "Обокрасть их",
+    "strDesc" : "Они — идеальная мишень. Можно сказать, что у них на спине вышита цель.\n\nПодожди до конца четвертого раунда. Когда они пошатываясь выйдут из туалета, действуйте, столкнитесь с ними на выходе. Они ничего не заметят.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7445,8 +7445,8 @@
   },
   {
     "strName" : "CGEncRichSchmuckMug",
-    "strTitle" : "Just Mug Them",
-    "strDesc" : "Fuck it. Sometimes the path to riches is a straight line.\n\nPity you don't notice the security detail until it's too late, which happens to be when she's drawing on you. You grab the gun, you struggle - there's a shot -\n\nAnd a dead body on your conscience. But you had to have known this was a possibility, right? Eggs, omelettes.",
+    "strTitle" : "Просто ограбить их",
+    "strDesc" : "К черту. Иногда путь к богатству — это прямая линия.\n\nЖаль, что ты замечаешь охрану только тогда, когда уже слишком поздно, то есть когда она уже нацеливается на тебя. Ты хватаешь пистолет, борешься — раздается выстрел — \n\nИ на твоей совести появляется труп. Но ты же знал, что так может случиться, верно? Яйца, омлеты.",
     "aInverse"          : [
       "CGEncImprisoned"
     ],
@@ -7460,8 +7460,8 @@
   },
   {
     "strName" : "CGEncRichSchmuckSeduce",
-    "strTitle" : "Seduce Them",
-    "strDesc" : "You catch their eye across the crowded bar. A held gaze, a quirk of the brow - that's all it takes. You're that good. It's a crying shame you scrap spaceships for a living.\n\nSure, it's a quintessential hustle, and to their credit they're savvy enough to realise it, but it's not like it's slave labour. That's an Inner System thing. Six months, then a year: time flies by in comparative luxury.\n\nIn the end, they're forced to break it off for an arranged loop (slang for marriage) to another Ayotimiwa family. But you'll always have Paris - the only cafe on the asteroid.",
+    "strTitle" : "Соблазнить их",
+    "strDesc" : "Ты привлекаешь их внимание в переполненном баре. Достаточно одного взгляда, одного поднятия брови. Ты так хорош. Жаль, что ты зарабатываешь на жизнь сносом космических кораблей.\n\nКонечно, это типичная суета, и, к их чести, они достаточно умны, чтобы это понять, но это не рабский труд. Это характерно для Внутренней системы. Шесть месяцев, потом год: время летит в относительной роскоши. В конце концов, они вынуждены порвать отношения из-за устроенного замкнутого круга (сленговое выражение для брака) с другой семьей Айотимива. Но у вас всегда будет Paris — единственное кафе на астероиде.",
     "aLootItms" : [
       "addus,SOCNameDropManager"
     ],
@@ -7476,8 +7476,8 @@
   },
     {
       "strName" : "CGEncRichSchmuckSeduceMan",
-      "strTitle" : "Seduce Them",
-      "strDesc" : "You catch his eye across the crowded bar. A held gaze, a quirk of the brow - that's all it takes. You're that good. It's a crying shame you scrap spaceships for a living.\n\nSure, it's a quintessential hustle, and to his credit he's savvy enough to realise it, but it's not like it's slave labour. That's an Inner System thing. Six months, then a year: time flies by in comparative luxury.\n\nIn the end, he's forced to break it off. Maybe some arranged loop (slang for marriage) to another Ayotimiwa family. But you'll always have Paris - the only cafe on the asteroid.",
+      "strTitle" : "Соблазнить их",
+      "strDesc" : "Ты привлекаешь его внимание в переполненном баре. Взгляд, приподнятая бровь — этого достаточно. Ты такая хорошая. Очень жаль, что ты зарабатываешь на жизнь сносом космических кораблей.\n\nКонечно, это типичная суета, и, к его чести, он достаточно умен, чтобы это понять, но это не рабский труд. Это характерно для Внутренней системы. Шесть месяцев, потом год: время летит в относительной роскоши.\n\nВ конце концов, он вынужден порвать с тобой. Возможно, из-за какого-то замкнутого круга (сленговое выражение для брака) с другой семьей Айотимива. Но у тебя всегда будет Paris — единственное кафе на астероиде.",
       "aInverse"          : [
       ],
       "fDuration"         : 0.0,
@@ -7489,8 +7489,8 @@
     },
     {
       "strName" : "CGEncRichSchmuckSeduceWoman",
-      "strTitle" : "Seduce Them",
-      "strDesc" : "You catch her eye across the crowded bar. A held gaze, a quirk of the brow - that's all it takes. You're that good. It's a crying shame you scrap spaceships for a living.\n\nSure, it's a quintessential hustle, and to her credit she's savvy enough to realise it, but it's not like it's slave labour. That's an Inner System thing. Six months, then a year: time flies by in comparative luxury.\n\nIn the end, she's forced to break it off. Maybe some arranged loop (slang for marriage) to another Ayotimiwa family. But you'll always have Paris - the only cafe on the asteroid.",
+      "strTitle" : "Соблазнить их",
+      "strDesc" : "Ты ловишь ее взгляд через переполненный бар. Удержанный взгляд, поднятие брови — этого достаточно. Ты так хорош. Жаль, что ты зарабатываешь на жизнь сносом космических кораблей.\n\nКонечно, это типичная суета, и, к ее чести, она достаточно умна, чтобы это понять, но это не рабский труд. Это характерно для Внутренней системы. Шесть месяцев, потом год: время летит в относительной роскоши. В конце концов, она вынуждена порвать с тобой. Возможно, из-за какого-то замкнутого круга (сленговое выражение для брака) с другой семьей Айотимива. Но у тебя всегда будет Paris — единственное кафе на астероиде.",
       "aInverse"          : [
       ],
       "fDuration"         : 0.0,
@@ -7502,8 +7502,8 @@
     },
     {
       "strName" : "CGEncRichSchmuckSeduceNB",
-      "strTitle" : "Seduce Them",
-      "strDesc" : "You catch their eye across the crowded bar. A held gaze, a quirk of the brow - that's all it takes. You're that good. It's a crying shame you scrap spaceships for a living.\n\nSure, it's a quintessential hustle, and to their credit they're savvy enough to realise it, but it's not like it's slave labour. That's an Inner System thing. Six months, then a year: time flies by in comparative luxury.\n\nIn the end, they're forced to break it off. Maybe some arranged loop (slang for marriage) to another Ayotimiwa family. But you'll always have Paris - the only cafe on the asteroid.",
+      "strTitle" : "Соблазнить их",
+      "strDesc" : "Ты привлекаешь их внимание в переполненном баре. Достаточно одного взгляда, одного поднятия брови. Ты так хорош. Жаль, что ты зарабатываешь на жизнь сносом космических кораблей.\n\nКонечно, это типичная суета, и, к их чести, они достаточно умны, чтобы это понять, но это не рабский труд. Это характерно для Внутренней системы. Шесть месяцев, потом год: время летит в относительной роскоши.\n\nВ конце концов, они вынуждены порвать. Возможно, из-за какого-то замкнутого круга (сленговое выражение для брака) с другой семьей Айотимива. Но у вас всегда будет Paris — единственное кафе на астероиде.",
       "aInverse"          : [
       ],
       "fDuration"         : 0.0,
@@ -7515,8 +7515,8 @@
     },
   {
     "strName" : "CGEncRichSchmuckCorpSecrets",
-    "strTitle" : "Get them Drunk",
-    "strDesc" : "There's one commodity that's more valuable than all else, even in a monotown like K-Leg: information. And you'd bet they're full of it.\n\nSure enough, after ingratiating yourself and making sure their waterskin is continually topped up, the secrets pour out of him. Shocking stuff. Dark. You didn't know Ayotimiwa's CFO's nephew was into that kind of thing. You didn't even know it *could* be a sex thing.\n\nWhen the shift changes, you're singing in the maintenance access tube together, swearing eternal friendship. But when you sober up, you realise you don't know how to contact them.",
+    "strTitle" : "Напоить их",
+    "strDesc" : "Есть одна вещь, которая ценнее всего остального, даже в таком однообразном городе, как K-Leg: информация. И можно поспорить, что они знают ее много.\n\nКонечно же, после того как ты втерелся в доверие и позаботился о том, чтобы их бурдюки были постоянно полны, он выдал все секреты. Шокирующие вещи. Мрачные. Вы не знали, что племянник финансового директора Айотимивы занимался такими вещами. Вы даже не знали, что это *может* быть связано с сексом. Когда смена заканчивается, вы вместе поете в трубе технического доступа, клянясь в вечной дружбе. Но когда вы протрезвеете, вы понимаете, что не знаете, как с ними связаться.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7528,8 +7528,8 @@
   },
   {
     "strName" : "CGEncRichSchmuckHackPhone",
-    "strTitle" : "RISK: Hack Them (Hacking)",
-    "strDesc" : "The password is 'rosebud'. You choke on the drink you're nursing. Well, at least it wasn't 'password'.\n\nYou remotely clone the contents and upload it to the station's dark web for sale, even as you sit there strapped to your stool. Perhaps fifteen minutes later, the scion takes a phone call which leaves them looking as nervous as it's possible to look while thoroughly sauced. Their retinue organises a speedy retreat.\n\nYou grin into the nozzle of your waterskin. It shouldn't be this easy.",
+    "strTitle" : "РИСК: Взломать их (Навык Взлома)",
+    "strDesc" : "Пароль — 'rosebud'. Вы давитесь напитком, который пьете. Ну, по крайней мере, это не было 'password'.\n\nВы удаленно клонируете содержимое и загружаете его в даркнет станции для продажи, даже сидя привязанным к стулу. Примерно через пятнадцать минут наследник принимает телефонный звонок, после которого выглядит настолько нервным, насколько это возможно, будучи полностью пьяным. Его свита организует быстрое отступление.\n\nВы улыбаетесь в сопло своего мешка с водой. Это не могло быть так просто.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7542,8 +7542,8 @@
   },
   {
     "strName" : "CGEncRichSchmuckHackPhoneFail",
-    "strTitle" : "RISK: Hack Them (Hacking)",
-    "strDesc" : "The password offers you no resistance, but as soon as you're in, you find that your movements feel slow. Everything is taking just a little too long. Every door leads to another door. Nothing is where it should be.\n\nRisking a glance away from your work, you scan the bar, expecting to catch some whitehat grinning back at you. But nobody looks even remotely interested. Where are the hired goons? AyoSec wouldn't let a chump like this go without...\n\nYour PDA is starting to radiate heat. Shit. Shitshitshitshit.\n\nPatrons look on as you claw your way into the PDA's battery compartment, and pull the cell. You knock drinks over, and speedwalk towards the exit, your ears burning with embarrassment.\n\nIn the doorway, you pause for one more look. The fact that the scion isn't looking your way tells you all you need to know.\n\nTime to go home and check your bank account. Or what's left of it.",
+    "strTitle" : "РИСК: Взломать их (Навык Взлома)",
+    "strDesc" : "Пароль не оказывает вам сопротивления, но как только вы попадаете внутрь, вы обнаруживаете, что ваши движения замедляются. Все занимает слишком много времени. Каждая дверь ведет к другой двери. Ничто не находится на своем месте. Отрывая взгляд от своей работы, вы оглядываете бар, ожидая увидеть улыбающегося вам белого хакера. Но никто не выглядит даже отдаленно заинтересованным. Где нанятые головорезы? AyoSec не позволил бы такому придурку уйти без...\n\nВаш КПК начинает излучать тепло. Черт. Черт, черт, черт.\n\nПосетители смотрят, как вы вскрываете батарейный отсек КПК и вытаскиваете батарейку. Вы опрокидываете напитки и быстро направляетесь к выходу, уши горят от стыда. В дверном проеме вы останавливаетесь, чтобы еще раз оглянуться. Тот факт, что наследник не смотрит в вашу сторону, говорит вам все, что нужно знать. Пора идти домой и проверить свой банковский счет. Или то, что от него осталось.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7557,7 +7557,7 @@
   {
     "strName" : "CGEncPodDisasterIntro",
     "strTitle" : "Occupational Hazard",
-    "strDesc" : "В середине процесса утилизации очередного корпуса корабля в кабине вашего спасательного модуля загораются красные индикаторы. Внезапно вы попадаете под тягу одного из двигателей, который выносит вас из орбиты корпуса корабля в черную бездну. Он не реагирует на команды, и у кого-либо нет топлива, чтобы спасти вас; вы не нужны. \\n\\nЕсли вы хотите жить, все зависит от вас.",
+    "strDesc" : "В середине процесса утилизации очередного корпуса корабля в кабине вашего утилизационного корабля загораются красные индикаторы. Внезапно вы попадаете под тягу одного из двигателей, который выносит вас из орбиты корпуса корабля в черную бездну. Он не реагирует на команды, и у кого-либо нет топлива, чтобы спасти вас; вы не нужны. \n\nЕсли вы хотите жить, все зависит от вас.",
     "aInverse"          : [
     "CGEncPodDisasterHackEngine",
     "CGEncPodDisasterNavigate",
@@ -7587,7 +7587,7 @@
 {
     "strName" : "CGEncPodDisasterNavigate",
     "strTitle" : "Взять управление",
-    "strDesc" : "Для этого требуется действительно изобретательный полет. С помощью разумно рассчитанных по времени запусков RCS вы постепенно приближаете свою орбиту к орбите приближающегося грузового корабля. На последнем этапе перехвата вы покидаете обреченный модуль, запуская все оставшиеся в маневровых двигателях скафандра реактивные вещества, отчаянно надеясь не стать жуком на лобовом стекле. \n\nОни зацепляют вас на своем пути и медленно втягивают трос. Он примагничивается к вашему ботинку. Все это довольно унизительно, но, по крайней мере, вы подружились с одним из самых дружелюбных космонавтов на грузовом корабле, который утверждает, что это самое забавное, что он видел за весь год.",    "aInverse"          : [
+    "strDesc" : "Для этого требуется действительно изобретательный полет. С помощью разумно рассчитанных по времени запусков RCS вы постепенно приближаете свою орбиту к орбите приближающегося грузового корабля. На последнем этапе перехвата вы покидаете обреченный корабль, запуская все оставшиеся в маневровых двигателях скафандра реактивные вещества, отчаянно надеясь не стать жуком на лобовом стекле. \n\nОни зацепляют вас на своем пути и медленно втягивают трос. Он примагничивается к вашему ботинку. Все это довольно унизительно, но, по крайней мере, вы подружились с одним из самых дружелюбных космонавтов на грузовом корабле, который утверждает, что это самое забавное, что он видел за весь год.",    "aInverse"          : [
     ],
     "fDuration"         : 0.0,
     "LootCTsUs"       : "CTEncPodDisasterNavigate",
@@ -7598,8 +7598,8 @@
 },
 {
     "strName" : "CGEncPodDisasterEngMechanical",
-    "strTitle" : "Jury Rig Engine",
-    "strDesc" : "This isn't your field of expertise, but the principles of motion are more or less the same anywhere you go. The problem is that one engine is misfiring wildly and counteracting your attempts to correct it. Therefore the solution is to nullify that engine.\n\nLasering through the engine mount on the hardpoint strangely never came up in the owner's manual, but you suspect if it had, it would be under 'Don'ts'. With good reason: as you break through, the engine shears off, taking a part of the pod's frame with it.\n\nYou limp back into port, but the Harbourmaster is none too happy to hear there's another cloud of debris for his crews to track. They fine you for their trouble.",
+    "strTitle" : "Аварийный Двигатель",
+    "strDesc" : "Это не ваша область экспертизы, но принципы движения более или менее одинаковы везде. Проблема в том, что один двигатель сильно пропускает зажигание и мешает вашим попыткам исправить это. Поэтому решением будет вывести этот двигатель из строя.\n\nСтранно, что в руководстве по эксплуатации не упоминается прорезание лазером крепления двигателя на жесткой точке, но вы подозреваете, что если бы это было упомянуто, то находилось бы в разделе \nЧто нельзя делать\n. И не зря: когда вы пробиваете крепление, двигатель отрывается, унося с собой часть каркаса гондолы. Вы с трудом добираетесь до порта, но капитан порта не слишком рад, узнав, что его команде предстоит убирать еще одно облако обломков. Он штрафует вас за причиненные неудобства.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7611,8 +7611,8 @@
 },
 {
     "strName" : "CGEncPodDisasterEngSpaceship",
-    "strTitle" : "Troubleshoot Engine",
-    "strDesc" : "Oh, this. It's a known issue on the Testudo Alpha series. You've just got to reroute power through the axial breakers to trigger an interrupt request from the thrust control module, at the same time as you hit the manufacturer's security keys and - yep. Simple. Lucky this happened to you - someone else might've been in serious trouble.\n\nYour manager is impressed you escaped without damaging the rig. In a rare display of generosity they offer you a bonus on your weekly pay.",
+    "strTitle" : "Устранить Неисправность",
+    "strDesc" : "А, это. Это известная проблема серии Testudo Alpha. Нужно просто перенаправить питание через осевые выключатели, чтобы вызвать запрос прерывания от модуля управления тягой, одновременно нажав на защитные клавиши производителя, и — да. Просто. Повезло, что это случилось с вами — кто-то другой мог бы оказаться в серьезной беде.\n\nВаш менеджер впечатлен тем, что вы ушли, не повредив оборудование. В редком проявлении щедрости он предлагает вам бонус к недельной зарплате.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7624,8 +7624,8 @@
 },
 {
     "strName" : "CGEncPodDisasterRiskAbandonShipSuccess",
-    "strTitle" : "RISK: Abandon ship! (EVA Suit Ops)",
-    "strDesc" : "You've seen this accident enough times to know the surest method of survival. Abandon ship!\n\nYou quickly strap into the emergency EVA suit and hit the eject early enough that the suit can get you to the nearest salvage crew mate. They pull you in just in time.\n\nYour crew chief is a climber with their eyes on management, so after the accident they make a big show of your resourcefulness and talk about how important human assets are to the Ayotimiwa family. There are cameras and Ayo brass at one of these dog-and-pony shows, and your crew chief presents you with a package sheathed in corporate wrapping paper. Inside you find the EVA suit you wore during the escape, the one that saved your life.\n\nIt's a grim reminder of the precarity of the shipbreaking life, but it's also worth more than you make in a month, so you'll take it.",
+    "strTitle" : "РИСК: Покинуть корабль! (Операции в скафандре EVA)",
+    "strDesc" : "Вы видели эту аварию достаточно раз, чтобы знать самый верный способ выживания. Покиньте корабль!\n\nВы быстро надеваете аварийный скафандр EVA и выпрыгиваете достаточно рано, чтобы скафандр мог доставить вас к ближайшему спасателю. Они вытаскивают вас как раз вовремя.\n\nВаш начальник — карьерист, стремящийся к руководству, поэтому после аварии он с большим пафосом рассказывает о вашей находчивости и о том, как важны для семьи Айотимива человеческие ресурсы. На одной из этих показушных церемоний присутствуют камеры и руководство Айо, и ваш начальник вручает вам пакет, обернутый фирменной упаковочной бумагой. Внутри вы находите скафандр EVA, который вы носили во время спасения и который спас вам жизнь. Это мрачное напоминание о нестабильности жизни на корабле, но он стоит больше, чем вы зарабатываете за месяц, поэтому вы его берете.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7641,8 +7641,8 @@
 },
 {
   "strName" : "CGEncPodDisasterRiskAbandonShipFail",
-  "strTitle" : "RISK: Abandon ship! (EVA Suit Ops)",
-  "strDesc" : "As the pod careens deeper into the black you glance over at the emergency locker, the one where Ayotimiwa stores the vacuum rated EVA suit. It's a terrifying calculation, but at the end of the day you know more about EVA ops than you do piloting, so it looks like your best option. Abandon ship!\n\nYou don the suit as quickly as you're able but lose some precious seconds resealing the helmet. In the meantime the sputtering engine has overloaded the intake regulator, which has caught fire. In a matter of moments the entire pod is engulfed and you're still monkeying with the pressure seal on your neck.\n\nYou manage to reseal the helmet, open the airlock, and eject the pod before the entire cabin becomes a blazing inferno. Using carefully timed RCS microbursts you coast to a nearby salvage pod piloted by a crewmate who pulls you into safety. It's only after the adrenaline fades you that you notice the burns on your face and neck.\n\nThese injuries garner no sympathy from Ayotimiwa, however. They fine you for mishandling, burning, and subsequently abandoning their salvage pod. In a rare act of grace, they allow you to keep your shipbreaking job.\n\n",
+  "strTitle" : "РИСК: Покинуть корабль! (Операции в скафандре EVA)",
+  "strDesc" : "Когда капсула все глубже погружается в черную бездну, вы бросаете взгляд на аварийный шкафчик, в котором Айотимива EVA скафандр. Это пугающее решение, но в конце концов вы знаете больше о EVA, чем о пилотировании, так что это кажется лучшим вариантом. Покидайте корабль!\n\nВы надеваете скафандр так быстро, как можете, но теряете несколько драгоценных секунд, запечатывая шлем. Тем временем, задыхающийся двигатель перегрузил регулятор впуска, который загорелся. За считанные секунды весь отсек охвачен пламенем, а вы все еще возитесь с герметичным уплотнением на шее.\n\nВам удается заново запечатать шлем, открыть шлюз и выбросить отсек, прежде чем вся кабина превратится в пылающее пекло. Используя тщательно рассчитанные микроимпульсы RCS, вы добираетесь до ближайшего утилизационного корабля, пилотируемого членом экипажа, который вытаскивает вас в безопасное место. Только после того, как адреналин улетучивается, вы замечаете ожоги на лице и шее. Однако эти травмы не вызывают сочувствия у Айотимивы. Они штрафуют вас за неправильное обращение, поджог и последующее оставление их утилизационного корабля. В редком проявлении милосердия они позволяют вам сохранить работу по утилизации кораблей.\n\n",
   "aInverse"          : [
   ],
   "fDuration"         : 0.0,
@@ -7688,7 +7688,7 @@
 {
   "strName" : "CGEncDailyGrindKioskJob",
   "strTitle" : "Устроиться на вторую работу электриком.",
-  "strDesc" : "Propelled by an intoxicating blend of pride and masochism, you find yourself taking a second gig with Ayotimiwa in entry level maintenance. Your job, officially, is to \"ensure the working condition of Ayotimiwa consumer-facing assets,\" but your new coworkers are quick to inform you that what you've actually become is the \"kiosk bitch.\"\n\nThe humble kiosk: OKLG is littered with them. The royal red Van Buren Pharma. The lime and gray Gig Nexus.The burnt orange of the Ayotimiwa refuel station.\n\nIt's not lost on you that in the early days of the colonization rush these might have been manned jobs, each providing a salary healthy enough to keep at least one spacer housed and fed. But why pay a spacer for what a screen can accomplish twice as fast? Plus, you don't have to give a kiosk their death pay bonus after the screen is inevitably smashed to bits by drunk revelers in the OE.\n\nAt first the job doesn't offer much in the way of excitement. Faulty buy button on a Pharma box at NoCo Marina (quick solder job.) Refuel kiosk in the port has a stuck slider (admin reset). Gig Nexus at Azikiwe Estates has a screen flicker (hard smack does it).\n\nBut soon enough you discover a strange aptitude for electrical maintenance. Circuit boards begin to present to you as cities in miniature: the copper traces running like tiny roadways, LED diodes flashing like traffic lights beneath capacitors looming like the apartment subscrapers on Tharsis Landing.\n\nThe gig doesn't last but your fascination does. Now everytime you pass a kiosk you can't help but press your face against the vents just to get a quick look at the little world inside.",
+  "strDesc" : "Под влиянием опьяняющей смеси гордости и мазохизма вы принимаете вторую работу у Айотимивы в отделе технического обслуживания начального уровня. Официально ваша работа заключается в \"обеспечении работоспособности активов Айотимивы, ориентированных на потребителя\", но ваши новые коллеги быстро сообщают вам, что на самом деле вы стали \"киоск-сучкой\".\n\nСкромный киоск: OKLG пестрит ими. Королевский красный Van Buren Pharma. Лимонно-серый Gig Nexus. Жженый оранжевый заправочный пункт Ayotimiwa.\n\nВы понимаете, что в первые дни колонизационного бума эти работы могли быть укомплектованы людьми, и каждая из них обеспечивала заработную плату, достаточную для того, чтобы прокормить и обеспечить жильем хотя бы одного космонавта. Но зачем платить космонавту за то, что экран может сделать в два раза быстрее? К тому же, вам не нужно выплачивать киоску бонус за смерть после того, как экран неизбежно будет разбит на куски пьяными гуляками в OE. Сначала работа не предлагает ничего интересного. Неисправная кнопка покупки на коробке Pharma в NoCo Marina (быстрая пайка). Заправочный киоск в порту имеет застрявший слайдер (административный сброс). Gig Nexus в Azikiwe Estates имеет мерцающий экран (сильный удар помогает).\n\nНо вскоре вы обнаруживаете у себя странную способность к ремонту электрооборудования. Печатные платы начинают казаться вам миниатюрными городами: медные дорожки, похожие на крошечные дороги, светодиодные диоды, мигающие как светофоры под конденсаторами, возвышающимися как многоэтажные жилые дома на Тарсис Лэндинг.\n\nРабота длится недолго, но ваше увлечение остается. Теперь каждый раз, проходя мимо киоска, вы не можете удержаться от того, чтобы прижать лицо к вентиляционным отверстиям, чтобы быстро заглянуть в маленький мир внутри.",
   "aInverse"          : [
   ],
   "fDuration"         : 0.0,
@@ -7701,7 +7701,7 @@
 {
     "strName" : "CGEncDailyGrindOldMovies",
     "strTitle" : "Смотреть старые фильмы",
-    "strDesc" : "Your Portal pings you as you pass through an Ayotimiwa Communal Recreation Area. 'Old Movie Night!' it reads, 'Shift change plus fifteen.' You cast a dubious glance over the elongated cupboard that is the recreation area, and wrinkle your nose at the lingering tang of burned coffee. Who watches 'movies' anymore? Judging by the room, not more than three adults and a stray HuntCat.\n\nWhen shift change rolls around, you're staring at the underside of the bunk above you. You're exhausted. But ... Old Movie Night, say your thoughts skeptically. Old Movie Night. Old Movie Night. What moron would - oh dear, we seem to be getting out of bed.\n\nYour guess was close. The only other guest is the convenor and host, someone in Ayotimiwa management moonlighting in what appears to be a hobby. They wave you over from within the smoker's bell. \"Welcome.\" Their voice is muted by the bell, but warm. \"You're in time for a classic. Cop Killer, Jason Cheung's action debut. Old Hong Kong, '32.\" They turns their attention to the wallscreen. The HuntCat fires a spur into the shadows, and bounds over to wring the neck of its prize.\n\nYou sleepily observe this and many other 'classics' over the weeks. In addition to Hong Kong action cinema, you see some 40s blockbuster revival, French New Wave, mumblecore, Xinhuan Synthetism, on and on.\n\nOften the films lull you into a deep sleep and further into dreams. There, you find yourself acting as the lead, a desperate bookie with a low hat and a loaded shotgun, or else a lovelorn cab driver cruising the twisted streets of London in search of a fare that will never arrive.\n\nIt all comes to a close when you're rostered on to another shift. You and the host remain friends, though, and meet often at the Mescaform to discuss the cinema of yore. Sometimes, on the walk home, you'll recite your favorite lines to a reflection of yourself in the puddles that dot the grubby corridors of the OE.",
+    "strDesc" : "Ваш портал отправляет вам уведомление, когда вы проходите мимо общественной зоны отдыха Айотимива. 'Вечер старых фильмов!' — гласит сообщение. 'Смена смены плюс пятнадцать'. Вы с сомнением оглядываетесь на удлиненный шкаф, который служит зоной отдыха, и морщите нос от стойкого запаха сгоревшего кофе. Кто сейчас смотрит 'фильмы'? Судя по комнате, не более трех взрослых и бродячая HuntCat.\n\nКогда наступает смена смены, вы смотрите на нижнюю часть койки над вами. Вы измотаны. Но... Вечер старых фильмов, скептически думаете вы. Вечер старых фильмов. Вечер старых фильмов. Какой идиот мог бы... Ой, похоже, мы встаем с постели. Единственный другой гость — организатор и хозяин, кто-то из руководства Ayotimiwa, подрабатывающий тем, что, по всей видимости, является его хобби. Он машет вам рукой из-за курительной колокольчика. \"Добро пожаловать\". Его голос приглушен колокольчиком, но он звучит тепло. \"Вы как раз вовремя для классики. Cop Killer, дебют Джейсона Чунга в жанре боевиков. Старый Гонконг, '32\". Они обращают свое внимание на экран на стене. HuntCat стреляет в тень и прыгает, чтобы переломить шею своей добыче.\n\nВы сонно наблюдаете за этим и многими другими 'классическими' сценами на протяжении нескольких недель. В дополнение к гонконгскому боевику, вы видите несколько ремейков блокбастеров 40-х годов, французскую новую волну, мамблкор, синтетизм Синьхуань и так далее. Часто фильмы убаюкивают вас в глубокий сон и еще глубже в сны. Там вы оказываетесь в роли главного героя, отчаявшегося букмекера с низкой шляпой и заряженным ружьем, или же влюбленного таксиста, мчащегося по извилистым улицам Лондона в поисках пассажира, который никогда не появится. Все заканчивается, когда вас назначают на другую смену. Однако вы с хозяином остаетесь друзьями и часто встречаетесь в Mescaform, чтобы обсудить кино прошлых лет. Иногда, по дороге домой, вы цитируете свои любимые фразы своему отражению в лужах, которые усеивают грязные коридоры OE.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7713,8 +7713,8 @@
 },
 {
     "strName" : "CGEncDailyGrindFeverishSuitMaintenance",
-    "strTitle" : "Suit Maintenance",
-    "strDesc" : "The Bingham-12 Vacuum Mobility Suit has fifteen major seals - lubricate them. The helmet has its own secondary battery system - check the indicator, but also check the physical battery, just in case, because one time you saw that false report. Re-laminate the torso, groin, and skull with radiation absorbent using a fine brush tip. POLDARN - that's the mnemonic for a user review of the suit's internal metrics, according to Ayotimiwa ... but once you get through it, review the balance calibration, because the mnemonic doesn't cover that for some reason. Check boot soles for micro abrasions and organic detritus. Try to scrounge some more cooling gel,  the heatsink on the 12 series guzzles it down. Check internal fans for dust, because dusty fans are to blood clots what heart attacks are to your sudden asphyxiation ...\n\nAt the start of this period, you could do a full check about 8 times per free shift. Toward the end, you're up to 14. It's the kind of thing someone might've called you insane for, if it wasn't so incredibly common.\n\nIn one of your more lucid moments, it occurs to you that this routine might well save your life, but it might very well destroy it, too.",
+    "strTitle" : "Обслужить скафандр",
+    "strDesc" : "Вакуумный скафандр Bingham-12 имеет пятнадцать основных уплотнений — смажьте их. Шлем имеет собственную систему вторичных батарей — проверьте индикатор, но на всякий случай проверьте и саму батарею, потому что однажды вы видели ложное сообщение. Повторно ламинируйте торс, пах и череп с помощью тонкой кисти, используя поглощающий излучение материал. POLDARN — это мнемоническая аббревиатура для проверки внутренних показателей костюма, согласно Айотимиве... но как только вы с этим закончите, проверьте калибровку баланса, потому что мнемоническая аббревиатура по какой-то причине не охватывает это. Проверьте подошвы ботинок на наличие микроцарапин и органических отходов. Попытайтесь раздобыть еще немного охлаждающего геля,  потому что радиатор серии 12 его быстро расходует. Проверьте внутренние вентиляторы на наличие пыли, потому что запыленные вентиляторы для тромбов — то же самое, что сердечные приступы для вашей внезапной асфиксии...\n\nВ начале этого периода вы могли проводить полную проверку примерно 8 раз за каждую свободную смену. К концу периода вы доходите до 14. За такое кто-то мог бы назвать вас сумасшедшим, если бы это не было так невероятно распространено.\n\nВ один из ваших более ясных моментов вам приходит в голову, что эта рутина вполне может спасти вам жизнь, но с таким же успехом может и разрушить ее.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7727,7 +7727,7 @@
 {
     "strName" : "CGEncDailyGrindUndergroundBoxing",
     "strTitle" : "Бойцовский клуб",
-    "strDesc" : "Watching Freefall Fighting Championship reruns on your Portal doesn't do it for you anymore. You need to hit someone. You need to get hit. Enough of this death by a thousand cuts, daily grind, BULLshit. It's time you did some physical laundry, and you're separating the aches from the pains. If life is going to hurt, then it's going to REALLY hurt.\n\nYou meet in Bay E4, a fact that stays strictly between you all. It's not illegal - Ayotimiwa couldn't give any less of a shit - but if enough people found out, look, it just wouldn't be the same, alright? It feels good to hide the bruises. It feels secret to look at your coworkers and know, yeah, I could take him. In a place where a human life has a dollar value, and not a very big one, you've found a new standard by which to measure yours.\n\nIt's the copycats which do you in. Buncha idiots start smacking each other around in the mall's third level plaza, in full view of everyone. Then Ayotimiwa has to introduce and enforce a blanket ban, and you're back to the 3FC channel. At least you have a backlog of fresh content ready to go.",
+    "strDesc" : "Просмотр повторов чемпионата по смешанным единоборствам на вашем портале больше не приносит вам удовольствия. Вам нужно ударить кого-нибудь. Вам нужно получить удар. Хватит этой смерти от тысячи порезов, ежедневной рутины, БРЕДИ. Пришло время заняться физической чисткой, и вы отделяете боль от страданий. Если жизнь будет причинять боль, то она будет причинять ПРАВДИВУЮ боль.\n\nВы встречаетесь в отсеке E4, и это остается строго между вами. Это не незаконно — Айотимива плевать на это — но если об этом узнает достаточное количество людей, то все будет уже не так, понимаете? Приятно скрывать синяки. Приятно смотреть на своих коллег и знать, что да, я мог бы его побить. В месте, где человеческая жизнь имеет денежную ценность, причем не очень большую, ты нашел новый стандарт, по которому можно оценивать свою жизнь. Тогда Айотимива вынужден ввести и обеспечить соблюдение полного запрета, и ты возвращаешься к каналу 3FC. По крайней мере, у тебя есть запас свежего контента, готового к использованию.",
     "aLootItms" : [
       "addus,SOCNameDropLEO"
     ],
@@ -7743,7 +7743,7 @@
 {
     "strName" : "CGEncDailyGrindShippingNews",
     "strTitle" : "Отправиться на поиск кораблей",
-    "strDesc" : "\"Super heavy lifter approaching sunward high, inbound from Jade Rabbit, commencing secondary retroburn. Note the indigo markings, she's a security contractor. Wonder what she was doing on Luna?\"\n\n\"Private cargo ship, The Zenith, taxiing to burn. Isn't that Captain Forrestor's ship? Guess he's taking the Harbourmaster's threat seriously.\"\n\n\"Check out rimward high, hundred klicks - someone's ignored the ATC. There's a couple of stunted pilots playing chicken over who gets right of way. There's a traffic drone on intercept.\"\n\nK-Leg monitors ships approaching and departing in a several million kilometre volume, so there's always something happening, and there's always someone watching. The Shipping News is a chat server for the latter folk. They're quite happy to explain their jargon to a newcomer, and the complex orbital visualisations soon stop being confusing and become engrossing, even hypnotic. You learn a lot about how many ships come and go from a port, and what kind. In the end this makes you more valuable to Ayotimiwa, and you leverage that for higher pay in the breaker yard.",
+    "strDesc" : "\"Супертяжелый грузовой корабль приближается к Солнцу, летит из Jade Rabbit, начинает вторичное торможение. Обратите внимание на индиговые отметки, это корабль охранной компании. Интересно, что она делала на Луне?\"\n\n\"Частный грузовой корабль Zenith, рулит к месту торможения. Разве это не корабль капитана Форрестора? Похоже, он всерьез воспринял угрозу капитана порта.\"\n\n\"Посмотрите на высоту в сотнях километров — кто-то проигнорировал ATC. Пара неуклюжих пилотов играет в курицу, споря, кто имеет право проезда. Трафик-дрон перехватил их\". K-Leg отслеживает корабли, приближающиеся и удаляющиеся в радиусе нескольких миллионов километров, поэтому всегда что-то происходит, и всегда есть кто-то, кто за этим наблюдает. Shipping News — это чат-сервер для последних. Они с удовольствием объясняют свой жаргон новичкам, и сложные орбитальные визуализации вскоре перестают быть запутанными и становятся увлекательными, даже гипнотическими. Вы узнаете многое о том, сколько и какие корабли приходят в порт и уходят из него. В конце концов, это делает вас более ценным для Айотимивы, и вы используете это для получения более высокой зарплаты на свалке.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7775,7 +7775,7 @@
 {
     "strName" : "CGEncRareSalvageTellAyotimiwa",
     "strTitle" : "Оповестить корпорацию Айотимива",
-    "strDesc" : "Возможно, вы не одобряете такую практику, а может быть, просто не стоит рисковать в этот раз. Вы уже проходили аудит. Никогда не бывает приятно объяснять, откуда взялись ваши дополнительные расходы. Какова бы ни была ваша причина, вы сообщаете об этом своему начальнику, который, в свою очередь, сообщает своему начальнику, и так далее. Из штаб-квартиры Айотимива отправляется специальная команда, которая аккуратно вырезает часть, помещает ее в запечатанный контейнер и незамедлительно оставляет в вытяжном канале плазменной горелки. \\n\\nВас рассматривают для получения официального благодарственного письма, но в конечном итоге его не выдают. Вместо этой чести вам дарят футболку с логотипом Айотимива.",
+    "strDesc" : "Возможно, вы не одобряете такую практику, а может быть, просто не стоит рисковать в этот раз. Вы уже проходили аудит. Никогда не бывает приятно объяснять, откуда взялись ваши дополнительные расходы. Какова бы ни была ваша причина, вы сообщаете об этом своему начальнику, который, в свою очередь, сообщает своему начальнику, и так далее. Из штаб-квартиры Айотимива отправляется специальная команда, которая аккуратно вырезает часть, помещает ее в запечатанный контейнер и незамедлительно оставляет в вытяжном канале плазменной горелки. \n\nВас рассматривают для получения официального благодарственного письма, но в конечном итоге его не выдают. Вместо этой чести вам дарят футболку с логотипом Айотимива.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -7791,7 +7791,7 @@
 {
   "strName" : "CGEncRareSalvageSmash",
   "strTitle" : "Разбить и почувствовать себя живым",
-  "strDesc" : "В некотором смысле, разрушение само по себе является актом созидания. Тысячами актов. Превращением одной вещи во множество других. В осколки.\\n\\nОб этом ты думаешь, когда впервые бьешь по легендарной Miura Hydra ломом. Ваш удар вмял королевско-синий алюминиевый корпус и выбил что-то из внутренней сборки. Два винта и шайба выкатились из-под машины, как первые конфеты, выпадающие из обреченной пиньяты.\\n\\nЭтого достаточно, чтобы вызвать маниакальную серию ударов, которые вы запомните только как белое горячее возбуждение. Каждый мускул вашего тела посвящает себя этой единственной задаче, редкому гармоничному состоянию тела и разума, которое порождает ритм ударов, разбрасывающих куски разрушенного металла по всей кабине. \\n\\nКогда вы наконец приходите в себя, вы едва можете узнать Miura в том виде, в каком она была. Некоторые внутренние компоненты остались нетронутыми. На вашей руке кровь.\\n\\nДлинная струйка течет из пореза на руке, которого вы не чувствуете. Вы настолько измотаны, что едва можете думать. Наконец-то.",
+  "strDesc" : "В некотором смысле, разрушение само по себе является актом созидания. Тысячами актов. Превращением одной вещи во множество других. В осколки.\n\nОб этом ты думаешь, когда впервые бьешь по легендарной Miura Hydra ломом. Ваш удар вмял королевско-синий алюминиевый корпус и выбил что-то из внутренней сборки. Два винта и шайба выкатились из-под машины, как первые конфеты, выпадающие из обреченной пиньяты.\n\nЭтого достаточно, чтобы вызвать маниакальную серию ударов, которые вы запомните только как белое горячее возбуждение. Каждый мускул вашего тела посвящает себя этой единственной задаче, редкому гармоничному состоянию тела и разума, которое порождает ритм ударов, разбрасывающих куски разрушенного металла по всей кабине. \n\nКогда вы наконец приходите в себя, вы едва можете узнать Miura в том виде, в каком она была. Некоторые внутренние компоненты остались нетронутыми. На вашей руке кровь.\n\nДлинная струйка течет из пореза на руке, которого вы не чувствуете. Вы настолько измотаны, что едва можете думать. Наконец-то.",
   "aInverse"          : [
   ],
   "fDuration"         : 0.0,
@@ -7838,7 +7838,7 @@
 {
   "strName" : "CGEncRareSalvageTakeItForYourselfFail",
   "strTitle" : "РИСК: Забрать для себя (Patient)",
-  "strDesc" : "Ваш план состоит в том, чтобы действовать медленно и осторожно, дожидаться подходящего момента и любоваться Hydra только тогда, когда вы остаетесь с ней наедине. Но к седьмому дню перерыва очарование этой детали становится просто непосильным.\\n\\nВ тот момент, когда ваш руководитель дает сигнал, что он уходит в туалет, вы приступаете к делу, убежденные, что сможете снять деталь и спрятать ее в безопасном месте, пока он не вернется.\\n\\nНо пока вы успеваете демонтировать деталь, ваш руководитель возвращается и застает вас за тем, как вы прячете ее в малоизвестном воздуховоде 448, и вы не можете ничего сказать, чтобы убедить его, что она находится там, где и должна быть.\\n\\nВаш руководитель сообщает о нарушении в AyoSec, и корпорация проводит ваше судебное разбирательство и выносит приговор до конца смены. Два вооруженных офицера выводят вас с территории и отправляют прямо в изолятор.\\n\\nАзикиве-Бриг, управляемый AyoSec, не так страшен, как Прокофьев, но и идеальным его тоже не назовешь. Вам все равно придется проявить изобретательность, если вы хотите выбраться отсюда целым и невредимым.\n\n",
+  "strDesc" : "Ваш план состоит в том, чтобы действовать медленно и осторожно, дожидаться подходящего момента и любоваться Hydra только тогда, когда вы остаетесь с ней наедине. Но к седьмому дню перерыва очарование этой детали становится просто непосильным.\n\nВ тот момент, когда ваш руководитель дает сигнал, что он уходит в туалет, вы приступаете к делу, убежденные, что сможете снять деталь и спрятать ее в безопасном месте, пока он не вернется.\n\nНо пока вы успеваете демонтировать деталь, ваш руководитель возвращается и застает вас за тем, как вы прячете ее в малоизвестном воздуховоде 448, и вы не можете ничего сказать, чтобы убедить его, что она находится там, где и должна быть.\n\nВаш руководитель сообщает о нарушении в AyoSec, и корпорация проводит ваше судебное разбирательство и выносит приговор до конца смены. Два вооруженных офицера выводят вас с территории и отправляют прямо в изолятор.\n\nАзикиве-Бриг, управляемый AyoSec, не так страшен, как Прокофьев, но и идеальным его тоже не назовешь. Вам все равно придется проявить изобретательность, если вы хотите выбраться отсюда целым и невредимым.\n\n",
   "aLootItms" : [
   ],
   "aInverse"          : [
@@ -7854,8 +7854,8 @@
 },
 {
     "strName" : "CGEncRareSalvageBribeBoss",
-    "strTitle" : "Подкупить своего босса и разделите прибыль",
-    "strDesc" : "Среднее руководство Ayotimiwa знает, в какую сторону дует солнечный ветер (в сторону края, если только не произошло что-то ужасное). Дядя Айо не хочет знать, как работают легендарные черные рынки, и уж точно не хочет, чтобы кто-то стал информатором. Но, как всегда, есть правильный и неправильный подход к взятке. И в любом случае слухи всегда доходят до отдела по борьбе с мошенничеством Ayosec.\\n\\nВсе это проносится в вашей голове, когда вы суете своему начальнику кредитный чип и просите его пойти на ранний обед за ваш счет. Вы наблюдаете, как ее глаза затуманиваются. Очевидно, что ей приходилось делать это много раз. \\\"Только не облажайся\\\", — резко говорит она и возвращается в кабину. В целом, это хороший совет, думаешь ты, включая сварочный аппарат. Если не облажаешься, то в конце дня эта деталь принесет тебе гораздо больше, чем взятка. Хороший улов, даже если он неизбежно привлечет немного внимания со стороны властей.",
+    "strTitle" : "Подкупить своего босса и разделить прибыль",
+    "strDesc" : "Среднее руководство Ayotimiwa знает, в какую сторону дует солнечный ветер (в сторону края, если только не произошло что-то ужасное). Дядя Айо не хочет знать, как работают легендарные черные рынки, и уж точно не хочет, чтобы кто-то стал информатором. Но, как всегда, есть правильный и неправильный подход к взятке. И в любом случае слухи всегда доходят до отдела по борьбе с мошенничеством Ayosec.\n\nВсе это проносится в вашей голове, когда вы суете своему начальнику кредитный чип и просите его пойти на ранний обед за ваш счет. Вы наблюдаете, как ее глаза затуманиваются. Очевидно, что ей приходилось делать это много раз. \"Только не облажайся\", — резко говорит она и возвращается в кабину. В целом, это хороший совет, думаешь ты, включая сварочный аппарат. Если не облажаешься, то в конце дня эта деталь принесет тебе гораздо больше, чем взятка. Хороший улов, даже если он неизбежно привлечет немного внимания со стороны властей.",
     "aLootItms" : [
       "addus,SOCNameDropManager"
     ],
@@ -7871,7 +7871,7 @@
 {
   "strName" : "CGEncAnotherYear",
   "strTitle" : "Еще один год",
-  "strDesc" : "Несмотря на все ваши усилия, ваша мечта о собственном спасательном корабле по-прежнему остается недостижимой. Вы задаетесь вопросом, не пора ли изменить стратегию.\n\nКак вы проведете предстоящий год?\n\n",
+  "strDesc" : "Несмотря на все ваши усилия, ваша мечта о собственном ктилизационном корабле по-прежнему остается недостижимой. Вы задаетесь вопросом, не пора ли изменить стратегию.\n\nКак вы проведете предстоящий год?\n\n",
   "aInverse"          : [
     "CGLiveFastList",
     "CGSaveUpList",
@@ -7885,7 +7885,7 @@
 {
     "strName" : "CGEncPokerGameIntro",
     "strTitle" : "Игра в покер",
-    "strDesc" : "Дама бубен на ривере. Хорошо сочетается с вашими дамами, превращает вашу двойку в фулл-хаус. Хуан, парень, который втянул вас в эту игру, выбыл. Старинный нигерийский судоходный магнат сбрасывает карты. Дама, которая, судя по ее поведению, является военным подрядчиком, находящимся не при исполнении служебных обязанностей, сбрасывает карты. Остались только вы и Хай Роллер, который уже некоторое время отстает. \\n\\n\\\"Знаешь что, — говорит он, слабо улыбаясь под зеркальными очками. — Давай сделаем это интересным\\\". Он бросает на стол капитанский ключ для звездолета. Другие игроки переходят от тишины к мертвой тишине. Его единственным шансом был внутренний стрит-дро для стрит-флеша... и он точно не стал бы блефовать с чем-то столь ценным. Верно?",
+    "strDesc" : "Дама бубен на ривере. Хорошо сочетается с вашими дамами, превращает вашу двойку в фулл-хаус. Хуан, парень, который втянул вас в эту игру, выбыл. Старинный нигерийский судоходный магнат сбрасывает карты. Дама, которая, судя по ее поведению, является военным подрядчиком, находящимся не при исполнении служебных обязанностей, сбрасывает карты. Остались только вы и Хай Роллер, который уже некоторое время отстает. \n\n\"Знаешь что, — говорит он, слабо улыбаясь под зеркальными очками. — Давай сделаем это интересным\". Он бросает на стол капитанский ключ для звездолета. Другие игроки переходят от тишины к мертвой тишине. Его единственным шансом был внутренний стрит-дро для стрит-флеша... и он точно не стал бы блефовать с чем-то столь ценным. Верно?",
     "aInverse"          : [
     "CGEncPokerGameCallBluffSuccess",
     "CGEncPokerGameCallBluffFail",
@@ -8015,8 +8015,8 @@
 },
   {
     "strName" : "CGEncTestIntro",
-    "strTitle" : "Labor Barge Locker",
-    "strDesc" : "Hulks of blackened metal loom all around as you ride the labor barge out to the boneyard. The barge is so overloaded today, they've got some of you clinging to a cargo web full of locked crates.\n\nCrates with emergency supplies they'll, no doubt, deduct from your pay if you dare have an accident.\n\nBut the armed guard's back is turned...",
+    "strTitle" : "Шкафчик на рабочей барже",
+    "strDesc" : "Пока вы плывете на рабочей барже к кладбищу кораблей, вокруг вас возвышаются корпуса почерневшего металла. Сегодня баржа настолько перегружена, что некоторым из вас приходится цепляться за грузовую сетку, заполненную запертыми ящиками.\n\nЯщики с аварийными запасами, которые, без сомнения, вычтут из вашей зарплаты, если вы осмелитесь пойти на риск.\n\nНо вооруженный охранник отвернулся...",
     "aInverse"          : [
       "CGEncTestA",
       "CGEncTestAFail",
@@ -8032,8 +8032,8 @@
   },
   {
     "strName" : "CGEncTestA",
-    "strTitle" : "RISK: Force the Lock (Strong)",
-    "strDesc" : "Three swings is all it takes, the entire front half of the crate caving under your assault. The few laborers that notice you stare agape, shocked at the display of strength.\n\nAll except one, who risks loosening their grip to clap you on the shoulder and nod in approval.\n\nInside you find a laser torch in pristine condition. It's a shame they sell the battery separately.",
+    "strTitle" : "РИСК: Открыть силой (Сила)",
+    "strDesc" : "Достаточно трех ударов, и вся передняя половина ящика проваливается под вашим натиском. Немногие рабочие, которые заметили вас, смотрят с открытыми ртами, потрясенные проявлением силы.\n\nВсе, кроме одного, который рискует ослабить хватку, чтобы похлопать вас по плечу и одобрительно кивнуть.\n\nВнутри вы находите лазерную горелку в идеальном состоянии. Жаль, что батарею продают отдельно.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8049,8 +8049,8 @@
   },
   {
     "strName" : "CGEncTestAFail",
-    "strTitle" : "RISK: Force the Lock (Strong)",
-    "strDesc" : "You're confident with your first swing, a huge looping crowbar blow that sends the adjacent spacers ducking for cover. Your second swing, however, leaves you impressed with the crate's hearty construction.\n\n By the fifth failed hit you're dripping sweat and cursing the bloodline of whoever designed what appears to be the strongest crate lock in human history.\n\n You keep swinging anyway because nobody likes a quitter. The nearby spacers chuckle or drift off as the AyoSec officer floats towards you and places a sympathetic, if condescending, hand on your shoulder.\n\nUltimately, you're fined for misconduct. In one final blow to your ego, they let you off the hook for any \"damage\" done to the crate.",
+    "strTitle" : "РИСК: Открыть силой (Сила)",
+    "strDesc" : "Вы уверены в своем первом ударе — мощном ударе ломом, от которого соседничающие прокладки пригибаются. Однако второй удар впечатляет вас прочностью конструкции ящика. К пятому неудачному удару вы уже покрыты потом и проклинаете родословную того, кто разработал, по-видимому, самый прочный замок для ящиков в истории человечества. Вы продолжаете бить, потому что никто не любит сдающихся. Стоящие поблизости космонавты смеются или уходят, а офицер AyoSec подплывает к вам и кладет руку на ваше плечо в знак сочувствия, хотя и с некоторым снисходительностью. В конце концов, вас штрафуют за неправомерное поведение. В качестве последнего удара по вашему самолюбию, они не штрафуют вас за \"повреждения\", нанесенные ящику.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8062,8 +8062,8 @@
   },
   {
     "strName" : "CGEncTestB",
-    "strTitle" : "Hack the Lock",
-    "strDesc" : "These cases have a firmware update vulnerability you were reading about. Using a data cable to your handset, you try a script you've been working on to hack the PIN.\n\nA flash of green and a puff of air signal your success, eliciting silent fist pumps and wide smiles from the neighboring laborers.",
+    "strTitle" : "Взломать Замок",
+    "strDesc" : "Эти корпуса имеют уязвимость в обновлении прошивки, о которой вы читали. Используя кабель для передачи данных к вашему телефону, вы пробуете скрипт, над которым работали, чтобы взломать PIN-код.\n\nВспышка зеленого света и поток воздуха сигнализируют о вашем успехе, вызывая тихие вздохи облегчения и широкие улыбки соседей-рабочих.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8076,7 +8076,7 @@
   {
     "strName" : "CGEncTestC",
     "strTitle" : "Проделать отверстие в ящике",
-    "strDesc" : "As one of the more skilled hull cutters, you're assigned a laser torch for the day. Firing-up your borrowed laser torch and making room between the webbing, a nearby laborer looks around, and organizes a few others to anchor you as you work. Within seconds, an orange-ringed chunk of the crate, lock and all, floats away to silent cheers from your fellow workers.\n\nYou rifle through the crate's contents as quick as you can and burn your arm on molten metal in the process. The score is yours, plus a scar to remember it by.",
+    "strDesc" : "Как один из наиболее опытных резчиков корпусов, вам на день выдают лазерную горелку. Зажигая одолженную лазерную горелку и проделывая пространство между переплетными ремнями, стоящий рядом рабочий оглядывается и организует нескольких других, чтобы они удерживали вас во время работы. Через несколько секунд оранжевый кусок ящика с замком и всем остальным уплывает прочь под тихие аплодисменты ваших коллег.\n\nВы как можно быстрее просматриваете содержимое ящика и при этом обжигаете руку о расплавленный металл. Вы добились успеха, но остался шрам на память о нем.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8087,8 +8087,8 @@
   },
   {
     "strName" : "CGEncTestD",
-    "strTitle" : "Mislabel Crate",
-    "strDesc" : "Some less scrupulous scrap bosses run smuggling on the side, using the labor barge as cover to ferry crates out to buyers. You're willing to bet a mis-labeled crate might put it somewhere you and your buddies could get to unseen, once the barge reaches the site.\n\n But when you get back to station the site manager fines your team for the missing cargo. To make matters worse, one of your brilliant co-conspirators forgot where they stashed the loot. You make them buy the crew a bottle of vodka and let the fuck up be the running joke of the evening as the three of you cruise the corridors of the OE.\n\n",
+    "strTitle" : "Изменить маркировку ящика",
+    "strDesc" : "Некоторые менее щепетильные боссы-ломщики занимаются контрабандой, используя баржу для перевозки грузов в качестве прикрытия, чтобы перевозить ящики покупателям. Вы готовы поспорить, что ящик с неправильной маркировкой может оказаться в месте, куда вы и ваши друзья сможете добраться незаметно, как только баржа достигнет места назначения.\n\n Но когда вы возвращаетесь на станцию, менеджер объекта штрафует вашу команду за пропавший груз. Что еще хуже, один из ваших блестящих сообщников забыл, где они спрятали добычу. Вы заставляете его купить экипажу бутылку водки и позволяете этому придурку быть предметом шуток весь вечер, пока вы трое бродите по коридорам OE.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8101,8 +8101,8 @@
   },
   {
     "strName" : "CGEncTestE",
-    "strTitle" : "Report Poor Security to Ayotimiwa",
-    "strDesc" : "When the shift ends you stop by your manager's office and let them know about the security leak on the labor barge. They appreciate the loyalty and tell you to contact them if you ever need anything.\n\nAs you turn to leave the office your manager tosses something to you that you barely manage to catch. It's a limited edition Ayotomiwa shoulder bag. Nice!\n\n",
+    "strTitle" : "Сообщить Айотимиве о проблеме безопасности",
+    "strDesc" : "Когда смена заканчивается, ты заглядываешь в кабинет своего менеджера и сообщаешь ему о проблемах безопасности на барже с рабочими. Он ценит твою лояльность и просит тебя обращаться к нему, если тебе что-нибудь понадобится. Когда ты поворачиваешься, чтобы выйти из кабинета, твой менеджер бросает тебе что-то, что ты едва успеваешь поймать. Это сумка через плечо Ayotomiwa из ограниченной серии. Здорово!\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8163,7 +8163,7 @@
   {
     "strName" : "CGEncCrackdownBluff",
     "strTitle" : "Блеф",
-    "strDesc" : "You can't run a grift without preparation. You can't pull one off without a little luck. Fortunately, today you have both.\n\nThere's a rumour going around that a bureau of AyoSec inserts plainclothes police into communities like this one. If they exist, they've covered their trail so far. With nothing else to go on, you spent three long nights painstakingly copying, modelling, and printing a fake security badge. It won't pass close inspection, but if it goes according to plan, it won't have to.\n\nAs the inspector reaches your position in the lineup, you make sure she catches sight of your badge, flat against your palm. You stare straight ahead. This is a confidence game. First one to blink loses.\n\nThe inspector gives you a long look, but when she rifles through your belongings, she doesn't react to what you have hidden in there.\n\n\"Your work visa is invalid,\" she says impassively. \"I'll let you off with a warning this time.\"\n\nShe moves on down the line. Two weeks later you see an Ayotimiwa deposit into the account you set up in the forged IDs name.\n\n",
+    "strDesc" : "Невозможно осуществить аферу без подготовки. Невозможно осуществить аферу без небольшой доли везения. К счастью, сегодня у вас есть и то, и другое.\n\nХодят слухи, что бюро AyoSec внедряет полицейских в штатском в такие сообщества, как это. Если они действительно существуют, то пока что они хорошо скрывают свои следы. Не имея ничего другого, вы провели три долгих ночи, кропотливо копируя, моделируя и печатая поддельный пропуск. Он не пройдет тщательную проверку, но, если все пойдет по плану, в этом и не будет необходимости.\n\nКогда инспектор доходит до вашего места в очереди, вы следите за тем, чтобы она заметила ваш пропуск, прижатый к ладони. Вы смотрите прямо перед собой. Это игра на доверие. Первый, кто моргнет, проиграет. Инспектор долго смотрит на вас, но, когда она обыскивает ваши вещи, она не реагирует на то, что вы там спрятали. \n\n\"Ваша рабочая виза недействительна\", — бесстрастно говорит она. \"На этот раз я отпущу вас с предупреждением\".\n\nОна проходит дальше по очереди. Через две недели вы видите, как Айотимива делает взнос на счет, который вы открыли на имя поддельного удостоверения личности.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8175,8 +8175,8 @@
   },
   {
     "strName" : "CGEncCrackdownNothingToHide",
-    "strTitle" : "Have Nothing To Hide",
-    "strDesc" : "You're on the straight and narrow. Your work visa is legal and valid. You aren't carrying any contraband, and your rent is paid up two weeks in advance.\n\nAs the AyoSec officers customarily rifle through your closet, one of them steps towards you and offers their card.\n\n \"Reach out if you ever see anything you shouldn't,\" they say.\n\nAlways nice to make a friend. Still, you think to yourself as the officers slam the door behind them, it'd be nice to find a berth with a quieter nightlife.\n\n",
+    "strTitle" : "Мне Нечего Скрывать",
+    "strDesc" : "Вы ведете честную жизнь. Ваша рабочая виза легальна и действительна. Вы не перевозите контрабанду, а аренда за квартиру оплачена на две недели вперед.\n\nКогда сотрудники AyoSec, как обычно, обыскивают ваш шкаф, один из них подходит к вам и протягивает свою визитку.\n\n \"Если увидите что-то, чего не должны, обращайтесь,\" — говорят они.\n\nВсегда приятно завести друга. Тем не менее, когда сотрудники захлопывают за собой дверь, вы думаете про себя, что было бы неплохо найти место для ночлега с более спокойной ночной жизнью.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8188,8 +8188,8 @@
   },
   {
     "strName" : "CGEncCrackdownFakeAPressureAlarm",
-    "strTitle" : "Fake A Pressure Alarm",
-    "strDesc" : "On some stations, hackers are monitored with the same vigilance as states seeking nuclear capabilities back on Old Earth. Do they have the technology needed to perform a cyberattack? Do they have the motivation? The skills, the opportunity, the support network?\n\nThis is a good example of why such precautions exist.\n\nIt's the work of ten tense seconds to isolate the corridor the AyoSecs are advancing down. It's three keystrokes to trigger a vacuum alarm. You hear the thuds as the bulkheads close, trapping them inside.\n\nBy the time the sysop can untangle the mess you leave behind, the raid will be neutered, by social embarrassment if nothing else. Some of your dorm-mates take advantage of the confusion to slip away, hopefully to a less-policed area of the station, if such a thing exists in the Barracks.",
+    "strTitle" : "Ложная тревога о давлении",
+    "strDesc" : "На некоторых станциях хакеры контролируются с той же бдительностью, что и государства, стремящиеся к обладанию ядерным оружием на Старой Земле. Имеют ли они технологию, необходимую для проведения кибератаки? Имеют ли они мотивацию? Навыки, возможности, сеть поддержки?\n\nЭто хороший пример того, почему существуют такие меры предосторожности.\n\nЧтобы изолировать коридор, по которому продвигаются AyoSecs, требуется десять напряженных секунд. Чтобы включить сигнализацию вакуума, нужно нажать три клавиши. Вы слышите глухие удары, когда переборки закрываются, заперев их внутри.\n\nК тому времени, когда системный оператор разберется с беспорядком, который вы оставили после себя, рейд будет нейтрализован, если не чем-то другим, то по крайней мере социальным позором. Некоторые из ваших соседей по общежитию пользуются суматохой, чтобы ускользнуть, надеясь попасть в менее охраняемую часть станции, если таковая вообще существует в казармах.",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
@@ -8201,8 +8201,8 @@
   },
   {
     "strName" : "CGEncCrackdownBeAHeroFail",
-    "strTitle" : "RISK: Be A Hero (Unarmed Melee)",
-    "strDesc" : "A few months back you bought a piece - it's a rough neighbourhood, and the black market likes it that way. It's not even an old world pistol. It's a damned crossbow, printed plastic with a couple of bolts so delicate you suspect they'll snap instead of launch.\n\nStill, it's a hundred foot-pounds of muzzle energy you wouldn't have otherwise.\n\nTo your surprise, the bolt doesn't break; instead, it punctures the armor of the first guy through the door. Later, you suspect that's why they were so hard on you with the boot, as you wait in line for the magistrate to hear your case, face still colourful with the bruises.\n\nIf crime doesn't pay, and heroism actively costs you, what is left? Anodyne, value-free work, it would seem.",
+    "strTitle" : "РИСК: Стать героем (Рукопашный Бой)",
+    "strDesc" : "Несколько месяцев назад ты купил его — это опасный район, и черному рынку это нравится. Это даже не пистолет старого образца. Это проклятый арбалет, напечатанный из пластика, с парой болтов, настолько хрупких, что вы подозреваете, что они сломаются, а не вылетят.\n\nТем не менее, это сто футов-фунтов энергии дула, которой у вас иначе не было бы.\n\nК вашему удивлению, болт не ломается, а пробивает броню первого парня, входящего в дверь. Позже, когда вы ждете в очереди, чтобы магистрат рассмотрел ваше дело, с лицом, все еще покрытым синяками, вы подозреваете, что именно поэтому они так жестоко с вами обошлись. Если преступность не окупается, а героизм активно обходится вам дорого, что остается? Кажется, безвредная, лишенная ценности работа.",
     "aInverse"          : [
       "CGEncImprisoned"
     ],
@@ -8216,8 +8216,8 @@
   },
   {
     "strName" : "CGEncCrackdownBeAHeroSuccess",
-    "strTitle" : "RISK: Be A Hero (Unarmed Melee)",
-    "strDesc" : "A few months back, you bought a piece for just this occasion: a crossbow. A printed plastic deal. Not the most powerful or flashy weapon on station but you always figured it would do the job.\n\nThe first guy through the door is wearing body armor. You hold your fire, certain your bolts won't penetrate.\n\nThe next guy in is a ranking captain wearing nothing but dress blues. Must have wanted to look nice for the raid. You put a bolt in his chest and he crumpled to the ground behind a hundred foot-pounds of muzzle energy before drifting out into the hallway behind him.\n\nFrom there the entire raid goes south: the leaderless goons can't tell which way is up. You and your roommates manage to hold your own in the scrum, and you get out before any more shooting starts.\n\nOn your way down the hallway you snatch the officer's credentials, which will fetch a high price on the black market. He obviously won't be needing them anymore.\n\n",
+    "strTitle" : "РИСК: Стать героем (Рукопашный Бой)",
+    "strDesc" : "Несколько месяцев назад ты купил вещь именно для такого случая: арбалет. Напечатанный пластик. Не самое мощное и эффектное оружие на станции, но ты всегда считал, что оно справится с задачей.\n\nПервый парень, входящий в дверь, одет в бронежилет. Вы не стреляете, уверенные, что ваши болты не пробьют броню.\n\nСледующий входит капитан в парадной форме. Наверное, хотел хорошо выглядеть во время рейда. Вы пускаете болт ему в грудь, и он падает на землю под весом сотен фунтов энергии дула, а затем вылетает в коридор за ним.\n\nС этого момента весь рейд идет наперекосяк: без лидера головорезы не могут понять, что делать. Вы и ваши соседи по комнате умудряетесь удержаться в этой суматохе и выбираетесь оттуда, прежде чем начинается новая перестрелка. По пути по коридору вы хватаете удостоверение офицера, которое будет стоить дорого на черном рынке. Ему оно явно больше не понадобится.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
