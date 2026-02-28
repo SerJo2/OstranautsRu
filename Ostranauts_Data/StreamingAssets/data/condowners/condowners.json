@@ -22,7 +22,7 @@
   },
   {
     "strName" : "AABarTechnoLowPass",
-    "strNameShort" : "Sink",
+    "strNameShort" : "Раковина",
     "strItemDef" : "Blank",
     "strType"    : "Item",
     "aStartingConds" : [
@@ -35,7 +35,7 @@
   },
   {
     "strName" : "Regolith",
-    "strNameShort" : "Regolith",
+    "strNameShort" : "Реголит",
     "strItemDef" : "ItmBGFloorRegolith01",
     "strType"    : "Item",
     "aStartingConds" : [
@@ -46,7 +46,7 @@
   },
   {
     "strName" : "RegolithBig",
-    "strNameShort" : "Regolith",
+    "strNameShort" : "Реголит",
     "strNameFriendly" : "Regolith",
     "strItemDef" : "ItmBGFloorRegolith02",
     "strType"    : "Item",
