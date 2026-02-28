@@ -1,0 +1,57 @@
+name: Ежедневное обновление changelog'а
+
+on:
+  schedule:
+    - cron: '45 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Вспоминаем последний обработанный коммит
+        id: last_commit
+        run: |
+          if [ -f last_commit.txt ]; then
+            echo "last=$(cat last_commit.txt)" >> $GITHUB_OUTPUT
+          else
+            echo "last=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+            echo "first_run=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Создаём diff с последнего запуска
+        if: steps.last_commit.outputs.first_run != 'true'
+        run: |
+          git diff --unified=0 ${{ steps.last_commit.outputs.last }} HEAD > diff.txt
+
+      - name: Считаем добавленные строки
+        if: steps.last_commit.outputs.first_run != 'true'
+        id: count
+        run: |
+          added=$(python diff.py | grep 'Добавлено строк' | awk '{print $NF}')
+          echo "added=$added" >> $GITHUB_OUTPUT
+
+      - name: Обновляем changelog
+        if: steps.last_commit.outputs.first_run != 'true'
+        run: |
+          echo "#### $(date +'%d.%m.%Y')" >> CHANGELOG_BY_STRINGS.MD
+          echo "Добавлено строк: ${{ steps.count.outputs.added }}" >> CHANGELOG_BY_STRINGS.MD
+          echo "" >> CHANGELOG_BY_STRINGS.MD
+
+      - name: Сохраняем текущий коммит
+        run: |
+          git rev-parse HEAD > last_commit.txt
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Обновление дневного changelog"
+          file_pattern: CHANGELOG_BY_STRINGS.MD last_commit.txt
