@@ -1,8 +1,8 @@
 [
   {
     "strName" : "SOCBrowseSocialApp",
-    "strTitle" : "Browse Social App",
-    "strDesc" : "[us] [flicks] through the local social networks on [us-pos] PDA.",
+    "strTitle" : "Просматривать соцсети",
+    "strDesc" : "[us] [flicks] просматривает местные соцсети на [us-pos] PDA.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -29,8 +29,8 @@
   },
   {
     "strName" : "SOCOrgToDos",
-    "strTitle" : "Organize To-Dos",
-    "strDesc" : "[us] [pulls] up [us-pos] schedule and [updates] [us-pos] to-do list.",
+    "strTitle" : "Организовать задачи",
+    "strDesc" : "[us] [pulls] [us-pos] расписание и [updates] [us-pos] список дел.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -56,8 +56,8 @@
   },
   {
     "strName" : "SOCOrgToDosWithPDANotes",
-    "strTitle" : "Organize To-Dos (w/Note)",
-    "strDesc" : "[us] [pulls] up [us-pos] schedule and [updates] [us-pos] to-do list.",
+    "strTitle" : "Организовать задачи (с примечанием)",
+    "strDesc" : "[us] [pulls] [us-pos] расписание и [updates] [us-pos] список дел.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -86,8 +86,8 @@
   },
   {
     "strName" : "SOCSobQuietly",
-    "strTitle" : "Sob Quietly",
-    "strDesc" : "[us] [sobs] quietly to [us-reflexive].",
+    "strTitle" : "Тихо рыдать",
+    "strDesc" : "[us] [sobs] тихо, обращаясь к [us-reflexive].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -140,8 +140,8 @@
   },
   {
     "strName" : "SeekCaffeine",
-    "strTitle" : "Make Coffee",
-    "strDesc" : "[us] [loads] the [them] with a coffee puck.",
+    "strTitle" : "Приготовить Кофе",
+    "strDesc" : "[us] [loads] [them] кофейными таблетками.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2,
@@ -170,7 +170,7 @@
   {
     "strName" : "EmitCoffeeFlavouredWater",
     "strTitle" : "",
-    "strDesc" : "The [us] emits a jet of coffee flavoured water into [them-pos] canteen.",
+    "strDesc" : "[us] выбрасывает струю воды со вкусом кофе в [them-pos] столовую.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -196,7 +196,7 @@
   {
     "strName" : "FirstSip",
     "strTitle" : "",
-    "strDesc" : "[us] [savours] the first sip of coffee.",
+    "strDesc" : "[us] [savours] первым глотком кофе.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -221,7 +221,7 @@
   {
     "strName" : "OnTheFritzCoffee",
     "strTitle" : "",
-    "strDesc" : "Something inside the housing whirrs, then grinds, then fizzles. [them] [sighs]. The damned [us] is on the fritz again.",
+    "strDesc" : "Что-то внутри корпуса жужжит, потом скрежещет, потом шипит. [them] [sighs]. Чертов [us] снова сломался.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -249,7 +249,7 @@
   {
     "strName" : "PercussiveMaintenance",
     "strTitle" : "",
-    "strDesc" : "[us] [hits] the bloody [them] to get it to work again.",
+    "strDesc" : "[us] [hits] [them] чтобы все снова заработало.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : "Use",
@@ -277,7 +277,7 @@
   {
     "strName" : "OnTheFritzCoffeeStill",
     "strTitle" : "",
-    "strDesc" : "The [us] shudders and sputters, drooling liquid. It's still broken.",
+    "strDesc" : "[us] дрожит и брызгает слюной. Он все еще сломан.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -305,7 +305,7 @@
   {
     "strName" : "Rewire",
     "strTitle" : "",
-    "strDesc" : "[us] [flips] open the [them-pos] housing and [sets] about fixing it.",
+    "strDesc" : "[us] [flips] открывает [them-pos] корпус и [sets] приступает к его ремонту.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : "Use",
@@ -331,7 +331,7 @@
   {
     "strName" : "InexplicablyStartWorkingAgain",
     "strTitle" : "",
-    "strDesc" : "The [us] [starts] working again, and [them] [places] their canteen in the socket in the nick of time.",
+    "strDesc" : "[us] [starts] снова работать, и [them] [places] свою канистру в слот в самый последний момент.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -357,7 +357,7 @@
   {
     "strName" : "BreakPermanently",
     "strTitle" : "",
-    "strDesc" : "Something inside the [us] crunches pitifully, suggesting that the [us] is now broken beyond immediate repair.",
+    "strDesc" : "Что-то внутри [us] с жалостным хрустом ломается, давая понять, что [us] теперь разбиты без возможности немедленного восстановления.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -383,7 +383,7 @@
   {
     "strName" : "GiveUp",
     "strTitle" : "",
-    "strDesc" : "[us] [throws] up [us-pos] hands. Coffee isn't happening. Everyone had better stay out of [us-pos] way.",
+    "strDesc" : "[us] [throws] руки [us-pos].  Кофе не будет. Всем лучше не мешать [us-pos] way.",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -407,8 +407,8 @@
   },
   {
     "strName" : "SOCOfferHelp",
-    "strTitle" : "Offer Help",
-    "strDesc"  : "[us] [offers] to help [them] out.",
+    "strTitle" : "Предложить Помощь",
+    "strDesc"  : "[us] [offers] помочь [them].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -472,8 +472,8 @@
   },
   {
     "strName" : "SOCOfferStepAside",
-    "strTitle" : "Step Aside",
-    "strDesc"  : "[us] [steps] aside, to make room for [them].",
+    "strTitle" : "Отойти В Сторону",
+    "strDesc"  : "[us] [steps] в сторону, чтобы освободить место для [them].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -502,8 +502,8 @@
   },
   {
     "strName" : "SOCWarnOff",
-    "strTitle" : "Warn Off",
-    "strDesc"  : "[us] [warns] [them] off.",
+    "strTitle" : "Предупредить",
+    "strDesc"  : "[us] [warns] [them].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -562,8 +562,8 @@
   },
   {
     "strName" : "SOCCoverShift",
-    "strTitle" : "Cover Shift",
-    "strDesc"  : "[us] [offers] to cover [them-pos] shift for a bit.",
+    "strTitle" : "Подменить Смену",
+    "strDesc"  : "[us] [offers] немного подменить [them-pos] смену.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -605,8 +605,8 @@
   },
   {
     "strName" : "SOCOfferThank",
-    "strTitle" : "Thank",
-    "strDesc"  : "[us] [thanks] [them] and gladly [us-accepts] the offer.",
+    "strTitle" : "Согласиться",
+    "strDesc"  : "[us] [thanks] [them] и с радостью [us-accepts] предложение.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -637,8 +637,8 @@
   },
   {
     "strName" : "SOCOfferNoThanks",
-    "strTitle" : "No Thanks",
-    "strDesc"  : "[us] [shakes] [us-pos] head and [waves] [them] away.",
+    "strTitle" : "Нет, Спасибо",
+    "strDesc"  : "[us] [shakes] [us-pos] головой и [waves] [them] рукой, чтобы они ушли.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -721,8 +721,8 @@
   },
   {
     "strName" : "SOCGiveUp",
-    "strTitle" : "Give Up",
-    "strDesc"  : "[us] [throws] up [us-pos] hands and [gives] up.",
+    "strTitle" : "Сдаться",
+    "strDesc"  : "[us] [throws] [us-pos] руки и сдается.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
     "strAnim"           : "Angry",
@@ -750,8 +750,8 @@
   },
   {
     "strName" : "SOCIntimidate",
-    "strTitle" : "Intimidate",
-    "strDesc"  : "[us] [steps] towards [them], threateningly.",
+    "strTitle" : "Запугать",
+    "strDesc"  : "[us] [steps] в сторону [them] угрожающе.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -810,8 +810,8 @@
   },
   {
     "strName" : "SOCIntimidateLEO",
-    "strTitle" : "Intimidate",
-    "strDesc"  : "[us] [steps] towards [them], threateningly, displaying symbols of authority.",
+    "strTitle" : "Запугать",
+    "strDesc"  : "[us] [steps] к [them] угрожающе, демонстрируя символы власти.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -917,8 +917,8 @@
   },
   {
     "strName" : "SOCWhatsUp",
-    "strTitle" : "Ask What's Up?",
-    "strDesc"  : "[us] [asks] [them] what's up.",
+    "strTitle" : "Спросить, как дела?",
+    "strDesc"  : "[us] [asks] [them] как дела.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -985,8 +985,8 @@
   },
   {
     "strName" : "SOCShootBreeze",
-    "strTitle" : "Shoot the Breeze",
-    "strDesc"  : "[us] [shoots] the breeze with [them].",
+    "strTitle" : "Болтать о пустяках",
+    "strDesc"  : "[us] [shoots] о пустяках с [them].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1051,8 +1051,8 @@
   },
   {
     "strName" : "SOCSnub",
-    "strTitle" : "Snub",
-    "strDesc"  : "[us] [snubs] [them], and walks away.",
+    "strTitle" : "пренебрегать",
+    "strDesc"  : "[us] [snubs] [them], и уходит.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
     "strAnim"           : "No",
@@ -1083,8 +1083,8 @@
   },
   {
     "strName" : "SOCNotMuch",
-    "strTitle" : "Not Much",
-    "strDesc"  : "[us] [shrugs] and [says] not much.",
+    "strTitle" : "Не Много",
+    "strDesc"  : "[us] [shrugs] и [says] не много.",
     "strActionGroup" : "Talk",
     "strTargetPoint"  : "talk",
     "fTargetPointRange" : 2.0,
@@ -1114,8 +1114,8 @@
   },
   {
     "strName" : "SOCOfferSmoke",
-    "strTitle" : "Offer Smoke",
-    "strDesc"  : "[us] [offers] [them] a smoke.",
+    "strTitle" : "Предложить Сигарету",
+    "strDesc"  : "[us] [offers] [them] сигарету.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1151,8 +1151,8 @@
   },
   {
     "strName" : "SOCSmokeCutShort",
-    "strTitle" : "Cut Smoke Short",
-    "strDesc"  : "[us] [grows] a little agitated, and [stamps] [us-pos] butt under foot.",
+    "strTitle" : "Прекратить Курить",
+    "strDesc"  : "[us] [grows] немного возбужденным и [stamps] [us-pos] окурком по земле.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
     "strAnim"           : "Angry",
@@ -1177,8 +1177,8 @@
   },
   {
     "strName" : "SOCSmokeAccept",
-    "strTitle" : "Accept Smoke",
-    "strDesc"  : "[us] [accepts] the cigarette and [them-pos] offered light.",
+    "strTitle" : "Принять Сигарету",
+    "strDesc"  : "[us] [accepts] сигарету и [them-pos] предлагает огонь.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1217,8 +1217,8 @@
   },
   {
     "strName" : "SOCSmokeAcceptPlayer",
-    "strTitle" : "Accept Smoke",
-    "strDesc"  : "[us] [accepts] the cigarette and [them-pos] offered light.",
+    "strTitle" : "Принять Сигарету",
+    "strDesc"  : "[us] [accepts] сигарету и [them-pos] предлагает огонь.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1254,8 +1254,8 @@
   },
   {
     "strName" : "SOCSmokeNotInterested",
-    "strTitle" : "Not Interested",
-    "strDesc"  : "[us] [isn't] interested in smoking.",
+    "strTitle" : "Не Интересует",
+    "strDesc"  : "[us] [isn't] интересуется курением.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
     "strAnim"           : "No",
@@ -1280,8 +1280,8 @@
   },
   {
     "strName" : "SOCSmokeQuietBreak",
-    "strTitle" : "Quiet Smoke Break",
-    "strDesc"  : "[us] and [them] enjoy their smoking session in a comfortable silence.",
+    "strTitle" : "Тихий Перекур",
+    "strDesc"  : "[us] и [them] наслаждаемся курением в комфортной тишине.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1309,8 +1309,8 @@
   },
   {
     "strName" : "SOCSmokeBanterBreak",
-    "strTitle" : "Chatty Smoke Break",
-    "strDesc"  : "[us] and [them] enjoy a smoking session full of cordial banter.",
+    "strTitle" : "Болтливый Перекур",
+    "strDesc"  : "[us] и [them] наслаждаемся курением в атмосфере дружеского общения.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1338,8 +1338,8 @@
   },
   {
     "strName" : "SOCSmokeSaucyBreakAllow",
-    "strTitle" : "Spicy Smoke Break",
-    "strDesc"  : "[us] and [them] enjoy close proximity, sensuous glances, shared breath, and a lick of double entendre as they smoke.",
+    "strTitle" : "Пряный Перекур",
+    "strDesc"  : "[us] и [them] наслаждаемся близостью, чувственными взглядами, общим дыханием и двусмысленными намеками, пока курим.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1365,8 +1365,8 @@
   },
   {
     "strName" : "SOCSmokeStayQuiet",
-    "strTitle" : "Stay Quiet",
-    "strDesc"  : "[us-pos] conversation falters, and ends with [us] and [them] in silent reflection, puffing away.",
+    "strTitle" : "Молчать",
+    "strDesc"  : "[us-pos] разговор замирает и заканчивается тем, что [us] и [them] молчаливо размышляют, покуривая сигареты.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1392,8 +1392,8 @@
   },
   {
     "strName" : "SOCSmokeWrongBrand",
-    "strTitle" : "Wrong Brand of Smoke",
-    "strDesc"  : "[us] [waves] the offered Viceroy away. It's not [us-pos] brand.",
+    "strTitle" : "Неправильная Марка Сигарет",
+    "strDesc"  : "[us] [waves] отказывается от предложенных сигарет Viceroy. Это не [us-pos] марка.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1419,8 +1419,8 @@
   },
   {
     "strName" : "SOCShowTrick",
-    "strTitle" : "Show Trick",
-    "strDesc"  : "[us] [does] a stupid trick for [them].",
+    "strTitle" : "Показать Трюк",
+    "strDesc"  : "[us] [does] тупой трюк для [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -1478,8 +1478,8 @@
   },
   {
     "strName" : "SOCFashionNoPants",
-    "strTitle" : "No pants?",
-    "strDesc"  : "[us] [eyes] [them] and [scoffs], \"Decided it was a no pants day today?\"",
+    "strTitle" : "Без штанов?",
+    "strDesc"  : "[us] [eyes] [them] and [scoffs], \"Решил, что сегодня день без штанов?\"",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -1534,8 +1534,8 @@
   
   {
     "strName" : "SOCFashionNotClean",
-    "strTitle" : "Criticize Poor Hygiene",
-    "strDesc"  : "[us] [makes] a disgusted face at [them]. \"Ugh, you're a mess!\"",
+    "strTitle" : "Критиковать Плохую Гигиену",
+    "strDesc"  : "[us] [makes] отвращенное лицо [them]. \"Фу, ты грязнуля!\"",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -1589,8 +1589,8 @@
   },
   {
     "strName" : "SOCYay",
-    "strTitle" : "Yay!",
-    "strDesc"  : "[us] [exclaims] excitedly.",
+    "strTitle" : "Ура!",
+    "strDesc"  : "[us] [exclaims] взволнованно.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1653,8 +1653,8 @@
   },
   {
     "strName" : "SOCSlowClap",
-    "strTitle" : "Slow Clap",
-    "strDesc"  : "[us] slow [claps] while shaking [us-pos] head, then [turns] away.",
+    "strTitle" : "Медленно Похлопать",
+    "strDesc"  : "[us] медленно [claps] покачивая [us-pos] головой, затем [turns] и уходит.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1686,8 +1686,8 @@
   },
   {
     "strName" : "SOCTechJargon",
-    "strTitle" : "Tech Jargon",
-    "strDesc"  : "[us] [recites] some jargon to [them], demonstrating [us-pos] technical expertise.",
+    "strTitle" : "Технический Жаргон",
+    "strDesc"  : "[us] [recites] некоторую терминологию [them], демонстрируя [us-pos] технические знания.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -1740,8 +1740,8 @@
   },
   {
     "strName" : "SOCListenIntently",
-    "strTitle" : "Listen",
-    "strDesc"  : "[us] [nods] and [listens] intently.",
+    "strTitle" : "Слушать",
+    "strDesc"  : "[us] [nods] и [listens] внимательно.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1769,8 +1769,8 @@
   },
   {
     "strName" : "SOCZoneOut",
-    "strTitle" : "Zone Out",
-    "strDesc"  : "[us-pos] eyes glaze over a little.",
+    "strTitle" : "Отключиться",
+    "strDesc"  : "[us-pos] глаза немного затуманиваются.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1818,8 +1818,8 @@
   },
   {
     "strName" : "SOCWhoCares",
-    "strTitle" : "Who Cares?",
-    "strDesc"  : "[us] [tells] [them] to spare [us-subj] the details. Who cares?",
+    "strTitle" : "Кому это интересно?",
+    "strDesc"  : "[us] [tells] [them] [us-subj] не вдаваться в подробности. Кому это интересно?",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1848,8 +1848,8 @@
   },
   {
     "strName" : "SOCTechJargonOneUp",
-    "strTitle" : "One-Up",
-    "strDesc"  : "Not to be outdone, [us] [fires] back using even more esoteric technical jargon.",
+    "strTitle" : "На Уровень Выше",
+    "strDesc"  : "Не желая оставаться в долгу, [us] [fires] еще более эзотерическим техническим жаргоном.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -1875,8 +1875,8 @@
   },
   {
     "strName" : "SOCReminisce",
-    "strTitle" : "Reminisce",
-    "strDesc"  : "[us] [starts] telling [them] old war stories.",
+    "strTitle" : "Воспоминания",
+    "strDesc"  : "[us] [starts] рассказывать [them] старые военные истории.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -1935,8 +1935,8 @@
   },
   {
     "strName" : "SOCShareAnotherStory",
-    "strTitle" : "Tell A Riveting Tale",
-    "strDesc"  : "[us] [is] reminded of a strange, compelling story and [us-subj] [tells] it at length.",
+    "strTitle" : "Рассказать Увлекательную Историю",
+    "strDesc"  : "[us] [is] странную, захватывающую историю, и [us-subj] [tells] ее подробно.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2000,8 +2000,8 @@
   },
   {
     "strName" : "SOCRollEyes",
-    "strTitle" : "Roll Eyes",
-    "strDesc"  : "[us] [rolls] [us-pos] eyes and sighs.",
+    "strTitle" : "Закатывает Глаза",
+    "strDesc"  : "[us] [rolls] [us-pos] глаза и вздыхает.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2058,7 +2058,7 @@
   {
     "strName" : "SOCBreakoutBanter",
     "strTitle" : "Banter: Breakout",
-    "strDesc"  : "[us] [banters] with [them] about a recent Breakout match.",
+    "strDesc"  : "[us] [banters] with [them] о недавнем матче Breakout.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -2124,8 +2124,8 @@
   },
   {
     "strName" : "SOCBreakoutThrowPass",
-    "strTitle" : "Throw a Pass",
-    "strDesc"  : "[us] [re-enacts] a play from the last game, hurling an imaginary ball to [them].",
+    "strTitle" : "Дать Пас",
+    "strDesc"  : "[us] [re-enacts] игру из последнего матча, бросая воображаемый мяч [them].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2160,8 +2160,8 @@
   },
   {
     "strName" : "SOCBreakoutWarriorsSuck",
-    "strTitle" : "Warriors suck. Go Shooters!",
-    "strDesc"  : "[us] and [them] reminisce about how the Shooters destroyed the Warriors.'",
+    "strTitle" : "Warriors отстой. Вперед Shooters!",
+    "strDesc"  : "[us] и [them] вспоминают, как Shooters разгромили Warriors.'",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2192,8 +2192,8 @@
   },
   {
     "strName" : "SOCBreakoutShootersSuck",
-    "strTitle" : "Shooters suck. Go Warriors!",
-    "strDesc"  : "[us] [gloats] to [them] about how the Warriors destroyed [them-pos] precious Shooters.",
+    "strTitle" : "Shooters отстой. Вперед Warriors!",
+    "strDesc"  : "[us] [gloats] над [them] рассказывая, как Warriors уничтожили [them-pos] драгоценных Shooters.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2224,8 +2224,8 @@
   },
   {
     "strName" : "SOCBreakoutPretendCatch",
-    "strTitle" : "Pretend to Catch",
-    "strDesc"  : "[us] [catches] the ball. Dipping and juking, [us-subj] [beats] three defenders and [shoots] at a bulkhead for the goal.",
+    "strTitle" : "Притвориться, что Ловишь",
+    "strDesc"  : "[us] [catches] мяч. Наклоняясь и уклоняясь, [us-subj] [beats] трех защитников и [shoots] по воротам.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2256,8 +2256,8 @@
   },
   {
     "strName" : "SOCBreakoutDidntCatchGame",
-    "strTitle" : "Didn't Catch Game",
-    "strDesc"  : "[us] [admits] that [us-subj] haven't watched Breakout in a while.",
+    "strTitle" : "Не Смотрел Игру",
+    "strDesc"  : "[us] [admits], что [us-subj] давно не смотрел Breakout.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2283,8 +2283,8 @@
   },
   {
     "strName" : "SOCBreakoutFumble",
-    "strTitle" : "Pretend to Fumble.",
-    "strDesc"  : "[us] spectacularly [fumbles] the ball. [them] [boos].",
+    "strTitle" : "Притвориться, что уронил мяч",
+    "strDesc"  : "[us] эффектно [fumbles] мяч. [them] [boos].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2315,8 +2315,8 @@
   },
   {
     "strName" : "SOCFlirtStartAllow",
-    "strTitle" : "Flirt",
-    "strDesc"  : "[us] [raises] [us-pos] eyebrows suggestively at [them].",
+    "strTitle" : "Флиртовать",
+    "strDesc"  : "[us] [raises] [us-pos] брови многозначительно в сторону [them].",
     "strTargetPoint" : "talk",
     "strAnim"           : "Talk",
     "strActionGroup" : "Talk",
@@ -2402,8 +2402,8 @@
   },
   {
     "strName" : "SOCFlirtStartPlayerAllow",
-    "strTitle" : "Flirt",
-    "strDesc"  : "[us] [raises] [us-pos] eyebrows suggestively at [them].",
+    "strTitle" : "Флиртовать",
+    "strDesc"  : "[us] [raises] [us-pos] брови многозначительно в сторону [them].",
     "strTargetPoint" : "talk",
     "strAnim"           : "Talk",
     "strActionGroup" : "Talk",
@@ -2482,8 +2482,8 @@
   },
   {
     "strName" : "SOCFlirtContinueAllow",
-    "strTitle" : "Flirt Reply",
-    "strDesc"  : "[us] [flirts] with [them].",
+    "strTitle" : "Флиртовать в Ответ",
+    "strDesc"  : "[us] [flirts] с [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -2569,8 +2569,8 @@
   },
     {
       "strName" : "SOCFlirtContinuePlayerAllow",
-      "strTitle" : "Flirt Reply",
-      "strDesc"  : "[us] [flirts] with [them].",
+      "strTitle" : "Флиртовать в Ответ",
+      "strDesc"  : "[us] [flirts] с [them].",
       "strTargetPoint" : "talk",
       "strActionGroup" : "Talk",
       "fTargetPointRange" : 2.0,
@@ -2653,7 +2653,7 @@
   {
     "strName" : "SOCGagShiver",
     "strTitle" : "Gag and Shiver",
-    "strDesc"  : "[us] [gags] and [feigns] a shiver.",
+    "strDesc"  : "[us] [gags] и [feigns] a shiver.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2714,8 +2714,8 @@
   },
   {
     "strName" : "SOCInviteDrinkAllow",
-    "strTitle" : "Invite for Drink",
-    "strDesc"  : "[us] [asks] if [them] would like to get a drink.",
+    "strTitle" : "Пригласить Dыпить",
+    "strDesc"  : "[us] [asks], не хотят ли [them] выпить.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -2778,8 +2778,8 @@
   },
   {
     "strName" : "SOCLeadTheWayAllow",
-    "strTitle" : "Lead the Way",
-    "strDesc"  : "[us] [shrugs] and [tells] [them] to lead the way.",
+    "strTitle" : "Вести Путь",
+    "strDesc"  : "[us] [shrugs] и [tells] [them] чтобы они шли впереди.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2803,8 +2803,8 @@
   },
   {
     "strName" : "SOCLeadTheWayEnthusedAllow",
-    "strTitle" : "Lead the Way",
-    "strDesc"  : "[us] [smiles] and [leads] the way.",
+    "strTitle" : "Вести Путь",
+    "strDesc"  : "[us] [smiles] и [leads] за собой",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
     "strAnim"           : "Yes",
@@ -2829,8 +2829,8 @@
   },
   {
     "strName" : "SOCNoThanks",
-    "strTitle" : "No Thanks",
-    "strDesc"  : "[us] [isn't] interested.",
+    "strTitle" : "Нет, Спасибо",
+    "strDesc"  : "[us] [isn't] интересно.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2856,8 +2856,8 @@
   },
   {
     "strName" : "SOCNoThanksNotInterestedMen",
-    "strTitle" : "Not Interested in Men",
-    "strDesc"  : "[us] [isn't] into men, romantically speaking.",
+    "strTitle" : "Не Интересуюсь Мужчинами",
+    "strDesc"  : "[us] [isn't] интересуется мужчинами в романтическом плане.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -2879,7 +2879,7 @@
   },
   {
     "strName" : "SeekKillAllow",
-    "strTitle" : "Die",
+    "strTitle" : "Умереть",
     "strDesc" : "[us] [dies].",
     "strTargetPoint" : null,
     "strActionGroup" : "Talk",
@@ -2906,8 +2906,8 @@
   },
   {
     "strName" : "SeekKillDeny",
-    "strTitle" : "Don't Die",
-    "strDesc"  : "[us] [doesn't] die.",
+    "strTitle" : "Не Умирать",
+    "strDesc"  : "[us] [doesn't] умирает.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
     "strAnim"           : "No",
@@ -2932,8 +2932,8 @@
   },
   {
     "strName" : "SeekKillTarget",
-    "strTitle" : "Kill",
-    "strDesc"  : "[us] [tries] to kill [them].",
+    "strTitle" : "Убить",
+    "strDesc"  : "[us] [tries] убить [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Fight",
     "fTargetPointRange" : 2.0,
@@ -2963,8 +2963,8 @@
   },
   {
     "strName" : "SeekKOTarget",
-    "strTitle" : "Knock Out",
-    "strDesc"  : "[us] [tries] to hit [them].",
+    "strTitle" : "Вырубить",
+    "strDesc"  : "[us] [tries] ударить [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Fight",
     "fTargetPointRange" : 2.0,
@@ -2994,8 +2994,8 @@
   },
   {
     "strName" : "SeekKOTarget100",
-    "strTitle" : "Knock Out",
-    "strDesc"  : "[us] [tries] to hit [them].",
+    "strTitle" : "Вырубить",
+    "strDesc"  : "[us] [tries] ударить [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Fight",
     "fTargetPointRange" : 2.0,
@@ -3025,8 +3025,8 @@
   },
   {
     "strName" : "SeekKOAllow",
-    "strTitle" : "KO",
-    "strDesc" : "[us] [is] KO'd.",
+    "strTitle" : "Нокаут",
+    "strDesc" : "[us] [is] в нокауте.",
     "strTargetPoint" : null,
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0,
@@ -3052,8 +3052,8 @@
   },
   {
     "strName" : "SeekKODeny",
-    "strTitle" : "Don't KO",
-    "strDesc"  : "[us] [doesn't] get KO'd.",
+    "strTitle" : "Не Нокаут",
+    "strDesc"  : "[us] [doesn't] в нокауте.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
     "strAnim"           : "No",
@@ -3078,8 +3078,8 @@
   },
   {
     "strName" : "SOCCommiserate",
-    "strTitle" : "Commiserate",
-    "strDesc"  : "[us] [laments] [us-pos] pointless existence to [them].",
+    "strTitle" : "Сочувствовать",
+    "strDesc"  : "[us] [laments] [us-pos] бессмысленное существование для [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3168,8 +3168,8 @@
   },
   {
     "strName" : "SOCInspirePurpose",
-    "strTitle" : "Inspire with Purpose",
-    "strDesc"  : "[us] [gives] a pep talk that inspires [them] with purpose.",
+    "strTitle" : "Вдохновлять С Целью",
+    "strDesc"  : "[us] [gives] мотивирующую речь, которая вдохновляет [them] с целью.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3239,8 +3239,8 @@
   },
   {
     "strName" : "SOCAgreeDismissively",
-    "strTitle" : "Agree Dismissively",
-    "strDesc"  : "[us] [agrees] with [them] dismissively.",
+    "strTitle" : "Согласиться С Пренебрежением",
+    "strDesc"  : "[us] [agrees] с [them] с пренебрежением.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3307,8 +3307,8 @@
   },
   {
     "strName" : "SOCDarkJoke",
-    "strTitle" : "Dark Joke",
-    "strDesc"  : "[us] [tells] a dark joke to [them].",
+    "strTitle" : "Чёрный Юмор",
+    "strDesc"  : "[us] [tells] [them] Черный Юмор.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3372,8 +3372,8 @@
 
   {
     "strName" : "SOCVenusStory",
-    "strTitle" : "Venus Story",
-    "strDesc"  : "[us] [tells] a detailed story about Venus to [them].",
+    "strTitle" : "VИстория Венеры",
+    "strDesc"  : "[us] [tells] [them] подробную историю о Венере.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3436,8 +3436,8 @@
 
   {
     "strName" : "SOCBurstLaughing",
-    "strTitle" : "Burst Out Laughing",
-    "strDesc"  : "[us] [lets] out a surprised burst of laughter.",
+    "strTitle" : "Вспыхнуть Смехом",
+    "strDesc"  : "[us] [lets] вырывается удивленный взрыв смеха.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3498,8 +3498,8 @@
   },
   {
     "strName" : "SOCGasp",
-    "strTitle" : "Gasp",
-    "strDesc"  : "[us] [gasps] in shock.",
+    "strTitle" : "Задыхаться",
+    "strDesc"  : "[us] [gasps] от шока.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3560,8 +3560,8 @@
   },
   {
     "strName" : "SOCAskHug",
-    "strTitle" : "Ask for Hug",
-    "strDesc"  : "[us] [asks] [them] to hold [us-obj].",
+    "strTitle" : "Попросить Обнять",
+    "strDesc"  : "[us] [asks] [them] обнять [us-obj].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3640,8 +3640,8 @@
   },
   {
     "strName" : "SOCOpenArms",
-    "strTitle" : "Open Arms",
-    "strDesc"  : "[us] [opens] [us-pos] arms to [them].",
+    "strTitle" : "Открытые Объятия",
+    "strDesc"  : "[us] [opens] [us-pos] объятия [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 1.0,
@@ -3705,8 +3705,8 @@
   },
   {
     "strName" : "SOCSmackAround",
-    "strTitle" : "Smack Around",
-    "strDesc"  : "[us] [smacks] [them] around a bit.",
+    "strTitle" : "Избить",
+    "strDesc"  : "[us] [smacks] [them] немного.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
@@ -3761,8 +3761,8 @@
   },
   {
     "strName" : "SOCSmackAroundLEO",
-    "strTitle" : "Smack Around",
-    "strDesc"  : "[us] [smacks] [them] around a bit.",
+    "strTitle" : "Избить",
+    "strDesc"  : "[us] [smacks] [them] немного.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
@@ -3814,8 +3814,8 @@
   },
   {
     "strName" : "SOCWarnSuperstition",
-    "strTitle" : "Warn Superstition",
-    "strDesc"  : "[us] [cautions] [them] for not observing the rules of a spacer superstition.",
+    "strTitle" : "Предупредить О Суевериях",
+    "strDesc"  : "[us] [cautions] [them] за несоблюдение правил космического суеверия.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3873,8 +3873,8 @@
   },
   {
     "strName" : "SOCDoSuperstition",
-    "strTitle" : "Do Superstition",
-    "strDesc"  : "[us] [curses], and [makes] a gesture to avert bad luck.",
+    "strTitle" : "Сделать Суеверие",
+    "strDesc"  : "[us] [curses], и [makes] жест, чтобы отвратить несчастье.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3902,8 +3902,8 @@
   },
   {
     "strName" : "SOCScoffSuperstition",
-    "strTitle" : "Scoff",
-    "strDesc"  : "[us] [scoffs] that it's all a bunch of nonsense.",
+    "strTitle" : "Смеяться",
+    "strDesc"  : "[us] [scoffs], что все это ерунда.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3929,8 +3929,8 @@
   },
   {
     "strName" : "SOCReassure",
-    "strTitle" : "Reassure",
-    "strDesc"  : "[us] [assures] [them] that [them-subj] [is] going to be okay.",
+    "strTitle" : "Успокоить",
+    "strDesc"  : "[us] [assures] [them], что [them-subj] [is] будет в порядке.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -3965,8 +3965,8 @@
   },
   {
     "strName" : "SOCNodAndBreathe",
-    "strTitle" : "Nod",
-    "strDesc"  : "[us] [takes] a deep breath, and [nods].",
+    "strTitle" : "Кивнуть",
+    "strDesc"  : "[us] [takes] глубоко вздыхает и [nods].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3994,8 +3994,8 @@
   },
   {
     "strName" : "SOCFishCompliment",
-    "strTitle" : "Fish for Compliment",
-    "strDesc"  : "[us] [fishes] for a compliment from [them].",
+    "strTitle" : "Наживка для комплиментов",
+    "strDesc"  : "[us] [fishes] для комплиментов от [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4059,8 +4059,8 @@
 
   {
     "strName" : "SOCNameDropCrim",
-    "strTitle" : "Name Drop Your Criminal Contact",
-    "strDesc"  : "[us] [says] that [us-pos] friend [3rd] told [us-obj] that [them] [was] cool. [3rd] said that [them] [was] a straight shooter.",
+    "strTitle" : "Назвать Контакт Преступного Знакомого",
+    "strDesc"  : "[us] [says], что [us-pos] друг [3rd] сказал [us-obj], что [them] [was] крутым. [3rd] сказал, что [them] [was] прямым человеком.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4129,8 +4129,8 @@
 
   {
     "strName" : "SOCNameDropLEO",
-    "strTitle" : "Name Drop Your Law Enforcement Contact",
-    "strDesc"  : "[us] [says] that Officer [3rd] [has] caught wind of some of [them-pos] dealings. But seeing as Officer [3rd] [is] a friend, [us] might be able to throw [3rd-pos] off the scent. Assuming [them] [is] willing to play nice.",
+    "strTitle" : "Назвать своего контакта в правоохранительных органах",
+    "strDesc"  : "[us] [says] что Офицер [3rd] [has] о некоторых сделках [them-pos]. Но, учитывая, что офицер [3rd] [is] другом, [us] возможно сможем сбить [3rd-pos] с толку. При условии, что [them] [is] вести себя хорошо.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4200,8 +4200,8 @@
 
   {
     "strName" : "SOCNameDropManager",
-    "strTitle" : "Name Drop Your Corporate Manager Contact",
-    "strDesc"  : "[us] [asks] [them] if [3rd] [has] been around here lately. [3rd-subj] [is] a close personal friend.",
+    "strTitle" : "Назвать имя вашего корпоративного менеджера",
+    "strDesc"  : "[us] [asks] [them], был ли [3rd] [has] здесь в последнее время. [3rd-subj] [is] близким личным другом.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4271,7 +4271,7 @@
 
   {
     "strName" : "SOCInsult",
-    "strTitle" : "Insult",
+    "strTitle" : "Оскорбить",
     "strDesc"  : "[us] [insults] [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
@@ -4334,8 +4334,8 @@
     ]
   },  {
     "strName" : "SOCInsultLEO",
-    "strTitle" : "Chasten",
-    "strDesc"  : "[us] [insults] and [chastens] [them].",
+    "strTitle" : "Наказать",
+    "strDesc"  : "[us] [insults] и [chastens] [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4387,8 +4387,8 @@
   },
   {
     "strName" : "SOCInsult2",
-    "strTitle" : "Craft a Savage Insult",
-    "strDesc"  : "[us] [insults] [them] viciously.",
+    "strTitle" : "Создать Жестокое Оскорбление",
+    "strDesc"  : "[us] [insults] [them] жестоко.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4431,8 +4431,8 @@
   },
   {
     "strName" : "SOCInsult2LEO",
-    "strTitle" : "Craft a Savage Insult",
-    "strDesc"  : "[us] [insults] [them] viciously.",
+    "strTitle" : "Создать Жестокое Оскорбление",
+    "strDesc"  : "[us] [insults] [them] жестоко.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4474,8 +4474,8 @@
   },
   {
     "strName" : "SOCAdmitWorries",
-    "strTitle" : "Admit Worries",
-    "strDesc"  : "[us] [opens] up to [them] with [us-pos] insecurities.",
+    "strTitle" : "Признаться в СвоихОпасениях",
+    "strDesc"  : "[us] [opens] [them], делясь [us-pos] неуверенностями.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4557,8 +4557,8 @@
   },
   {
     "strName" : "SOCDontWorry",
-    "strTitle" : "Don't Worry",
-    "strDesc"  : "[us] [tells] [them] it's all in [them-pos] head, and not to worry.",
+    "strTitle" : "Не Волнуйся",
+    "strDesc"  : "[us] [tells] [them], что все это в [them-pos] голове, и  не стоит волноваться.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -4628,8 +4628,8 @@
   },
   {
     "strName" : "SOCStopBurdening",
-    "strTitle" : "Stop Burdening",
-    "strDesc"  : "[us] [asks] why [them] [has] to burden others with [them-pos] problems.",
+    "strTitle" : "Перестаньте Обременять",
+    "strDesc"  : "[us] [asks], почему [them] [has] обременяют других [them-pos] проблемами.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -4684,8 +4684,8 @@
   },
   {
     "strName" : "SOCAskCareer",
-    "strTitle" : "Ask About Skills",
-    "strDesc"  : "[us] [asks] [them] if [them-subj] [has] any interesting skills.",
+    "strTitle" : "Спросить О Навыках",
+    "strDesc"  : "[us] [asks] [them], [them-subj] [has] какие-нибудь интересные навыки.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4742,8 +4742,8 @@
   },
   {
     "strName" : "SOCBackAwaySlow",
-    "strTitle" : "Back Away Slowly",
-    "strDesc"  : "[us] [backs] away from [them] slowly.",
+    "strTitle" : "Медленно Отступить",
+    "strDesc"  : "[us] [backs] от [them] медленно.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4805,8 +4805,8 @@
   },
   {
     "strName" : "SOCBackOff",
-    "strTitle" : "Back Off!",
-    "strDesc"  : "[us] [tells] [them] to back off. [us-subj] [needs] some space.",
+    "strTitle" : "Отойди!",
+    "strDesc"  : "[us] [tells] [them], чтобы они отошли. [us-subj] [needs] немного пространства.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4867,8 +4867,8 @@
   },
   {
     "strName" : "SOCCalmDown",
-    "strTitle" : "Calm Down",
-    "strDesc"  : "[us] [tells] [them] to calm down and take a breath.",
+    "strTitle" : "Успокойтесь",
+    "strDesc"  : "[us] [tells] [them] чтобы они успокоились и сделали глубокий вдох.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4934,8 +4934,8 @@
   },
   {
     "strName" : "SOCChangeSubject",
-    "strTitle" : "Change the Subject",
-    "strDesc"  : "[us] [changes] the subject.",
+    "strTitle" : "Сменить Тему",
+    "strDesc"  : "[us] [changes] меняет тему.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4965,8 +4965,8 @@
 
   {
     "strName" : "SOCReturnToSubject",
-    "strTitle" : "Return to the Subject",
-    "strDesc"  : "[us] [returns] sharply to the matter at hand.",
+    "strTitle" : "Вернуться К Теме",
+    "strDesc"  : "[us] [returns] резко к рассматриваемому вопросу.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4995,8 +4995,8 @@
 
   {
     "strName" : "SOCCraftDarkJoke",
-    "strTitle" : "Original Dark Joke",
-    "strDesc"  : "[us] tells [them] an original dark joke.",
+    "strTitle" : "Оригинальный Черный Юмор",
+    "strDesc"  : "[us] рассказывает [them] оригинальный мрачный анекдот.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -5062,8 +5062,8 @@
   },
   {
     "strName" : "SOCEmergStepAside",
-    "strTitle" : "Step Aside",
-    "strDesc"  : "[us] [gets] out of [them-pos] way.",
+    "strTitle" : "Отойти в сторон",
+    "strDesc"  : "[us] [gets] с [them-pos] пути.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -5092,7 +5092,7 @@
   },
   {
     "strName" : "SOCEncourage",
-    "strTitle" : "Encourage",
+    "strTitle" : "Поощрить",
     "strDesc"  : "[us] [encourages] [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
@@ -6864,14 +6864,14 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCToldFamilyChildren", "LootCTsThem" : "CTSOCHeardFamilyChildren", "CTTestUs" : "TIsSOCToldFamilyChildrenYes", "CTTestThem" : null
 },
 
-{"strName" : "SOCAskFamilyAcceptChildren4", "strTitle" : "Talk About Your Child.", "strDesc" : "[us] [says] [us-pos] child has some special needs that cost a small fortune to accommodate. [us-subj] [insists] the effort gives [us-pos] own life greater purpose.",
+{"strName" : "SOCAskFamilyAcceptChildren4", "strTitle" : "Поговорить о своем ребенке.", "strDesc" : "[us] [says], что [us-pos] ребенок имеет особые потребности, удовлетворение которых обходится в небольшую сумму. [us-subj] [insists] что эти усилия придают [us-pos] собственной жизни больший смысл.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCToldFamilyChildren", "LootCTsThem" : "CTSOCHeardFamilyChildren", "CTTestUs" : "TIsSOCToldFamilyChildrenYes", "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemy", "strTitle" : "Badmouth Your Enemies", "strDesc" : "[us] [pulls] [them] aside and [starts] to disparage [3rd-pos] character in great detail.",
+{"strName" : "SOCBadmouthEnemy", "strTitle" : "Оскорбить своих врагов", "strDesc" : "[us] [pulls] [them] в сторону и [starts] оскорблять в деталях [3rd-pos].",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblQuestion", "strColor" : "Dialogue", "bSocial" : true, "bOpener" : true, "bRandomInverse" : true,
   "aInverse" : [ 
@@ -6883,49 +6883,49 @@
   "PSpecTest3rd" : "RELEnemy"
 },
 
-{"strName" : "SOCBadmouthEnemyAgree", "strTitle" : "Agree with Badmouth", "strDesc" : "[us] [agrees] and [says] [us-subj] [has] always hated [3rd], especially [3rd-pos] awful smug face.",
+{"strName" : "SOCBadmouthEnemyAgree", "strTitle" : "Cогласиться с плохими отзывами", "strDesc" : "[us] [agrees] и [says], что [us-subj] [has] всегда ненавидел [3rd], особенно [3rd-pos] его ужасное самодовольное лицо.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCBadmouthEnemyAgreeUs", "LootCTsThem" : "CTSOCBadmouthEnemyAgreeThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyDisagree", "strTitle" : "Disagree with Badmouth", "strDesc" : "[us] [glances] away and [says] [3rd] isn't all that bad once you get used to them.",
+{"strName" : "SOCBadmouthEnemyDisagree", "strTitle" : "Не согласиться с плохими отзывами", "strDesc" : "[us] отводим [glances] и [says] [3rd] не так уж и плох, когда привыкнешь.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCBadmouthEnemyDisagreeUs", "LootCTsThem" : "CTSOCBadmouthEnemyDisagreeThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyAskAbout", "strTitle" : "Ask About Who They are Badmouthing", "strDesc" : "[us] [asks] [them] to remind [us-obj] who [3rd] is.",
+{"strName" : "SOCBadmouthEnemyAskAbout", "strTitle" : "Спросите, о ком они плохо отзываются", "strDesc" : "[us] [asks] [them] напомнить [us-obj], кто такой [3rd]",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCBadmouthEnemyAskAboutAnswerPredator", "SOCBadmouthEnemyAskAboutAnswerLiar", "SOCBadmouthEnemyAskAboutAnswerScold"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTSOCBadmouthEnemyAskAboutUs", "LootCTsThem" : "CTSOCBadmouthEnemyThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyAskAboutAnswerPredator", "strTitle" : "Label Your Enemy as a Predator", "strDesc" : "[us] [says] that [3rd] [is] a roving thug who, in the way of all cowards, only picks fights with people who don't have power.",
+{"strName" : "SOCBadmouthEnemyAskAboutAnswerPredator", "strTitle" : "Назовите своего врага бандитом", "strDesc" : "[us] [says], что [3rd] [is] бродячим бандитом, который, как и все трусы, выбирает для драки только тех, кто не имеет власти.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "SOCBadmouthEnemyAskAboutAnswer", "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyAskAboutAnswerLiar", "strTitle" : "Label Your Enemy as a Liar", "strDesc" : "[us] [says] [3rd] [is] a snake in the grass who will say one thing to your face and something completely different the moment you leave the room.",
+{"strName" : "SOCBadmouthEnemyAskAboutAnswerLiar", "strTitle" : "Назовите своего врага лжецом", "strDesc" : "[us] [says], что [3rd] [is] змеей в траве, которая говорит одно вам в лицо, а совсем другое — как только вы выходите из комнаты.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "SOCBadmouthEnemyAskAboutAnswer", "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyAskAboutAnswerScold", "strTitle" : "Label Your Enemy as a Scold", "strDesc" : "[us] [says] [3rd] is an arrogant, holier-than-thou nitpick who would make a better school marm than a spacer.",
+{"strName" : "SOCBadmouthEnemyAskAboutAnswerScold", "strTitle" : "Обозначьте своего врага как ворчуна", "strDesc" : "[us] [says], что [3rd] — высокомерный, самодовольный придирчивый человек, который больше подходит на роль школьного учителя, чем космонавта",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "SOCBadmouthEnemyAskAboutAnswer", "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCInsultEnemy", "strTitle" : "Demonstrate Contempt", "strDesc" : "[us] [asks] [them] what hole [them-subj] crawled out of.",
+{"strName" : "SOCInsultEnemy", "strTitle" : "Продемонстрировать Презрение", "strDesc" : "[us] [asks] [them] из какой дыры [them-subj] выползли.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblQuestion", "strColor" : "Dialogue", "bSocial" : true, "bOpener" : true, "bRandomInverse" : true,
   "aInverse" : [ 
@@ -6974,35 +6974,35 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "PSpecTestThem" : "RELEnemy", "LootCTsUs" : "CTSOCInsultEnemyUs", "LootCTsThem" : "CTSOCInsultEnemyThem", "CTTestUs" : "TIsHumanAwake", "CTTestThem" : "TIsHumanAwake"
 },
 
-{"strName" : "SOCBragToEnemy1", "strTitle" : "Brag About New Home", "strDesc" : "[us] [says] that [us-subj] made enough on [us-pos] last job to buy a place on Tharsis Landing. Not that a backwater scrapper like [them] would know where that is.",
+{"strName" : "SOCBragToEnemy1", "strTitle" : "Хвастаться Новым Домом", "strDesc" : "[us] [says], что [us-subj] заработали на последней работе [us-pos] достаточно, чтобы купить жилье в Тарсис Лэндинг. Не то чтобы такой захудалый бродяга, как [them] знал, где это находится.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELEnemy", "LootCTsUs" : "CTSOCEnemyHomeBragUs", "LootCTsThem" : "CTSOCEnemyHomeBragThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBragToEnemy2", "strTitle" : "Brag About New Job", "strDesc" : "[us] [says] [us-subj] [has] been too busy with [us-pos] new cushy contract to spend [us-pos] time kicking around in a dump like this.",
+{"strName" : "SOCBragToEnemy2", "strTitle" : "Хвастаться новой работой", "strDesc" : "[us] [says] [us-subj] [has] слишком занят [us-pos] новым выгодным контрактом, чтобы тратить [us-pos] время на бродяжничество в такой помойке.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELEnemy", "LootCTsUs" : "CTSOCEnemyJobBragUs", "LootCTsThem" : "CTSOCEnemyJobBragUs", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBragToEnemy3", "strTitle" : "Brag About New Relationship", "strDesc" : "[us] [says] [us-subj] [has] been shacked up with a new flame, and that [them] [looks] a little lonely by contrast.",
+{"strName" : "SOCBragToEnemy3", "strTitle" : "Хвастаться Новыми Отношениями", "strDesc" : "[us] [says], что [us-subj] [has] новую любовь, и что [them] [looks] немного одинокими по сравнению с ней.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELEnemy", "LootCTsUs" : "CTSOCEnemyRelationshipBragUs", "LootCTsThem" : "CTSOCEnemyRelationshipBragThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBragToEnemy4", "strTitle" : "Brag About New Ship", "strDesc" : "[us] says [us-contractHas] been working on [us-pos] new ship, class A rated, and asks what kind of deathtrap [them] [has] been drifting around in.",
+{"strName" : "SOCBragToEnemy4", "strTitle" : "Хвастаться новым кораблём", "strDesc" : "[us] говорит, что [us-contractHas] работал над [us-pos] новым кораблём класса A, и спрашивает, в каком смертельном ловушке [them] [has] дрейфовал.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELEnemy", "LootCTsUs" : "CTSOCEnemyShipBragUs", "LootCTsThem" : "CTSOCEnemyShipBragThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCSnubEnemy1", "strTitle" : "Blow Them Off", "strDesc" : "[us] [says] [us-subj] [has] more important things to do than banter with spacer trash.",
+{"strName" : "SOCSnubEnemy1", "strTitle" : "Отмахнуться От Них", "strDesc" : "[us] [says] [us-subj] [has] более важные дела, чем болтать с космическим мусором.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
@@ -7011,8 +7011,8 @@
 
 {
   "strName" : "SOCDisembarkCommand",
-  "strTitle" : "Order Off-Ship",
-  "strDesc" : "[us] [orders] [them] to disembark.",
+  "strTitle" : "Приказ О Высадке",
+  "strDesc" : "[us] [orders] [them] высадиться.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7039,8 +7039,8 @@
 },
 {
   "strName" : "SOCDisembarkCommandAllow",
-  "strTitle" : "Agree to Disembark",
-  "strDesc" : "[us] [agrees] to disembark.",
+  "strTitle" : "Согласиться Высадиться",
+  "strDesc" : "[us] [agrees] высадиться.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7064,8 +7064,8 @@
 },
 {
   "strName" : "SOCDisembarkCommandFail",
-  "strTitle" : "Refuse to Disembark",
-  "strDesc" : "[us] [says] this is [us-pos] ship! No way.",
+  "strTitle" : "Отказаться Высадиться",
+  "strDesc" : "[us] [says] это [us-pos] корабль! Ни за что.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7089,8 +7089,8 @@
 },
 {
   "strName" : "SOCDisembarkCommandNPCFail",
-  "strTitle" : "Order Off-Ship",
-  "strDesc" : "[us] [orders] [them] to disembark.",
+  "strTitle" : "Приказ О Высадке",
+  "strDesc" : "[us] [orders] [them] высадиться.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7116,8 +7116,8 @@
 },
 {
   "strName" : "SOCDisembarkCommandStop",
-  "strTitle" : "Cancel Order Off-Ship",
-  "strDesc" : "[us] [orders] [them] to stop disembarking.",
+  "strTitle" : "Отменить Высадку С Корабля",
+  "strDesc" : "[us] [orders] [them] прекратить высадку.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7141,8 +7141,8 @@
 },
 {
   "strName" : "SOCDisembarkCommandStopAllow",
-  "strTitle" : "Agree to stop disembarking",
-  "strDesc" : "[us] [agrees] to stop disembarking.",
+  "strTitle" : "Согласиться Прекратить Высадку",
+  "strDesc" : "[us] [agrees] прекратить высадку.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7165,8 +7165,8 @@
 },
 {
   "strName" : "SOCEmbarkCommand",
-  "strTitle" : "Order Return to Ship",
-  "strDesc" : "[us] [orders] [them] to embark.",
+  "strTitle" : "Приказ Вернуться На Корабль",
+  "strDesc" : "[us] [orders] [them] сесть на борт.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7191,8 +7191,8 @@
 },
 {
   "strName" : "SOCEmbarkCommandAllow",
-  "strTitle" : "Agree to Embark",
-  "strDesc" : "[us] [agrees] to embark.",
+  "strTitle" : "Согласиться На Погрузку",
+  "strDesc" : "[us] [agrees] на погрузку.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7216,8 +7216,8 @@
 },
 {
   "strName" : "SOCEmbarkCommandStop",
-  "strTitle" : "Cancel Order Return Ship",
-  "strDesc" : "[us] [orders] [them] to stop returning to ship.",
+  "strTitle" : "Отменить возврат заказа на корабль",
+  "strDesc" : "[us] [orders] [them] прекратить возвращаться на корабль.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7242,8 +7242,8 @@
 },
 {
   "strName" : "SOCEmbarkCommandStopAllow",
-  "strTitle" : "Agree to stop embarking",
-  "strDesc" : "[us] [agrees] to stop embarking.",
+  "strTitle" : "Соглашаюсь прекратить погрузку",
+  "strDesc" : "[us] [agrees] прекратить погрузку.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7266,8 +7266,8 @@
 },
 {
   "strName" : "SOCFollowCommand",
-  "strTitle" : "Follow Me",
-  "strDesc" : "[us] [orders] [them] to follow.",
+  "strTitle" : "Следуй За Мной",
+  "strDesc" : "[us] [orders] [them] следовать.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7292,8 +7292,8 @@
 },
 {
   "strName" : "SOCFollowCommandAllow",
-  "strTitle" : "Agree to follow",
-  "strDesc" : "[us] [agrees] to follow [them].",
+  "strTitle" : "Соглашаюсь следовать",
+  "strDesc" : "[us] [agrees] следовать за [them].",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7317,8 +7317,8 @@
 },
 {
   "strName" : "SOCFollowCommandStop",
-  "strTitle" : "Stop Following Me",
-  "strDesc" : "[us] [orders] [them] to stop following.",
+  "strTitle" : "Перестань Следить За мной",
+  "strDesc" : "[us] [orders] [them] прекратить следить.",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7342,8 +7342,8 @@
 },
   {
     "strName" : "SOCFollowCommandStopSelf",
-    "strTitle" : "Stop Following",
-    "strDesc" : "[us] [stops] following.",
+    "strTitle" : "Прекратить следить",
+    "strDesc" : "[us] [stops] следить.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0,
@@ -7366,8 +7366,8 @@
   },
   {
     "strName" : "SOCFollowCommandStopSelfAllow",
-    "strTitle" : "Agree to stop following",
-    "strDesc" : "[us] [stops] following.",
+    "strTitle" : "Соглашаюсь прекратить следить",
+    "strDesc" : "[us] [stops] следить.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0,
@@ -7388,8 +7388,8 @@
   },
 {
   "strName" : "SOCFollowCommandStopAllow",
-  "strTitle" : "Agree to stop following",
-  "strDesc" : "[us] [agrees] to stop following [them].",
+  "strTitle" : "Согласиться прекратить преследовать",
+  "strDesc" : "[us] [agrees] прекратить преследовать [them].",
   "strTargetPoint" : "talk",
   "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7412,8 +7412,8 @@
 },
 {
     "strName" : "SOCHireFire",
-    "strTitle" : "Fire Them",
-    "strDesc" : "[us] [tells] [them] [them-contractIs] fired.",
+    "strTitle" : "Уволить их",
+    "strDesc" : "[us] [tells] [them] [them-contractIs], что они уволены.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -7446,8 +7446,8 @@
 
   {
     "strName" : "SocialCombatExit",
-    "strTitle" : "Leave",
-    "strDesc" : "[us] [says] \"Later.\"",
+    "strTitle" : "Уйти",
+    "strDesc" : "[us] [says] \"Позже.\"",
     "strTargetPoint" : null,
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0,
@@ -7474,8 +7474,8 @@
   },
   {
     "strName" : "SocialCombatExitSilent",
-    "strTitle" : "Leave (Only Used Programmatically)",
-    "strDesc" : "[us] silently [exits] social combat.",
+    "strTitle" : "Выйти (используется только программно)",
+    "strDesc" : "[us] незаметно [exits] из социального боя.",
     "strTargetPoint" : null,
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0,
@@ -7502,8 +7502,8 @@
   },
   {
     "strName" : "SOCLaughCallous",
-    "strTitle" : "Callous Laughter",
-    "strDesc"  : "[us] [bursts] into callous laughter.",
+    "strTitle" : "Бесчувственно посмеяться",
+    "strDesc"  : "[us] [bursts] бесчувственным смехом.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -7550,7 +7550,7 @@
   },
   {
     "strName" : "SOCLostInThought",
-    "strTitle" : "Lost In Thought",
+    "strTitle" : "Погрузиться В Раздумья",
     "strDesc"  : "[us] [appears] to be lost in thought.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
@@ -7579,8 +7579,8 @@
   },
   {
     "strName" : "SOCDaydreamExLover",
-    "strTitle" : "Daydream About Ex-Lover",
-    "strDesc"  : "[us] [daydreams] about [3rd].",
+    "strTitle" : "Мечтать О Бывшем",
+    "strDesc"  : "[us] [daydreams] о [3rd].",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -7609,8 +7609,8 @@
   },
   {
     "strName" : "SOCDaydreamExLoverNPC",
-    "strTitle" : "Daydream About Ex-Lover",
-    "strDesc"  : "[us] [is] daydreaming about someone.",
+    "strTitle" : "Мечтать О Бывшем",
+    "strDesc"  : "[us] [is] мечтает о ком-то.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -7639,8 +7639,8 @@
   },
   {
     "strName" : "SOCPlayfulThreat",
-    "strTitle" : "Playful Threat",
-    "strDesc"  : "[us] playfully [threatens] to punish [them].",
+    "strTitle" : "Шутливо Угрожать",
+    "strDesc"  : "[us] шутливо [threatens] наказать [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -7733,8 +7733,8 @@
   },
   {
     "strName" : "SOCPleeease",
-    "strTitle" : "Pleeeeeease!",
-    "strDesc"  : "[us] [says] \"Pleeeeeeeease!\"",
+    "strTitle" : "Пожаааалуйста!",
+    "strDesc"  : "[us] [says] \"Пожаааалуйста!\"",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -7760,8 +7760,8 @@
   },
   {
     "strName" : "SOCPoliteChuckle",
-    "strTitle" : "Chuckle Politely",
-    "strDesc"  : "[us] [chuckles] politely.",
+    "strTitle" : "Вежливо Хихикать",
+    "strDesc"  : "[us] [chuckles] вежливо.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -7791,8 +7791,8 @@
   },
   {
     "strName" : "SOCQuiver",
-    "strTitle" : "Quiver Uncontrollably",
-    "strDesc"  : "[us] [quivers] uncontrollably.",
+    "strTitle" : "Неконтролируемо дрожать",
+    "strDesc"  : "[us] [quivers] неконтролируемо дрожать.",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.0,
     "strAnim"           : "No",
@@ -7821,8 +7821,8 @@
   },
   {
     "strName" : "SOCReassureLogical",
-    "strTitle" : "Reassure with Logic",
-    "strDesc"  : "[us] [reassures] [them] with logic.",
+    "strTitle" : "Успокаивать Логикой",
+    "strDesc"  : "[us] [reassures] [them] логикой.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -7851,8 +7851,8 @@
   },
   {
     "strName" : "SOCReiterateUrgency",
-    "strTitle" : "Reiterate Urgency",
-    "strDesc"  : "[us] [reiterates] the urgency of the situation to [them].",
+    "strTitle" : "Повторить Срочность",
+    "strDesc"  : "[us] [reiterates] срочность ситуации [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -7923,8 +7923,8 @@
   },
   {
     "strName" : "SOCRepeatSexuallyAllow",
-    "strTitle" : "Repeat, Sexually",
-    "strDesc"  : "[us] [repeats] what [them] just said, but sexually.",
+    "strTitle" : "Повторить, Сексуально",
+    "strDesc"  : "[us] [repeats] то что [them] только что сказали, но сексуально.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -7988,8 +7988,8 @@
   },
   {
     "strName" : "SOCSmileDemurely",
-    "strTitle" : "Smile Demurely",
-    "strDesc"  : "[us] [smiles] demurely.",
+    "strTitle" : "Скромно Улыбнуться",
+    "strDesc"  : "[us] [smiles] скромно.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -8019,8 +8019,8 @@
   },
   {
     "strName" : "SOCTableTalkCont",
-    "strTitle" : "Join Table",
-    "strDesc"  : "[us] [joins] the group hanging out near [them].",
+    "strTitle" : "Присоединиться К Группе",
+    "strDesc"  : "[us] [joins] присоединяется к группе, которая находится рядом с [them].",
     "strTargetPoint"    : "use",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.5,
@@ -8047,8 +8047,8 @@
   },
   {
     "strName" : "SOCTableTalkStart",
-    "strTitle" : "Hang Out",
-    "strDesc"  : "[us] [starts] hanging out near [them].",
+    "strTitle" : "Провести Время",
+    "strDesc"  : "[us] [starts] проводить время рядом с [them].",
     "strTargetPoint"    : "use",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0.5,
@@ -8075,8 +8075,8 @@
   },
   {
     "strName" : "SOCTellSkill_TEMP",
-    "strTitle" : "Talk About Skill TEMP",
-    "strDesc"  : "[us] [mentions] [us-subj] [is] skilled in TEMP.",
+    "strTitle" : "Обсудить навык TEMP",
+    "strDesc"  : "[us] [mentions] [us-subj] [is] силен в TEMP.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -8098,8 +8098,8 @@
   },
   {
     "strName" : "SOCThreatStepAside",
-    "strTitle" : "Step Aside",
-    "strDesc"  : "[us] [steps] out of [them-pos] way.",
+    "strTitle" : "Отойти В Сторону",
+    "strDesc"  : "[us] [steps] с [them-pos] пути.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -8128,8 +8128,8 @@
   },
   {
     "strName" : "SOCYawnInFace",
-    "strTitle" : "Yawn In Face",
-    "strDesc"  : "[us] [yawns] in [them-pos] face.",
+    "strTitle" : "Зевнуть в лицо",
+    "strDesc"  : "[us] [yawns] в [them-pos] лицо.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -8175,8 +8175,8 @@
   },
   {
     "strName" : "SOCYesSir",
-    "strTitle" : "Yes Sir",
-    "strDesc"  : "[us] [says] \"yes, sir!\"",
+    "strTitle" : "Да, Сэр",
+    "strDesc"  : "[us] [says] \"Да, Сэр!\"",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
