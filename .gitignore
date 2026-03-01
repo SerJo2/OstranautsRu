@@ -590,7 +590,6 @@ saves/
 ###################
 *.com
 *.class
-*.dll
 *.exe
 *.o
 
@@ -790,3 +789,5 @@ out
 gen
 /diff.txt
 /Translation.7z
+/LocalDiff.py
+/test.py
