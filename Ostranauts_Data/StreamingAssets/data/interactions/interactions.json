@@ -1,4 +1,3 @@
-
 [
   {
     "strName" : "ACTAddConnection",
@@ -1313,7 +1312,7 @@
 
   {
     "strName" : "ACTFloorGrate01Patch",
-    "strTitle" : "Patch",
+    "strTitle" : "Заплатка",
     "strDesc" : "[us] [starts] заделывает дыру в [them].",
     "strTooltip" : "Применяет заплатку для быстрого устранения утечки газа.",
     "strActionGroup" : "Work",
@@ -3199,9 +3198,9 @@
 
   {
     "strName" : "ACTPlayGame",
-    "strTitle" : "Play Game",
-    "strDesc" : "[us] [decides] to play [them].",
-    "strTooltip" : "Plays a challenging arcade game, achieving some alone time, autonomy, and escapism from real life fear and meaninglessness.",
+    "strTitle" : "Играть В Игру",
+    "strDesc" : "[us] [decides] поиграть в [them].",
+    "strTooltip" : "Играет в сложную аркадную игру, получая возможность побыть в одиночестве, обрести независимость и уйти от страхов и бессмысленности реальной жизни.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 0,
@@ -3226,8 +3225,8 @@
   },
   {
     "strName" : "ACTPlayGameDeny",
-    "strTitle" : "Not Interested Right Now",
-    "strDesc" : "[us] [is] not interested in playing [them] right now.",
+    "strTitle" : "Сейчас не интересно",
+    "strDesc" : "[us] [is] сейчас не заинтересован в игре [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -3247,8 +3246,8 @@
   },
   {
     "strName" : "ACTPlayGameDenyContact",
-    "strTitle" : "Wants Contact",
-    "strDesc" : "[us] [is] not interested in playing [them] right now because [us-subj] would rather talk to someone.",
+    "strTitle" : "Хочет Контакта",
+    "strDesc" : "[us] [is] не заинтересован в игре [them] прямо сейчас, потому что [us-subj] предпочитает поговорить с кем-нибудь..",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -3270,8 +3269,8 @@
   },
   {
     "strName" : "ACTPlayGameDenyEsteem",
-    "strTitle" : "Wants Esteem",
-    "strDesc" : "[us] [is] not interested in playing [them] right now because [us-subj] would rather accomplish something more tangible.",
+    "strTitle" : "Хочет Внимания",
+    "strDesc" : "[us] [is] заинтересованы в том, чтобы играть [them] прямо сейчас, потому что [us-subj] предпочитаем достичь чего-то более осязаемого.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -3293,9 +3292,9 @@
   },
   {
     "strName" : "ACTPlayGameJoin",
-    "strTitle" : "Join Game",
-    "strDesc" : "[us] [decides] to join [3rd] in playing [them].",
-    "strTooltip" : "Plays a game with a companion.\nAchieves contact and possibly belonging for you both.\nAchieves autonomy and escapism from the fear and meaninglessness of real life.",
+    "strTitle" : "Присоединиться К Игре",
+    "strDesc" : "[us] [decides] присоединиться к [3rd] игре [them].",
+    "strTooltip" : "Играет в игру с компаньоном.\nДостигает контакта и, возможно, принадлежности для вас обоих.\nДостигает автономии и эскапизма от страха и бессмысленности реальной жизни.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 0.25,
@@ -3321,8 +3320,8 @@
   },
   {
     "strName" : "ACTPlayGameAllowNew",
-    "strTitle" : "Starting New Game",
-    "strDesc" : "[us] [starts] a new game on [them] and is deciding character details.",
+    "strTitle" : "Начать Новую Игру",
+    "strDesc" : "[us] [starts] новую игру на [them] и определяет детали персонажа.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -3344,8 +3343,8 @@
   },
   {
     "strName" : "ACTPlayGameAllow",
-    "strTitle" : "Loading Previous game",
-    "strDesc" : "[us] continues the previous game on [them].",
+    "strTitle" : "Загрузить Предыдущую Игру",
+    "strDesc" : "[us] продолжает предыдущую игру на [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -3368,7 +3367,7 @@
   {
     "strName" : "ACTPlayGameJoinAllow",
     "strTitle" : "",
-    "strDesc" : "[us] plays [them] together with [3rd].",
+    "strDesc" : "[us] играем [them] вместе с [3rd].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -3390,8 +3389,8 @@
   },
   {
     "strName" : "ACTPlayGameCont",
-    "strTitle" : "Playing Game",
-    "strDesc" : "[us] plays a level of [them].",
+    "strTitle" : "Играть В Игру",
+    "strDesc" : "[us] играет уровень из [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -15915,9 +15914,9 @@
   
   {
     "strName" : "DismantleRobot",
-    "strTitle" : "Scrap Drone",
-    "strDesc" : "[us] [is] going to scrap [them].",
-    "strTooltip" : "Salvages a nonresponsive robotics target into component parts.",
+    "strTitle" : "Разбор Дрона",
+    "strDesc" : "[us] [is] собирается разобрать [them].",
+    "strTooltip" : "Разбирает нереагирующий робототехнический объект на составные части",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -15944,8 +15943,8 @@
   },
   {
     "strName" : "DismantleRobotSucceed",
-    "strTitle" : "Scrap",
-    "strDesc" : "[us] [starts] scrapping [them].",
+    "strTitle" : "Быстрая Разборка",
+    "strDesc" : "[us] [starts] Быстро Разбирать [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -15973,8 +15972,8 @@
   },
   {
     "strName" : "DismantleRobotSucceedRemove01",
-    "strTitle" : "Allow Dismantle",
-    "strDesc" : "[them] [is] eliminated by [us].",
+    "strTitle" : "Разрешить Разборку",
+    "strDesc" : "[them] [is] устраняется [us].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -15999,8 +15998,8 @@
   },
   {
     "strName" : "DismantleRobotSucceedRemove02",
-    "strTitle" : "Allow Dismantle",
-    "strDesc" : "[them] [is] eliminated by [us].",
+    "strTitle" : "Разрешить Разобрать",
+    "strDesc" : "[them] [is] устраняет [us].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16025,8 +16024,8 @@
   },
   {
     "strName" : "DismantleRobotDeny",
-    "strTitle" : "Deny Dismantle",
-    "strDesc" : "[us] cannot dismantle [them].",
+    "strTitle" : "Отказ Разбирать",
+    "strDesc" : "[us] не может разобрать [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16051,7 +16050,7 @@
   {
     "strName" : "SysExtraTime",
     "strTitle" : "",
-    "strDesc" : "Extra time for UI use. E.g. ending social combat with results visible",
+    "strDesc" : "Дополнительное время для использования пользовательского интерфейса. Например, завершение социального боя с отображением результатов",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -16073,7 +16072,7 @@
   {
     "strName" : "SysExtraTimeZero",
     "strTitle" : "",
-    "strDesc" : "Extra time to use as a spacer. E.g. immediately after starting to open a door, so we don't pathfind into still-closed door",
+    "strDesc" : "Дополнительное время, которое можно использовать в качестве промежутка. Например, сразу после начала открытия двери, чтобы мы не прокладывали путь к еще закрытой двери",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
     "strAnim"           : null,
@@ -16095,9 +16094,9 @@
   },
   {
     "strName" : "TASKCourseCorrection",
-    "strTitle" : "Course Correction",
-    "strDesc" : "[us] [sits] down at [them-pos] control panel.",
-    "strTooltip" : "Double checks the flight path.",
+    "strTitle" : "Корректировка Курса",
+    "strDesc" : "[us] [sits] за [them-pos] панель управления.",
+    "strTooltip" : "Дважды проверяет траекторию полета.",
     "strActionGroup" : "Use",
     "fTargetPointRange" : 0,
     "strIdleAnim"       : "Sitting",
@@ -16124,8 +16123,8 @@
   },
   {
     "strName" : "TASKCourseCorrectionOperate",
-    "strTitle" : "Course Correction",
-    "strDesc" : "[us] [monitors] the [them].",
+    "strTitle" : "Корректировка курса",
+    "strDesc" : "[us] [monitors] [them].",
     "strActionGroup" : "Use",
     "fTargetPointRange" : 0,
     "strIdleAnim"       : "Sitting",
@@ -16151,8 +16150,8 @@
   },
   {
     "strName" : "Unconscious",
-    "strTitle" : "Unconscious",
-    "strDesc" : "[us] [goes] limp.",
+    "strTitle" : "Без сознания",
+    "strDesc" : "[us] [goes] без сил.",
     "strActionGroup" : "Use",
     "fTargetPointRange" : 0,
     "fRotation"         : 0,
@@ -16180,7 +16179,7 @@
   {
     "strName" : "Undraft",
     "strTitle" : "Undraft",
-    "strDesc" : "[us] [releases] [them] from direct control.",
+    "strDesc" : "[us] [releases] [them] от прямого контроля.",
     "strActionGroup" : "Use",
     "strAnim" : "Talk",
     "aInverse"          : [
@@ -16216,8 +16215,8 @@
   },
   {
     "strName" : "Wait",
-    "strTitle" : "Wait For",
-    "strDesc" : "[us] [is] waiting for [them].",
+    "strTitle" : "Ждать",
+    "strDesc" : "[us] [is] ждет [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16237,8 +16236,8 @@
   },
   {
     "strName" : "QuickWait",
-    "strTitle" : "Wait For",
-    "strDesc" : "[us] [is] waiting for [them].",
+    "strTitle" : "Ждать",
+    "strDesc" : "[us] [is] ждет [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16261,8 +16260,8 @@
   },
   {
     "strName" : "Walk",
-    "strTitle" : "Walk To",
-    "strDesc" : "[us] [is] walking to [them].",
+    "strTitle" : "Идти К",
+    "strDesc" : "[us] [is] идет к [them].",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16285,9 +16284,9 @@
   },
   {
     "strName" : "Wander",
-    "strTitle" : "Wander",
-    "strDesc" : "[us] [is] wandering.",
-    "strTooltip" : "Walk to a random place nearby.",
+    "strTitle" : "Блуждать",
+    "strDesc" : "[us] [is] блуждает.",
+    "strTooltip" : "Иди в случайное место поблизости.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "random",
     "fTargetPointRange" : 0,
@@ -16310,7 +16309,7 @@
   {
     "strName" : "WanderSoon",
     "strTitle" : "",
-    "strDesc" : "[us] [is] about to wander.",
+    "strDesc" : "[us] [is] собирается блуждать.",
     "strActionGroup" : "Use",
     "nLogging"  : 0,
     "strIdleAnim"       : "Idle",
@@ -16329,7 +16328,7 @@
   {
     "strName" : "ACTDrawCigDeny",
     "strTitle" : "",
-    "strDesc" : "[us] [doesn't] have a cigarette to draw.",
+    "strDesc" : "[us] [doesn't] имеет сигарет, чтобы достать.",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16352,7 +16351,7 @@
   {
     "strName" : "SeekDrawCigDenyAirtight",
     "strTitle" : "",
-    "strDesc" : "[them] can't reach [them-pos] mouth while airtight.",
+    "strDesc" : "[them] не могут достать до [them-pos] рта, когда он закрыт.",
     "strActionGroup" : "Use",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -16374,9 +16373,9 @@
   },
   {
     "strName" : "DrawCig",
-    "strTitle" : "Draw Cigarette",
-    "strDesc" : "[us] [is] going to draw an unlit cigarette from [them].",
-    "strTooltip" : "Slots a cigarette to an empty mouth or hand slot.",
+    "strTitle" : "Достать Сигарету",
+    "strDesc" : "[us] [is] собирается достать незажженную сигарету из [them].",
+    "strTooltip" : "Вставляет сигарету в пустой слот рта или руки.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,
@@ -16403,7 +16402,7 @@
   },
   {
     "strName" : "ACTDrawCigAllow",
-    "strTitle" : "Draw Cigarette: Done",
+    "strTitle" : "Вытянуть Сигарету: Выполнено",
     "strActionGroup" : "Use",
     "strDesc" : "",
     "strTargetPoint" : null,
@@ -16436,7 +16435,7 @@
   {
         "strName" : "ACTLightCigDeny",
         "strTitle" : "",
-        "strDesc" : "[them] can't light [us]. Perhaps it's not equipped?",
+        "strDesc" : "[them] не могут зажечь [us]. Возможно, это не экипировано?",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16459,9 +16458,9 @@
       },
       {
         "strName" : "ACTLightCig",
-        "strTitle" : "Light up",
-        "strDesc" : "[us] [decides] to light [them].",
-        "strTooltip" : "Lights an unlit cigarette in a mouth or hand slot.",
+        "strTitle" : "Зажечь",
+        "strDesc" : "[us] [decides] зажигает [them].",
+        "strTooltip" : "Зажигает незажженную сигарету в слоте для рта или руки.",
         "strActionGroup" : "Use",
         "strTargetPoint" : "use",
         "fTargetPointRange" : 0,
@@ -16492,8 +16491,8 @@
       },
       {
         "strName" : "ACTLightCigViceroyAllow",
-        "strTitle" : "Lighting",
-        "strDesc" : "[them] [finishes] lighting [us].",
+        "strTitle" : "Зажигать",
+        "strDesc" : "[them] [finishes] зажигает [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16517,8 +16516,8 @@
       },
       {
         "strName" : "ACTLightCigViceroy02Allow",
-        "strTitle" : "Lighting",
-        "strDesc" : "[them] [finishes] lighting [us].",
+        "strTitle" : "Зажигать",
+        "strDesc" : "[them] [finishes] зажигает [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16542,8 +16541,8 @@
       },
       {
         "strName" : "ACTLightCigDamaskRoseAllow",
-        "strTitle" : "Lighting",
-        "strDesc" : "[them] [finishes] lighting [us].",
+        "strTitle" : "Зажигать",
+        "strDesc" : "[them] [finishes] зажигает [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16567,8 +16566,8 @@
       },
       {
         "strName" : "ACTLightCigUnicornDreamAllow",
-        "strTitle" : "Lighting",
-        "strDesc" : "[them] [finishes] lighting [us].",
+        "strTitle" : "Зажечь",
+        "strDesc" : "[them] [finishes] зажигает [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16600,7 +16599,7 @@
       {
         "strName" : "ACTSnuffCigDeny",
         "strTitle" : "",
-        "strDesc" : "[them] can't snuff [us].",
+        "strDesc" : "[them] не может потушить [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16623,9 +16622,9 @@
       },
       {
         "strName" : "ACTSnuffCig",
-        "strTitle" : "Snuff out",
-        "strDesc" : "[us] [decides] to snuff [them].",
-        "strTooltip" : "Turns a lit cigarette into a cigarette butt.",
+        "strTitle" : "Потушить",
+        "strDesc" : "[us] [decides] тушит [them].",
+        "strTooltip" : "Превращает зажженную сигарету в окурок.",
         "strActionGroup" : "Use",
         "strTargetPoint" : "use",
         "fTargetPointRange" : 0,
@@ -16652,7 +16651,7 @@
       },
       {
         "strName" : "ACTSnuffCigAllow",
-        "strTitle" : "Snuffing",
+        "strTitle" : "Нюхать",
         "strDesc" : "[them] [snuffs] [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
@@ -16685,7 +16684,7 @@
       {
         "strName" : "ACTSmokeCigDeny",
         "strTitle" : "",
-        "strDesc" : "[us] can't smoke [them].",
+        "strDesc" : "[us] не может курить [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16709,7 +16708,7 @@
       {
         "strName" : "ACTSmokeCigStubDeny",
         "strTitle" : "",
-        "strDesc" : "[us] can't smoke [them].",
+        "strDesc" : "[us] не может курить [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16734,9 +16733,9 @@
       
       {
         "strName" : "ACTSmokeCig",
-        "strTitle" : "Smoke",
-        "strDesc" : "[us] [is] going to smoke [them].",
-        "strTooltip" : "Repeats smoking a lit cigarette in a mouth or hand slot until cancelled or it burns out.",
+        "strTitle" : "Курить",
+        "strDesc" : "[us] [is] собирается покурить [them].",
+        "strTooltip" : "Повторяет курение зажженной сигареты во рту или в руке до тех пор, пока не будет отменено или пока она не догорит",
         "strActionGroup" : "Use",
         "strTargetPoint" : "use",
         "fTargetPointRange" : 1,
@@ -16766,7 +16765,7 @@
 
       {
         "strName" : "ACTSmokeCigViceroyAllow",
-        "strTitle" : "Smoke",
+        "strTitle" : "Курить",
         "strDesc" : "[us] [smokes] [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
@@ -16793,7 +16792,7 @@
       },
       {
         "strName" : "ACTSmokeCigViceroy02Allow",
-        "strTitle" : "Smoke",
+        "strTitle" : "Курить",
         "strDesc" : "[us] [smokes] [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
@@ -16820,7 +16819,7 @@
       },
       {
         "strName" : "ACTSmokeCigDamaskRoseAllow",
-        "strTitle" : "Smoke",
+        "strTitle" : "Курить",
         "strDesc" : "[us] [smokes] [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
@@ -16847,7 +16846,7 @@
       },
       {
         "strName" : "ACTSmokeCigUnicornDreamAllow",
-        "strTitle" : "Smoke",
+        "strTitle" : "Купить",
         "strDesc" : "[us] [smokes] [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
@@ -16886,7 +16885,7 @@
       {
         "strName" : "ACTSeekHygieneDeny",
         "strTitle" : "",
-        "strDesc" : "[them] can't use [us] for freshening up.",
+        "strDesc" : "[them] не могут использовать [us] для освежения.",
         "strActionGroup" : "Use",
         "strTargetPoint" : null,
         "fTargetPointRange" : 0,
@@ -16909,9 +16908,9 @@
       },
       {
         "strName" : "SeekHygiene",
-        "strTitle" : "Freshen Up",
-        "strDesc" : "[us] [decides] to freshen up using [them].",
-        "strTooltip" : "Improves hygiene by using up item.",
+        "strTitle" : "Освежиться",
+        "strDesc" : "[us] [decides] освежиться, используя [them].",
+        "strTooltip" : "Улучшает гигиену, используя предмет.",
         "strActionGroup" : "Use",
         "strTargetPoint" : "use",
         "fTargetPointRange" : 0,
@@ -16938,9 +16937,9 @@
       
       {
         "strName" : "SeekHygieneLowNeed",
-        "strTitle" : "Freshen Up (Low Need)",
-        "strDesc" : "[us] [decides] to freshen up using [them], even though they don't really need to.",
-        "strTooltip" : "Improves hygiene by using up item.",
+        "strTitle" : "Освежиться (низкая потребность)",
+        "strDesc" : "[us] [decides] освежиться, используя [them], даже если в этом нет особой необходимости.",
+        "strTooltip" : "Улучшает гигиену, используя предмет.",
         "strActionGroup" : "Use",
         "strTargetPoint" : "use",
         "fTargetPointRange" : 0,
@@ -16967,8 +16966,8 @@
       },
       {
         "strName" : "ACTSeekHygieneAllowTrash",
-        "strTitle" : "Cleansing",
-        "strDesc" : "[us] [freshens] up by using up [them].",
+        "strTitle" : "Очищение",
+        "strDesc" : "[us] [freshens] путем использования  [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : "",
         "fTargetPointRange" : 0,
@@ -16994,8 +16993,8 @@
       
       {
         "strName" : "ACTSeekHygieneAllowTrashDone",
-        "strTitle" : "Tossing used wipe",
-        "strDesc" : "[them] [tosses] [us] away as trash.",
+        "strTitle" : "Выбросить использованную Салфетку",
+        "strDesc" : "[them] [tosses] [us] как мусор.",
         "strActionGroup" : "Use",
         "strTargetPoint" : "",
         "fTargetPointRange" : 0,
@@ -17022,8 +17021,8 @@
       
       {
         "strName" : "SeekHygieneTeeth",
-        "strTitle" : "Brush Teeth",
-        "strDesc" : "[us] [decides] to brush [us-pos] teeth using [them].",
+        "strTitle" : "Чистит Зубы",
+        "strDesc" : "[us] [decides] чистит [us-pos] зубы используя [them].",
         "strTooltip" : "Improves hygiene but can only offer benefits every few hours or after eating or smoking.",
         "strActionGroup" : "Use",
         "strTargetPoint" : "use",
@@ -17052,8 +17051,8 @@
       },
       {
         "strName" : "ACTSeekHygieneTeethAllow",
-        "strTitle" : "Brushing Teeth",
-        "strDesc" : "[them] [brushes] [us-pos] teeth with [us].",
+        "strTitle" : "Чистить Зубы",
+        "strDesc" : "[them] [brushes] [us-pos] зубы [us].",
         "strActionGroup" : "Use",
         "strTargetPoint" : "",
         "fTargetPointRange" : 0,
@@ -17080,8 +17079,8 @@
       },
       {
         "strName" : "ACTSeekHygieneTeethAllow2",
-        "strTitle" : "Brushing Teeth",
-        "strDesc" : "[us] [brushes] [us-pos] teeth with [them].",
+        "strTitle" : "Чистить Зубы",
+        "strDesc" : "[us] [brushes] [us-pos] чистит зубы [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : "",
         "fTargetPointRange" : 0,
@@ -17108,7 +17107,7 @@
       {
         "strName" : "ACTSeekHygieneTeethAllowEnd",
         "strTitle" : "",
-        "strDesc" : "[us] [finishes] brushing [us-pos] teeth with [them].",
+        "strDesc" : "[us] [finishes] чистит [us-pos] зубы [them].",
         "strActionGroup" : "Use",
         "strTargetPoint" : "",
         "fTargetPointRange" : 0,
