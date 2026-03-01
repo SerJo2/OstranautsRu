@@ -31,7 +31,7 @@
   {
     "strName" : "ACTCombatBlockCont",
     "strTitle" : "Блокировать",
-    "strDesc" : "[us] [is] пытается блокировать входящие атаки.",
+    "strDesc" : "[us] пытается блокировать входящие атаки.",
     "strActionGroup" : "Fight",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -111,7 +111,7 @@
   {
     "strName" : "ACTCombatDodgeCont",
     "strTitle" : "Уклонение",
-    "strDesc" : "[us] [is] пытается уклониться от входящих атак.",
+    "strDesc" : "[us] пытается уклониться от входящих атак.",
     "strActionGroup" : "Fight",
     "strTargetPoint" : null,
     "fTargetPointRange" : 0,
@@ -256,7 +256,7 @@
   {
     "strName" : "ACTShipKnockDown",
     "strTitle" : "Сбивание с ног экипажа",
-    "strDesc" : "[us] [is] сбивается с ног внезапными движениями корабля.",
+    "strDesc" : "[us] сбивается с ног внезапными движениями корабля.",
     "strTooltip" : "Цель сбивается с ног.",
     "strActionGroup" : "Fight",
     "strTargetPoint" : null,
@@ -283,7 +283,7 @@
   {
     "strName" : "ACTShipKnockDownDone",
     "strTitle" : "Сбивание с ног экипажа Закончено",
-    "strDesc" : "[us] [is] не теряем равновесия из-за внезапных движений корабля.",
+    "strDesc" : "[us] не теряем равновесия из-за внезапных движений корабля.",
     "strTooltip" : "Цель больше не теряет равновесия.",
     "strActionGroup" : "Fight",
     "strTargetPoint" : null,

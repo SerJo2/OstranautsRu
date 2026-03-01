@@ -1936,7 +1936,7 @@
   {
     "strName" : "SOCShareAnotherStory",
     "strTitle" : "Рассказать Увлекательную Историю",
-    "strDesc"  : "[us] [is] странную, захватывающую историю, и [us-subj] [tells] ее подробно.",
+    "strDesc"  : "[us] странную, захватывающую историю, и [us-subj] [tells] ее подробно.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -3026,7 +3026,7 @@
   {
     "strName" : "SeekKOAllow",
     "strTitle" : "Нокаут",
-    "strDesc" : "[us] [is] в нокауте.",
+    "strDesc" : "[us] в нокауте.",
     "strTargetPoint" : null,
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 0,
@@ -3930,7 +3930,7 @@
   {
     "strName" : "SOCReassure",
     "strTitle" : "Успокоить",
-    "strDesc"  : "[us] [assures] [them], что [them-subj] [is] будет в порядке.",
+    "strDesc"  : "[us] [assures] [them], что [them-subj] будет в порядке.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4130,7 +4130,7 @@
   {
     "strName" : "SOCNameDropLEO",
     "strTitle" : "Назвать своего контакта в правоохранительных органах",
-    "strDesc"  : "[us] [says] что Офицер [3rd] [has] о некоторых сделках [them-pos]. Но, учитывая, что офицер [3rd] [is] другом, [us] возможно сможем сбить [3rd-pos] с толку. При условии, что [them] [is] вести себя хорошо.",
+    "strDesc"  : "[us] [says] что Офицер [3rd] [has] о некоторых сделках [them-pos]. Но, учитывая, что офицер [3rd] другом, [us] возможно сможем сбить [3rd-pos] с толку. При условии, что [them] вести себя хорошо.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -4201,7 +4201,7 @@
   {
     "strName" : "SOCNameDropManager",
     "strTitle" : "Назвать имя вашего корпоративного менеджера",
-    "strDesc"  : "[us] [asks] [them], был ли [3rd] [has] здесь в последнее время. [3rd-subj] [is] близким личным другом.",
+    "strDesc"  : "[us] [asks] [them], был ли [3rd] [has] здесь в последнее время. [3rd-subj] близким личным другом.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
@@ -5218,7 +5218,7 @@
     "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : true, "LootCTsUs" : "CTSOCHire2PaySubUs", "LootCTsThem" : "CTSOCHire2DeathSubThem", "CTTestUs" : null, "CTTestThem" : null,
     "strLootRELChangeThemSeesUs" : null, "strLootRELChangeUsSeesThem" : null, "PSpecTestThem" : null
   },
-  { "strName" : "SOCHire2Deny", "strTitle" : "Decline to Talk Jobs", "strDesc" : "[us] [says] [us-subj] [is] not looking for work.",
+  { "strName" : "SOCHire2Deny", "strTitle" : "Decline to Talk Jobs", "strDesc" : "[us] [says] [us-subj] not looking for work.",
     "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
     "aInverse" : [ "SOCChangeSubject" ],
@@ -5479,7 +5479,7 @@
   {
     "strName" : "SOCHireQuitSelfRespect",
     "strTitle" : "Quit Job (SelfWorth)",
-    "strDesc" : "[us] [says] it's just best if [us-subj] [leaves]. [us-subj] [is] just bringing the ship down anyway.",
+    "strDesc" : "[us] [says] it's just best if [us-subj] [leaves]. [us-subj] just bringing the ship down anyway.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -5718,7 +5718,7 @@
   {
     "strName" : "SOCHireQuitsGlad",
     "strTitle" : "Quit Job",
-    "strDesc" : "[us] [is] grateful for [us-pos] time with [them].",
+    "strDesc" : "[us] grateful for [us-pos] time with [them].",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2,
@@ -6117,7 +6117,7 @@
 
 
 
-{"strName" : "SOCPoliceShakedownAdmitTransponderAffirmativeJoke", "strTitle" : "Make a Joke about Flying Dark", "strDesc" : "[us] [makes] light of the fact that [us-subj] [is] flying dark, and even [makes] a little joke about the situation.", 
+{"strName" : "SOCPoliceShakedownAdmitTransponderAffirmativeJoke", "strTitle" : "Make a Joke about Flying Dark", "strDesc" : "[us] [makes] light of the fact that [us-subj] flying dark, and even [makes] a little joke about the situation.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk", "fForcedChance" : 1.0,
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
   "aInverse" : ["SOCPoliceShakedownAdmitTransponderAffirmativeJokeSucceed","SOCPoliceShakedownAdmitTransponderAffirmativeJokeFail"],
@@ -6146,7 +6146,7 @@
 
 
 
-{"strName" : "SOCPoliceShakedownStolenShipAffirmative", "strTitle" : "Confirm Arrest for Stolen Ship", "strDesc" : "[us] [says] [them] [is] flying a ship that has been reported stolen. The officer brings [them] into AyoSec custody.", 
+{"strName" : "SOCPoliceShakedownStolenShipAffirmative", "strTitle" : "Confirm Arrest for Stolen Ship", "strDesc" : "[us] [says] [them] flying a ship that has been reported stolen. The officer brings [them] into AyoSec custody.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk", "fForcedChance" : 1.0,
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblIntimidate", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
   "aInverse" : ["ENCHeatAyoSecPrisonStart,[them],[them]"],
@@ -6164,7 +6164,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : true, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : "TIsNotPlayerCrew","CTTestRoom" : "TIsOgisoPosted"
 },
 
-{"strName" : "SOCPoliceShakedownAdmitInfractionOgisoPosterAffirmative", "strTitle" : "Confirm They are Doing Random Ogiso Inspection", "strDesc" : "[us] [confirms] [us-subj] [is] doing a routine Ogiso's inspection.", 
+{"strName" : "SOCPoliceShakedownAdmitInfractionOgisoPosterAffirmative", "strTitle" : "Confirm They are Doing Random Ogiso Inspection", "strDesc" : "[us] [confirms] [us-subj] doing a routine Ogiso's inspection.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
   "aInverse" : ["SOCPoliceShakedownAdmitInfractionOgisoPosterCheckNo,[us],[them]","SOCPoliceShakedownAdmitInfractionOgisoPosterCheckYes,[us],[them]"], "nMoveType": 3,
@@ -6199,7 +6199,7 @@
   "strLootRELChangeThemSeesUs" : null, "strLootRELChangeUsSeesThem" : null, "PSpecTestThem" : null, "strLedgerDef" : "ENCPoliceShakedownFineOgiso" 
 },
 
-{"strName" : "SOCPoliceShakedownAdmitInfractionOgisoPosterPayFineGlad", "strTitle" : "Pay the Fine Politely", "strDesc" : "[us] [pays] the fine and [says] [us-subj] [is] happy that Ogiso has their back.", 
+{"strName" : "SOCPoliceShakedownAdmitInfractionOgisoPosterPayFineGlad", "strTitle" : "Pay the Fine Politely", "strDesc" : "[us] [pays] the fine and [says] [us-subj] happy that Ogiso has their back.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,  "bIgnoreFeelings" : true,
   "aInverse" : ["SocialCombatExit"],
@@ -6277,7 +6277,7 @@
   "strLootRELChangeThemSeesUs" : null, "strLootRELChangeUsSeesThem" : null, "PSpecTestThem" : null
 },
 
-{"strName" : "SOCPoliceShakedownAdmitInfractionIllegalSalvageAffirmative", "strTitle" : "Confirm That Salvage Operation is Illegal", "strDesc" : "[us] [confirms] that [them] [is] performing illegal salvage. [us] [fines] [them] in the amount of $15000.", 
+{"strName" : "SOCPoliceShakedownAdmitInfractionIllegalSalvageAffirmative", "strTitle" : "Confirm That Salvage Operation is Illegal", "strDesc" : "[us] [confirms] that [them] performing illegal salvage. [us] [fines] [them] in the amount of $15000.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblQuestion", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : false,
   "aInverse" : ["SOCPoliceShakedownAdmitInfractionIllegalSalvageShowLicense", "SOCPoliceShakedownAdmitInfractionIllegalSalvagePayFineAngry","SOCPoliceShakedownAdmitInfractionIllegalSalvagePayFineGlad", "SOCPoliceShakedownStall"],
@@ -6353,7 +6353,7 @@
   "strLootRELChangeThemSeesUs" : null, "strLootRELChangeUsSeesThem" : null, "PSpecTestThem" : null
 },
 
-{ "strName" : "SOCPoliceShakedownEmptyUnArrest", "strTitle" : "Un Arrest", "strDesc" : "[us] [looks] pensive, like [us-subj] [is] considering something.", 
+{ "strName" : "SOCPoliceShakedownEmptyUnArrest", "strTitle" : "Un Arrest", "strDesc" : "[us] [looks] pensive, like [us-subj] considering something.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Idle", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : [ "SOCBlank" ],
@@ -6405,7 +6405,7 @@
   "strLootRELChangeThemSeesUs" : null, "strLootRELChangeUsSeesThem" : null, "PSpecTestThem" : null
 },
 
-{ "strName" : "SOCPoliceShakedownBasicBribeDenyCritFail", "strTitle" : "Deny Bribe Crit Fail", "strDesc" : "[us] [scoffs] at [them-pos] offer and [us-demands] [them-subj] hand over what [them-subj] [is] carrying.", 
+{ "strName" : "SOCPoliceShakedownBasicBribeDenyCritFail", "strTitle" : "Deny Bribe Crit Fail", "strDesc" : "[us] [scoffs] at [them-pos] offer and [us-demands] [them-subj] hand over what [them-subj] carrying.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "nMoveType" : 2, "bIgnoreFeelings" : true,
   "aInverse" : [ "SocialCombatExit,[us],[them]" ],
@@ -6436,7 +6436,7 @@
   "strLootRELChangeThemSeesUs" : "RELSOCBribeContact", "strLootRELChangeUsSeesThem" : "RELSOCBribeContact", "PSpecTestThem" : null, "strContextLootUs" : "Default", "strContextLootThem" : "Default"
 },
 
-{ "strName" : "SOCPoliceShakedownBasicBribeDenyAutonomy", "strTitle" : "Decline Bribe (Autonomy)", "strDesc" : "[us] [tells] [them] [us-subj] [is] worth more than that.",
+{ "strName" : "SOCPoliceShakedownBasicBribeDenyAutonomy", "strTitle" : "Decline Bribe (Autonomy)", "strDesc" : "[us] [tells] [them] [us-subj] worth more than that.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
   "aInverse" : [ "SOCBlank,[us],[them]" ],
@@ -6514,7 +6514,7 @@
 },
 
 
-{ "strName" : "SOCPoliceShakedownAutonomyFailAchievement", "strTitle" : "Mug Them", "strDesc" : "[us] [says] that [them] should take AyoSec officers more seriously and [demands] that [them-subj] [hands] over what [them-subj] [is] carrying.", 
+{ "strName" : "SOCPoliceShakedownAutonomyFailAchievement", "strTitle" : "Mug Them", "strDesc" : "[us] [says] that [them] should take AyoSec officers more seriously and [demands] that [them-subj] [hands] over what [them-subj] carrying.", 
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "nMoveType" : 2,  "bIgnoreFeelings" : true,
   "aInverse" : ["SocialCombatExit,[us],[them]"],
@@ -6545,7 +6545,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCAskHomeAcceptEarth", "strTitle" : "Say You Are From Earth", "strDesc" : "[us] [tells] [them] that [us-subj] [is] from Earth.",
+{"strName" : "SOCAskHomeAcceptEarth", "strTitle" : "Say You Are From Earth", "strDesc" : "[us] [tells] [them] that [us-subj] from Earth.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "No", "strBubble" : "BblNegative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCAskHomeDetailEarth", "SOCChangeSubject"], 
@@ -6581,7 +6581,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCAskHomeMemoryEarthTold", "LootCTsThem" : "CTSOCAskHomeMemoryEarthHeard", "CTTestUs" : null, "CTTestThem" : "TIsSOCEarthMemoryHeardPlayer"
 },
 
-{"strName" : "SOCAskHomeAcceptMars", "strTitle" : "Say You are From Mars", "strDesc" : "[us] [tells] [them] that [us-subj] [is] from Mars.",
+{"strName" : "SOCAskHomeAcceptMars", "strTitle" : "Say You are From Mars", "strDesc" : "[us] [tells] [them] that [us-subj] from Mars.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCAskHomeDetailMars", "SOCChangeSubject"], 
@@ -6619,7 +6619,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCAskHomeAcceptVenus", "strTitle" : "Say you are from Venus", "strDesc" : "[us] [tells] [them] that [us-subj] [is] from Venus.",
+{"strName" : "SOCAskHomeAcceptVenus", "strTitle" : "Say you are from Venus", "strDesc" : "[us] [tells] [them] that [us-subj] from Venus.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCAskHomeDetailVenus", "SOCChangeSubject"], 
@@ -6634,7 +6634,7 @@
 },
 
 {"strName" : "SOCAskHomeDetailVenusAccept1", "strTitle" : "Describe Growing Up on Venus", 
-  "strDesc" : "[us] [says] that life on a Venusian aerostat isn't so different than life on a big station. But Newcal is getting very crowded and [us] [is] excited for the upcoming launch of the aerostat Los Angeles.",
+  "strDesc" : "[us] [says] that life on a Venusian aerostat isn't so different than life on a big station. But Newcal is getting very crowded and [us] excited for the upcoming launch of the aerostat Los Angeles.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
@@ -6665,7 +6665,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : "TIsSOCIsHomeworldJupiter", "CTTestThem" : null
 },
 
-{"strName" : "SOCAskHomeDetailJupiter", "strTitle" : "Ask What Region They are From", "strDesc" : "[us] [asks] [them] what part of the Jovian system [them-subj] [is] from.",
+{"strName" : "SOCAskHomeDetailJupiter", "strTitle" : "Ask What Region They are From", "strDesc" : "[us] [asks] [them] what part of the Jovian system [them-subj] from.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCAskHomeDetailJupiterAcceptEuropa1", "SOCAskHomeDetailJupiterAcceptEuropa2", "SOCAskHomeDetailJupiterAcceptEuropa3", "SOCAskHomeDetailJupiterAcceptGanymede1", "SOCAskHomeDetailJupiterAcceptGanymede2,", "SOCAskHomeDetailJupiterAcceptGanymede3", "SOCAskHomeDeny", "SOCChangeSubject"], 
@@ -6808,7 +6808,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCToldFamilyParents", "LootCTsThem" : "CTSOCHeardFamilyParents", "CTTestUs" : "TIsSOCToldFamilyParentsYes", "CTTestThem" : null
 },
 
-{"strName" : "SOCAskFamilyAcceptSiblings1", "strTitle" : "Talk about having no siblings.", "strDesc" : "[us] [tells] [them] that [us-subj] [is] an only child.",
+{"strName" : "SOCAskFamilyAcceptSiblings1", "strTitle" : "Talk about having no siblings.", "strDesc" : "[us] [tells] [them] that [us-subj] an only child.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
@@ -6822,7 +6822,7 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "CTSOCToldFamilySiblings", "LootCTsThem" : "CTSOCHeardFamilySiblings", "CTTestUs" : "TIsSOCToldFamilySiblingsYes", "CTTestThem" : null
 },
 
-{"strName" : "SOCAskFamilyAcceptSiblings3", "strTitle" : "Talk about being close with siblings.", "strDesc" : "[us] [tells] [them] that [us-subj] [is] very close with one of [us-pos] siblings.",
+{"strName" : "SOCAskFamilyAcceptSiblings3", "strTitle" : "Talk about being close with siblings.", "strDesc" : "[us] [tells] [them] that [us-subj] very close with one of [us-pos] siblings.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
@@ -6904,14 +6904,14 @@
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTSOCBadmouthEnemyAskAboutUs", "LootCTsThem" : "CTSOCBadmouthEnemyThem", "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyAskAboutAnswerPredator", "strTitle" : "Назовите своего врага бандитом", "strDesc" : "[us] [says], что [3rd] [is] бродячим бандитом, который, как и все трусы, выбирает для драки только тех, кто не имеет власти.",
+{"strName" : "SOCBadmouthEnemyAskAboutAnswerPredator", "strTitle" : "Назовите своего врага бандитом", "strDesc" : "[us] [says], что [3rd] бродячим бандитом, который, как и все трусы, выбирает для драки только тех, кто не имеет власти.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
   "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "PSpecTestThem" : "RELClose", "LootCTsUs" : "SOCBadmouthEnemyAskAboutAnswer", "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null
 },
 
-{"strName" : "SOCBadmouthEnemyAskAboutAnswerLiar", "strTitle" : "Назовите своего врага лжецом", "strDesc" : "[us] [says], что [3rd] [is] змеей в траве, которая говорит одно вам в лицо, а совсем другое — как только вы выходите из комнаты.",
+{"strName" : "SOCBadmouthEnemyAskAboutAnswerLiar", "strTitle" : "Назовите своего врага лжецом", "strDesc" : "[us] [says], что [3rd] змеей в траве, которая говорит одно вам в лицо, а совсем другое — как только вы выходите из комнаты.",
   "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2, "strAnim" : "Yes", "strBubble" : "BblAffirmative", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,
   "aInverse" : ["SOCChangeSubject"], 
@@ -7610,7 +7610,7 @@
   {
     "strName" : "SOCDaydreamExLoverNPC",
     "strTitle" : "Мечтать О Бывшем",
-    "strDesc"  : "[us] [is] мечтает о ком-то.",
+    "strDesc"  : "[us] мечтает о ком-то.",
     "strActionGroup" : "Talk",
     "strTargetPoint" : "talk",
     "fTargetPointRange" : 2.0,
@@ -8076,7 +8076,7 @@
   {
     "strName" : "SOCTellSkill_TEMP",
     "strTitle" : "Обсудить навык TEMP",
-    "strDesc"  : "[us] [mentions] [us-subj] [is] силен в TEMP.",
+    "strDesc"  : "[us] [mentions] [us-subj] силен в TEMP.",
     "strTargetPoint" : "talk",
     "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0,
