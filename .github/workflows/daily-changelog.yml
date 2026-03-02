@@ -2,7 +2,7 @@ name: Ежедневное обновление changelog'а
 
 on:
   schedule:
-    - cron: '15 13 * * *'
+    - cron: '15 12 * * *'
   workflow_dispatch:
 
 permissions:
