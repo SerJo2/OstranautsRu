@@ -276,7 +276,7 @@
     "LootCTsUs" : "CTSOCTalkWeatherUs", "LootCTsThem" : "CTSOCTalkWeatherThem", "CTTestUs" : "TIsSocialCore", "CTTestThem" : "TIsValidSocialTarget"
   },
   {
-    "strName" : "SOCMildFunny", "strTitle" : "Слегка забавный комментарий", "strDesc" : "[us] [makes] слегка забавный комментарий [them].",
+    "strName" : "SOCMildFunny", "strTitle" : "Забавно шутить", "strDesc" : "[us] [makes] слегка забавный комментарий [them].",
     "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0, "strAnim" : "Talk", "strBubble" : "BblQuestion", "strColor" : "Dialogue", "nMoveType" : 4,
     "aInverse" : [
@@ -496,7 +496,7 @@
     "LootCTsUs" : "CTSOCLightTouchUs", "LootCTsThem" : "CTSOCLightTouchThem", "CTTestUs" : "TIsSocialCore", "CTTestThem" : "TIsValidSocialTarget"
   },
   {
-    "strName" : "SOCMetaphysicalQuandary", "strTitle" : "Метафизическая Дилемма", "strDesc" : "[us] [asks] [them] метафизический вопрос, на который никто здесь не может ответить.",
+    "strName" : "SOCMetaphysicalQuandary", "strTitle" : "Дилемма", "strDesc" : "[us] [asks] [them] метафизический вопрос, на который никто здесь не может ответить.",
     "strTargetPoint" : "talk", "strActionGroup" : "Talk",
     "fTargetPointRange" : 2.0, "strAnim" : "Talk", "strBubble" : "BblQuestion", "strColor" : "Dialogue", "nMoveType" : 4,
     "aInverse" : [
