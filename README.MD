@@ -1,7 +1,7 @@
 # OstranautsRu
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.2.0-brightgreen)]()
+[![Version](https://img.shields.io/badge/version-0.2.2-brightgreen)]()
 
 Перевод Ostranauts на Русский язык
 
