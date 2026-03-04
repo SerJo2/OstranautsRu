@@ -1,3 +1,6 @@
+import re
+
+
 def count_changed_lines(diff_file):
     added = 0
     removed = 0
@@ -7,11 +10,15 @@ def count_changed_lines(diff_file):
             if line.startswith(('diff ', 'index ', '--- ', '+++ ', '@@')):
                 continue
             if line.startswith('+'):
-                added += 1
+                if contains_russian(line):
+                    added += 1
             elif line.startswith('-'):
                 removed += 1
 
     return added, removed
+
+def contains_russian(text):
+    return bool(re.search(r'[а-яА-ЯёЁ]', text))
 
 if __name__ == '__main__':
     added, removed = count_changed_lines('diff.txt')
