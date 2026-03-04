@@ -23,7 +23,7 @@ jobs:
       - name: Run badge update script
         run: python PercantageTracker.py
 
-      - name: Check if README.md changed
+      - name: Check if README.MD changed
         id: check_diff
         run: |
           if git diff --quiet README.md; then
