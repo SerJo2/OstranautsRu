@@ -7,6 +7,8 @@
 
 [Количество добавленных строк за день](CHANGELOG_BY_STRINGS.MD)
 
+![Progress](https://img.shields.io/badge/Прогресс-7389%2F12070(1%25)-green)
+
 Данный репозиторий является форком [отсюда](https://steamcommunity.com/sharedfiles/filedetails/?id=3653661769)
 
 ## Вклад

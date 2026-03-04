@@ -1,8 +1,8 @@
 [
   {
     "strName" : "ItmChargerBattDrill01",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Gott",
+    "strNameShort" : "Зарядное Устройство",
+    "strNameFriendly" : "Зарядное Устройство: Gott",
     "strItemDef" : "ItmChargerBattDrill01",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -60,8 +60,8 @@
   },
   {
     "strName" : "ItmChargerBattDrill01Dmg",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Gott (Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Gott (Damaged)",
     "strItemDef" : "ItmChargerBattDrill01Dmg",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -101,8 +101,8 @@
   },
   {
     "strName" : "ItmChargerBattDrill01DmgLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Gott (Loose, Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Gott (Не Закреплено, Повреждено)",
     "strItemDef" : "ItmChargerBattDrill01DmgLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -144,8 +144,8 @@
   },
   {
     "strName" : "ItmChargerBattDrill01Off",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Gott (Off)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Gott (Выкл.)",
     "strItemDef" : "ItmChargerBattDrill01Off",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -194,8 +194,8 @@
   },
   {
     "strName" : "ItmChargerBattDrill01OffLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Gott (Loose)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Gott (Не Закреплено)",
     "strItemDef" : "ItmChargerBattDrill01OffLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -237,8 +237,8 @@
 
   {
     "strName" : "ItmChargerBattEVA",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Bingham-12 EVA",
+    "strNameShort" : "Зарядное Устройство",
+    "strNameFriendly" : "Зарядное устройство: Bingham-12 EVA",
     "strItemDef" : "ItmChargerBattEVA",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -298,8 +298,8 @@
   },
   {
     "strName" : "ItmChargerBattEVAOffLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Bingham-12 EVA (Loose)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Bingham-12 EVA (Не Закреплено)",
     "strItemDef" : "ItmChargerBattEVAOffLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -341,8 +341,8 @@
   },
   {
     "strName" : "ItmChargerBattEVAOff",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Bingham-12 EVA (Off)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Bingham-12 EVA (Выкл.)",
     "strItemDef" : "ItmChargerBattEVAOff",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -394,8 +394,8 @@
   },
   {
     "strName" : "ItmChargerBattEVADmgLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Bingham-12 EVA (Loose, Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Bingham-12 EVA (Не Закреплено, Повреждено)",
     "strItemDef" : "ItmChargerBattEVADmgLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -439,8 +439,8 @@
   },
   {
     "strName" : "ItmChargerBattEVADmg",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Bingham-12 EVA (Off)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Bingham-12 EVA (Выкл)",
     "strItemDef" : "ItmChargerBattEVADmg",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -483,8 +483,8 @@
 
   {
     "strName" : "ItmChargerBattery04",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Weber Laser",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Weber Laser",
     "strItemDef" : "ItmChargerBattery04",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -542,8 +542,8 @@
   },
   {
     "strName" : "ItmChargerBattery04Dmg",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Weber Laser (Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Weber Laser (Повреждено)",
     "strItemDef" : "ItmChargerBattery04Dmg",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -585,8 +585,8 @@
   },
   {
     "strName" : "ItmChargerBattery04DmgLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Weber Laser (Loose, Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Weber Laser (Не Закреплено, Повреждено)",
     "strItemDef" : "ItmChargerBattery04DmgLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -630,8 +630,8 @@
   },
   {
     "strName" : "ItmChargerBattery04Off",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Weber Laser (Off)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Weber Laser (Выкл.)",
     "strItemDef" : "ItmChargerBattery04Off",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -680,8 +680,8 @@
   },
   {
     "strName" : "ItmChargerBattery04OffLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charging Station: Weber Laser (Loose)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Weber Laser (Не Закреплено)",
     "strItemDef" : "ItmChargerBattery04OffLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -725,8 +725,8 @@
 
   {
     "strName" : "ItmChargerBattWelder01",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Halvorson",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Halvorson",
     "strItemDef" : "ItmChargerBattWelder01",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -784,8 +784,8 @@
   },
   {
     "strName" : "ItmChargerBattWelder01OffLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Halvorson (Loose)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Halvorson (Не Закреплено)",
     "strItemDef" : "ItmChargerBattWelder01OffLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -826,8 +826,8 @@
   },
   {
     "strName" : "ItmChargerBattWelder01Off",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Halvorson (Off)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Halvorson (Выкл.)",
     "strItemDef" : "ItmChargerBattWelder01Off",
     "strType"    : "Item",
     "strLoot"    : null,
@@ -877,8 +877,8 @@
   },
   {
     "strName" : "ItmChargerBattWelder01DmgLoose",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Halvorson (Loose, Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Halvorson (Не Закреплено, Повреждено)",
     "strItemDef" : "ItmChargerBattWelder01DmgLoose",
     "strType"    : "Item",
     "aInteractions" : [
@@ -920,8 +920,8 @@
   },
   {
     "strName" : "ItmChargerBattWelder01Dmg",
-    "strNameShort" : "Battery Charger",
-    "strNameFriendly" : "Battery Charger: Halvorson (Damaged)",
+    "strNameShort" : "Зарядное устройство",
+    "strNameFriendly" : "Зарядное устройство: Halvorson (Повреждено)",
     "strItemDef" : "ItmChargerBattWelder01Dmg",
     "strType"    : "Item",
     "strLoot"    : null,
