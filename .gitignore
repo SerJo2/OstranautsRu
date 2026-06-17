@@ -798,3 +798,7 @@ gen
 /BepInEx/OstranautsRuTranslation/OstranautsRuTranslation/obj/
 /BepInEx/OstranautsRuTranslation/OstranautsRuTranslation/.vs/
 /publish/
+/fix.py
+/fixed.json
+/tmp.json
+/publish.7z

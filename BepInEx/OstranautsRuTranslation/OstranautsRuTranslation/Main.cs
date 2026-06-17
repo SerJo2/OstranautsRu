@@ -16,25 +16,18 @@ namespace OstranautsRuTranslation
         private void Awake()
         {
             Logger.LogInfo("[RU] Ru Translation Set Up");
-
-            // 1. Принудительно инициализируем статический класс GrammarUtils,
-            //    обратившись к любому его публичному полю или методу.
             try
             {
-                // Поле inflectedStrings публичное, обращение к нему загрузит класс
                 var _ = GrammarUtils.inflectedStrings;
                 Logger.LogInfo("[RU] GrammarUtils initialized successfully");
             }
             catch (Exception ex)
             {
                 Logger.LogError($"[RU] Failed to initialize GrammarUtils: {ex.Message}");
-                // Если всё равно не инициализировалось, выходим или пробуем дальше
             }
 
-            // 2. Заменяем английские местоимения на русские
             ReplaceGrammarDictionaries();
 
-            // 3. Применяем остальные гармони-патчи (твои существующие)
             Harmony harmony = new Harmony("ru.skobochki.rutranslation");
             harmony.PatchAll();
         }
@@ -2263,4 +2256,17 @@ namespace OstranautsRuTranslation
     // -
     // GrammarUtils
 
+    // Patch for CondOwner.LogMessage – замена "are no longer" на русский
+    [HarmonyPatch(typeof(CondOwner), nameof(CondOwner.LogMessage))]
+    public static class Patch_CondOwner_LogMessage
+    {
+        static void Prefix(ref string strMsg)
+        {
+            if (!string.IsNullOrEmpty(strMsg))
+            {
+                strMsg = strMsg.Replace(" are no longer ", " больше не ");
+                strMsg = strMsg.Replace(" are ", " ");
+            }
+        }
+    }
 }
