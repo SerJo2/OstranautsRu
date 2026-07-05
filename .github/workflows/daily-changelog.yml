@@ -30,7 +30,7 @@ jobs:
       - name: Создаём diff с последнего запуска
         if: steps.last_commit.outputs.first_run != 'true'
         run: |
-          git diff --unified=0 ${{ steps.last_commit.outputs.last }} HEAD > diff.txt
+          git diff --unified=0 ${{ steps.last_commit.outputs.last }} HEAD -- . ':(exclude)CHANGELOG_BY_STRINGS.MD' > diff.txt
 
       - name: Считаем добавленные строки
         if: steps.last_commit.outputs.first_run != 'true'
