@@ -1,117 +1,117 @@
 [
   {
     "strName": "TipLoreStartDate",
-    "strBody": "\nOstranauts takes place in 2079, after an ablation cascade rendered Earth's orbit too dangerous to traverse.",
+    "strBody": "\nДействие Ostranauts разворачивается в 2079 году, после того как в результате каскада абляционных процессов орбита Земли стала слишком опасной для перелётов.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreLuscaDiscovery",
-    "strBody": "\nIn 2035 the research expedition Nereus-3 discovered the first extraterrestrial life in the System: a biomarine ecosystem of long, thin sea creatures populating an enormous thermal vent deep below the frozen oceans of Europa.\n\nThe beings were named Lusca.",
+    "strBody": "\nВ 2035 году научно-исследовательская экспедиция Нереус-3 обнаружила первую внеземную жизнь в Солнечной системе: биоморскую экосистему, состоящую из длинных и тонких морских существ, населяющих огромный гидротермальный источник на большой глубине под замерзшими океанами Европы.\n\nЭтих существ назвали Луска.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreAtlantisBlockade",
-    "strBody": "\nAfter the Ganymede Coup, the Confederacy established a blockade at Porto Nuevo designed to sanction offworld trade with Atlantis, the submarine colony beneath the frozen oceans of Europa.",
+    "strBody": "\nПосле Ганимедеского переворота Конфедерация установила блокаду в Порто-Нуэво, призванную ограничить межпланетную торговлю с Атлантидой — подводной колонией, расположенной под замерзшими океанами Европы.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreAtlantisStructure",
-    "strBody": "\nBecause the oceans of Europa are so deep, the Atlantis submarine colony consists of a series of modular habitats anchored to ice sheets sometimes hundreds of kilometers above the sea floor.",
+    "strBody": "\nПоскольку океаны Европы настолько глубоки, подводная колония Атлантида состоит из ряда модульных жилых модулей, закреплённых на ледяных щитах, которые порой находятся на расстоянии сотен километров над дном океана.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreFortSimpson",
-    "strBody": "\nFort Simpson was established in 2054 after the Ganymede Coup and represents the capital colony of The Galilean Confederacy.\n\nWhile the revolutionary American government maintains control of the region, it remains fractured into dozens of settlements, many of which still claim sovereignty.",
+    "strBody": "\nФорт Симпсон был основан в 2054 году после Ганимедеского переворота и является столицей Галилейской Конфедерации.\n\nХотя революционное американское правительство и сохраняет контроль над этим регионом, он по-прежнему раздроблен на десятки поселений, многие из которых по-прежнему претендуют на суверенитет.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreHangzhouGeneral",
-    "strBody": "\nThe Hangzhou Orbital (Hangzhou Gong, 杭州宫) is an O'Neill Cylinder space habitat located at Mars' 5th Lagrange point.\n\nThe colony is designed to resemble, and even improve on, Earth environments, from its near 1G spin gravity, its 24-hour Earth day, and its sustainable, symbiotic ecosystem.",
+    "strBody": "\nХанчжоу Орбитал (Hangzhou Gong, 杭州宫) — это космический жилой модуль типа цилиндр О’Нила, расположенный в 5-й точке Лагранжа Марса.\n\nКолония спроектирована таким образом, чтобы напоминать земные условия и даже превосходить их: от гравитации, равной почти 1 G, до 24-часового земного суток и устойчивой симбиотической экосистемы.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreHangzhouWorkers",
-    "strBody": "\nPermanent work visas to Hangzhou Orbital were originally created to grant entry to engineers and construction workers for station maintenance.\n\nIn practice, however, they are used for indentured servitude, as the living standards are so high on the colony that demand for residency far outweighs the supply.",
+    "strBody": "\nПостоянные рабочие визы для компании Ханчжоу Орбитал изначально были введены для того, чтобы обеспечить въезд инженеров и строительных рабочих, занимающихся техническим обслуживанием станции.\n\nОднако на практике они используются для принудительного труда, поскольку уровень жизни в колонии настолько высок, что спрос на проживание там значительно превышает предложение.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreWestLakeHousing",
-    "strBody": "\nThe West Lake region of the Martian Hangzhou Orbital is — bar none — the most expensive real estate in the System.\n\nThe median sale value for a house on West Lake has remained at nearly two hundred times the average yearly salary of an apprenticed technician, or a junior non-commissioned officer in the Tharsis Navy.",
+    "strBody": "\nРайон Западного озера на марсианской орбите Ханчжоу — это, без всякого сомнения, самая дорогая недвижимость во всей Солнечной системе.\n\nСредняя стоимость дома на Уэст-Лейк по-прежнему составляет почти двести раз больше среднего годового оклада стажера-техника или младшего унтер-офицера ВМС Тарсиса.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreWestLakeJetty",
-    "strBody": "\nA sign of great status in the highly coveted West Lake region of the Martian Hangzhou Orbital is owning a private jetty extending into the lake itself so that one may fish.\n\nThe law there is as it is in the rest of the System: what you can catch, you keep.",
+    "strBody": "\nВ престижном районе Западного озера на марсианской орбите Ханчжоу признаком высокого статуса считается наличие частного причала, уходящего в само озеро, с которого можно ловить рыбу.\n\nЗакон там такой же, как и во всей остальной Системе: что поймаешь — то и остаётся у тебя.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreJadeRabbitGeneral",
-    "strBody": "\nJade Rabbit (Yutu, 玉兔) on Earth's moon Luna is the oldest offworld colony in the System besides the International Space Station. It began as a research base established in 2021, shortly after the completion of China's space elevator.\n\nIt was named for the Chinese lunar rover, which was itself named for the pet rabbit of Chang'e, the goddess of the Moon in Chinese mythology.",
+    "strBody": "\nНефритовый кролик (Юйту, 玉兔) на Луне — самая старая внеземная колония в Солнечной системе, не считая Международной космической станции. Она возникла как исследовательская база, основанная в 2021 году, вскоре после завершения строительства китайского космического лифта.\n\nОн был назван в честь китайского лунного ровера, который, в свою очередь, получил своё название в честь домашнего кролика Чанъэ — богини Луны в китайской мифологии.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreLunaGeneral",
-    "strBody": "\nMuch of the infrastructure on Earth's moon Luna was left unfinished and abandoned as business interests left for Mars and the Belt.\n\nWorkers walked off excavation sites mid-development, leaving wiring exposed, enormous mining drones idle or even actively digging, processed meals and card games lying in tableaux to gather dust, preserved by vacuum.",
+    "strBody": "\nБольшая часть инфраструктуры на Луне осталась недостроенной и заброшенной, поскольку бизнес-структуры перенесли свою деятельность на Марс и в Астероидный пояс.\n\nРабочие покинули строительные площадки в разгаре работ, оставив открытой электропроводку, огромные горнодобывающие дроны, простаивающие или даже продолжающие копать, а также готовые блюда и карточные игры, лежащие в застывших позах и покрывающиеся пылью, сохраненные благодаря вакууму.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreMareIbrium",
-    "strBody": "\nThe Hotel Mare Imbrium on Earth's abandoned moon Luna was a thriving site of space tourism before it experienced several freak, high-profile episodes of mass psychosis and death.",
+    "strBody": "\nОтель «Маре Имбриум», расположенный на заброшенной луне Земли — Луне, — был процветающим центром космического туризма, пока там не произошло несколько необычных и громких случаев массового психоза и гибели людей.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreOKLGGeneral",
-    "strBody": "\nK-Leg station was established in 2032 as a stopover point for Ayotimiwa, a Nigerian shipping company.\n\nThe settlement consisted of five structures: a refueling station, a fuel and supply dump, a bubble dormitory, and a bar called Mescaform. Of the original settlement, only the refueling station and the bar remain.",
+    "strBody": "\nСтанция K-Leg была основана в 2032 году в качестве промежуточного пункта для нигерийской судоходной компании Ayotimiwa.\n\nПоселение состояло из пяти сооружений: заправочной станции, склада топлива и снабжения, общежития в форме пузыря и бара под названием Мескаформ. От первоначального поселения сохранились только заправочная станция и бар.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreNewCalGeneral",
-    "strBody": "\nNew California, Newcal, is the de facto capital of Venus's aerostat colonies, and the only one large enough to be considered a metropolitan area.\n\nThe city is a modern aerostat designed after the first wave of experimental habitats in Venus's upper atmosphere.",
+    "strBody": "\nНью-Калифорния (Newcal) является де-факто столицей аэростатных колоний на Венере и единственным населённым пунктом, достаточно крупным, чтобы считаться агломерацией.\n\nЭтот город представляет собой современный аэростат, спроектированный по образцу первой серии экспериментальных жилых модулей, созданных для верхних слоев атмосферы Венеры.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreStevieNicks",
-    "strBody": "\nThe Venusian aerostat Newcal declared its independence from the Old United States in 2062 after the NCN Stevie Nicks, while attempting to make contact with the US government on Earth, was destroyed by automated defences in Low Earth Orbit.\n\nSurviving astronauts reported failure to raise USNORTHCOM on comms multiple times before the attack. It remains the position of the Newcal government that the US command structure has been compromised.",
+    "strBody": "\nВенерианский аэростат Ньюкал провозгласил свою независимость от Старых Соединённых Штатов в 2062 году после того, как аэростат NCN Стиви Никс, пытаясь установить связь с правительством США на Земле, был уничтожен системами автоматической обороны на низкой околоземной орбите.\n\nВыжившие космонавты сообщили, что перед нападением им неоднократно не удавалось установить связь с USNORTHCOM. Правительство Newcal по-прежнему придерживается позиции, что структура командования США была скомпрометирована.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreNewcalPirateTactics",
-    "strBody": "\nUsing small, fast, fixed-wing attack craft and hit & run tactics, the pirates of Venus are able to force anything less than heavily guarded shipments into an unpleasant choice: cede control of the shipment to the pirates, or be 'sunk', forced down into the crushing atmosphere at Venus's surface.",
+    "strBody": "\nИспользуя небольшие, маневренные штурмовые летательные аппараты и тактику удар и отход, пираты Венеры ставят все грузы, не имеющие усиленной охраны, перед неприятным выбором: либо передать контроль над грузом пиратам, либо быть потопленными — то есть вынужденными спуститься в давящую атмосферу у поверхности Венеры.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreNewcalPirates",
-    "strBody": "\nThe Venusian aerostat Newcal suffers from piracy directed at shipments of resources and new colonists.\n\nStriking from a hidden base, pirates hit the major atmo-to-orbit transfers and local Venus trade.\n\nOther aerostat colonies afflicted include Encantado, an early Brazilian colony, and Cloudbreak, owned and run by a contract research organisation of the same name researching the Venusian surface.",
+    "strBody": "\nВенерианский аэростат Newcal сталкивается с пиратскими нападениями, направленными против поставок ресурсов и новых колонистов.\n\nНападая с укрытой базы, пираты нанесли удар по основным маршрутам перевозки грузов из атмосферы на орбиту и по местной торговле на Венере.\n\nСреди других пострадавших колоний, проживающих в аэростатах, — Энкантадо, одна из первых бразильских колоний, и Клаудбрейк, принадлежащая и управляемая одноименной контрактной исследовательской организацией, занимающейся изучением поверхности Венеры.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreVoltaire",
-    "strBody": "\nVoltaire is a network of research facilities on Mars' moon Deimos, which is owned and run by Chinese technology corporation Brave New World.\n\nBesides maintaining the facilities and conducting its own research, BNW rents research spaces, services them for other technology giants including Renbao and Zhuangzi, manufactures high-tech electronic components, and supports the private university, the Voltaire University of Science and Technology.",
+    "strBody": "\nВольтер — это сеть научно-исследовательских объектов на спутнике Марса Деймосе, которая принадлежит китайской технологической корпорации Brave New World и находится под её управлением.\n\nПомимо обслуживания своих объектов и проведения собственных исследований, компания BNW сдает в аренду исследовательские помещения, предоставляет услуги по их обслуживанию другим технологическим гигантам, в том числе компаниям Рэньбао и Чжуанцзы, занимается производством высокотехнологичных электронных компонентов, а также оказывает поддержку частному вузу — Университету науки и технологий имени Вольтера.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreVirginia",
-    "strBody": "\nVirginia is the capital city of Titan, the moon of Saturn. An offworld territory of the United States, Titan is known for its technological superiority, the abundance of its natural resources, and its aggressive foreign policy.",
+    "strBody": "\nВирджиния — столица Титана, спутника Сатурна. Титан, являющийся заграничной территорией Соединенных Штатов, известен своим технологическим превосходством, богатством природных ресурсов и агрессивной внешней политикой.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreTitanGeneral",
-    "strBody": "\nTitan's growth throughout the colony rush is popularly attributed to a nationwide reaffirmation of American exceptionalism, and the realisation of an intergenerational promise of space travel particular to Americans since the first Moon landing.\n\nA double digit growth of the US GDP in 2032 was linked to the promise of the space colony, as well as then-recent revival of rust belt states like Michigan.",
+    "strBody": "\nРост компании Титан в период колониального бума обычно объясняют общенациональным подтверждением идеи американской исключительности и воплощением межпоколенческого обещания о космических полетах, которое было присуще американцам с момента первой высадки на Луну.\n\nДвузначный рост ВВП США в 2032 году был связан с перспективой создания космической колонии, а также с недавним на тот момент возрождением штатов ржавого пояса, таких как Мичиган.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreTitanShips",
-    "strBody": "\nTitan ships and habitats are state of the art, and the wealth of scientific and engineering acumen on Virginia and other Titan-controlled colonies exceeded the rest of the System until very recently.\n\nThe United States military-industrial complex - multinational military contractors like Weber Tools & Oil and Smartlink, as well as NASA's Outer Space Command - made Titan its offworld headquarters.",
+    "strBody": "\nКосмические корабли и жилые модули Титана соответствуют последнему слову техники, а уровень научных и инженерных знаний на Вирджинии и в других колониях, находящихся под контролем Титана, до самого недавнего времени превосходил уровень остальной части Системы.\n\nВоенно-промышленный комплекс США — в том числе такие транснациональные военные подрядчики, как Weber Tools & Oil и Smartlink, а также Командование по освоению космического пространства НАСА — сделал Титан своей внеземной штаб-квартирой.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreFixer1",
-    "strBody": "\nThere are rumours of a black market trader buying and selling ship parts for better prices than the port kiosks, somewhere on OKLG station.",
+    "strBody": "\nХодят слухи, что где-то на станции OKLG действует торговец с черного рынка, который покупает и продает судовые запчасти по ценам, более выгодным, чем в портовых киосках.",
     "strCategory": "lore"
   },
   {
     "strName": "TipLoreFixer2",
-    "strBody": "\nHarbourmaster Adeyemi vehemently denies the existence of a black market trade on OKLG.\n\n\"I run a tight ship. The only rats here are the ones I keep as pets\".",
+    "strBody": "\nКапитан порта Адееми категорически отрицает существование черного рынка на OKLG.\n\n\"У меня здесь все держится на жесткой дисциплине. Единственные крысы здесь — те, которых я держу в качестве домашних животных\".",
     "strCategory": "lore"
   }
 ]
