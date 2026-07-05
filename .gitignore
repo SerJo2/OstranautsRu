@@ -798,3 +798,11 @@ gen
 /BepInEx/OstranautsRuTranslation/OstranautsRuTranslation/obj/
 /BepInEx/OstranautsRuTranslation/OstranautsRuTranslation/.vs/
 /publish/
+/fix.py
+/fixed.json
+/tmp.json
+/publish.7z
+/todo_list.py
+/report.py
+/translation_report.md
+/untranslated_reports/

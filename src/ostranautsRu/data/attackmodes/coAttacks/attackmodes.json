@@ -1,7 +1,7 @@
 [
   {
     "strName": "AModeGrinder",
-    "strNameFriendly": "angle grinder",
+    "strNameFriendly": "болгарка",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimAngleGrinderSound01",
@@ -13,7 +13,7 @@
   },
   {
     "strName": "AModeGrinderHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimAngleGrinderSound01",
@@ -25,7 +25,7 @@
   },
   {
     "strName": "AModeBlank",
-    "strNameFriendly": "blank",
+    "strNameFriendly": "пустой",
     "strType": "melee",
     "fRange": 1.0,
     "fDmgBlunt": 0.0,
@@ -35,7 +35,7 @@
   },
   {
     "strName": "AModeCanisterShrapnel",
-    "strNameFriendly": "shrapnel",
+    "strNameFriendly": "осколки",
     "strType": "ranged",
     "fRange": 1.5,
     "fDmgBlunt": 0.1,
@@ -45,7 +45,7 @@
   },
   {
     "strName": "AModeCollision",
-    "strNameFriendly": "collision",
+    "strNameFriendly": "столкновение",
     "strType": "ranged",
     "fRange": 100,
     "fDmgBlunt": 10.0,
@@ -55,7 +55,7 @@
   },
   {
     "strName": "AModeCrowbar",
-    "strNameFriendly": "crowbar",
+    "strNameFriendly": "монтировка",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound08",
@@ -67,7 +67,7 @@
   },
   {
     "strName": "AModeCrowbarHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound08",
@@ -79,7 +79,7 @@
   },
   {
     "strName": "AModeDefault",
-    "strNameFriendly": "held object",
+    "strNameFriendly": "удерживаемый предмет",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -91,7 +91,7 @@
   },
   {
     "strName": "AModeDefaultFire",
-    "strNameFriendly": "fire",
+    "strNameFriendly": "огонь",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": null,
@@ -103,7 +103,7 @@
   },
   {
     "strName": "AModeDefaultHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -115,7 +115,7 @@
   },
   {
     "strName": "AModeDefaultShaft",
-    "strNameFriendly": "swing",
+    "strNameFriendly": "замах",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -127,7 +127,7 @@
   },
   {
     "strName": "AModeDefaultShaftHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -139,7 +139,7 @@
   },
   {
     "strName": "AModeDefaultSharp",
-    "strNameFriendly": "sharp item",
+    "strNameFriendly": "острый предмет",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -151,7 +151,7 @@
   },
   {
     "strName": "AModeDefaultSharpHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -163,7 +163,7 @@
   },
   {
     "strName": "AModeDefaultSharpStab",
-    "strNameFriendly": "sharp stab",
+    "strNameFriendly": "колющий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -175,7 +175,7 @@
   },
   {
     "strName": "AModeDefaultSharpStabHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -187,7 +187,7 @@
   },
   {
     "strName": "AModeDefaultSoft",
-    "strNameFriendly": "slap",
+    "strNameFriendly": "шлепок",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound05",
@@ -199,7 +199,7 @@
   },
   {
     "strName": "AModeDefaultSoftHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound05",
@@ -211,7 +211,7 @@
   },
   {
     "strName": "AModeDerelictBreakIn",
-    "strNameFriendly": "wear and tear",
+    "strNameFriendly": "износ",
     "strType": "ranged",
     "fRange": 100.0,
     "fDmgBlunt": 20.0,
@@ -221,7 +221,7 @@
   },
   {
     "strName": "AModeDrinkBottle01DmgStab",
-    "strNameFriendly": "broken bottle thrust",
+    "strNameFriendly": "удар разбитой бутылкой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -233,7 +233,7 @@
   },
   {
     "strName": "AModeDrinkBottle01DmgSlash",
-    "strNameFriendly": "broken bottle slash",
+    "strNameFriendly": "порез разбитой бутылкой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -245,7 +245,7 @@
   },
   {
     "strName": "AModeDrinkBottle01DmgHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -257,7 +257,7 @@
   },
   {
     "strName": "AModeExplosionFusion",
-    "strNameFriendly": "fusion explosion",
+    "strNameFriendly": "термоядерный взрыв",
     "strType": "ranged",
     "fRange": 15.0,
     "fDmgBlunt": 0.1,
@@ -267,7 +267,7 @@
   },
   {
     "strName": "AModeExplosionTrad",
-    "strNameFriendly": "explosion",
+    "strNameFriendly": "взрыв",
     "strType": "ranged",
     "fRange": 15.0,
     "fDmgBlunt": 0.1,
@@ -277,7 +277,7 @@
   },
   {
     "strName": "AModeExplosionTradSmall",
-    "strNameFriendly": "small explosion",
+    "strNameFriendly": "малый взрыв",
     "strType": "ranged",
     "fRange": 1.5,
     "fDmgBlunt": 0.1,
@@ -287,7 +287,7 @@
   },
   {
     "strName": "AModeMicrometeoroid",
-    "strNameFriendly": "micrometeoroid",
+    "strNameFriendly": "микрометеороид",
     "strType": "ranged",
     "fRange": 100.0,
     "fDmgBlunt": 11.0,
@@ -297,7 +297,7 @@
   },
   {
     "strName": "AModePistol01",
-    "strNameFriendly": ".45 pistol shot",
+    "strNameFriendly": "выстрел из пистолета .45",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound01",
@@ -309,7 +309,7 @@
   },
   {
     "strName": "AModePistol02",
-    "strNameFriendly": "9mm handgun shot",
+    "strNameFriendly": "выстрел из 9-мм пистолета",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound02",
@@ -321,7 +321,7 @@
   },
   {
     "strName": "AModePistol03",
-    "strNameFriendly": ".38 revolver shot",
+    "strNameFriendly": "выстрел из револьвера .38",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound03",
@@ -333,7 +333,7 @@
   },
   {
     "strName": "AModePistol04",
-    "strNameFriendly": "RiP gun shot",
+    "strNameFriendly": "выстрел из пистолета RiP",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound03",
@@ -345,7 +345,7 @@
   },
   {
     "strName": "AModePistolEnergy01",
-    "strNameFriendly": "HG pistol shot",
+    "strNameFriendly": "выстрел из HG-пистолета",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound02",
@@ -357,7 +357,7 @@
   },
   {
     "strName": "AModePistolWhip",
-    "strNameFriendly": "pistol whip",
+    "strNameFriendly": "удар рукоятью пистолета",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -369,7 +369,7 @@
   },
   {
     "strName": "AModePunch",
-    "strNameFriendly": "punch",
+    "strNameFriendly": "удар кулаком",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -381,7 +381,7 @@
   },
   {
     "strName": "AModePunchQuick",
-    "strNameFriendly": "quick punch",
+    "strNameFriendly": "быстрый удар кулаком",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound02",
@@ -393,7 +393,7 @@
   },
   {
     "strName": "AModePunchHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -405,7 +405,7 @@
   },
   {
     "strName": "AModeRandomWound",
-    "strNameFriendly": "random wound",
+    "strNameFriendly": "случайное ранение",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "fRange": 1.0,
@@ -416,7 +416,7 @@
   },
   {
     "strName": "AModeRandomWoundFatal",
-    "strNameFriendly": "random wound",
+    "strNameFriendly": "случайная рана",
     "strType": "melee",
     "strCTTargetWound": "TIsWoundVital",
     "bPlayAudioEarly": true,
@@ -428,7 +428,7 @@
   },
   {
     "strName": "AModeFinishingBlow",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -440,7 +440,7 @@
   },
   {
     "strName": "AModeLaserTorch",
-    "strNameFriendly": "welding laser",
+    "strNameFriendly": "сварочный лазер",
     "strType": "ranged",
     "bPlayAudioEarly": false,
     "strAudioAttack": "AnimLaserTorchSound01",
@@ -452,7 +452,7 @@
   },
   {
     "strName": "AModeLaserTorchHelpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "ranged",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimLaserTorchSound01",
@@ -464,7 +464,7 @@
   },
   {
     "strName": "AModeRifle01",
-    "strNameFriendly": "combat rifle shot",
+    "strNameFriendly": "выстрел из боевой винтовки",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01",
@@ -476,7 +476,7 @@
   },
   {
     "strName": "AModeRifle01x3",
-    "strNameFriendly": "combat rifle burst",
+    "strNameFriendly": "очередь из боевой винтовки",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01Burst",
@@ -490,7 +490,7 @@
   },
   {
     "strName": "AModeRifle02",
-    "strNameFriendly": "carbine shot",
+    "strNameFriendly": "выстрел из карабина",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01",
@@ -502,7 +502,7 @@
   },
   {
     "strName": "AModeRifle02HG",
-    "strNameFriendly": "HG carbine shot",
+    "strNameFriendly": "выстрел из HG-карабина",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01",
@@ -514,7 +514,7 @@
   },
   {
     "strName": "AModeRifle02x3",
-    "strNameFriendly": "carbine burst",
+    "strNameFriendly": "очередь из карабина",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01Burst",
@@ -528,7 +528,7 @@
   },
   {
     "strName": "AModeRifle02x3HG",
-    "strNameFriendly": "HG carbine burst",
+    "strNameFriendly": "очередь из HG-карабина",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01Burst",
@@ -542,7 +542,7 @@
   },
   {
     "strName": "AModeScrewdriver01Stab",
-    "strNameFriendly": "screwdriver stab",
+    "strNameFriendly": "удар отвёрткой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -554,7 +554,7 @@
   },
   {
     "strName": "AModeScrewdriver01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -566,7 +566,7 @@
   },
   {
     "strName": "AModeShipRay",
-    "strNameFriendly": "Ray",
+    "strNameFriendly": "Луч",
     "strType": "melee",
     "fRange": 5,
     "fDmgBlunt": 0,
@@ -577,7 +577,7 @@
   },
   {
     "strName": "AModeShotgun01",
-    "strNameFriendly": "shotgun blast",
+    "strNameFriendly": "выстрел из дробовика",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundShotgun01",
@@ -591,7 +591,7 @@
   },
   {
     "strName": "AModeShotgun02",
-    "strNameFriendly": "HG shotgun blast",
+    "strNameFriendly": "выстрел из HG-дробовика",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundShotgun01",
@@ -605,7 +605,7 @@
   },
   {
     "strName": "AModeShotgun01Stock",
-    "strNameFriendly": "shotgun stock",
+    "strNameFriendly": "удар прикладом дробовика",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -617,7 +617,7 @@
   },
   {
     "strName": "AModeSolderingIron01Stab",
-    "strNameFriendly": "soldering iron stab",
+    "strNameFriendly": "удар паяльником",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -629,7 +629,7 @@
   },
   {
     "strName": "AModeSolderingIron01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -641,7 +641,7 @@
   },
   {
     "strName": "AModeTakeDown",
-    "strNameFriendly": "tackle",
+    "strNameFriendly": "захват",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -653,7 +653,7 @@
   },
   {
     "strName": "AModeTrip",
-    "strNameFriendly": "trip",
+    "strNameFriendly": "подножка",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -665,7 +665,7 @@
   },
   {
     "strName": "AModeWeaponKnuckles01",
-    "strNameFriendly": "knuckleduster",
+    "strNameFriendly": "кастет",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -677,7 +677,7 @@
   },
   {
     "strName": "AModeWeaponKnuckles01Quick",
-    "strNameFriendly": "knuckleduster jab",
+    "strNameFriendly": "джеб кастетом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound02",
@@ -689,7 +689,7 @@
   },
   {
     "strName": "AModeWeaponKnuckles01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -701,7 +701,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat01",
-    "strNameFriendly": "baseball bat swing for the fences",
+    "strNameFriendly": "мощный удар битой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -713,7 +713,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -725,7 +725,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat02",
-    "strNameFriendly": "slugger grand slam",
+    "strNameFriendly": "удар гранд-слэм",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -737,7 +737,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat02Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -749,7 +749,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01",
-    "strNameFriendly": "cutlass slice",
+    "strNameFriendly": "разрез абордажной саблей",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -761,7 +761,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01GripPunch",
-    "strNameFriendly": "cutlass grip bash",
+    "strNameFriendly": "удар рукоятью сабли",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -773,7 +773,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01Stab",
-    "strNameFriendly": "cutlass thrust",
+    "strNameFriendly": "выпад абордажной саблей",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -785,7 +785,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -797,7 +797,7 @@
   },
   {
     "strName": "AModeWeaponGoat01",
-    "strNameFriendly": "purging scepter strike",
+    "strNameFriendly": "удар очищающим скипетром",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -809,7 +809,7 @@
   },
   {
     "strName": "AModeWeaponGoat01Stab",
-    "strNameFriendly": "purging scepter thrust",
+    "strNameFriendly": "выпад очищающим скипетром",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -821,7 +821,7 @@
   },
   {
     "strName": "AModeWeaponGoat01Helpless",
-    "strNameFriendly": "purging blow",
+    "strNameFriendly": "очищающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -833,7 +833,7 @@
   },
   {
     "strName": "AModeWeaponKatana01",
-    "strNameFriendly": "katana slice",
+    "strNameFriendly": "разрез катаной",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -845,7 +845,7 @@
   },
   {
     "strName": "AModeWeaponKatana01Stab",
-    "strNameFriendly": "katana thrust",
+    "strNameFriendly": "выпад катаной",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -857,7 +857,7 @@
   },
   {
     "strName": "AModeWeaponKatana01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -869,7 +869,7 @@
   },
   {
     "strName": "AModeWeaponKnife01",
-    "strNameFriendly": "knife slice",
+    "strNameFriendly": "порез ножом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -881,7 +881,7 @@
   },
   {
     "strName": "AModeWeaponKnife01Stab",
-    "strNameFriendly": "knife stab",
+    "strNameFriendly": "удар ножом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -893,7 +893,7 @@
   },
   {
     "strName": "AModeWeaponKnife01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -905,7 +905,7 @@
   },
   {
     "strName": "AModeWeaponMachete01",
-    "strNameFriendly": "machete chop",
+    "strNameFriendly": "удар мачете",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -917,7 +917,7 @@
   },
   {
     "strName": "AModeWeaponMachete01Stab",
-    "strNameFriendly": "machete thrust",
+    "strNameFriendly": "выпад мачете",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -929,7 +929,7 @@
   },
   {
     "strName": "AModeWeaponMachete01Slap",
-    "strNameFriendly": "machete flatblade slap",
+    "strNameFriendly": "шлепок плашмя мачете",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -941,7 +941,7 @@
   },
   {
     "strName": "AModeWeaponMachete01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -953,7 +953,7 @@
   },
   {
     "strName": "AModeWeaponNightstick01",
-    "strNameFriendly": "baton",
+    "strNameFriendly": "дубинка",
     "strAudioAttack": "AnimMeleeSound08",
     "strType": "melee",
     "bPlayAudioEarly": true,
@@ -965,7 +965,7 @@
   },
   {
     "strName": "AModeWeaponNightstick01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -977,7 +977,7 @@
   },
   {
     "strName": "AModeWeaponNightstick02",
-    "strNameFriendly": "nightstick",
+    "strNameFriendly": "полицейская дубинка",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -989,7 +989,7 @@
   },
   {
     "strName": "AModeWeaponNightstick02Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -1001,7 +1001,7 @@
   },
   {
     "strName": "AModeWeaponPocketknife01",
-    "strNameFriendly": "pocketknife slice",
+    "strNameFriendly": "порез карманным ножом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1013,7 +1013,7 @@
   },
   {
     "strName": "AModeWeaponPocketknife01Stab",
-    "strNameFriendly": "pocketknife stab",
+    "strNameFriendly": "укол карманным ножом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1025,7 +1025,7 @@
   },
   {
     "strName": "AModeWeaponPocketknife01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1037,7 +1037,7 @@
   },
   {
     "strName": "AModeWeaponShiv01",
-    "strNameFriendly": "shiv slice",
+    "strNameFriendly": "порез заточкой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1049,7 +1049,7 @@
   },
   {
     "strName": "AModeWeaponShiv01Stab",
-    "strNameFriendly": "shiv stab",
+    "strNameFriendly": "укол заточкой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1061,7 +1061,7 @@
   },
   {
     "strName": "AModeWeaponShiv01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1073,7 +1073,7 @@
   },
   {
     "strName": "AModeWeaponSpear01",
-    "strNameFriendly": "spear haft",
+    "strNameFriendly": "удар древком копья",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound06",
@@ -1085,7 +1085,7 @@
   },
   {
     "strName": "AModeWeaponSpear01Stab",
-    "strNameFriendly": "spear stab",
+    "strNameFriendly": "укол копьём",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -1097,7 +1097,7 @@
   },
   {
     "strName": "AModeWeaponSpear01Helpless",
-    "strNameFriendly": "finishing blow",
+    "strNameFriendly": "добивание",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
