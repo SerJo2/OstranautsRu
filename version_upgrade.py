@@ -7,7 +7,7 @@ source_dir = r"D:\oru\OstranautsRu\Ostranauts_Data\StreamingAssets\data"
 
 target_dir = r"C:\Program Files (x86)\Steam\steamapps\common\Ostranauts\Ostranauts_Data\StreamingAssets\data"
 
-fields_to_translate = ['strNameShort', 'strNameFriendly', 'strDesc', 'strTitle']
+fields_to_translate = ["strNameShort", "strNameFriendly", "strDesc", "strTitle"]
 
 SPECIAL_FILE = "conditions_simple.json"
 
@@ -20,22 +20,26 @@ stats = {
     "skipped_bad_structure": 0,
     "warnings": 0,
     "total_objects_updated": 0,
-    "errors": 0
+    "errors": 0,
 }
+
 
 def warn(msg):
     stats["warnings"] += 1
     # print(f"WARN: {msg}")
 
+
 def error(msg):
     print(f"❌ ERROR: {msg}", file=sys.stderr)
 
+
 def load_json_stripping_comments(filepath):
     """Читает JSON-файл, удаляя строки, начинающиеся с // (комментарии)."""
-    with open(filepath, 'r', encoding='utf-8-sig') as f:
+    with open(filepath, "r", encoding="utf-8-sig") as f:
         text = f.read()
-    cleaned = re.sub(r'^\s*//.*$', '', text, flags=re.MULTILINE)
+    cleaned = re.sub(r"^\s*//.*$", "", text, flags=re.MULTILINE)
     return json.loads(cleaned)
+
 
 def process_conditions_simple(rel_path, source_path, target_path):
     """
@@ -62,8 +66,8 @@ def process_conditions_simple(rel_path, source_path, target_path):
     i = 0
     while i + 6 < len(src_values):
         name = str(src_values[i]).strip()
-        friendly = str(src_values[i+1]).strip()
-        desc = str(src_values[i+2]).strip()
+        friendly = str(src_values[i + 1]).strip()
+        desc = str(src_values[i + 2]).strip()
         translations[name] = (friendly, desc)
         i += 7
 
@@ -98,10 +102,10 @@ def process_conditions_simple(rel_path, source_path, target_path):
                 updated.append(friendly_new)
                 updated.append(desc_new)
 
-                updated.extend(tgt_values[i+3:i+7])
+                updated.extend(tgt_values[i + 3 : i + 7])
             else:
                 missing += 1
-                updated.extend(tgt_values[i:i+7])
+                updated.extend(tgt_values[i : i + 7])
             i += 7
         else:
             updated.extend(tgt_values[i:])
@@ -114,7 +118,7 @@ def process_conditions_simple(rel_path, source_path, target_path):
     output_data = [target_obj]
     try:
         os.makedirs(os.path.dirname(source_path), exist_ok=True)
-        with open(source_path, 'w', encoding='utf-8') as f:
+        with open(source_path, "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
         print(f"✔ Файл {rel_path} успешно обновлён ({len(updated)} элементов).")
         return True
@@ -132,7 +136,7 @@ for root, dirs, files in os.walk(source_dir):
         if "verbs.json" in filename:
             print(f"Пропущен файл: {filename}")
             continue
-        if not filename.lower().endswith('.json'):
+        if not filename.lower().endswith(".json"):
             continue
 
         source_path = os.path.join(root, filename)
@@ -153,7 +157,7 @@ for root, dirs, files in os.walk(source_dir):
             continue
 
         try:
-            with open(source_path, 'r', encoding='utf-8-sig') as f:
+            with open(source_path, "r", encoding="utf-8-sig") as f:
                 source_data = json.load(f)
         except Exception as e:
             error(f"Ошибка чтения {rel_path}: {e}")
@@ -170,7 +174,7 @@ for root, dirs, files in os.walk(source_dir):
             if not isinstance(item, dict):
                 warn(f"{rel_path}: элемент #{idx} не словарь, skip")
                 continue
-            name = item.get('strName')
+            name = item.get("strName")
             if not name:
                 continue
             trans = {}
@@ -178,14 +182,16 @@ for root, dirs, files in os.walk(source_dir):
                 if field in item:
                     val = item[field]
                     if not isinstance(val, str):
-                        warn(f"{rel_path}: поле '{field}' для '{name}' не строка, приведено к строке")
+                        warn(
+                            f"{rel_path}: поле '{field}' для '{name}' не строка, приведено к строке"
+                        )
                         val = str(val)
                     trans[field] = val
             if trans:
                 old_translations[name] = trans
 
         try:
-            with open(target_path, 'r', encoding='utf-8-sig') as f:
+            with open(target_path, "r", encoding="utf-8-sig") as f:
                 target_data = json.load(f)
         except Exception as e:
             error(f"Ошибка чтения целевого файла {target_path}: {e}")
@@ -204,7 +210,7 @@ for root, dirs, files in os.walk(source_dir):
                 updated_objects.append(item)
                 continue
             new_item = item.copy()
-            name = new_item.get('strName')
+            name = new_item.get("strName")
             if name and name in old_translations:
                 trans = old_translations[name]
                 for field in fields_to_translate:
@@ -220,7 +226,7 @@ for root, dirs, files in os.walk(source_dir):
 
         try:
             os.makedirs(os.path.dirname(source_path), exist_ok=True)
-            with open(source_path, 'w', encoding='utf-8') as f:
+            with open(source_path, "w", encoding="utf-8") as f:
                 json.dump(updated_objects, f, ensure_ascii=False, indent=2)
         except Exception as e:
             error(f"Ошибка записи {rel_path}: {e}")
