@@ -2,7 +2,7 @@
   {
     "strName": "ACTAddConnection",
     "strTitle": "Соединить",
-    "strDesc": "[us] [adds] Соединяет с [them]",
+    "strDesc": "[us] соединяет с [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -25,7 +25,7 @@
   {
     "strName": "ACTRemoveConnection",
     "strTitle": "Удалить соединение",
-    "strDesc": "[us] [removes] соединение с [them]",
+    "strDesc": "[us] удаляет соединение с [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -48,7 +48,7 @@
   {
     "strName": "ACTAddSignal",
     "strTitle": "Добавить сигнал",
-    "strDesc": "[us] [adds] сигнал к [them]",
+    "strDesc": "[us] добавляет сигнал к [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -73,7 +73,7 @@
   {
     "strName": "ACTRemoveSignal",
     "strTitle": "Убрать сигнал",
-    "strDesc": "[us] [removes] сигнал с [them]",
+    "strDesc": "[us] убирает сигнал с [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
