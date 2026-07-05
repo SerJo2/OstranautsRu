@@ -13,7 +13,6 @@ def contains_russian(text):
 
 FIELDS = frozenset({"strNameFriendly", "strNameShort", "strDesc", "strTitle"})
 
-
 def count_translation_strings(root):
 
     all_str = 0
@@ -22,36 +21,21 @@ def count_translation_strings(root):
     stack = [root]
 
     while stack:
-
         obj = stack.pop()
-
         if isinstance(obj, dict):
-
             for key, value in obj.items():
-
                 if key in FIELDS:
-
                     if isinstance(value, str):
-
                         value = value.strip()
-
                         if value and not all(char in "=-_" for char in value):
-
                             all_str += 1
-
                             if contains_russian(value):
                                 ru_str += 1
-
                 elif isinstance(value, (dict, list)):
-
                     stack.append(value)
-
         elif isinstance(obj, list):
-
             stack.extend(obj)
-
     return all_str, ru_str
-
 
 for file_path in folder_path.rglob("*"):
     if file_path.is_file():

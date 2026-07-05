@@ -1,7 +1,7 @@
 [
   {
     "strName": "ENCHeatAyoSecFinePublicDisorder",
-    "strDesc": "AyoSec Fine (Public Disorder)",
+    "strDesc": "Штраф AyoSec (нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -11,7 +11,7 @@
   },
   {
     "strName": "ENCHeatAyoSecFinePublicDisorderDebt",
-    "strDesc": "AyoSec Fine (Public Disorder)",
+    "strDesc": "Штраф AyoSec (нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "Mortgage",
@@ -21,7 +21,7 @@
   },
   {
     "strName": "ENCHeatCCREFinePublicDisorder",
-    "strDesc": "CCRE Fine (Public Disorder)",
+    "strDesc": "Штраф CCRE (нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -31,7 +31,7 @@
   },
   {
     "strName": "ENCHeatCCREFinePublicDisorderDebt",
-    "strDesc": "CCRE Fine (Public Disorder)",
+    "strDesc": "Штраф CCRE (нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "Mortgage",
@@ -41,7 +41,7 @@
   },
   {
     "strName": "ENCHeatVenusFinePublicDisorder",
-    "strDesc": "Venus Fine (Public Disorder)",
+    "strDesc": "Штраф Venus (нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -51,7 +51,7 @@
   },
   {
     "strName": "ENCHeatVenusFinePublicDisorderDebt",
-    "strDesc": "Venus Fine (Public Disorder)",
+    "strDesc": "Штраф Venus (нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "Mortgage",
@@ -61,7 +61,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaInvestor",
-    "strDesc": "GalCon Embassy: Investor Visa Application",
+    "strDesc": "Посольство GalCon: Подача заявления на получение инвесторской визы",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -71,7 +71,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaSkilledLabor",
-    "strDesc": "GalCon Embassy: Skilled Labor Visa Application",
+    "strDesc": "Посольство GalCon: Подача заявления на визу для квалифицированных специалистов",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -81,7 +81,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaSkilledLaborIllicit",
-    "strDesc": "GalCon Embassy: \"Skilled Labor\" Visa Application",
+    "strDesc": "Посольство GalCon: Подача заявления на визу для \"квалифицированных специалистов\"",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -91,7 +91,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaFactionSponsored",
-    "strDesc": "GalCon Embassy: National Service Visa Application",
+    "strDesc": "Посольство GalCon: Подача заявления на получение визы для прохождения национальной службы",
     "fAmount": 250000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -101,7 +101,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaLocalSponsored",
-    "strDesc": "GalCon Embassy: Local Sponsor Visa Application",
+    "strDesc": "Посольство GalCon: Подача заявления на визу местного спонсора",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -111,7 +111,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaInvestor",
-    "strDesc": "CCRE Embassy: Investor Visa Application",
+    "strDesc": "Посольство CCRE: Подача заявления на получение инвесторской визы",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -121,7 +121,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaSkilledLabor",
-    "strDesc": "CCRE Embassy: Skilled Labor Visa Application",
+    "strDesc": "Посольство CCRE: Подача заявления на визу для квалифицированных работников",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -131,7 +131,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaSkilledLaborIllicit",
-    "strDesc": "CCRE Embassy: \"Skilled Labor\" Visa Application",
+    "strDesc": " Посольство CCRE: Подача заявления на визу для \"квалифицированных работников\"",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -141,7 +141,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaFactionSponsored",
-    "strDesc": "CCRE Embassy: National Service Visa Application",
+    "strDesc": "Посольство CCRE: Подача заявления на получение визы для прохождения национальной службы",
     "fAmount": 250000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -151,7 +151,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaLocalSponsored",
-    "strDesc": "CCRE Embassy: Local Sponsor Visa Application",
+    "strDesc": "Посольство CCRE: Подача заявления на визу местного спонсора",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -161,7 +161,7 @@
   },
   {
     "strName": "ENCEmbassyServicesOKLGVisaInvestor",
-    "strDesc": "OKLG Embassy: Investor Visa Application",
+    "strDesc": "Посольство OKLG: Подача заявления на получение инвесторской визы",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -171,7 +171,7 @@
   },
   {
     "strName": "ENCEmbassyServicesOKLGVisaSkilledLabor",
-    "strDesc": "OKLG Embassy: Skilled Labor Visa Application",
+    "strDesc": "Посольство OKLG: Подача заявления на визу для квалифицированных работников",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -181,7 +181,7 @@
   },
   {
     "strName": "ENCEmbassyServicesOKLGVisaSkilledLaborIllicit",
-    "strDesc": "OKLG Embassy: \"Skilled Labor\" Visa Application",
+    "strDesc": "Посольство OKLG: Подача заявления на визу для \"квалифицированных работников\"",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -191,7 +191,7 @@
   },
   {
     "strName": "ENCEmbassyServicesVENCVisaInvestor",
-    "strDesc": "VENC Embassy: Investor Visa Application",
+    "strDesc": "Посольство VENC: Подача заявления на получение инвесторской визы",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -201,7 +201,7 @@
   },
   {
     "strName": "ENCEmbassyServicesVENCVisaSkilledLabor",
-    "strDesc": "VENC Embassy: Skilled Labor Visa Application",
+    "strDesc": "Посольство VENC: Подача заявления на визу для квалифицированных работников",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -211,7 +211,7 @@
   },
   {
     "strName": "ENCEmbassyServicesVENCVisaSkilledLaborIllicit",
-    "strDesc": "VENC Embassy: \"Skilled Labor\" Visa Application",
+    "strDesc": "Посольство VENC: Подача заявления на визу для \"квалифицированных работников\"",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -401,7 +401,7 @@
   },
   {
     "strName": "ENCRobbedMedium",
-    "strDesc": "Anonymous withdrawal",
+    "strDesc": "Анонимный вывод средств",
     "fAmount": 20000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1121,7 +1121,7 @@
   },
   {
     "strName": "SHIPReceive1M",
-    "strDesc": "Anonymous deposit",
+    "strDesc": "Анонимный депозит",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1131,7 +1131,7 @@
   },
   {
     "strName": "SHIPReceive500k",
-    "strDesc": "Anonymous deposit",
+    "strDesc": "Анонимный депозит",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1141,7 +1141,7 @@
   },
   {
     "strName": "SHIPReceive100k",
-    "strDesc": "Anonymous deposit",
+    "strDesc": "Анонимный депозит",
     "fAmount": 100000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1151,7 +1151,7 @@
   },
   {
     "strName": "SHIPReceive50k",
-    "strDesc": "Anonymous deposit",
+    "strDesc": "Анонимный депозит",
     "fAmount": 50000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1161,7 +1161,7 @@
   },
   {
     "strName": "SHIPReceive10k",
-    "strDesc": "Anonymous deposit",
+    "strDesc": "Анонимный депозит",
     "fAmount": 10000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1171,7 +1171,7 @@
   },
   {
     "strName": "SHIPSurrender1M",
-    "strDesc": "Anonymous withdrawal",
+    "strDesc": "Анонимный вывод средств",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1181,7 +1181,7 @@
   },
   {
     "strName": "SHIPSurrender500k",
-    "strDesc": "Anonymous withdrawal",
+    "strDesc": "Анонимный вывод средств",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1191,7 +1191,7 @@
   },
   {
     "strName": "SHIPSurrender100k",
-    "strDesc": "Anonymous withdrawal",
+    "strDesc": "Анонимный вывод средств",
     "fAmount": 100000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1201,7 +1201,7 @@
   },
   {
     "strName": "SHIPSurrender50k",
-    "strDesc": "Anonymous withdrawal",
+    "strDesc": "Анонимный вывод средств",
     "fAmount": 50000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1211,7 +1211,7 @@
   },
   {
     "strName": "SHIPSurrender10k",
-    "strDesc": "Anonymous withdrawal",
+    "strDesc": "Анонимный вывод средств",
     "fAmount": 10000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
