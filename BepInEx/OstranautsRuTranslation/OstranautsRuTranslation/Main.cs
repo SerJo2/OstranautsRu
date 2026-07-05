@@ -37,7 +37,6 @@ namespace OstranautsRuTranslation
         {
             Type grammarType = typeof(GrammarUtils);
 
-            // Находим поля по типу (уже сделано в твоём коде)
             var allStaticFields = grammarType.GetFields(BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
             FieldInfo partsField = null;
             FieldInfo partsSentenceField = null;
