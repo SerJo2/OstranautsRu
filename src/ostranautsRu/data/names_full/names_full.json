@@ -1,12 +1,17 @@
 [
-    {
-      "strName" : "Full Names",
-      "aValues" : [
-        "Maximilian|Tremblay","IsMale",
-        "Michael|LeNoble","IsMale",
-        "Michael|Magee","IsMale",
-        "Daniel|Seaman","IsMale",
-        "Kay|James","IsNB"
-     ]
-    }
-  ]
+  {
+    "strName": "Full Names",
+    "aValues": [
+      "Максимилиан|Трембле",
+      "IsMale",
+      "Майкл|ЛеНобль",
+      "IsMale",
+      "Майкл|Мэги",
+      "IsMale",
+      "Дэниел|Симан",
+      "IsMale",
+      "Кей|Джеймс",
+      "IsNB"
+    ]
+  }
+]

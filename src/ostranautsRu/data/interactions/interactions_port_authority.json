@@ -290,7 +290,7 @@
   {
     "strName": "SOCPortAuthorityManagerAcknowledgeFriend",
     "strTitle": "Поприветствовать клиента-друга",
-    "strDesc": "[us] [отрывается] от своего терминала и мгновенно [узнает] [them]. ",
+    "strDesc": "[us] [отрывается] от терминала и мгновенно [узнаёт] [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
     "fTargetPointRange": 2,

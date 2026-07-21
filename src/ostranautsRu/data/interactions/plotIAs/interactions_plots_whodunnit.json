@@ -3658,7 +3658,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinCloseReplyReply",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3813,7 +3813,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReplyShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4712,7 +4712,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOConfessionReplyShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4861,7 +4861,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadShipbreakerShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4903,7 +4903,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadLEOShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4945,7 +4945,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadManagerShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4987,7 +4987,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadCriminalShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5029,7 +5029,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadPirateShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5071,7 +5071,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadBartenderShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5113,7 +5113,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadOtherShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5283,7 +5283,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadShipbreakerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5325,7 +5325,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadLEOShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5367,7 +5367,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadManagerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5409,7 +5409,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadCriminalShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5451,7 +5451,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadPirateShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5493,7 +5493,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadBartenderShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5577,7 +5577,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadShipbreakerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5619,7 +5619,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadBartenderShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5661,7 +5661,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadManagerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5750,7 +5750,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadLEOStreetEtiquetteShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5797,7 +5797,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadLEOShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5862,7 +5862,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadCriminalStreetEtiquetteShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5909,7 +5909,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadCriminalShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5994,7 +5994,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGBartenderDeadBartenderShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [pays] [us].",
+    "strDesc": "[them] [платит] [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],

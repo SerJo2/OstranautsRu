@@ -568,7 +568,7 @@
   {
     "strName": "ItmFusionCorePump01",
     "strNameShort": "Насос ядра",
-    "strNameFriendly": "Насос термоядерного ядра Sulaiman ",
+    "strNameFriendly": "Насос термоядерного ядра Sulaiman",
     "strItemDef": "ItmFusionCorePump01",
     "strDesc": "Основной насос ядра термоядерного реактора Sulaiman. Откачивает из камеры ядра реактора все газы и остаточные продукты реакции для создания вакуумных условий, необходимых для термоядерной реакции.",
     "strType": "Item",

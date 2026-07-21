@@ -1791,7 +1791,7 @@
   {
     "strName": "SHIPRumorMariner1",
     "strTitle": "Слух о предложении",
-    "strDesc": "Народ вечно твердит, что видит какую-то фиолетовую дрянь, парящую снаружи у корабля. Слышал когда-нибудь о «Маринере»? Я сам не суеверный, но эта история... она меня напрягает. ",
+    "strDesc": "Люди всё время твердят, что видят что-то фиолетовое, парящее снаружи их корабля. Слышали когда-нибудь о «Маринере»? Я сам не особо суеверен, но эта история... эта меня напрягает.",
     "strActionGroup": "Ship",
     "strColor": "SocialStatusGreen",
     "aInverse": [],
@@ -2188,7 +2188,7 @@
   },
   {
     "strName": "SHIPCheatMakeFriend",
-    "strTitle": "[us] [переключает].",
+    "strTitle": "чит",
     "strDesc": "чит",
     "strActionGroup": "Ship",
     "strColor": "SocialStatusGreen",
@@ -2200,7 +2200,7 @@
   },
   {
     "strName": "SHIPDerelictHailsPlayer",
-    "strTitle": "[us] [переключает].",
+    "strTitle": "чит",
     "strDesc": "<помехи>010: 0000 0000 0000 0000 0000 0000 0000 0000 0x0020: 0000 0000 0000 0000 0000 0000 0000 <передача завершена>",
     "strActionGroup": "Ship",
     "strColor": "Neutral",

@@ -14954,7 +14954,7 @@
   {
     "strName": "PLOTLEOSnitchTargetSkeptical",
     "strTitle": "Вопрос об источнике информации",
-    "strDesc": "[us] не доверяет информации и [просит] [them] раскрыть источник. "
+    "strDesc": "[us] не доверяет информации и [просит] [them] раскрыть источник."
   },
   {
     "strName": "PLOTLEOSnitchTargetGrateful"
@@ -15011,7 +15011,7 @@
   {
     "strName": "Plot_Snitch_Mojave_Offer_Reply_GalCon",
     "strTitle": "Указать на поддержку Gal Con",
-    "strDesc": "[us] восхваляет доблестную оборону сил Gal Con. ",
+    "strDesc": "[us] восхваляет доблестную оборону сил Gal Con.",
     "aInverse": [
       "Plot_Snitch_Mojave_Offer_Reply_GalCon_End"
     ]
@@ -15023,7 +15023,7 @@
   },
   {
     "strName": "Plot_Snitch_Mojave_Offer_Reply_GalCon_End",
-    "strTitle": "Согласиться и завершить ",
+    "strTitle": "Согласиться И Закончить",
     "strDesc": "[us] тепло соглашается и прощается с вами."
   },
   {

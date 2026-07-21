@@ -2,7 +2,7 @@
   {
     "strName": "STKMedHeistDissuade_Intro",
     "strTitle": "Убедить Отказаться от Плана",
-    "strDesc": "[us] просит [them] выслушать прежде, чем приступать к такому рискованному плану. ",
+    "strDesc": "[us] просит [them] выслушать [us-poss] прежде чем воплощать в жизнь такой рискованный план.",
     "strTargetPoint": "talk",
     "fTargetPointRange": 2.0,
     "fForcedChance": 0.0,

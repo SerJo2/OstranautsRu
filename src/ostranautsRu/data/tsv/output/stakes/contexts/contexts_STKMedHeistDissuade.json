@@ -2,11 +2,11 @@
   {
     "strName": "ACTSTKMedHeistDissuadeUs",
     "strTitle": "Убеждение друга",
-    "strMainText": "Convince them to abandon their course of action."
+    "strMainText": "Убедить [them-obj] отказаться от их плана действий."
   },
   {
     "strName": "ACTSTKMedHeistDissuadeThem",
     "strTitle": "Убеждение друга",
-    "strMainText": "Convince them to abandon their course of action."
+    "strMainText": "Убедить [them-obj] отказаться от их плана действий."
   }
 ]

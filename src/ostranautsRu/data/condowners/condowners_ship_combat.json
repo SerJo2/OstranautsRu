@@ -2988,7 +2988,7 @@
   {
     "strName": "ItmShipWeaponPDC01",
     "strNameShort": "PDC",
-    "strNameFriendly": "PDC «Харибда» Смартлинк",
+    "strNameFriendly": "Smartlink 'Charybdis' PDC",
     "strDesc": "Smartlink заявляет, что их передовая система счетверенных автоматических пушек точечной обороны не имеет себе равных в Системе. Конкуренты мегакорпорации, разумеется, называют это бахвальством.",
     "strItemDef": "ItmShipWeaponPDC01",
     "strType": "Item",
@@ -3302,7 +3302,7 @@
   {
     "strName": "ItmShipWeaponPDC02",
     "strNameShort": "PDC",
-    "strNameFriendly": "CIWS «Чжун Куй» Новый дивный мир",
+    "strNameFriendly": "Brave New World '钟馗' CIWS",
     "strDesc": "ЗРАК 'Чжун Куй (Zhong Kui)' от Brave New World — признанное решение для защиты от нежелательных столкновений. Ему доверяет подавляющее большинство космонавтов внутренних планет.",
     "strItemDef": "ItmShipWeaponPDC02",
     "strType": "Item",

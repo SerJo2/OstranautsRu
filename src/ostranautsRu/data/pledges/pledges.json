@@ -527,7 +527,7 @@
     "strName": "AIReply",
     "strNameFriendly": "Ответ",
     "strType": "reply",
-    "strIATrigger": "Blank",
+    "strIATrigger": "Пусто",
     "aIAEnd": null,
     "strThemID": null,
     "nPriority": 5

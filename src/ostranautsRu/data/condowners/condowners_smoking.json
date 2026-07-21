@@ -3,7 +3,7 @@
     "strName": "ItmCigViceroyBox01",
     "strNameShort": "Коробка сигарет",
     "strNameFriendly": "Коробка сигарет Viceroy",
-    "strDesc": "Сигаретная коробка марки Viceroy, 20 штук.\n\nНа передней стороне изображен одноименный красный кролик в классической позе салюта, которую используют разрядчики, чтобы сигнализировать о перерыве.\n\n«Перерыв на курение. Приказ Viceroy\"",
+    "strDesc": "Пачка сигарет марки Viceroy, 20 штук.",
     "strItemDef": "ItmCigViceroyBox01Empty",
     "strType": "Item",
     "strLoot": null,
@@ -57,7 +57,7 @@
   {
     "strName": "ItmCigViceroy01",
     "strNameShort": "Сигарета",
-    "strNameFriendly": "Сигарета Viceroy",
+    "strNameFriendly": "Сигареты Viceroy",
     "strDesc": "Сигарета бренда Viceroy.\n\nБез фильтра и жесткая, предпочтительный бренд для тех, кто желает сырого вкуса после тяжелой смены.\n\n«Слаще кислорода».",
     "strItemDef": "ItmCigViceroy01",
     "strType": "Item",

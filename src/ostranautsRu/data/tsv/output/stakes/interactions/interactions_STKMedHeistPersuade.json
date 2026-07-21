@@ -283,7 +283,7 @@
   {
     "strName": "STKMedHeistPersuade_Gambit_SecurityVAutonomy_Fail_Soft",
     "strTitle": "Проигнорировать просьбу",
-    "strDesc": "[us] утверждает, что у [them-subj] достаточно смелости, чтобы осуществить план в одиночку, и решает двигаться вперед без поддержки [them].",
+    "strDesc": "[us] говорит, что даже если они и немного опасаются последствий ограбления, они не уверены, что риски перевешивают награду.",
     "strTargetPoint": "talk",
     "fTargetPointRange": 2.0,
     "fForcedChance": 1.0,

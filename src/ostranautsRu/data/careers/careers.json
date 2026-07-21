@@ -1,7 +1,7 @@
 [
   {
     "strName": "HomeworldOKLG",
-    "strNameFriendly": "Ранние годы: OKLG",
+    "strNameFriendly": "Ранние Годы: OKLG",
     "strCTPrereqs": null,
     "strLootConds": "CGCareerShipbreaker",
     "strLootCondsNext": "CGCareerShipbreakerNext",
@@ -109,7 +109,7 @@
   },
   {
     "strName": "Shipbreaker",
-    "strNameFriendly": "Утилизатор Кораблей",
+    "strNameFriendly": "Shipbreaker",
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerShipbreaker",
     "strLootCondsNext": "CGCareerShipbreakerNext",
@@ -223,7 +223,7 @@
   },
   {
     "strName": "Prisoner",
-    "strNameFriendly": "Заключенный",
+    "strNameFriendly": "Prisoner",
     "strCTPrereqs": "TIsImprisoned",
     "strLootConds": "CGCareerPrisoner",
     "strLootCondsNext": "CGCareerPrisonerNext",
@@ -276,7 +276,7 @@
   },
   {
     "strName": "Bartender",
-    "strNameFriendly": "Бармен",
+    "strNameFriendly": "Bartender",
     "bComingSoon": true,
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerBartender",
@@ -353,7 +353,7 @@
   },
   {
     "strName": "Criminal",
-    "strNameFriendly": "Преступник",
+    "strNameFriendly": "Criminal",
     "bComingSoon": true,
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerCriminal",
@@ -478,7 +478,7 @@
   },
   {
     "strName": "LEOfficer",
-    "strNameFriendly": "Сотрудник правоохранительных органов",
+    "strNameFriendly": "Сотрудник Правоохранительных Органов",
     "bComingSoon": true,
     "strCTPrereqs": "TIsLEOPrereqs",
     "strLootConds": "CGCareerLEOfficer",
@@ -585,7 +585,7 @@
   },
   {
     "strName": "Manager",
-    "strNameFriendly": "Менеджер",
+    "strNameFriendly": "Manager",
     "bComingSoon": true,
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerManager",
@@ -661,7 +661,7 @@
   },
   {
     "strName": "ORG",
-    "strNameFriendly": "Организация",
+    "strNameFriendly": "Organization",
     "strCTPrereqs": "TNotIsOrganization",
     "strLootConds": "",
     "strLootCondsNext": "",
@@ -677,7 +677,7 @@
   },
   {
     "strName": "Pirate",
-    "strNameFriendly": "Пират",
+    "strNameFriendly": "Pirate",
     "bComingSoon": true,
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerPirate",
@@ -813,7 +813,7 @@
   },
   {
     "strName": "Influencer",
-    "strNameFriendly": "Инфлюенсер",
+    "strNameFriendly": "Influencer",
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerInfluencer",
     "strLootCondsNext": "CGCareerInfluencerNext",
@@ -929,7 +929,7 @@
   },
   {
     "strName": "Scientist",
-    "strNameFriendly": "Ученый",
+    "strNameFriendly": "Scientist",
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerScientist",
     "strLootCondsNext": "CGCareerScientistNext",
@@ -1038,7 +1038,7 @@
   },
   {
     "strName": "Technician",
-    "strNameFriendly": "Техник",
+    "strNameFriendly": "Technician",
     "strCTPrereqs": "TNotIsImprisoned",
     "strLootConds": "CGCareerTechnician",
     "strLootCondsNext": "CGCareerTechnicianNext",

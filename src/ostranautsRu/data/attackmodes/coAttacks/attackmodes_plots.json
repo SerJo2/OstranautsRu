@@ -1,7 +1,7 @@
 [
   {
     "strName": "AModeMeatCrush",
-    "strNameFriendly": "поглощающее раздавливание",
+    "strNameFriendly": "Сокрушительный захват",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "ItmMeatPickup",
@@ -13,7 +13,7 @@
   },
   {
     "strName": "AModeSatyrBludgeon",
-    "strNameFriendly": "топтание копытами",
+    "strNameFriendly": "Топот копытами",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -26,7 +26,7 @@
   },
   {
     "strName": "AModeSatyrPummel",
-    "strNameFriendly": "избиение кулаками и копытами",
+    "strNameFriendly": "Избиение кулаками и копытами",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",

@@ -1042,7 +1042,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Journalist_Reply",
     "strTitle": "Краткая информация о подозреваемом: журналист",
-    "strDesc": "Детектив [us] [описывает], что [3rd] издает скандальную газетенку, которая пользуется безумной популярностью, особенно в NewCal. Миддлмист была [3rd-pos] единственной темой с момента начала дела.  ",
+    "strDesc": "Детектив [us] [сообщает], что [3rd] издаёт мусорную газетёнку, пользующуюся бешеной популярностью, особенно в New Cal. Миддлмист был [3rd-pos] единственной темой с самого начала дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1774,7 +1774,7 @@
   },
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyNegative1",
-    "strTitle": "Spree No Reply One",
+    "strTitle": "Свободный Ответ Нет Один",
     "strDesc": "[us] [says], что за день [us-subj] [sees] столько людей, что [us-subj] никак не может запомнить кого-то подобного.",
     "strActionGroup": "Use",
     "aInverse": [],
@@ -1794,7 +1794,7 @@
   },
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyNegative2",
-    "strTitle": "Spree No Reply Two",
+    "strTitle": "Свободный Ответ Нет Два",
     "strDesc": "[us] [says], что [us-subj] [wishes] помочь, но [us-subj] [didn't] никого видеть, соответствующего этому описанию.",
     "strActionGroup": "Use",
     "aInverse": [],
@@ -1814,7 +1814,7 @@
   },
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyNegative3",
-    "strTitle": "Spree No Reply Three",
+    "strTitle": "Свободный Ответ Нет Три",
     "strDesc": "[us] [appears] раздраженным вторжением и [says], что [us-subj] [is] абсолютно уверен: такой человек не заходил в [us-pos] магазин в тот день.",
     "strActionGroup": "Use",
     "aInverse": [],
@@ -1834,7 +1834,7 @@
   },
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyRenbao",
-    "strTitle": "Spree Reply Renbao",
+    "strTitle": "Свободный Ответ: Renbao",
     "strDesc": "[us] [says]: вообще-то, да. В тот вечер подозрительно ведущий себя человек возвращался много раз, приобретая высокотехнологичную электронику.",
     "strActionGroup": "Use",
     "aInverse": [],
@@ -2404,7 +2404,7 @@
   {
     "strName": "PLOT_Merga_Present_Evidence_Superfan_Clue3",
     "strTitle": "Суперфанат: три улики",
-    "strDesc": "[us] [says], что это достаточно подозрительно, чтобы по крайней мере устроить фанату суровый допрос. Вместе вы находите их и confront их. ",
+    "strDesc": "[us] [считает], что это достаточно подозрительно, чтобы как минимум устроить фанату серьёзный разговор. Вместе вы находите его и confront them.",
     "aInverse": [
       "PLOT_Merga_EndgamePrepared02"
     ],

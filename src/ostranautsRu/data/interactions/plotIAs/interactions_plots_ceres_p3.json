@@ -21,7 +21,7 @@
   },
   {
     "strName": "PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave_Reply",
-    "strDesc": "[them] использует терминал, чтобы обнаружить перспективные исследовательские меморандумы через доступ к терминалу местных властей: отчеты о ходе работ, отправляемые между местными исследовательскими группами в Мохаве и высокопоставленными дипломатами в сети Titan. Высшее руководство, кажется, крайне заинтересовано в происходящем здесь. Но почему?",
+    "strDesc": "[them] использует терминал, чтобы через доступ к локальному терминалу властей unearth some promising research memos: progress reports sent between local Mojave research teams and high level diplomats in the Titan network. Высшее начальство seems extremely interested in what is happening here. Но почему?",
     "bIgnoreFeelings": true,
     "fDuration": 0.0005,
     "strTargetPoint": "use",

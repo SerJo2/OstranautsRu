@@ -173,7 +173,7 @@
   },
   {
     "strName": "PLOT_Meat_WhispersFound03",
-    "strTitle": "Remove \"Mystery Meat\" Bits",
+    "strTitle": "Убрать Куски «Мясо-Мистерии»",
     "strDesc": "[us] тщательно [осматривает] [them], удаляя все видимые куски \"мясной субстанции\", чтобы сделать процесс употребления более приятным.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
@@ -1942,7 +1942,7 @@
     "CTTestUs": null,
     "CTTestThem": null,
     "strAttackMode": "AModeSatyrBludgeon",
-    "strAttackerName": "Goat King's Satyr"
+    "strAttackerName": "Сатир Козлиного Короля"
   },
   {
     "strName": "ENCPlot_Meat_GoatBoss_Z2a_Part2a",
@@ -2029,7 +2029,7 @@
     "CTTestUs": null,
     "CTTestThem": null,
     "strAttackMode": "AModeSatyrPummel",
-    "strAttackerName": "Goat King's Satyr"
+    "strAttackerName": "Сатир Козлиного Короля"
   },
   {
     "strName": "ENCPlot_Meat_GoatBoss_Z2d",
@@ -2285,7 +2285,7 @@
   {
     "strName": "ENCPlot_Meat_GoatBoss_M1d",
     "strTitle": "Подготовиться к худшему",
-    "strDesc": "Вы знаете, что даже в невероятных ситуациях безопасность приходит лишь к тем, кто готовится к катастрофе. Несмотря на то, как сильно существо перед вами испытывает границы вашего рассудка, вы закаляете свой разум против него.\n\nВы предотвращаете катастрофу, представляя её в деталях: ваше увечье, вашу смерть, полное разрушение всей системы; ничто из этого не станет неожиданностью, если это достаточно отрепетировать и прожить в своем воображении.",
+    "strDesc": "Вы знаете, что даже в безвыходных ситуациях безопасность приходит лишь к тем, кто готовится к катастрофе. Что бы ни делало существо перед вами, как бы оно ни испытывало границы вашего рассудка, вы укрепляете свой разум против него.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCPlot_Meat_GoatBoss_M2"

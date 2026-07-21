@@ -82,7 +82,7 @@
   {
     "strName": "ENCEmbassyServicesBCERVisaInvestor",
     "strTitle": "Информация: Инвесторская виза: $5,000,000",
-    "strDesc": "Посольство GalCon: Подача заявления на получение инвесторской визы",
+    "strDesc": "Стоимость: $5,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCERVisaInvestorAccept,[us],[them]",
@@ -130,7 +130,7 @@
   {
     "strName": "ENCEmbassyServicesBCERVisaSkilledLabor",
     "strTitle": "Информация: Виза квалифицированного специалиста: $750,000",
-    "strDesc": "Посольство GalCon: Подача заявления на визу для квалифицированных специалистов",
+    "strDesc": "Стоимость: $750,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCERVisaSkilledLaborAccept,[us],[them]",
@@ -230,7 +230,7 @@
   {
     "strName": "ENCEmbassyServicesBCERVisaLocalSponsored",
     "strTitle": "Информация: Местная спонсируемая виза: $500,000",
-    "strDesc": "Посольство GalCon: Подача заявления на визу местного спонсора",
+    "strDesc": "Стоимость: $500,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCERVisaLocalSponsoredAccept,[us],[them]",
@@ -405,7 +405,7 @@
   {
     "strName": "ENCEmbassyServicesBCRSVisaInvestor",
     "strTitle": "Информация: Инвесторская виза: $5,000,000",
-    "strDesc": "Посольство CCRE: Подача заявления на получение инвесторской визы",
+    "strDesc": "Стоимость: $5,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCRSVisaInvestorAccept,[us],[them]",
@@ -453,7 +453,7 @@
   {
     "strName": "ENCEmbassyServicesBCRSVisaSkilledLabor",
     "strTitle": "Информация: Виза квалифицированного специалиста: $750,000",
-    "strDesc": "Посольство CCRE: Подача заявления на визу для квалифицированных работников",
+    "strDesc": "Стоимость: $750,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCRSVisaSkilledLaborAccept,[us],[them]",
@@ -553,7 +553,7 @@
   {
     "strName": "ENCEmbassyServicesBCRSVisaLocalSponsored",
     "strTitle": "Информация: Местная спонсируемая виза: $500,000",
-    "strDesc": "Посольство CCRE: Подача заявления на визу местного спонсора",
+    "strDesc": "(strDesc in interactions) Стоимость: $500,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCRSVisaLocalSponsoredAccept,[us],[them]",
@@ -825,7 +825,7 @@
   {
     "strName": "ENCEmbassyServicesOKLGVisaInvestor",
     "strTitle": "Информация: Инвесторская виза: $5,000,000",
-    "strDesc": "Посольство OKLG: Подача заявления на получение инвесторской визы",
+    "strDesc": "(strDesc in interactions) Стоимость: $5,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesOKLGVisaInvestorAccept",
@@ -873,7 +873,7 @@
   {
     "strName": "ENCEmbassyServicesOKLGVisaSkilledLabor",
     "strTitle": "Информация: Виза квалифицированного специалиста: $750,000",
-    "strDesc": "Посольство OKLG: Подача заявления на визу для квалифицированных работников",
+    "strDesc": "(strDesc in interactions) Стоимость: $750,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesOKLGVisaSkilledLaborAccept",
@@ -1023,7 +1023,7 @@
   {
     "strName": "ENCEmbassyServicesVENCVisaInvestor",
     "strTitle": "Информация: Инвесторская виза: $5,000,000",
-    "strDesc": "Посольство VENC: Подача заявления на получение инвесторской визы",
+    "strDesc": "(strDesc in interactions) Стоимость: $5,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesVENCVisaInvestorAccept",
@@ -1071,7 +1071,7 @@
   {
     "strName": "ENCEmbassyServicesVENCVisaSkilledLabor",
     "strTitle": "Информация: Виза квалифицированного специалиста: $750,000",
-    "strDesc": "Посольство VENC: Подача заявления на визу для квалифицированных работников",
+    "strDesc": "Стоимость: $750,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesVENCVisaSkilledLaborAccept",
@@ -1714,7 +1714,7 @@
   {
     "strName": "ENCEmbassyServicesVENCVisaSkilledLaborIllicit",
     "strTitle": "Информация: Виза «Квалифицированный специалист»: 1 000 000 $",
-    "strDesc": "Посольство VENC: Подача заявления на визу для \"квалифицированных работников\"",
+    "strDesc": "Стоимость: $1,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesVENCVisaSkilledLaborIllicitAccept",
@@ -2182,8 +2182,8 @@
   },
   {
     "strName": "ENCFirstDockOKLG",
-    "strTitle": "K-LEG",
-    "strDesc": "Дверь станции K-Leg открывается, и вас встречает знакомый аромат блюд, которые продают на станции: жареные креветки в соусе суя карри, кебаб из курицы с пряностями яджи, говядина по-сычуаньски с розовым перцем. Ваш разум понимает, что мясо выращено в аквапонике, в лаборатории или, что еще хуже, но ваше сердце подсказывает вам, что все, приготовленное руками человека, лучше, чем еда из Тренчерса.\n\nУставшие космонавты ходят между койками, заправочным киоском и станцией технического обслуживания, проходя сквозь паутину сигаретного дыма, которая постоянно висит над станцией. Курят Sungara Viceroys, любимую марку на свалке. Здешние люди курят их без фильтра, сколько бы раз ни штрафовали их руководители Ayotimiwa за перегрузку скрубберов CO2.\n\nВаш новый корабль ждет в порту, недалеко от киосков и лавок по продаже металлолома. Как только вы его найдете, сможете наконец отстыковаться от этой скалы. Если вы хотите разобрать корабли на запчасти, вам понадобятся только ваши ручные инструменты. Но для ремонта и переделки корпусов вам понадобится сварочный аппарат.\n\nВ любом случае, если вам повезет, вы наконец-то сможете зарабатывать на жизнь. Что-то большее, чем корпоративная гонка за ежедневной зарплатой, разбивая корабли. Жизнь, которую вы можете назвать своей.",
+    "strTitle": "K-Leg",
+    "strDesc": "Дверь на станцию K-LEG отъезжает в сторону, и вас встречает знакомый аромат станционной уличной еды: жареные креветки в карри суйя, куриный кебаб в специях яджи, сычуаньская говядина с розовым перцем. Рассудок подсказывает, что мясо aquíпоническое, лабораторное или ещё хуже, но сердце говорит, что всё, что приготовлено человеческими руками, лучше пайки Trenchers.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCFinish"
@@ -2250,7 +2250,7 @@
   },
   {
     "strName": "ENCFirstDockOKLG_MES",
-    "strTitle": "K-LEG",
+    "strTitle": "K-Leg",
     "strDesc": "Красный неон отбрасывает густые тени в Old Emporium, единственном развлекательном районе K-LEG. OE — это реликвия прежнего мира, портал в безмятежные дни дикой нигерийской колонии до того, как абляционный каскад Земли уничтожил экономику. Космонавты приходят сюда, чтобы спастись от бюрократической рутины, представить мир без начальников, разделить охлажденную бутылку Bismertnaya, даже если не могут себе этого позволить.\n\nВ десятке метров от остановки шаттла вы видите группу гуляк, собравшихся в теплом свете бара Mescaform. Сквозь Mescaform доносится смех и разговоры — смесь английского, мандаринского диалекта и даже языка йоруба. Последний может быть признаком того, что менеджеры Ayo общаются с простым народом на равных.\n\nНезависимо от языка, теплое живое звучание близких человеческих голосов — желанное избавление от пустого эха переговоров по коммуникатору.",
     "strColor": "Dialogue",
     "aInverse": [
@@ -5578,7 +5578,7 @@
   },
   {
     "strName": "ENCHeatAyoSecBustedStart",
-    "strTitle": "Поймано",
+    "strTitle": "Busted",
     "strDesc": "Они доставляют вас к мировому судье AyoSec на вынесение приговора, оставив ваш корабль и снаряжение позади.\n\nНа слушании вы можете умолять лишь о штрафе — 15 000 $, выплачиваемых единовременно или в рассрочку, — иначе вас отправят в гауптвахту Azikiwe на год-три каторжных работ.",
     "strColor": "Dialogue",
     "aInverse": [
@@ -5729,7 +5729,7 @@
   },
   {
     "strName": "ENCHeatCCREBustedStart",
-    "strTitle": "Поймано",
+    "strTitle": "Busted",
     "strDesc": "Они доставляют вас к мировому судье CCRE на вынесение приговора, оставив ваш корабль и снаряжение позади.\n\nНа слушании вы можете умолять лишь о штрафе — 15 000 $, выплачиваемых единовременно или в рассрочку, — иначе вас отправят в гауптвахту Ring Station на год-три каторжных работ.",
     "strColor": "Dialogue",
     "aInverse": [
@@ -5880,7 +5880,7 @@
   },
   {
     "strName": "ENCHeatVenusBustedStart",
-    "strTitle": "Поймано",
+    "strTitle": "Busted",
     "strDesc": "Они доставляют вас к мировому судье на вынесение приговора, оставив ваш корабль и снаряжение позади.\n\nНа слушании вы можете умолять лишь о штрафе — 15 000 $, выплачиваемых единовременно или в рассрочку, — иначе вас отправят в гауптвахту NewCal на год-три каторжных работ.",
     "strColor": "Dialogue",
     "aInverse": [

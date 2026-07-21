@@ -1,7 +1,7 @@
 [
   {
     "strName": "ENCHeatAyoSecFinePublicDisorder",
-    "strDesc": "Штраф AyoSec (нарушение общественного порядка)",
+    "strDesc": "Штраф AyoSec (Нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -11,7 +11,7 @@
   },
   {
     "strName": "ENCHeatAyoSecFinePublicDisorderDebt",
-    "strDesc": "Штраф AyoSec (нарушение общественного порядка)",
+    "strDesc": "Штраф AyoSec (Нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "Mortgage",
@@ -21,7 +21,7 @@
   },
   {
     "strName": "ENCHeatCCREFinePublicDisorder",
-    "strDesc": "Штраф CCRE (нарушение общественного порядка)",
+    "strDesc": "Штраф CCRE (Нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -31,7 +31,7 @@
   },
   {
     "strName": "ENCHeatCCREFinePublicDisorderDebt",
-    "strDesc": "Штраф CCRE (нарушение общественного порядка)",
+    "strDesc": "Штраф CCRE (Нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "Mortgage",
@@ -41,7 +41,7 @@
   },
   {
     "strName": "ENCHeatVenusFinePublicDisorder",
-    "strDesc": "Штраф Venus (нарушение общественного порядка)",
+    "strDesc": "Штраф Венеры (Нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -51,7 +51,7 @@
   },
   {
     "strName": "ENCHeatVenusFinePublicDisorderDebt",
-    "strDesc": "Штраф Venus (нарушение общественного порядка)",
+    "strDesc": "Штраф Венеры (Нарушение общественного порядка)",
     "fAmount": 15000,
     "strCurrency": "StatUSD",
     "strFrequency": "Mortgage",
@@ -61,7 +61,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaInvestor",
-    "strDesc": "Посольство GalCon: Подача заявления на получение инвесторской визы",
+    "strDesc": "Посольство GalCon: Заявление на визу инвестора",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -71,7 +71,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaSkilledLabor",
-    "strDesc": "Посольство GalCon: Подача заявления на визу для квалифицированных специалистов",
+    "strDesc": "Посольство GalCon: Заявление на визу квалифицированного специалиста",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -81,7 +81,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaSkilledLaborIllicit",
-    "strDesc": "Посольство GalCon: Подача заявления на визу для \"квалифицированных специалистов\"",
+    "strDesc": "Посольство GalCon: Заявление на визу «квалифицированного специалиста»",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -91,7 +91,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaFactionSponsored",
-    "strDesc": "Посольство GalCon: Подача заявления на получение визы для прохождения национальной службы",
+    "strDesc": "Посольство GalCon: Заявление на визу для несения госслужбы",
     "fAmount": 250000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -101,7 +101,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCERVisaLocalSponsored",
-    "strDesc": "Посольство GalCon: Подача заявления на визу местного спонсора",
+    "strDesc": "Посольство GalCon: Заявление на визу при местном спонсорстве",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -111,7 +111,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaInvestor",
-    "strDesc": "Посольство CCRE: Подача заявления на получение инвесторской визы",
+    "strDesc": "Посольство CCRE: Заявление на визу инвестора",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -121,7 +121,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaSkilledLabor",
-    "strDesc": "Посольство CCRE: Подача заявления на визу для квалифицированных работников",
+    "strDesc": "Посольство CCRE: Заявление на визу квалифицированного специалиста",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -131,7 +131,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaSkilledLaborIllicit",
-    "strDesc": " Посольство CCRE: Подача заявления на визу для \"квалифицированных работников\"",
+    "strDesc": "Посольство CCRE: Заявление на визу «квалифицированного специалиста»",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -141,7 +141,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaFactionSponsored",
-    "strDesc": "Посольство CCRE: Подача заявления на получение визы для прохождения национальной службы",
+    "strDesc": "Посольство CCRE: Заявление на визу для несения госслужбы",
     "fAmount": 250000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -151,7 +151,7 @@
   },
   {
     "strName": "ENCEmbassyServicesBCRSVisaLocalSponsored",
-    "strDesc": "Посольство CCRE: Подача заявления на визу местного спонсора",
+    "strDesc": "Посольство CCRE: Заявление на визу при местном спонсорстве",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -161,7 +161,7 @@
   },
   {
     "strName": "ENCEmbassyServicesOKLGVisaInvestor",
-    "strDesc": "Посольство OKLG: Подача заявления на получение инвесторской визы",
+    "strDesc": "Посольство OKLG: Заявление на визу инвестора",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -171,7 +171,7 @@
   },
   {
     "strName": "ENCEmbassyServicesOKLGVisaSkilledLabor",
-    "strDesc": "Посольство OKLG: Подача заявления на визу для квалифицированных работников",
+    "strDesc": "Посольство OKLG: Заявление на визу квалифицированного специалиста",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -181,7 +181,7 @@
   },
   {
     "strName": "ENCEmbassyServicesOKLGVisaSkilledLaborIllicit",
-    "strDesc": "Посольство OKLG: Подача заявления на визу для \"квалифицированных работников\"",
+    "strDesc": "Посольство OKLG: Заявление на визу «квалифицированного специалиста»",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -191,7 +191,7 @@
   },
   {
     "strName": "ENCEmbassyServicesVENCVisaInvestor",
-    "strDesc": "Посольство VENC: Подача заявления на получение инвесторской визы",
+    "strDesc": "Посольство VENC: Заявление на визу инвестора",
     "fAmount": 5000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -201,7 +201,7 @@
   },
   {
     "strName": "ENCEmbassyServicesVENCVisaSkilledLabor",
-    "strDesc": "Посольство VENC: Подача заявления на визу для квалифицированных работников",
+    "strDesc": "Посольство VENC: Заявление на визу квалифицированного специалиста",
     "fAmount": 750000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -211,7 +211,7 @@
   },
   {
     "strName": "ENCEmbassyServicesVENCVisaSkilledLaborIllicit",
-    "strDesc": "Посольство VENC: Подача заявления на визу для \"квалифицированных работников\"",
+    "strDesc": "Посольство VENC: Заявление на визу «квалифицированного специалиста»",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -331,7 +331,7 @@
   },
   {
     "strName": "ENCOKLGMedServiceRemoveChronic",
-    "strDesc": "Оплата за «оказанные услуги».",
+    "strDesc": "Медицинская услуга: Лечение шрамов или хронических заболеваний",
     "fAmount": 250000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -401,7 +401,7 @@
   },
   {
     "strName": "ENCRobbedMedium",
-    "strDesc": "Анонимный вывод средств",
+    "strDesc": "Анонимное снятие средств",
     "fAmount": 20000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1121,7 +1121,7 @@
   },
   {
     "strName": "SHIPReceive1M",
-    "strDesc": "Анонимный депозит",
+    "strDesc": "Анонимное внесение средств",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1131,7 +1131,7 @@
   },
   {
     "strName": "SHIPReceive500k",
-    "strDesc": "Анонимный депозит",
+    "strDesc": "Анонимное внесение средств",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1141,7 +1141,7 @@
   },
   {
     "strName": "SHIPReceive100k",
-    "strDesc": "Анонимный депозит",
+    "strDesc": "Анонимное внесение средств",
     "fAmount": 100000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1151,7 +1151,7 @@
   },
   {
     "strName": "SHIPReceive50k",
-    "strDesc": "Анонимный депозит",
+    "strDesc": "Анонимное внесение средств",
     "fAmount": 50000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1161,7 +1161,7 @@
   },
   {
     "strName": "SHIPReceive10k",
-    "strDesc": "Анонимный депозит",
+    "strDesc": "Анонимное внесение средств",
     "fAmount": 10000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1171,7 +1171,7 @@
   },
   {
     "strName": "SHIPSurrender1M",
-    "strDesc": "Анонимный вывод средств",
+    "strDesc": "Анонимное снятие средств",
     "fAmount": 1000000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1181,7 +1181,7 @@
   },
   {
     "strName": "SHIPSurrender500k",
-    "strDesc": "Анонимный вывод средств",
+    "strDesc": "Анонимное снятие средств",
     "fAmount": 500000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1191,7 +1191,7 @@
   },
   {
     "strName": "SHIPSurrender100k",
-    "strDesc": "Анонимный вывод средств",
+    "strDesc": "Анонимное снятие средств",
     "fAmount": 100000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1201,7 +1201,7 @@
   },
   {
     "strName": "SHIPSurrender50k",
-    "strDesc": "Анонимный вывод средств",
+    "strDesc": "Анонимное снятие средств",
     "fAmount": 50000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",
@@ -1211,7 +1211,7 @@
   },
   {
     "strName": "SHIPSurrender10k",
-    "strDesc": "Анонимный вывод средств",
+    "strDesc": "Анонимное снятие средств",
     "fAmount": 10000,
     "strCurrency": "StatUSD",
     "strFrequency": "OneTime",

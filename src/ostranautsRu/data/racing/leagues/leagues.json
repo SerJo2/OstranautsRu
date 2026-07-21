@@ -125,7 +125,7 @@
   },
   {
     "strName": "GrandePremioEncantato",
-    "strNameFriendly": "Grande Prêmio do Encantado",
+    "strNameFriendly": "Гран-при Энкантадо",
     "strDescription": "One of the system's top tier racing leagues",
     "strImgPath": "racing/encantado.png",
     "ctLeagueHost": null,

@@ -71,76 +71,76 @@
     "strName": "DataBINRoster_PMC",
     "strNameFriendly": "ROSTER_PMC.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN1k-5k"
+    "strCondLoot": "Зашифрованный файл данных (1-5 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesVoltaire",
     "strNameFriendly": "CONTACTS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesRingStation",
     "strNameFriendly": "CONTACTS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesNewcal",
     "strNameFriendly": "CONTACTS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesProkofiev",
     "strNameFriendly": "INVENTORY.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesFortSimpson",
     "strNameFriendly": "CONTACTS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesAtlantis",
     "strNameFriendly": "CONTACTS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINAtlantisResearch",
     "strNameFriendly": "SIGHTINGS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN1k-5k"
+    "strCondLoot": "Зашифрованный файл данных (1-5 КБ)"
   },
   {
     "strName": "DataBINPersonalAddressesJadeRabbit",
     "strNameFriendly": "CONTACTS.BIN",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINCryptoSmall",
     "strNameFriendly": "CRYPTO_TOKEN.BIN",
     "strDesc": "Свободный криптокредит. Часто используется для чаевых, подарков и неотслеживаемых переводов.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINCryptoMed",
     "strNameFriendly": "CRYPTO_WALLET.BIN",
     "strDesc": "Кто-то взломал чужой персональный криптокошелек.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN1k-5k"
+    "strCondLoot": "Зашифрованный файл данных (1-5 КБ)"
   },
   {
     "strName": "DataBINCryptoLarge",
     "strNameFriendly": "CRYPTO_VAULT.BIN",
     "strDesc": "PIN-код доступа к криптокошельку. Людям, вероятно, не стоит бросать их где попало. Конечно, он может быть уже пуст.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN0-15k"
+    "strCondLoot": "Зашифрованный файл данных (0-15 КБ)"
   },
   {
     "strName": "DataIMGSuperHarrison",
@@ -343,7 +343,7 @@
     "strNameFriendly": "LEVERAGE.VID",
     "strDesc": "Компрометирующая запись со скрытой камеры о пикантной связи с участием местного лидера.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileVID5k-15k"
+    "strCondLoot": "Видеофайл (5-15 КБ)"
   },
   {
     "strName": "DataVIDMundane01",
@@ -460,7 +460,7 @@
     "strNameFriendly": "SILVERSMYTH_GOLD.SND",
     "strDesc": "Пиратская копия полного альбома «Gold» популярной K-Pop группы Silversmyth. Редкий коллекционный экземпляр, который может представлять ценность для нужного покупателя.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileSND1k-5k"
+    "strCondLoot": "Аудиофайл (1-5 КБ)"
   },
   {
     "strName": "DataSNDSilversmythBloopers",
@@ -564,7 +564,7 @@
     "strNameFriendly": "WHAT_IS_THIS.SND",
     "strDesc": "Чудовищный рев и цоканье когтистых шагов, эхом отдающихся от переборок в узких коридорах корабля или станции. Человеческий шепот задается вопросом, ушел ли он, прямо перед тем, как запись обрывается на полуслове крика.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileSND1k-5k"
+    "strCondLoot": "Аудиофайл (1-5 КБ)"
   },
   {
     "strName": "DataSNDBarbershop",
@@ -592,28 +592,28 @@
     "strNameFriendly": "TESTAMENT.SND",
     "strDesc": "Последняя воля и завещание, по-видимому, состоятельного гражданина. Неясно, имеет ли этот формат юридическую силу в суде.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileSND5k-15k"
+    "strCondLoot": "Аудиофайл (5-15 КБ)"
   },
   {
     "strName": "DataSNDCorporateSecret",
     "strNameFriendly": "CONFIDENTIAL_BOARDMEETING.SND",
     "strDesc": "Вероятно, незаконно записанное заседание совета директоров корпорации, на котором обсуждаются и принимаются решения, меняющие экономику.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileSND5k-15k"
+    "strCondLoot": "Аудиофайл (5-15 КБ)"
   },
   {
     "strName": "DataSNDConfession",
     "strNameFriendly": "PLEA_DEAL.SND",
     "strDesc": "Признание в чудовищных преступлениях во время интенсивного допроса частными охранными подрядчиками. Вероятно, это не предназначено для открытого доступа.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileSND1k-5k"
+    "strCondLoot": "Аудиофайл (1-5 КБ)"
   },
   {
     "strName": "DataSNDConfession02",
     "strNameFriendly": "INTERNALAFFAIRS.SND",
     "strDesc": "Раскаивающееся признание в ужасных преступлениях, которое встречается заверениями в том, что всё это скоро исчезнет.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileSND5k-15k"
+    "strCondLoot": "Аудиофайл (5-15 КБ)"
   },
   {
     "strName": "DataSNDManifesto",
@@ -633,7 +633,7 @@
     "strNameFriendly": "SPACE_PROTOTYPE.BIN",
     "strDesc": "Нелегально скопированная версия незначительного хита — космического симулятора начала 20-х годов, изъятая из бэкапа российского веб-сайта. Известна своими возмутительными багами и нехваткой «контента». Игроки всё ещё оценивают её положительно, как нечто немного эзотерическое, вплоть до 70-х годов.",
     "strCOBase": "DataFile",
-    "strCondLoot": "CNDOLDatafileBIN100-1k"
+    "strCondLoot": "Зашифрованный файл данных (100 б - 1 КБ)"
   },
   {
     "strName": "DataBINRobotOS01",

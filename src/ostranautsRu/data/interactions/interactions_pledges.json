@@ -2736,7 +2736,7 @@
   {
     "strName": "PLGFollowCommand",
     "strTitle": "Приказано следовать за целью",
-    "strDesc": "[us] [follows] [them].",
+    "strDesc": "[us] [следует] за [them].",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -3120,7 +3120,7 @@
   {
     "strName": "PLGTransit",
     "strTitle": "Доступ NPC к транзиту",
-    "strDesc": "[us] [accesses] [them].",
+    "strDesc": "[us] [получает] доступ к [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
