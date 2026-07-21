@@ -141,7 +141,7 @@
   },
   {
     "strName": "Crew01",
-    "strNameShort": "Person",
+    "strNameShort": "Человек",
     "strItemDef": "Crew",
     "strType": "Crew",
     "strLoot": null,
@@ -507,7 +507,7 @@
   },
   {
     "strName": "Robot01",
-    "strNameShort": "Robot",
+    "strNameShort": "Робот",
     "strNameFriendly": "Лёгкий строительный дрон Beydat «Weaver»",
     "strDesc": "Беспилотники Beydat — неизменные участники внеземных строительных проектов. Это неутомимые работники, способные выполнять точные операции, и при этом лишённые накладных расходов на заработную плату или соблюдение техники безопасности и охраны труда.",
     "strItemDef": "Crew",
@@ -616,7 +616,7 @@
   },
   {
     "strName": "Robot02",
-    "strNameShort": "Robot",
+    "strNameShort": "Робот",
     "strNameFriendly": "Тяжёлый охранный и строительный дрон Beydat «Enforcer»",
     "strDesc": "Разработанное в какой-то мере как реакция на постоянные случаи вандализма в отношении дронов «Weaver», руководство Beydat решило расширить ассортимент своих автоматизированных рабочих.",
     "strItemDef": "Crew",
@@ -1115,7 +1115,7 @@
   },
   {
     "strName": "ItmAeroParts3x301",
-    "strNameShort": "Stabilizer",
+    "strNameShort": "Стабилизатор",
     "strNameFriendly": "Стабилизатор корпуса",
     "strItemDef": "ItmAeroParts3x301",
     "strType": "Item",
@@ -1148,7 +1148,7 @@
   },
   {
     "strName": "ItmAeroParts3x301Loose",
-    "strNameShort": "Stabilizer",
+    "strNameShort": "Стабилизатор",
     "strNameFriendly": "Стабилизатор корпуса (расшатан)",
     "strItemDef": "ItmAeroParts3x301Loose",
     "strType": "Item",
@@ -1179,7 +1179,7 @@
   },
   {
     "strName": "ItmAeroParts3x302",
-    "strNameShort": "Stabilizer",
+    "strNameShort": "Стабилизатор",
     "strNameFriendly": "Стабилизатор корпуса",
     "strItemDef": "ItmAeroParts3x302",
     "strType": "Item",
@@ -1212,7 +1212,7 @@
   },
   {
     "strName": "ItmAeroParts3x302Loose",
-    "strNameShort": "Stabilizer",
+    "strNameShort": "Стабилизатор",
     "strNameFriendly": "Стабилизатор корпуса (расшатан)",
     "strItemDef": "ItmAeroParts3x302Loose",
     "strType": "Item",
@@ -1545,7 +1545,7 @@
   },
   {
     "strName": "ItmAirPump02Dmg",
-    "strNameShort": "Pump",
+    "strNameShort": "Насос",
     "strNameFriendly": "Насос воздухообмена (Поврежден)",
     "strDesc": "Газовый насос серии UT от Kang, широко применяемый на кораблях как часть системы жизнеобеспечения. Откачивает газ из любого закрытого контейнера или помещения и закачивает его в целевую зону. Можно подключить к соответствующим сигнализациям для поддержания безопасного давления в каюте.",
     "strItemDef": "ItmAirPump02Dmg",
@@ -1597,7 +1597,7 @@
   },
   {
     "strName": "ItmAirPump02DmgLoose",
-    "strNameShort": "Pump",
+    "strNameShort": "Насос",
     "strNameFriendly": "Насос воздухообмена (Поврежден, Откреплен)",
     "strDesc": "Газовый насос серии UT от Kang, широко применяемый на кораблях как часть системы жизнеобеспечения. Откачивает газ из любого закрытого контейнера или помещения и закачивает его в целевую зону. Можно подключить к соответствующим сигнализациям для поддержания безопасного давления в каюте.",
     "strItemDef": "ItmAirPump02DmgLoose",
@@ -1643,7 +1643,7 @@
   },
   {
     "strName": "ItmAirPump02Off",
-    "strNameShort": "Pump",
+    "strNameShort": "Насос",
     "strNameFriendly": "Насос воздухообмена (Выключен)",
     "strDesc": "Газовый насос серии UT от Kang, широко применяемый на кораблях как часть системы жизнеобеспечения. Откачивает газ из любого закрытого контейнера или помещения и закачивает его в целевую зону. Можно подключить к соответствующим сигнализациям для поддержания безопасного давления в каюте.",
     "strItemDef": "ItmAirPump02Off",
@@ -1697,7 +1697,7 @@
   },
   {
     "strName": "ItmAirPump02OffLoose",
-    "strNameShort": "Pump",
+    "strNameShort": "Насос",
     "strNameFriendly": "Насос воздухообмена (Откреплен)",
     "strDesc": "Газовый насос серии UT от Kang, широко применяемый на кораблях как часть системы жизнеобеспечения. Откачивает газ из любого закрытого контейнера или помещения и закачивает его в целевую зону. Можно подключить к соответствующим сигнализациям для поддержания безопасного давления в каюте.",
     "strItemDef": "ItmAirPump02OffLoose",
@@ -1740,7 +1740,7 @@
   },
   {
     "strName": "ItmAirPump02OnG",
-    "strNameShort": "Pump",
+    "strNameShort": "Насос",
     "strNameFriendly": "Воздушный насос",
     "strDesc": "Газовый насос серии UT от Kang, широко применяемый на кораблях как часть системы жизнеобеспечения. Откачивает газ из любого закрытого контейнера или помещения и закачивает его в целевую зону. Можно подключить к соответствующим сигнализациям для поддержания безопасного давления в каюте.",
     "strItemDef": "ItmAirPump02Green",
@@ -3353,7 +3353,7 @@
   },
   {
     "strName": "ItmAlarmTempOff",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Термостат (Выкл.)",
     "strItemDef": "ItmAlarmTempOff",
     "strType": "Item",
@@ -3403,7 +3403,7 @@
   },
   {
     "strName": "ItmAlarmTempOffLoose",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Термостат (Не закреплён)",
     "strItemDef": "ItmAlarmTempOffLoose",
     "strType": "Item",
@@ -3448,7 +3448,7 @@
   },
   {
     "strName": "ItmAlarmTempDmg",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Термостат (Повреждён)",
     "strItemDef": "ItmAlarmTempDmg",
     "strType": "Item",
@@ -3495,7 +3495,7 @@
   },
   {
     "strName": "ItmAlarmTempDmgLoose",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Термостат (Повреждён, не закреплён)",
     "strItemDef": "ItmAlarmTempDmgLoose",
     "strType": "Item",
@@ -3542,7 +3542,7 @@
   },
   {
     "strName": "ItmAlarmTempOnB",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Термостат (Слишком холодно)",
     "strItemDef": "ItmAlarmTempOnB",
     "strType": "Item",
@@ -3596,7 +3596,7 @@
   },
   {
     "strName": "ItmAlarmTempOnR",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Термостат (Слишком тепло)",
     "strItemDef": "ItmAlarmTempOnR",
     "strType": "Item",
@@ -3649,7 +3649,7 @@
   },
   {
     "strName": "ItmAlarmTempOnW",
-    "strNameShort": "Thermostat",
+    "strNameShort": "Термостат",
     "strNameFriendly": "Thermostat",
     "strItemDef": "ItmAlarmTempOnW",
     "strType": "Item",
@@ -3702,7 +3702,7 @@
   },
   {
     "strName": "ItmAntenna01OnG",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strNameFriendly": "Антенна XPDR (Активна)",
     "strDesc": "Наружная антенна Polaris на 1090 МГц для передачи сигнала транспондера (XPDR). Требует активного транспондера в качестве источника сигнала. Более хрупкая по сравнению с вариантами, защищёнными обшивкой фюзеляжа, эта распространённая антенна жертвует прочностью ради доступности и простоты обслуживания.",
     "strItemDef": "ItmAntenna01OnG",
@@ -3755,7 +3755,7 @@
   },
   {
     "strName": "ItmAntenna01Off",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strNameFriendly": "Антенна XPDR (Выкл.)",
     "strDesc": "Наружная антенна Polaris на 1090 МГц для передачи сигнала транспондера (XPDR). Требует активного транспондера в качестве источника сигнала. Более хрупкая по сравнению с вариантами, защищёнными обшивкой фюзеляжа, эта распространённая антенна жертвует прочностью ради доступности и простоты обслуживания.",
     "strItemDef": "ItmAntenna01Off",
@@ -3805,7 +3805,7 @@
   },
   {
     "strName": "ItmAntenna01Loose",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strItemDef": "ItmAntenna01Loose",
     "strNameFriendly": "Антенна XPDR (Не закреплена)",
     "strDesc": "Наружная антенна Polaris на 1090 МГц для передачи сигнала транспондера (XPDR). Требует активного транспондера в качестве источника сигнала. Более хрупкая по сравнению с вариантами, защищёнными обшивкой фюзеляжа, эта распространённая антенна жертвует прочностью ради доступности и простоты обслуживания.",
@@ -3855,7 +3855,7 @@
   },
   {
     "strName": "ItmAntenna01Dmg",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strNameFriendly": "Антенна XPDR (Повреждена)",
     "strDesc": "Наружная антенна Polaris на 1090 МГц для передачи сигнала транспондера (XPDR). Требует активного транспондера в качестве источника сигнала. Более хрупкая по сравнению с вариантами, защищёнными обшивкой фюзеляжа, эта распространённая антенна жертвует прочностью ради доступности и простоты обслуживания.",
     "strItemDef": "ItmAntenna01Dmg",
@@ -3901,7 +3901,7 @@
   },
   {
     "strName": "ItmAntenna01DmgLoose",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strItemDef": "ItmAntenna01DmgLoose",
     "strNameFriendly": "Антенна XPDR (Повреждена, не закреплена)",
     "strDesc": "Наружная антенна Polaris на 1090 МГц для передачи сигнала транспондера (XPDR). Требует активного транспондера в качестве источника сигнала. Более хрупкая по сравнению с вариантами, защищёнными обшивкой фюзеляжа, эта распространённая антенна жертвует прочностью ради доступности и простоты обслуживания.",
@@ -3953,7 +3953,7 @@
   },
   {
     "strName": "ItmAntenna02Off",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strNameFriendly": "Антенна XPDR: Усиленная (Выкл.)",
     "strDesc": "Будучи военным подрядчиком верфей Титана, Langdon-Phillips производит востребованное оборудование для межпланетных путешествий. Эта усиленная передающая антенна XPDR (транспондера) на 1090 МГц разработана для продолжения работы в самых суровых условиях.",
     "strItemDef": "ItmAntenna02Off",
@@ -4000,7 +4000,7 @@
   },
   {
     "strName": "ItmAntenna02Loose",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strItemDef": "ItmAntenna02Loose",
     "strNameFriendly": "Антенна XPDR: Усиленная (Не закреплена)",
     "strDesc": "Будучи военным подрядчиком верфей Титана, Langdon-Phillips производит востребованное оборудование для межпланетных путешествий. Эта усиленная передающая антенна XPDR (транспондера) на 1090 МГц разработана для продолжения работы в самых суровых условиях.",
@@ -4043,7 +4043,7 @@
   },
   {
     "strName": "ItmAntenna02Dmg",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strNameFriendly": "Антенна XPDR: Усиленная (Повреждена)",
     "strDesc": "Будучи военным подрядчиком верфей Титана, Langdon-Phillips производит востребованное оборудование для межпланетных путешествий. Эта усиленная передающая антенна XPDR (транспондера) на 1090 МГц разработана для продолжения работы в самых суровых условиях.",
     "strItemDef": "ItmAntenna02Dmg",
@@ -4090,7 +4090,7 @@
   },
   {
     "strName": "ItmAntenna02DmgLoose",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strItemDef": "ItmAntenna02DmgLoose",
     "strNameFriendly": "Антенна XPDR: Усиленная (Повреждена, не закреплена)",
     "strDesc": "Будучи военным подрядчиком верфей Титана, Langdon-Phillips производит востребованное оборудование для межпланетных путешествий. Эта усиленная передающая антенна XPDR (транспондера) на 1090 МГц разработана для продолжения работы в самых суровых условиях.",
@@ -4135,7 +4135,7 @@
   },
   {
     "strName": "ItmAntenna02OnG",
-    "strNameShort": "Antenna",
+    "strNameShort": "Антенна",
     "strNameFriendly": "Антенна XPDR: Усиленная (Активна)",
     "strDesc": "Будучи военным подрядчиком верфей Титана, Langdon-Phillips производит востребованное оборудование для межпланетных путешествий. Эта усиленная передающая антенна XPDR (транспондера) на 1090 МГц разработана для продолжения работы в самых суровых условиях.",
     "strItemDef": "ItmAntenna02OnG",
@@ -5141,7 +5141,7 @@
   },
   {
     "strName": "ItmBackpack01",
-    "strNameShort": "Backpack",
+    "strNameShort": "Рюкзак",
     "strNameFriendly": "Рюкзак: Pearson «Yukon»",
     "strDesc": "Большой брезентовый рюкзак, созданный для переноски всего, что нужно мусорщику.",
     "strItemDef": "ItmBackpack01",
@@ -5232,7 +5232,7 @@
   },
   {
     "strName": "ItmBackpack02",
-    "strNameShort": "Backpack",
+    "strNameShort": "Рюкзак",
     "strNameFriendly": "Рюкзак: Black Wing \"KOMPART\"",
     "strDesc": "Большой технический рюкзак, созданный для переноски всего, что нужно мусорщику.",
     "strItemDef": "ItmBackpack02",
@@ -5322,7 +5322,7 @@
   },
   {
     "strName": "ItmBackpack03",
-    "strNameShort": "Tote",
+    "strNameShort": "Сумка",
     "strNameFriendly": "Сумка: Ayotimiwa \"Loyalty\" (ограниченная серия)",
     "strDesc": "Экономичная, судя по всему, лимитированная корпоративная сумка через плечо, безупречно и безлико изготовленная из лёгких переработанных материалов. «Верность начинается с вас»",
     "strItemDef": "ItmBackpack03",
@@ -5398,7 +5398,7 @@
   },
   {
     "strName": "ItmBartop01",
-    "strNameShort": "Bartop",
+    "strNameShort": "Бар",
     "strNameFriendly": "Барная стойка из вишнёвого дерева",
     "strItemDef": "ItmBartop01",
     "strDesc": "Изящно изготовленный предмет мебели. Черешня высоко ценится столярами за равномерную текстуру и мягкость, а после того, как абляционный каскад отрезал путь к Земле, её стоимость только возросла.",
@@ -5430,7 +5430,7 @@
   },
   {
     "strName": "ItmBartop02",
-    "strNameShort": "Bartop",
+    "strNameShort": "Бар",
     "strNameFriendly": "Барная стойка из вишнёвого дерева",
     "strItemDef": "ItmBartop02",
     "strDesc": "Изящно изготовленный предмет мебели. Черешня высоко ценится столярами за равномерную текстуру и мягкость, а после того, как абляционный каскад отрезал путь к Земле, её стоимость только возросла.",
@@ -5465,7 +5465,7 @@
   },
   {
     "strName": "ItmBartop02Loose",
-    "strNameShort": "Bartop",
+    "strNameShort": "Бар",
     "strNameFriendly": "Барная стойка из вишнёвого дерева (демонтирована)",
     "strItemDef": "ItmBartop02Loose",
     "strDesc": "Изящно изготовленный предмет мебели. Черешня высоко ценится столярами за равномерную текстуру и мягкость, а после того, как абляционный каскад отрезал путь к Земле, её стоимость только возросла.",
@@ -5574,7 +5574,7 @@
   },
   {
     "strName": "ItmBattery02",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Судовая батарея",
     "strDesc": "Массовая высокоёмкая корабельная батарея от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02",
@@ -5628,7 +5628,7 @@
   },
   {
     "strName": "ItmBattery02Dmg",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Судовая батарея (повреждена)",
     "strDesc": "Массовая высокоёмкая корабельная батарея от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02Dmg",
@@ -5667,7 +5667,7 @@
   },
   {
     "strName": "ItmBattery02Loose",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Судовая батарея (демонтирована)",
     "strDesc": "Массовая высокоёмкая корабельная батарея от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02Loose",
@@ -5715,7 +5715,7 @@
   },
   {
     "strName": "ItmBattery02DmgLoose",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Судовая батарея (демонтирована, повреждена)",
     "strDesc": "Массовая высокоёмкая корабельная батарея от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02DmgLoose",
@@ -5760,7 +5760,7 @@
   },
   {
     "strName": "ItmBattery02b",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Компактная батарея класса S",
     "strDesc": "Компактная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02b",
@@ -5814,7 +5814,7 @@
   },
   {
     "strName": "ItmBattery02bDmg",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Компактная батарея класса S (повреждена)",
     "strDesc": "Компактная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02bDmg",
@@ -5855,7 +5855,7 @@
   },
   {
     "strName": "ItmBattery02bLoose",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Компактная батарея класса S (демонтирована)",
     "strDesc": "Компактная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02bLoose",
@@ -5904,7 +5904,7 @@
   },
   {
     "strName": "ItmBattery02bDmgLoose",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Компактная батарея класса S (демонтирована, повреждена)",
     "strDesc": "Компактная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02bDmgLoose",
@@ -5950,7 +5950,7 @@
   },
   {
     "strName": "ItmBattery02c",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Мини-батарея класса XS",
     "strDesc": "Миниатюрная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02c",
@@ -6005,7 +6005,7 @@
   },
   {
     "strName": "ItmBattery02cDmg",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Мини-батарея класса XS (повреждена)",
     "strDesc": "Миниатюрная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02cDmg",
@@ -6046,7 +6046,7 @@
   },
   {
     "strName": "ItmBattery02cLoose",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Мини-батарея класса XS (демонтирована)",
     "strDesc": "Миниатюрная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02cLoose",
@@ -6096,7 +6096,7 @@
   },
   {
     "strName": "ItmBattery02cDmgLoose",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Мини-батарея класса XS (демонтирована, повреждена)",
     "strDesc": "Миниатюрная версия массовой высокоёмкой корабельной батареи от Collective Electric. Заряженная и подключённая к соседнему силовому каналу, она может питать устройства по всему кораблю.",
     "strItemDef": "ItmBattery02cDmgLoose",
@@ -6282,7 +6282,7 @@
   },
   {
     "strName": "ItmBattery04",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Батарея: Weber лазерный резак",
     "strDesc": "Силовой блок, разработанный с расчётом на долговечность и достаточную мощность, чтобы выдавать энергию, необходимую для работы промышленного лазера.",
     "strItemDef": "ItmBattery04",
@@ -6332,7 +6332,7 @@
   },
   {
     "strName": "ItmBattery04Dmg",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Батарея: Weber лазерный резак (повреждена)",
     "strDesc": "Повреждённый силовой блок, разработанный с расчётом на долговечность и достаточную мощность, чтобы выдавать энергию, необходимую для работы промышленного лазера.",
     "strItemDef": "ItmBattery04Dmg",
@@ -6375,7 +6375,7 @@
   },
   {
     "strName": "ItmBatteryDrill01",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Батарея: Gott электроинструмент",
     "strDesc": "Аккумулятор для электродрели и угловой шлифмашины марки Gott.",
     "strItemDef": "ItmBatteryDrill01",
@@ -6423,7 +6423,7 @@
   },
   {
     "strName": "ItmBatteryDrill01Dmg",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Батарея: Gott электроинструмент (повреждена)",
     "strDesc": "Повреждённый аккумулятор для электродрели и угловой шлифмашины марки Gott.",
     "strItemDef": "ItmBatteryDrill01Dmg",
@@ -6464,7 +6464,7 @@
   },
   {
     "strName": "ItmBatteryWelder01",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Батарея: Halvorson электроинструмент",
     "strDesc": "Аккумулятор для аппарата сварки трением марки Halvorson.",
     "strItemDef": "ItmBatteryWelder01",
@@ -6512,7 +6512,7 @@
   },
   {
     "strName": "ItmBatteryWelder01Dmg",
-    "strNameShort": "Battery",
+    "strNameShort": "Батарея",
     "strNameFriendly": "Батарея: Halvorson электроинструмент (повреждена)",
     "strDesc": "Повреждённый аккумулятор для аппарата сварки трением марки Halvorson.",
     "strItemDef": "ItmBatteryWelder01Dmg",
@@ -6553,7 +6553,7 @@
   },
   {
     "strName": "ItmBed01",
-    "strNameShort": "Bunk",
+    "strNameShort": "Койка",
     "strNameFriendly": "Спальная койка",
     "strItemDef": "ItmBed01",
     "strDesc": "Стационарное спальное место с нишей для уединения, регулируемой подвеской и модульными опциями внутреннего оснащения. Разработано для комфорта как в микрогравитации, так и при ускорении.",
@@ -6609,7 +6609,7 @@
   },
   {
     "strName": "ItmBed01Off",
-    "strNameShort": "Bunk",
+    "strNameShort": "Койка",
     "strNameFriendly": "Спальная койка (выключена)",
     "strItemDef": "ItmBed01Off",
     "strDesc": "Стационарное спальное место с нишей для уединения, регулируемой подвеской и модульными опциями внутреннего оснащения. Разработано для комфорта как в микрогравитации, так и при ускорении.",
@@ -6665,7 +6665,7 @@
   },
   {
     "strName": "ItmBed01Dmg",
-    "strNameShort": "Bunk",
+    "strNameShort": "Койка",
     "strNameFriendly": "Спальная койка (повреждена)",
     "strItemDef": "ItmBed01Dmg",
     "strDesc": "Стационарное спальное место с нишей для уединения, регулируемой подвеской и модульными опциями внутреннего оснащения. Разработано для комфорта как в микрогравитации, так и при ускорении.",
@@ -6710,7 +6710,7 @@
   },
   {
     "strName": "ItmBed01Loose",
-    "strNameShort": "Bunk",
+    "strNameShort": "Койка",
     "strNameFriendly": "Спальная койка (демонтирована)",
     "strItemDef": "ItmBed01Loose",
     "strDesc": "Стационарное спальное место с нишей для уединения, регулируемой подвеской и модульными опциями внутреннего оснащения. Разработано для комфорта как в микрогравитации, так и при ускорении.",
@@ -6755,7 +6755,7 @@
   },
   {
     "strName": "ItmBed01DmgLoose",
-    "strNameShort": "Bunk",
+    "strNameShort": "Койка",
     "strNameFriendly": "Спальная койка (Повреждено, отсоединено)",
     "strItemDef": "ItmBed01DmgLoose",
     "strDesc": "Стационарное спальное место с нишей для уединения, регулируемой подвеской и модульными опциями внутреннего оснащения. Разработано для комфорта как в микрогравитации, так и при ускорении.",
@@ -6801,7 +6801,7 @@
   },
   {
     "strName": "ItmBed02",
-    "strNameShort": "Bed",
+    "strNameShort": "Кровать",
     "strNameFriendly": "Bed",
     "strItemDef": "ItmBed02",
     "strDesc": "Отлично подходит для сна. И для дрёмы. Не самый удобный и не даёт уединения, но зато сворачивается для удобного хранения.",
@@ -6841,7 +6841,7 @@
   },
   {
     "strName": "ItmBed02Loose",
-    "strNameShort": "Bed",
+    "strNameShort": "Кровать",
     "strNameFriendly": "Bed",
     "strItemDef": "ItmBed02Loose",
     "strDesc": "Отлично подходит для сна. И для дрёмы. Не самый удобный и не даёт уединения, но зато сворачивается для удобного хранения.",
@@ -7130,7 +7130,7 @@
   },
   {
     "strName": "ItmBookEnvManual01",
-    "strNameShort": "Manual",
+    "strNameShort": "Мануал",
     "strNameFriendly": "Руководство: экологические системы",
     "strDesc": "Информационное издание от Testudo, содержащее инструкции по созданию безопасных, умеренных и пригодных для дыхания условий окружающей среды.",
     "strItemDef": "ItmBook02",
@@ -7179,7 +7179,7 @@
   },
   {
     "strName": "ItmBookFusionManual01",
-    "strNameShort": "Manual",
+    "strNameShort": "Мануал",
     "strNameFriendly": "Руководство: термоядерные системы",
     "strDesc": "Официальное руководство по эксплуатации, выпущенное Sulaiman, содержащее инструкции по безопасной работе с их реактором инерциального удержания плазмы модели «X[x] TW».",
     "strItemDef": "ItmBook03",
@@ -7229,7 +7229,7 @@
   },
   {
     "strName": "ItmBookPolarisNavManual01",
-    "strNameShort": "Manual",
+    "strNameShort": "Мануал",
     "strNameFriendly": "Руководство по полётам: навигационная консоль",
     "strDesc": "Издание от Polaris, содержащее информацию о пилотировании и стыковке космических аппаратов.",
     "strItemDef": "ItmBook01",
@@ -7374,7 +7374,7 @@
   },
   {
     "strName": "ItmCanister01",
-    "strNameShort": "Canister",
+    "strNameShort": "Канистра",
     "strItemDef": "ItmCanister01",
     "strNameFriendly": "Газовый баллон",
     "strDesc": "Универсальный баллон со сжатым газом, способный выдерживать смесь газов под высоким давлением. Особенно полезен для временного хранения и хранения отработанных газов.",
@@ -7421,7 +7421,7 @@
   },
   {
     "strName": "ItmCanister01Dmg",
-    "strNameShort": "Canister",
+    "strNameShort": "Канистра",
     "strItemDef": "ItmCanister01Dmg",
     "strNameFriendly": "Газовый баллон (Повреждено)",
     "strDesc": "Универсальный баллон со сжатым газом, способный выдерживать смесь газов под высоким давлением. Особенно полезен для временного хранения и хранения отработанных газов.",
@@ -7471,7 +7471,7 @@
   },
   {
     "strName": "ItmCanister01DmgLoose",
-    "strNameShort": "Canister",
+    "strNameShort": "Канистра",
     "strItemDef": "ItmCanister01DmgLoose",
     "strNameFriendly": "Баллон 01 (Повреждено, отсоединено)",
     "strDesc": "Универсальный баллон со сжатым газом, способный выдерживать смесь газов под высоким давлением. Особенно полезен для временного хранения и хранения отработанных газов.",
@@ -7527,7 +7527,7 @@
   },
   {
     "strName": "ItmCanister01Loose",
-    "strNameShort": "Canister",
+    "strNameShort": "Канистра",
     "strItemDef": "ItmCanister01Loose",
     "strNameFriendly": "Баллон 01 (Отсоединено)",
     "strDesc": "Универсальный баллон со сжатым газом, способный выдерживать смесь газов под высоким давлением. Особенно полезен для временного хранения и хранения отработанных газов.",
@@ -9149,7 +9149,7 @@
   },
   {
     "strName": "ItmChair01",
-    "strNameShort": "Stool",
+    "strNameShort": "Табурет",
     "strNameFriendly": "Табурет космонавта",
     "strDesc": "Простой табурет с фиксированным креплением и подножками, обеспечивающий гибкое, экономящее пространство сидение в различных гравитационных условиях.",
     "strItemDef": "ItmChair01",
@@ -9188,7 +9188,7 @@
   },
   {
     "strName": "ItmChair01Loose",
-    "strNameShort": "Stool",
+    "strNameShort": "Табурет",
     "strNameFriendly": "Табурет космонавта (отсоединён)",
     "strDesc": "Простой табурет с фиксированным креплением и подножками, обеспечивающий гибкое, экономящее пространство сидение в различных гравитационных условиях.",
     "strItemDef": "ItmChair01Loose",
@@ -9236,7 +9236,7 @@
   },
   {
     "strName": "ItmChair01Dmg",
-    "strNameShort": "Stool",
+    "strNameShort": "Табурет",
     "strNameFriendly": "Табурет космонавта (повреждён)",
     "strDesc": "Простой табурет с фиксированным креплением и подножками, обеспечивающий гибкое, экономящее пространство сидение в различных гравитационных условиях.",
     "strItemDef": "ItmChair01Dmg",
@@ -9273,7 +9273,7 @@
   },
   {
     "strName": "ItmChair01DmgLoose",
-    "strNameShort": "Stool",
+    "strNameShort": "Табурет",
     "strNameFriendly": "Табурет космонавта (повреждён, отсоединён)",
     "strDesc": "Простой табурет с фиксированным креплением и подножками, обеспечивающий гибкое, экономящее пространство сидение в различных гравитационных условиях.",
     "strItemDef": "ItmChair01DmgLoose",
@@ -9659,7 +9659,7 @@
   },
   {
     "strName": "ItmChairStrap01",
-    "strNameShort": "Seat",
+    "strNameShort": "Сиденье",
     "strNameFriendly": "Пассажирское кресло",
     "strDesc": "Экономичное сиденье с пятиточечными ремнями и амортизацией для высоких перегрузок создано, чтобы тело оставалось в безопасности во время длительных полетов, но не ради комфорта.",
     "strItemDef": "ItmChairStrap01",
@@ -9707,7 +9707,7 @@
   },
   {
     "strName": "ItmChairStrap01Off",
-    "strNameShort": "Seat",
+    "strNameShort": "Сиденье",
     "strNameFriendly": "Пассажирское кресло (выключено)",
     "strDesc": "Экономичное сиденье с пятиточечными ремнями и амортизацией для высоких перегрузок создано, чтобы тело оставалось в безопасности во время длительных полетов, но не ради комфорта.",
     "strItemDef": "ItmChairStrap01Off",
@@ -9755,7 +9755,7 @@
   },
   {
     "strName": "ItmChairStrap01Loose",
-    "strNameShort": "Seat",
+    "strNameShort": "Сиденье",
     "strNameFriendly": "Пассажирское кресло",
     "strDesc": "Экономичное сиденье с пятиточечными ремнями и амортизацией для высоких перегрузок создано, чтобы тело оставалось в безопасности во время длительных полетов, но не ради комфорта.",
     "strItemDef": "ItmChairStrap01Loose",
@@ -9796,7 +9796,7 @@
   },
   {
     "strName": "ItmChairStrap01Dmg",
-    "strNameShort": "Seat",
+    "strNameShort": "Сиденье",
     "strNameFriendly": "Пассажирское кресло (повреждено)",
     "strDesc": "Экономичное сиденье с пятиточечными ремнями и амортизацией для высоких перегрузок создано, чтобы тело оставалось в безопасности во время длительных полетов, но не ради комфорта.",
     "strItemDef": "ItmChairStrap01Dmg",
@@ -9836,7 +9836,7 @@
   },
   {
     "strName": "ItmChairStrap01DmgLoose",
-    "strNameShort": "Seat",
+    "strNameShort": "Сиденье",
     "strNameFriendly": "Пассажирское кресло (повреждено)",
     "strDesc": "Экономичное сиденье с пятиточечными ремнями и амортизацией для высоких перегрузок создано, чтобы тело оставалось в безопасности во время длительных полетов, но не ради комфорта.",
     "strItemDef": "ItmChairStrap01DmgLoose",
@@ -9879,7 +9879,7 @@
   },
   {
     "strName": "ItmCouch01",
-    "strNameShort": "Couch",
+    "strNameShort": "Диван",
     "strNameFriendly": "Couch",
     "strItemDef": "ItmCouch01",
     "strType": "Item",
@@ -10247,7 +10247,7 @@
   {
     "strName": "ItmRTAN2DmgLoose",
     "strNameShort": "Баллон N2",
-    "strNameFriendly": "(strNameFriendly in condowners) Баллон N2 (повреждён, отсоединён)",
+    "strNameFriendly": "Баллон N2 (повреждён, отсоединён)",
     "strDesc": "Баллон со сжатым азотом для хранения под давлением. Используется в навигации кораблей в качестве реактивной массы в системах RCS Intake Regulator, а также в воздушных насосах систем жизнеобеспечения.",
     "strItemDef": "ItmCanister03DmgLoose",
     "strType": "Item",
@@ -10307,7 +10307,7 @@
   {
     "strName": "ItmRTAN2Loose",
     "strNameShort": "Баллон N2",
-    "strNameFriendly": "(strNameFriendly in condowners) Баллон N2 (отсоединён)",
+    "strNameFriendly": "Баллон N2 (отсоединён)",
     "strDesc": "Баллон со сжатым азотом для хранения под давлением. Используется в навигации кораблей в качестве реактивной массы в системах RCS Intake Regulator, а также в воздушных насосах систем жизнеобеспечения.",
     "strItemDef": "ItmCanister03Loose",
     "strType": "Item",
@@ -10361,8 +10361,8 @@
   },
   {
     "strName": "ItmRTAO2",
-    "strNameShort": "(strNameShort in condowners) Баллон O2",
-    "strNameFriendly": "(strNameFriendly in condowners) Баллон O2",
+    "strNameShort": "Баллон O2",
+    "strNameFriendly": "Баллон O2",
     "strItemDef": "ItmCanister02",
     "strDesc": "Баллон со сжатым кислородом для хранения под давлением. Используется в воздушных насосах для создания безопасной, пригодной для дыхания среды с уровнем O2 выше 16 кПа.",
     "strType": "Item",
@@ -10410,8 +10410,8 @@
   },
   {
     "strName": "ItmRTAO2Dmg",
-    "strNameShort": "(strNameShort in condowners) Баллон O2",
-    "strNameFriendly": "(strNameFriendly in condowners) Баллон O2 (повреждён)",
+    "strNameShort": "Баллон O2",
+    "strNameFriendly": "Баллон O2 (повреждён)",
     "strDesc": "Баллон со сжатым кислородом для хранения под давлением. Используется в воздушных насосах для создания безопасной, пригодной для дыхания среды с уровнем O2 выше 16 кПа.",
     "strItemDef": "ItmCanister02Dmg",
     "strType": "Item",
@@ -10464,8 +10464,8 @@
   },
   {
     "strName": "ItmRTAO2DmgLoose",
-    "strNameShort": "(strNameShort in condowners) Баллон O2",
-    "strNameFriendly": "(strNameFriendly in condowners) Баллон O2 (повреждён, отсоединён)",
+    "strNameShort": "Баллон O2",
+    "strNameFriendly": "Баллон O2 (повреждён, отсоединён)",
     "strDesc": "Баллон со сжатым кислородом для хранения под давлением. Используется в воздушных насосах для создания безопасной, пригодной для дыхания среды с уровнем O2 выше 16 кПа.",
     "strItemDef": "ItmCanister02DmgLoose",
     "strType": "Item",
@@ -10524,8 +10524,8 @@
   },
   {
     "strName": "ItmRTAO2Loose",
-    "strNameShort": "(strNameShort in condowners) Баллон O2",
-    "strNameFriendly": "(strNameFriendly in condowners) Баллон O2 (отсоединён)",
+    "strNameShort": "Баллон O2",
+    "strNameFriendly": "Баллон O2 (отсоединён)",
     "strDesc": "Баллон со сжатым кислородом для хранения под давлением. Используется в воздушных насосах для создания безопасной, пригодной для дыхания среды с уровнем O2 выше 16 кПа.",
     "strItemDef": "ItmCanister02Loose",
     "strType": "Item",
@@ -10579,7 +10579,7 @@
   },
   {
     "strName": "ItmConduit00",
-    "strNameShort": "Conduit",
+    "strNameShort": "Кабель",
     "strNameFriendly": "Conduit",
     "strItemDef": "ItmConduit00",
     "strDesc": "Фиксированный кабельный канал, способный передавать энергию между компонентами корабля. Любой стоящий инженер знает важность правильно проложенного кабеля, особенно при утилизации поврежденных звездолетов.",
@@ -10608,8 +10608,8 @@
   },
   {
     "strName": "ItmConduit00Dmg",
-    "strNameShort": "Conduit",
-    "strNameFriendly": "(strNameFriendly in condowners) Кабель (повреждён)",
+    "strNameShort": "Кабель",
+    "strNameFriendly": "Кабель (повреждён)",
     "strItemDef": "ItmConduit00Dmg",
     "strDesc": "Фиксированный кабельный канал, способный передавать энергию между компонентами корабля. Любой стоящий инженер знает важность правильно проложенного кабеля, особенно при утилизации поврежденных звездолетов.",
     "strType": "Item",
@@ -10640,8 +10640,8 @@
   },
   {
     "strName": "ItmConduit00Loose",
-    "strNameShort": "Conduit",
-    "strNameFriendly": "(strNameFriendly in condowners) Кабель (отсоединён)",
+    "strNameShort": "Кабель",
+    "strNameFriendly": "Кабель (отсоединён)",
     "strDesc": "Фиксированный кабельный канал, способный передавать энергию между компонентами корабля. Любой стоящий инженер знает важность правильно проложенного кабеля, особенно при утилизации поврежденных звездолетов.",
     "strItemDef": "ItmConduit00Loose",
     "strType": "Item",
@@ -10682,8 +10682,8 @@
   },
   {
     "strName": "ItmConduit00DmgLoose",
-    "strNameShort": "Conduit",
-    "strNameFriendly": "(strNameFriendly in condowners) Кабель (отсоединён, повреждён)",
+    "strNameShort": "Кабель",
+    "strNameFriendly": "Кабель (отсоединён, повреждён)",
     "strDesc": "Фиксированный кабельный канал, способный передавать энергию между компонентами корабля. Любой стоящий инженер знает важность правильно проложенного кабеля, особенно при утилизации поврежденных звездолетов.",
     "strItemDef": "ItmConduit00DmgLoose",
     "strType": "Item",
@@ -10726,8 +10726,8 @@
   },
   {
     "strName": "ItmCooler01Off",
-    "strNameShort": "Cooler",
-    "strNameFriendly": "(strNameFriendly in condowners) Холодильник (выключен)",
+    "strNameShort": "Холодильник",
+    "strNameFriendly": "Холодильник (выключен)",
     "strItemDef": "ItmCooler01Off",
     "strDesc": "Охлаждающий блок Sokol, состоящий из внутреннего кондиционера, соединенного с радиаторными панелями на внешней обшивке. Безопасная температура в каюте находится в пределах от 290 до 300 градусов Кельвина. Может быть подключен к термостату.",
     "strType": "Item",
@@ -10776,9 +10776,9 @@
   },
   {
     "strName": "ItmCooler01OffLoose",
-    "strNameShort": "Cooler",
+    "strNameShort": "Холодильник",
     "strItemDef": "ItmCooler01OffLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Холодильник (выключен, отсоединён)",
+    "strNameFriendly": "Холодильник (выключен, отсоединён)",
     "strDesc": "Охлаждающий блок Sokol, состоящий из внутреннего кондиционера, соединенного с радиаторными панелями на внешней обшивке. Безопасная температура в каюте находится в пределах от 290 до 300 градусов Кельвина. Может быть подключен к термостату.",
     "strType": "Item",
     "aInteractions": [
@@ -10818,7 +10818,7 @@
   },
   {
     "strName": "ItmCooler01On",
-    "strNameShort": "Cooler",
+    "strNameShort": "Холодильник",
     "strNameFriendly": "Cooler",
     "strItemDef": "ItmCooler01On",
     "strDesc": "Охлаждающий блок Sokol, состоящий из внутреннего кондиционера, соединенного с радиаторными панелями на внешней обшивке. Безопасная температура в каюте находится в пределах от 290 до 300 градусов Кельвина. Может быть подключен к термостату.",
@@ -10876,8 +10876,8 @@
   },
   {
     "strName": "ItmCooler01Dmg",
-    "strNameShort": "Cooler",
-    "strNameFriendly": "(strNameFriendly in condowners) Холодильник (повреждён)",
+    "strNameShort": "Холодильник",
+    "strNameFriendly": "Холодильник (повреждён)",
     "strDesc": "Охлаждающий блок Sokol, состоящий из внутреннего кондиционера, соединенного с радиаторными панелями на внешней обшивке. Безопасная температура в каюте находится в пределах от 290 до 300 градусов Кельвина. Может быть подключен к термостату.",
     "strItemDef": "ItmCooler01Dmg",
     "strType": "Item",
@@ -10922,9 +10922,9 @@
   },
   {
     "strName": "ItmCooler01DmgLoose",
-    "strNameShort": "Cooler",
+    "strNameShort": "Холодильник",
     "strItemDef": "ItmCooler01DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Холодильник (отсоединён, повреждён)",
+    "strNameFriendly": "Холодильник (отсоединён, повреждён)",
     "strDesc": "Охлаждающий блок Sokol, состоящий из внутреннего кондиционера, соединенного с радиаторными панелями на внешней обшивке. Безопасная температура в каюте находится в пределах от 290 до 300 градусов Кельвина. Может быть подключен к термостату.",
     "strType": "Item",
     "aInteractions": [
@@ -10966,8 +10966,8 @@
   },
   {
     "strName": "ItmCrate01",
-    "strNameShort": "Crate",
-    "strNameFriendly": "(strNameFriendly in condowners) Умный контейнер Rakow",
+    "strNameShort": "Ящик",
+    "strNameFriendly": "Умный контейнер Rakow",
     "strDesc": "Прочное и надежное решение для хранения — умной контейнер Rakow оснащен цифровым кодовым замком.",
     "strItemDef": "ItmCrate01",
     "strType": "Item",
@@ -11026,8 +11026,8 @@
   },
   {
     "strName": "ItmCrate01Lock",
-    "strNameShort": "Crate",
-    "strNameFriendly": "(strNameFriendly in condowners) Умный контейнер Rakow (заблокирован)",
+    "strNameShort": "Ящик",
+    "strNameFriendly": "Умный контейнер Rakow (заблокирован)",
     "strDesc": "Прочное и надежное решение для хранения — умной контейнер Rakow оснащен цифровым кодовым замком.",
     "strItemDef": "ItmCrate01Lock",
     "strType": "Item",
@@ -11087,8 +11087,8 @@
   },
   {
     "strName": "ItmDataCard01",
-    "strNameShort": "(strNameShort in condowners) Картa данных",
-    "strNameFriendly": "(strNameFriendly in condowners) Карта данных Renbao R014",
+    "strNameShort": "Картa данных",
+    "strNameFriendly": "Карта данных Renbao R014",
     "strDesc": "Радиационно-стойкая карта памяти для хранения данных в космосе. Оснащена резервным NAND-массивом с EDAC и низким уровнем SEU в формате компактной карты с горячей заменой.",
     "strItemDef": "ItmDataCard01",
     "strType": "Item",
@@ -11142,7 +11142,7 @@
   {
     "strName": "ItmPDACart00",
     "strNameShort": "(strNameFriendly в условиях) Картридж КПК",
-    "strNameFriendly": "(strNameFriendly in condowners) Чистая карта Renbao",
+    "strNameFriendly": "Чистая карта Renbao",
     "strDesc": "Картридж расширения для КПК Renbao. Содержит специальное оборудование, предназначенное для добавления новых функций в КПК.",
     "strItemDef": "ItmPDACart00",
     "strType": "Item",
@@ -11191,8 +11191,8 @@
   },
   {
     "strName": "ItmHackingDataCard01",
-    "strNameShort": "(strNameShort in condowners) Картa данных",
-    "strNameFriendly": "(strNameFriendly in condowners) Карта данных для взлома",
+    "strNameShort": "Картa данных",
+    "strNameFriendly": "Карта данных для взлома",
     "strItemDef": "ItmHackingDataCard01",
     "strType": "Item",
     "strLoot": null,
@@ -11239,8 +11239,8 @@
   },
   {
     "strName": "ItmDecorPoster00",
-    "strNameShort": "Poster",
-    "strNameFriendly": "(strNameFriendly in condowners) Плакат: New Earth Ostracon",
+    "strNameShort": "Плакат",
+    "strNameFriendly": "Плакат: New Earth Ostracon",
     "strDesc": "Загадочный плакат, на обратной стороне которого нацарапаны лишь слова \"New Earth Ostracon\".",
     "strItemDef": "ItmDecorPoster00",
     "strType": "Item",
@@ -11285,8 +11285,8 @@
   },
   {
     "strName": "ItmDecorPoster00Loose",
-    "strNameShort": "Poster",
-    "strNameFriendly": "(strNameFriendly in condowners) Плакат: New Earth Ostracon (отсоединён)",
+    "strNameShort": "Плакат",
+    "strNameFriendly": "Плакат: New Earth Ostracon (отсоединён)",
     "strDesc": "Загадочный плакат, на обратной стороне которого нацарапаны лишь слова \"New Earth Ostracon\".",
     "strItemDef": "ItmDecorPoster00Loose",
     "strType": "Item",
@@ -11343,8 +11343,8 @@
   },
   {
     "strName": "ItmDecorPoster01",
-    "strNameShort": "Poster",
-    "strNameFriendly": "(strNameFriendly in condowners) Плакат: Grande Prêmio do Encantado",
+    "strNameShort": "Плакат",
+    "strNameFriendly": "Плакат: Grande Prêmio do Encantado",
     "strDesc": "Плакат гонок в облаках, воспевающий величайшее ежегодное соревнование в опасном и истинно венерианском виде спорта, от которого замирают сердца многих, кто не может себе представить ни атмосферы, ни тем более гонок среди прекрасных облаков.",
     "strItemDef": "ItmDecorPoster01",
     "strType": "Item",
@@ -11389,8 +11389,8 @@
   },
   {
     "strName": "ItmDecorPoster01Loose",
-    "strNameShort": "Poster",
-    "strNameFriendly": "(strNameFriendly in condowners) Плакат: Grande Prêmio do Encantado (отсоединён)",
+    "strNameShort": "Плакат",
+    "strNameFriendly": "Плакат: Grande Prêmio do Encantado (отсоединён)",
     "strDesc": "Плакат гонок в облаках, воспевающий величайшее ежегодное соревнование в опасном и истинно венерианском виде спорта, от которого замирают сердца многих, кто не может себе представить ни атмосферы, ни тем более гонок среди прекрасных облаков.",
     "strItemDef": "ItmDecorPoster01Loose",
     "strType": "Item",
@@ -11667,8 +11667,8 @@
   },
   {
     "strName": "ItmDockSys02Closed",
-    "strNameShort": "(strNameShort in condowners) Основной шлюз",
-    "strNameFriendly": "(strNameFriendly in condowners) Основной внешний шлюз (закрыт)",
+    "strNameShort": "Основной шлюз",
+    "strNameFriendly": "Основной внешний шлюз (закрыт)",
     "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys02Closed",
     "strType": "Item",
@@ -11705,8 +11705,8 @@
   },
   {
     "strName": "ItmDockSys02Open",
-    "strNameShort": "(strNameShort in condowners) Основной шлюз",
-    "strNameFriendly": "(strNameFriendly in condowners) Основной внешний шлюз (открыт)",
+    "strNameShort": "Основной шлюз",
+    "strNameFriendly": "Основной внешний шлюз (открыт)",
     "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys02Open",
     "strType": "Item",
@@ -11751,9 +11751,9 @@
   },
   {
     "strName": "ItmDocumentOgiso01",
-    "strNameShort": "Poster",
-    "strNameFriendly": "(strNameFriendly in condowners) Плакат: Техника безопасности",
-    "strDesc": "(strDesc in condowners) Плакат по технике безопасности от Ogiso's Register.",
+    "strNameShort": "Плакат",
+    "strNameFriendly": "Плакат: Техника безопасности",
+    "strDesc": "Плакат по технике безопасности от Ogiso's Register.",
     "strItemDef": "ItmPoster01",
     "strType": "Item",
     "strLoot": null,
@@ -11790,9 +11790,9 @@
   },
   {
     "strName": "ItmDocumentOgiso01Loose",
-    "strNameShort": "Poster",
-    "strNameFriendly": "(strNameFriendly in condowners) Плакат: Техника безопасности (отсоединён)",
-    "strDesc": "(strDesc in condowners) Плакат по технике безопасности от Ogiso's Register.",
+    "strNameShort": "Плакат",
+    "strNameFriendly": "Плакат: Техника безопасности (отсоединён)",
+    "strDesc": "Плакат по технике безопасности от Ogiso's Register.",
     "strItemDef": "ItmPaper01Loose",
     "strType": "Item",
     "strLoot": null,
@@ -11846,7 +11846,7 @@
   },
   {
     "strName": "ItmDocumentPermitOKLG01",
-    "strNameShort": "Permit",
+    "strNameShort": "Разрешение",
     "strNameFriendly": "Разрешение: Желтое разрешение на сбор лома Ayotimiwa",
     "strDesc": "Разрешение на утилизацию судов низшего уровня (24 часа) от Ayotimiwa Ship Breaking Co. Действующее разрешение позволяет мусорщикам утилизировать брошенные суда на свалке OKLG без вмешательства со стороны службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02Loose",
@@ -11902,7 +11902,7 @@
   },
   {
     "strName": "ItmDocumentPermitOKLG01b",
-    "strNameShort": "Permit",
+    "strNameShort": "Разрешение",
     "strNameFriendly": "Разрешение: Красное разрешение на сбор лома Ayotimiwa",
     "strDesc": "Разрешение на утилизацию судов базового уровня (72 часа) от Ayotimiwa Ship Breaking Co. Действующее разрешение позволяет мусорщикам утилизировать брошенные суда на свалке OKLG без вмешательства со стороны службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02bLoose",
@@ -11958,7 +11958,7 @@
   },
   {
     "strName": "ItmDocumentPermitOKLG01c",
-    "strNameShort": "Permit",
+    "strNameShort": "Разрешение",
     "strNameFriendly": "Разрешение: Синее разрешение на сбор лома Ayotimiwa",
     "strDesc": "Разрешение на утилизацию судов среднего уровня (7 дней) от Ayotimiwa Ship Breaking Co. Действующее разрешение позволяет мусорщикам утилизировать брошенные суда на свалке OKLG без вмешательства со стороны службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02cLoose",
@@ -12014,7 +12014,7 @@
   },
   {
     "strName": "ItmDocumentPermitOKLG01d",
-    "strNameShort": "Permit",
+    "strNameShort": "Разрешение",
     "strNameFriendly": "Разрешение: Серебряное разрешение на сбор лома Ayotimiwa",
     "strDesc": "Разрешение на утилизацию судов высокого уровня (30 дней) от Ayotimiwa Ship Breaking Co. Действующее разрешение позволяет мусорщикам утилизировать брошенные суда на свалке OKLG без вмешательства со стороны службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02dLoose",
@@ -12070,7 +12070,7 @@
   },
   {
     "strName": "ItmDocumentPermitOKLG01e",
-    "strNameShort": "Permit",
+    "strNameShort": "Разрешение",
     "strNameFriendly": "Разрешение: Черное разрешение на сбор лома Ayotimiwa",
     "strDesc": "Разрешение на утилизацию судов премиум-уровня (300 дней) от Ayotimiwa Ship Breaking Co. Действующее разрешение позволяет мусорщикам утилизировать брошенные суда на свалке OKLG без вмешательства со стороны службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02eLoose",
@@ -12126,8 +12126,8 @@
   },
   {
     "strName": "ItmDocumentWhodunnit01",
-    "strNameShort": "(strNameShort in condowners) Материалы дела",
-    "strNameFriendly": "(strNameFriendly in condowners) Материалы дела: Расследование смерти",
+    "strNameShort": "Материалы дела",
+    "strNameFriendly": "Материалы дела: Расследование смерти",
     "strDesc": "Записи по делу о смерти, которое вы расследуете. Наличие этого предмета в инвентаре открывает доступ к действиям, связанным с делом.",
     "strItemDef": "ItmDocumentWhodunnit01",
     "strType": "Item",
@@ -12171,8 +12171,8 @@
   },
   {
     "strName": "ItmDolly01",
-    "strNameShort": "Dolly",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовая тележка Testudo «SuperHandy»",
+    "strNameShort": "Тележка",
+    "strNameFriendly": "Грузовая тележка Testudo «SuperHandy»",
     "strDesc": "Незаменима для любой эффективной операции по утилизации — эта тележка способна вместить крупные, громоздкие предметы и легко их транспортировать.",
     "strItemDef": "ItmDolly01Empty",
     "strType": "Item",
@@ -12222,8 +12222,8 @@
   },
   {
     "strName": "ItmDolly01Dmg",
-    "strNameShort": "Dolly",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовая тележка Testudo «SuperHandy» (повреждена)",
+    "strNameShort": "Тележка",
+    "strNameFriendly": "Грузовая тележка Testudo «SuperHandy» (повреждена)",
     "strDesc": "Незаменима для любой эффективной операции по утилизации — эта тележка способна вместить крупные, громоздкие предметы и легко их транспортировать.",
     "strItemDef": "ItmDolly01EmptyDmg",
     "strType": "Item",
@@ -12272,8 +12272,8 @@
   },
   {
     "strName": "ItmDolly02",
-    "strNameShort": "(strNameShort in condowners) Погрузочная тележка",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовая тележка Testudo «HyperHandy»",
+    "strNameShort": "Погрузочная тележка",
+    "strNameFriendly": "Грузовая тележка Testudo «HyperHandy»",
     "strDesc": "Лучший в своём классе инструмент для максимально эффективной операции по утилизации — эта тележка способна вместить крупные, громоздкие и даже негабаритные предметы и легко их транспортировать.",
     "strItemDef": "ItmDolly02Empty",
     "strType": "Item",
@@ -12324,8 +12324,8 @@
   },
   {
     "strName": "ItmDolly02Dmg",
-    "strNameShort": "(strNameShort in condowners) Погрузочная тележка",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовая тележка Testudo «HyperHandy» (повреждена)",
+    "strNameShort": "Погрузочная тележка",
+    "strNameFriendly": "Грузовая тележка Testudo «HyperHandy» (повреждена)",
     "strDesc": "Лучший в своём классе инструмент для максимально эффективной операции по утилизации — эта тележка способна вместить крупные, громоздкие и даже негабаритные предметы и легко их транспортировать.",
     "strItemDef": "ItmDolly02EmptyDmg",
     "strType": "Item",
@@ -12375,7 +12375,7 @@
   },
   {
     "strName": "ItmDoor01Closed",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Закрыта, Выключена)",
     "strItemDef": "ItmDoor01Closed",
     "strType": "Item",
@@ -12435,7 +12435,7 @@
   },
   {
     "strName": "ItmDoor01ClosedLocked",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Закрыта, Выключена, Заблокирована)",
     "strItemDef": "ItmDoor01Closed",
     "strType": "Item",
@@ -12495,7 +12495,7 @@
   },
   {
     "strName": "ItmDoor01ClosedOn",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Закрыта)",
     "strItemDef": "ItmDoor01ClosedOn",
     "strType": "Item",
@@ -12555,7 +12555,7 @@
   },
   {
     "strName": "ItmDoor01ClosedOnLocked",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Закрыта, Заблокирована)",
     "strItemDef": "ItmDoor01ClosedOnLocked",
     "strType": "Item",
@@ -12616,7 +12616,7 @@
   },
   {
     "strName": "ItmDoor01ClosedLoose",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Закрыта, Не закреплена)",
     "strItemDef": "ItmDoor01ClosedLoose",
     "strType": "Item",
@@ -12657,7 +12657,7 @@
   },
   {
     "strName": "ItmDoor01Open",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Открыта, Выключена)",
     "strItemDef": "ItmDoor01Open",
     "strType": "Item",
@@ -12717,7 +12717,7 @@
   },
   {
     "strName": "ItmDoor01OpenLocked",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Открыта, Заблокирована, Выключена)",
     "strItemDef": "ItmDoor01Open",
     "strType": "Item",
@@ -12780,7 +12780,7 @@
   },
   {
     "strName": "ItmDoor01OpenOn",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Открыта)",
     "strItemDef": "ItmDoor01OpenOn",
     "strType": "Item",
@@ -12845,7 +12845,7 @@
   },
   {
     "strName": "ItmDoor01OpenOnLocked",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Открыта, Заблокирована)",
     "strItemDef": "ItmDoor01OpenOnLocked",
     "strType": "Item",
@@ -12907,7 +12907,7 @@
   },
   {
     "strName": "ItmDoor01ClosedDmg",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Закрыта, Повреждена)",
     "strItemDef": "ItmDoor01ClosedDmg",
     "strType": "Item",
@@ -12958,7 +12958,7 @@
   },
   {
     "strName": "ItmDoor01ClosedDmgLoose",
-    "strNameShort": "Door",
+    "strNameShort": "Дверь",
     "strNameFriendly": "Дверь (Не закреплена, Повреждена)",
     "strItemDef": "ItmDoor01ClosedDmgLoose",
     "strType": "Item",
@@ -12999,8 +12999,8 @@
   },
   {
     "strName": "ItmDoor02Closed",
-    "strNameShort": "(strNameShort in condowners) Зона запуска",
-    "strNameFriendly": "(strNameShort in condowners) Зона запуска",
+    "strNameShort": "Зона запуска",
+    "strNameFriendly": "Зона запуска",
     "strItemDef": "ItmDoor02Closed",
     "strType": "Item",
     "strLoot": null,
@@ -13036,8 +13036,8 @@
   },
   {
     "strName": "ItmDoor03Transit",
-    "strNameShort": "(strNameShort in condowners) Транзитный лифт",
-    "strNameFriendly": "(strNameFriendly in condowners) Транзитный лифт (внизу)",
+    "strNameShort": "Транзитный лифт",
+    "strNameFriendly": "Транзитный лифт (внизу)",
     "strItemDef": "ItmDoor01ClosedOn",
     "strType": "Item",
     "strLoot": null,
@@ -13203,7 +13203,7 @@
   },
   {
     "strName": "ItmDrinkBottle01",
-    "strNameShort": "Bottle",
+    "strNameShort": "Бутылка",
     "strNameFriendly": "Бутылка водки «Bismertnaya»",
     "strDesc": "Водка марки Bismertnaya, созданная нефтяной компанией Soyuzneft. Эта пшеничная водка была создана в 2024 году, когда Soyuzneft начала поставлять её в Вооружённые силы России.",
     "strItemDef": "ItmDrinkBottle01Empty",
@@ -13275,7 +13275,7 @@
   },
   {
     "strName": "ItmDrinkBottle01Dmg",
-    "strNameShort": "Bottle",
+    "strNameShort": "Бутылка",
     "strNameFriendly": "Разбитая бутылка",
     "strDesc": "Когда-то — сосуд для жидкой смелости, а ныне — импровизированное лезвие с вполне сносной рукоятью.",
     "strItemDef": "ItmDrinkBottle01Dmg",
@@ -13323,7 +13323,7 @@
   },
   {
     "strName": "ItmDrinkBottle02",
-    "strNameShort": "Bottle",
+    "strNameShort": "Бутылка",
     "strNameFriendly": "Бутылка рисового вина «Label 99»",
     "strDesc": "Один из разнообразных продуктов Testudo Corp. — это ароматное рисовое вино, своего рода местная шутка среди первопроходцев-судоразборщиков.",
     "strItemDef": "ItmDrinkBottle02Empty",
@@ -13395,7 +13395,7 @@
   },
   {
     "strName": "ItmDrinkFlask01",
-    "strNameShort": "Flask",
+    "strNameShort": "Фляга",
     "strNameFriendly": "Фляга (4 л)",
     "strDesc": "Универсальная металлическая фляга для жидкостей серии «Oasis» от Testudo Corp., вмещающая до 4 л. Разработана для розлива в условиях микрогравитации и вакуума с использованием сжимающегося внутреннего резервуара, предотвращающего смешивание содержимого с возвратным воздухом.",
     "strItemDef": "ItmDrinkFlask01",
@@ -13454,7 +13454,7 @@
   },
   {
     "strName": "ItmDrinkFlask02",
-    "strNameShort": "Flask",
+    "strNameShort": "Фляга",
     "strNameFriendly": "Фляга (8 л)",
     "strDesc": "Универсальная металлическая фляга для жидкостей серии «Oasis» от Testudo Corp., вмещающая до 8 л. Разработана для розлива в условиях микрогравитации и вакуума с использованием сжимающегося внутреннего резервуара, предотвращающего смешивание содержимого с возвратным воздухом.",
     "strItemDef": "ItmDrinkFlask02",
@@ -13514,7 +13514,7 @@
   },
   {
     "strName": "ItmDrinkPouch01",
-    "strNameShort": "Pouch",
+    "strNameShort": "Кобура",
     "strNameFriendly": "Пакет для напитков",
     "strDesc": "Пакетик с напитком для восполнения жидкости у страдающих от жажды космонавтов на ходу. Для достижения наилучшего результата Future Foods рекомендует употреблять в неподвижном состоянии.",
     "strItemDef": "ItmDrinkPouch01Empty",
@@ -13590,7 +13590,7 @@
   },
   {
     "strName": "ItmDroneDecoy01",
-    "strNameShort": "Decoy",
+    "strNameShort": "Приманка",
     "strNameFriendly": "Дрон-приманка «Rave»",
     "strDesc": "Одноразовое электронное устройство от Smartlink. После активации излучает сигналы, имитирующие паттерны поведения, на которые дроны обычно натренированы реагировать. Работает всего минуту-две.",
     "strItemDef": "ItmDroneDecoy01",
@@ -13827,7 +13827,7 @@
   },
   {
     "strName": "ItmFloorGrate01",
-    "strNameShort": "Floor",
+    "strNameShort": "Пол",
     "strNameFriendly": "Floor",
     "strItemDef": "ItmFloorGrate01",
     "strType": "Item",
@@ -13861,7 +13861,7 @@
   },
   {
     "strName": "ItmFloorGrate01Loose",
-    "strNameShort": "Floor",
+    "strNameShort": "Пол",
     "strNameFriendly": "Пол (откреплён)",
     "strItemDef": "ItmFloorGrate01Loose",
     "strType": "Item",
@@ -13907,7 +13907,7 @@
   },
   {
     "strName": "ItmFloorGrate01Dmg",
-    "strNameShort": "Floor",
+    "strNameShort": "Пол",
     "strNameFriendly": "Пол (повреждён)",
     "strItemDef": "ItmFloorGrate01Dmg",
     "strType": "Item",
@@ -13946,7 +13946,7 @@
   },
   {
     "strName": "ItmFloorGrate01Patch",
-    "strNameShort": "Floor",
+    "strNameShort": "Пол",
     "strNameFriendly": "Пол (заплатка)",
     "strItemDef": "ItmFloorGrate01Patch",
     "strType": "Item",
@@ -13979,7 +13979,7 @@
   },
   {
     "strName": "ItmFloorGrate02",
-    "strNameShort": "Floor",
+    "strNameShort": "Пол",
     "strNameFriendly": "Полированный реголитовый пол",
     "strItemDef": "ItmFloorGrate02",
     "strType": "Item",
@@ -14010,7 +14010,7 @@
   },
   {
     "strName": "ItmFloorGrate03",
-    "strNameShort": "Floor",
+    "strNameShort": "Пол",
     "strNameFriendly": "Плиточный пол",
     "strItemDef": "ItmFloorGrate03",
     "strType": "Item",
@@ -14041,7 +14041,7 @@
   },
   {
     "strName": "ItmFloorGrate4x401",
-    "strNameShort": "Turbine",
+    "strNameShort": "Турбина",
     "strNameFriendly": "Турбинный подъёмник",
     "strItemDef": "ItmFloorGrate4x401",
     "strType": "Item",
@@ -14075,7 +14075,7 @@
   },
   {
     "strName": "ItmFloorGrate4x401Loose",
-    "strNameShort": "Turbine",
+    "strNameShort": "Турбина",
     "strNameFriendly": "Турбинный подъёмник (откреплён)",
     "strItemDef": "ItmFloorGrate4x401Loose",
     "strType": "Item",
@@ -14105,7 +14105,7 @@
   },
   {
     "strName": "ItmFloorLabelAirlock01",
-    "strNameShort": "Sign",
+    "strNameShort": "Знак",
     "strNameFriendly": "Указатель: «Шлюз»",
     "strItemDef": "ItmFloorLabelAirlock01",
     "strType": "Item",
@@ -14130,7 +14130,7 @@
   },
   {
     "strName": "ItmFloorLabelArrow01",
-    "strNameShort": "Sign",
+    "strNameShort": "Знак",
     "strNameFriendly": "Указатель: Стрелка",
     "strItemDef": "ItmFloorLabelArrow01",
     "strType": "Item",
@@ -14155,7 +14155,7 @@
   },
   {
     "strName": "ItmFloorLabelLoading",
-    "strNameShort": "Sign",
+    "strNameShort": "Знак",
     "strNameFriendly": "Указатель: «Погрузка»",
     "strItemDef": "ItmFloorLabelLoading",
     "strType": "Item",
@@ -14578,7 +14578,7 @@
   },
   {
     "strName": "ItmTrencherAcceptableAlgae",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherAcceptableAlgae",
     "strDesc": "Сухпаёк Trencher (tm) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биотвёрдый материал, который технически столь же съедобен, как и содержимое. «Trencher: Радость от еды... заменённая необходимостью поддержания жизнедеятельности».",
     "strNameFriendly": "Еда: Trenchers — Приемлемые водоросли",
@@ -14627,7 +14627,7 @@
   },
   {
     "strName": "ItmTrencherChipotlePorkCheeseSpread",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherChipotlePorkCheeseSpread",
     "strDesc": "Сухпаёк Trencher (tm) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биотвёрдый материал, который технически столь же съедобен, как и содержимое. «Trencher: Радость от еды... заменённая необходимостью поддержания жизнедеятельности».",
     "strNameFriendly": "Еда: Trenchers — Свинина чипотле с сырным соусом",
@@ -14676,7 +14676,7 @@
   },
   {
     "strName": "ItmTrencherKungPaoChicken",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherKungPaoChicken",
     "strDesc": "Сухпаёк Trencher (тм) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биоматериал, который технически столь же съедобен, как и содержимое.",
     "strNameFriendly": "Еда: Trenchers — Курица Кунг Пао",
@@ -14728,7 +14728,7 @@
   },
   {
     "strName": "ItmTrencherMysteryMeatInSurpriseSauce",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherMysteryMeatInSurpriseSauce",
     "strDesc": "Сухпаёк Trencher (тм) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биоматериал, который технически столь же съедобен, как и содержимое.",
     "strNameFriendly": "Еда: Trenchers — Мясо-сюрприз в загадочном соусе",
@@ -14780,7 +14780,7 @@
   },
   {
     "strName": "ItmTrencherNachoFiesta",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherNachoFiesta",
     "strDesc": "Сухпаёк Trencher (тм) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биоматериал, который технически столь же съедобен, как и содержимое.",
     "strNameFriendly": "Еда: Trenchers — Начос Фиеста",
@@ -14829,7 +14829,7 @@
   },
   {
     "strName": "ItmTrencherPizzaPouch",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherPizzaPouch",
     "strDesc": "Сухпаёк Trencher (tm) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биотвёрдый материал, который технически столь же съедобен, как и содержимое. «Trencher: Почти слишком просто».",
     "strNameFriendly": "Еда: Trenchers — Пицца-пакет",
@@ -14878,7 +14878,7 @@
   },
   {
     "strName": "ItmTrencherSpicyBuffaloWings",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherSpicyBuffaloWings",
     "strDesc": "Транчер (тм) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биотвёрдый материал, который технически так же съедобен, как и содержимое. «Транчеры: радость от еды... заменённая необходимостью поддержания жизнедеятельности».",
     "strNameFriendly": "Еда: Trenchers — Острые куриные крылышки «Баффало» с соусом «Ранч»",
@@ -14927,7 +14927,7 @@
   },
   {
     "strName": "ItmTrencherSweetPotatoCakeGardenSalad",
-    "strNameShort": "Trenchers",
+    "strNameShort": "Промоины",
     "strItemDef": "ItmTrencherSweetPotatoCakeGardenSalad",
     "strDesc": "Транчер (тм) от Future Foods — космическая еда, известная своим долгим сроком хранения и уникальным вкусом. Упаковка представляет собой биотвёрдый материал, который технически так же съедобен, как и содержимое. «Транчеры: радость от еды... заменённая необходимостью поддержания жизнедеятельности».",
     "strNameFriendly": "Еда: Trenchers — Пирог из батата и садовый салат",
@@ -14976,7 +14976,7 @@
   },
   {
     "strName": "ItmFridge01",
-    "strNameShort": "Fridge",
+    "strNameShort": "Холодильник",
     "strItemDef": "ItmFridge01",
     "strNameFriendly": "Fridge",
     "strDesc": "Холодильник способен хранить еду и другие скоропортящиеся продукты при низкой температуре. Когда он полон — это любимый элемент корабельного камбуза.",
@@ -15018,7 +15018,7 @@
   },
   {
     "strName": "ItmFridge01Loose",
-    "strNameShort": "Fridge",
+    "strNameShort": "Холодильник",
     "strItemDef": "ItmFridge01Loose",
     "strNameFriendly": "Холодильник (откреплён)",
     "strDesc": "Холодильник способен хранить еду и другие скоропортящиеся продукты при низкой температуре. Когда он полон — это любимый элемент корабельного камбуза.",
@@ -15061,7 +15061,7 @@
   },
   {
     "strName": "ItmFridge01Dmg",
-    "strNameShort": "Fridge",
+    "strNameShort": "Холодильник",
     "strItemDef": "ItmFridge01Dmg",
     "strNameFriendly": "Холодильник (повреждён)",
     "strDesc": "Холодильник способен хранить еду и другие скоропортящиеся продукты при низкой температуре. Когда он полон — это любимый элемент корабельного камбуза.",
@@ -15103,7 +15103,7 @@
   },
   {
     "strName": "ItmFridge01DmgLoose",
-    "strNameShort": "Fridge",
+    "strNameShort": "Холодильник",
     "strItemDef": "ItmFridge01DmgLoose",
     "strNameFriendly": "Холодильник (откреплён, повреждён)",
     "strDesc": "Холодильник способен хранить еду и другие скоропортящиеся продукты при низкой температуре. Когда он полон — это любимый элемент корабельного камбуза.",
@@ -15570,7 +15570,7 @@
   },
   {
     "strName": "ItmHeater01Off",
-    "strNameShort": "Heater",
+    "strNameShort": "Обогреватель",
     "strNameFriendly": "Обогреватель (Выключен)",
     "strDesc": "Отопительный прибор производства Sokol. Преобразует электричество в тепловую энергию, излучаемую в каюту. Безопасная температура в каюте составляет от 290 до 300 градусов Кельвина. Может быть подключён к термостату.",
     "strItemDef": "ItmHeater01Off",
@@ -15620,7 +15620,7 @@
   },
   {
     "strName": "ItmHeater01OffLoose",
-    "strNameShort": "Heater",
+    "strNameShort": "Обогреватель",
     "strItemDef": "ItmHeater01OffLoose",
     "strDesc": "Отопительный прибор производства Sokol. Преобразует электричество в тепловую энергию, излучаемую в каюту. Безопасная температура в каюте составляет от 290 до 300 градусов Кельвина. Может быть подключён к термостату.",
     "strNameFriendly": "Обогреватель (Расшатан)",
@@ -15662,7 +15662,7 @@
   },
   {
     "strName": "ItmHeater01",
-    "strNameShort": "Heater",
+    "strNameShort": "Обогреватель",
     "strNameFriendly": "Heater",
     "strItemDef": "ItmHeater01",
     "strDesc": "Отопительный прибор производства Sokol. Преобразует электричество в тепловую энергию, излучаемую в каюту. Безопасная температура в каюте составляет от 290 до 300 градусов Кельвина. Может быть подключён к термостату.",
@@ -15717,7 +15717,7 @@
   },
   {
     "strName": "ItmHeater01Dmg",
-    "strNameShort": "Heater",
+    "strNameShort": "Обогреватель",
     "strNameFriendly": "Обогреватель (Повреждён)",
     "strDesc": "Отопительный прибор производства Sokol. Преобразует электричество в тепловую энергию, излучаемую в каюту. Безопасная температура в каюте составляет от 290 до 300 градусов Кельвина. Может быть подключён к термостату.",
     "strItemDef": "ItmHeater01Dmg",
@@ -15762,7 +15762,7 @@
   },
   {
     "strName": "ItmHeater01DmgLoose",
-    "strNameShort": "Heater",
+    "strNameShort": "Обогреватель",
     "strItemDef": "ItmHeater01DmgLoose",
     "strNameFriendly": "Обогреватель (Расшатан, Повреждён)",
     "strDesc": "Отопительный прибор производства Sokol. Преобразует электричество в тепловую энергию, излучаемую в каюту. Безопасная температура в каюте составляет от 290 до 300 градусов Кельвина. Может быть подключён к термостату.",
@@ -16109,7 +16109,7 @@
   },
   {
     "strName": "ItmJukebox01",
-    "strNameShort": "Jukebox",
+    "strNameShort": "Музыкальный автомат",
     "strNameFriendly": "Музыкальный автомат Beydat «Rock-It» (Забегаловка)",
     "strItemDef": "ItmJukebox01",
     "strType": "Item",
@@ -16158,7 +16158,7 @@
   },
   {
     "strName": "ItmJukebox01b",
-    "strNameShort": "Jukebox",
+    "strNameShort": "Музыкальный автомат",
     "strNameFriendly": "Музыкальный автомат Beydat «Rock-It» (Техно)",
     "strItemDef": "ItmJukebox01",
     "strType": "Item",
@@ -16207,7 +16207,7 @@
   },
   {
     "strName": "ItmJukebox01c",
-    "strNameShort": "Jukebox",
+    "strNameShort": "Музыкальный автомат",
     "strNameFriendly": "Музыкальный автомат Beydat «Rock-It» (Премиум)",
     "strItemDef": "ItmJukebox01",
     "strType": "Item",
@@ -16256,7 +16256,7 @@
   },
   {
     "strName": "ItmJukebox01None",
-    "strNameShort": "Jukebox",
+    "strNameShort": "Музыкальный автомат",
     "strNameFriendly": "Музыкальный автомат Beydat «Rock-It» (Ожидание)",
     "strItemDef": "ItmJukebox01",
     "strType": "Item",
@@ -16305,7 +16305,7 @@
   },
   {
     "strName": "ItmJukebox01Off",
-    "strNameShort": "Jukebox",
+    "strNameShort": "Музыкальный автомат",
     "strNameFriendly": "Музыкальный автомат Beydat «Rock-It» (Выключен)",
     "strItemDef": "ItmJukebox01Off",
     "strType": "Item",
@@ -16348,7 +16348,7 @@
   },
   {
     "strName": "ItmJukebox01Loose",
-    "strNameShort": "Jukebox",
+    "strNameShort": "Музыкальный автомат",
     "strNameFriendly": "Музыкальный автомат Beydat «Rock-It» (Расшатан)",
     "strDesc": "Аналоговый музыкальный автомат в герметичном корпусе, выпущенный с пятью предустановленными треками и возможностью расширения (только сертифицированными техниками Beydat). Работают только три трека: два других воспроизводят либо тишину с монотонным метрономным тиканьем, либо болезненное шипение с периодическими слабыми отголосками далёких и, возможно, нечеловеческих слов.",
     "strItemDef": "ItmJukebox01Loose",
@@ -17297,7 +17297,7 @@
   },
   {
     "strName": "ItmKioskTransit01",
-    "strNameShort": "Transit",
+    "strNameShort": "Транзит",
     "strNameFriendly": "Транзитный киоск",
     "strDesc": "Принадлежит и управляется местной корпорацией для нужд шумной колонии. Этот терминал обеспечивает неограниченный бесплатный доступ ко всем подключённым локациям, доступным в данный момент.",
     "strItemDef": "ItmKioskTransit01",
@@ -17332,7 +17332,7 @@
   },
   {
     "strName": "ItmKioskTransit02",
-    "strNameShort": "Transit",
+    "strNameShort": "Транзит",
     "strNameFriendly": "Транзитный киоск",
     "strDesc": "Принадлежит и управляется местной корпорацией для нужд шумной колонии. Этот терминал обеспечивает неограниченный бесплатный доступ ко всем подключённым локациям, доступным в данный момент.",
     "strItemDef": "ItmKioskTransit02",
@@ -17367,8 +17367,8 @@
   },
   {
     "strName": "ItmKioskTransit03",
-    "strNameShort": "Transit",
-    "strNameFriendly": "(strNameFriendly in condowners) Транзитный лифт (внизу)",
+    "strNameShort": "Транзит",
+    "strNameFriendly": "Транзитный лифт (внизу)",
     "strDesc": "Принадлежит и управляется местной корпорацией для нужд шумной колонии. Этот терминал обеспечивает неограниченный бесплатный доступ ко всем подключённым локациям, доступным в данный момент.",
     "strItemDef": "ItmKioskTransit02",
     "strType": "Item",
@@ -17403,7 +17403,7 @@
   },
   {
     "strName": "ItmKioskTransit03b",
-    "strNameShort": "Transit",
+    "strNameShort": "Транзит",
     "strNameFriendly": "Транзитный лифт (Вверх)",
     "strDesc": "Принадлежит и управляется местной корпорацией для нужд шумной колонии. Этот терминал обеспечивает неограниченный бесплатный доступ ко всем подключённым локациям, доступным в данный момент.",
     "strItemDef": "ItmKioskTransit02",
@@ -17558,7 +17558,7 @@
   },
   {
     "strName": "ItmLeggings01",
-    "strNameShort": "Leggings",
+    "strNameShort": "Лосины",
     "strItemDef": "ItmLeggings01",
     "strDesc": "Лёгкие облегающие компрессионные штаны, которые можно носить под скафандром. Базовый элемент экипировки для тех, кто ожидает высоких перегрузок. Эта модель обеспечивает лёгкую защиту от K-LEG и переутомления, предотвращая скопление крови в нижних конечностях при высоких перегрузках.",
     "strNameFriendly": "Компрессионные леггинсы: Желтые",
@@ -17615,7 +17615,7 @@
   },
   {
     "strName": "ItmLeggings02",
-    "strNameShort": "Leggings",
+    "strNameShort": "Лосины",
     "strItemDef": "ItmLeggings02",
     "strDesc": "Лёгкие облегающие штаны, которые можно носить под скафандром. Неотъемлемая часть гардероба космонавта. Эта модель оснащена небольшим карманом и выразительным дизайном (но не предоставляет защиты от перегрузок).",
     "strNameFriendly": "Леггинсы: Принт «Галактика»",
@@ -21082,7 +21082,7 @@
   },
   {
     "strName": "ItmComponentMotor01",
-    "strNameShort": "Motor",
+    "strNameShort": "Мотор",
     "strNameFriendly": "Компонент: мотор",
     "strDesc": "Эти асинхронные двигатели с частотным регулированием обычно используются для ремонта повреждённого оборудования. Они имеют стандартизованный шаблон крепления, отлитый как неотъемлемая часть корпуса двигателя.",
     "strItemDef": "ItmComponentMotor01",
@@ -21164,7 +21164,7 @@
   },
   {
     "strName": "ItmComponentMobo01",
-    "strNameShort": "Motherboard",
+    "strNameShort": "Материнская плата",
     "strNameFriendly": "Компонент: материнская плата",
     "strDesc": "Печатная плата, используемая в компьютерах и других устройствах, требующих более сложной логической схемы. Хотя между производителями существуют различия, почти все материнские платы поставляются со стандартным набором интегрированной периферии для управления обработкой данных, вводом-выводом и другими функциями, и соответствуют отраслевому стандарту форм-фактора.",
     "strItemDef": "ItmComponentMobo01",
@@ -21413,7 +21413,7 @@
   },
   {
     "strName": "ItmPants01",
-    "strNameShort": "Jeans",
+    "strNameShort": "Джинсы",
     "strItemDef": "ItmPants01",
     "strDesc": "Когда-то неизменный атрибут рабочего, а позже — базовый элемент повседневной одежды, эти джинсовые брюки теперь своего рода предмет роскоши вдали от Земли.",
     "strNameFriendly": "Штаны: синие джинсы",
@@ -21487,7 +21487,7 @@
   },
   {
     "strName": "ItmPantsCargo01",
-    "strNameShort": "Pants",
+    "strNameShort": "Штаны",
     "strItemDef": "ItmPantsCargo01",
     "strDesc": "Просторные брюки с дополнительными карманами.",
     "strNameFriendly": "Брюки-карго: Темно-синие",
@@ -21571,7 +21571,7 @@
   },
   {
     "strName": "ItmPantsCargoStrapped01",
-    "strNameShort": "Pants",
+    "strNameShort": "Штаны",
     "strItemDef": "ItmPantsCargoStrapped01",
     "strDesc": "Просторные штаны с дополнительными карманами и крепёжными ремнями.",
     "strNameFriendly": "Штаны с обвесом: Подсолнечные",
@@ -21743,8 +21743,8 @@
   },
   {
     "strName": "ItmPartsScreen01",
-    "strNameShort": "Screen",
-    "strNameFriendly": "(strNameFriendly in condowners) Запасной экран",
+    "strNameShort": "Экран",
+    "strNameFriendly": "Запасной экран",
     "strDesc": "Дисплейный экран, используемый для ремонта повреждённого оборудования. Разработан с термостойкостью и высоким светопропусканием для применения в космических условиях.",
     "strItemDef": "ItmPartsScreen01",
     "strType": "Item",
@@ -21786,8 +21786,8 @@
   },
   {
     "strName": "ItmPillAntibiotic01",
-    "strNameShort": "Pill",
-    "strNameFriendly": "(strNameFriendly in condowners) Таблетка: Антибиотик Van Buren «Амоксициллин»",
+    "strNameShort": "Таблетка",
+    "strNameFriendly": "Таблетка: Антибиотик Van Buren «Амоксициллин»",
     "strItemDef": "ItmPill04",
     "strType": "Item",
     "strLoot": null,
@@ -21835,8 +21835,8 @@
   },
   {
     "strName": "ItmPillAntiNausea01",
-    "strNameShort": "Pill",
-    "strNameFriendly": "(strNameFriendly in condowners) Таблетка: Van Buren «Nausaway» от тошноты",
+    "strNameShort": "Таблетка",
+    "strNameFriendly": "Таблетка: Van Buren «Nausaway» от тошноты",
     "strItemDef": "ItmPill01",
     "strType": "Item",
     "strLoot": null,
@@ -21884,9 +21884,9 @@
   },
   {
     "strName": "ItmPillBottle01",
-    "strNameShort": "(strNameShort in condowners) Флакон для таблеток",
-    "strNameFriendly": "(strNameFriendly in condowners) Флакон: Обезболивающие PharmaCon «Cavilo»",
-    "strDesc": "(strDesc in condowners) Распространённое безрецептурное обезболивающее в форме таблеток.",
+    "strNameShort": "Флакон для таблеток",
+    "strNameFriendly": "Флакон: Обезболивающие PharmaCon «Cavilo»",
+    "strDesc": "Распространённое безрецептурное обезболивающее в форме таблеток.",
     "strItemDef": "ItmPillBottle01Empty",
     "strType": "Item",
     "strLoot": null,
@@ -21937,8 +21937,8 @@
   },
   {
     "strName": "ItmPillBottle02",
-    "strNameShort": "(strNameShort in condowners) Флакон для таблеток",
-    "strNameFriendly": "(strNameFriendly in condowners) Флакон: Обезболивающие Van Buren «Гидрокодон»",
+    "strNameShort": "Флакон для таблеток",
+    "strNameFriendly": "Флакон: Обезболивающие Van Buren «Гидрокодон»",
     "strDesc": "Рецептурное обезболивающее в форме таблеток. Удостоено звания «скорее всего будет украдено из аптечки хозяина вечеринки» по версии новостной программы «Redline» от OWNG.",
     "strItemDef": "ItmPillBottle02Empty",
     "strType": "Item",
@@ -21990,8 +21990,8 @@
   },
   {
     "strName": "ItmPillBottle03",
-    "strNameShort": "(strNameShort in condowners) Флакон для таблеток",
-    "strNameFriendly": "(strNameFriendly in condowners) Флакон: Антибиотик Van Buren «Амоксициллин»",
+    "strNameShort": "Флакон для таблеток",
+    "strNameFriendly": "Флакон: Антибиотик Van Buren «Амоксициллин»",
     "strDesc": "Рецептурный антибиотик в форме таблеток. Досадно увековечивает миф о том, что антибиотики действуют на вирусные инфекции, с 2034 года.",
     "strItemDef": "ItmPillBottle03Empty",
     "strType": "Item",
@@ -22043,8 +22043,8 @@
   },
   {
     "strName": "ItmPillPainkillerMinor01",
-    "strNameShort": "Pill",
-    "strNameFriendly": "(strNameFriendly in condowners) Таблетка: Обезболивающее PharmaCon «Cavilo»",
+    "strNameShort": "Таблетка",
+    "strNameFriendly": "Таблетка: Обезболивающее PharmaCon «Cavilo»",
     "strItemDef": "ItmPill02",
     "strType": "Item",
     "strLoot": null,
@@ -22092,8 +22092,8 @@
   },
   {
     "strName": "ItmPillPainkiller01",
-    "strNameShort": "Pill",
-    "strNameFriendly": "(strNameFriendly in condowners) Таблетка: Обезболивающее Van Buren «Гидрокодон»",
+    "strNameShort": "Таблетка",
+    "strNameFriendly": "Таблетка: Обезболивающее Van Buren «Гидрокодон»",
     "strItemDef": "ItmPill03",
     "strType": "Item",
     "strLoot": null,
@@ -22143,7 +22143,7 @@
   {
     "strName": "ItmPlanter01",
     "strNameShort": "Кашпо",
-    "strNameFriendly": "(strNameFriendly in condowners) Освещённый горшок для растений",
+    "strNameFriendly": "Освещённый горшок для растений",
     "strItemDef": "ItmPlanter01",
     "strType": "Item",
     "strLoot": null,
@@ -22358,9 +22358,9 @@
   },
   {
     "strName": "ItmRack1x101",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x101",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1",
+    "strNameFriendly": "Стеллаж 1x1",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22400,9 +22400,9 @@
   },
   {
     "strName": "ItmRack1x101Loose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x101Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1 (Крепление ослабло)",
+    "strNameFriendly": "Стеллаж 1x1 (Крепление ослабло)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22445,9 +22445,9 @@
   },
   {
     "strName": "ItmRack1x101Dmg",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x101Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1 (Повреждён)",
+    "strNameFriendly": "Стеллаж 1x1 (Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22493,9 +22493,9 @@
   },
   {
     "strName": "ItmRack1x101DmgLoose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x101DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1 (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Стеллаж 1x1 (Крепление ослабло, Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22541,7 +22541,7 @@
   {
     "strName": "ItmRack1x101Dorm",
     "strItemDef": "ItmRack1x101",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1",
+    "strNameFriendly": "Стеллаж 1x1",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22582,7 +22582,7 @@
   {
     "strName": "ItmRack1x101DormLoose",
     "strItemDef": "ItmRack1x101Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1 (Крепление ослабло)",
+    "strNameFriendly": "Стеллаж 1x1 (Крепление ослабло)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22626,7 +22626,7 @@
   {
     "strName": "ItmRack1x101DormDmg",
     "strItemDef": "ItmRack1x101Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1 (Повреждён)",
+    "strNameFriendly": "Стеллаж 1x1 (Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22673,7 +22673,7 @@
   {
     "strName": "ItmRack1x101DormDmgLoose",
     "strItemDef": "ItmRack1x101DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x1 (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Стеллаж 1x1 (Крепление ослабло, Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22718,9 +22718,9 @@
   },
   {
     "strName": "ItmRack1x201",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x201",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x2",
+    "strNameFriendly": "Стеллаж 1x2",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22760,9 +22760,9 @@
   },
   {
     "strName": "ItmRack1x201Loose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x201Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x2 (Крепление ослабло)",
+    "strNameFriendly": "Стеллаж 1x2 (Крепление ослабло)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22805,9 +22805,9 @@
   },
   {
     "strName": "ItmRack1x201Dmg",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x201Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x2 (Повреждён)",
+    "strNameFriendly": "Стеллаж 1x2 (Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22853,9 +22853,9 @@
   },
   {
     "strName": "ItmRack1x201DmgLoose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x201DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x2 (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Стеллаж 1x2 (Крепление ослабло, Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22900,9 +22900,9 @@
   },
   {
     "strName": "ItmRack1x301",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x301",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x3",
+    "strNameFriendly": "Стеллаж 1x3",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22942,9 +22942,9 @@
   },
   {
     "strName": "ItmRack1x301Loose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x301Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x3 (Крепление ослабло)",
+    "strNameFriendly": "Стеллаж 1x3 (Крепление ослабло)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -22987,9 +22987,9 @@
   },
   {
     "strName": "ItmRack1x301Dmg",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x301Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x3 (Повреждён)",
+    "strNameFriendly": "Стеллаж 1x3 (Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23035,9 +23035,9 @@
   },
   {
     "strName": "ItmRack1x301DmgLoose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x301DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x3 (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Стеллаж 1x3 (Крепление ослабло, Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23082,9 +23082,9 @@
   },
   {
     "strName": "ItmRack1x401",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x401",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x4",
+    "strNameFriendly": "Стеллаж 1x4",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23124,9 +23124,9 @@
   },
   {
     "strName": "ItmRack1x401Loose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x401Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x4 (Крепление ослабло)",
+    "strNameFriendly": "Стеллаж 1x4 (Крепление ослабло)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23169,9 +23169,9 @@
   },
   {
     "strName": "ItmRack1x401Dmg",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x401Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x4 (Повреждён)",
+    "strNameFriendly": "Стеллаж 1x4 (Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23217,9 +23217,9 @@
   },
   {
     "strName": "ItmRack1x401DmgLoose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack1x401DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Стеллаж 1x4 (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Стеллаж 1x4 (Крепление ослабло, Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23264,9 +23264,9 @@
   },
   {
     "strName": "ItmRack2x2C01",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack2x2C01",
-    "strNameFriendly": "(strNameFriendly in condowners) Угловой стеллаж",
+    "strNameFriendly": "Угловой стеллаж",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23306,9 +23306,9 @@
   },
   {
     "strName": "ItmRack2x2C01Loose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack2x2C01Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Угловой стеллаж (Крепление ослабло)",
+    "strNameFriendly": "Угловой стеллаж (Крепление ослабло)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23351,9 +23351,9 @@
   },
   {
     "strName": "ItmRack2x2C01Dmg",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack2x2C01Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Угловой стеллаж (Повреждён)",
+    "strNameFriendly": "Угловой стеллаж (Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23399,9 +23399,9 @@
   },
   {
     "strName": "ItmRack2x2C01DmgLoose",
-    "strNameShort": "Rack",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmRack2x2C01DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Угловой стеллаж (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Угловой стеллаж (Крепление ослабло, Повреждён)",
     "strDesc": "Вертинальные алюминиевые стеллажи серии «Replete» от Rakow: утилитарная классика для полузакрытого хранения и погрузки в условиях микрогравитации.",
     "strType": "Item",
     "aInteractions": [
@@ -23446,9 +23446,9 @@
   },
   {
     "strName": "ItmRackUnder01",
-    "strNameShort": "Bay",
+    "strNameShort": "Отсек",
     "strItemDef": "ItmRackUnder01",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовой отсек",
+    "strNameFriendly": "Грузовой отсек",
     "strDesc": "Отсек хранения «Silo» от Rakow позволяет педантичным космонавтам надёжно прятать ценные вещи прямо под ногами.",
     "strType": "Item",
     "aInteractions": [
@@ -23489,9 +23489,9 @@
   },
   {
     "strName": "ItmRackUnder01Loose",
-    "strNameShort": "Bay",
+    "strNameShort": "Отсек",
     "strItemDef": "ItmRackUnder01Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовой отсек (Крепление ослабло)",
+    "strNameFriendly": "Грузовой отсек (Крепление ослабло)",
     "strDesc": "Отсек хранения «Silo» от Rakow позволяет педантичным космонавтам надёжно прятать ценные вещи прямо под ногами.",
     "strType": "Item",
     "aInteractions": [
@@ -23536,9 +23536,9 @@
   },
   {
     "strName": "ItmRackUnder01Dmg",
-    "strNameShort": "Bay",
+    "strNameShort": "Отсек",
     "strItemDef": "ItmRackUnder01Dmg",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовой отсек (Повреждён)",
+    "strNameFriendly": "Грузовой отсек (Повреждён)",
     "strDesc": "Отсек хранения «Silo» от Rakow позволяет педантичным космонавтам надёжно прятать ценные вещи прямо под ногами.",
     "strType": "Item",
     "aInteractions": [
@@ -23584,9 +23584,9 @@
   },
   {
     "strName": "ItmRackUnder01DmgLoose",
-    "strNameShort": "Bay",
+    "strNameShort": "Отсек",
     "strItemDef": "ItmRackUnder01DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Грузовой отсек (Крепление ослабло, Повреждён)",
+    "strNameFriendly": "Грузовой отсек (Крепление ослабло, Повреждён)",
     "strDesc": "Отсек хранения «Silo» от Rakow позволяет педантичным космонавтам надёжно прятать ценные вещи прямо под ногами.",
     "strType": "Item",
     "aInteractions": [
@@ -23632,7 +23632,7 @@
   },
   {
     "strName": "ItmStorageBin1x101",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin1x101",
     "strNameFriendly": "Контейнер переборки",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23674,7 +23674,7 @@
   },
   {
     "strName": "ItmStorageBin1x101Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin1x101Loose",
     "strNameFriendly": "Контейнер переборки (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23716,7 +23716,7 @@
   },
   {
     "strName": "ItmStorageBin1x101Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin1x101Dmg",
     "strNameFriendly": "Контейнер переборки (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23761,7 +23761,7 @@
   },
   {
     "strName": "ItmStorageBin1x101DmgLoose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin1x101DmgLoose",
     "strNameFriendly": "Контейнер переборки (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23805,7 +23805,7 @@
   },
   {
     "strName": "ItmStorageBin2x101",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x101",
     "strNameFriendly": "Контейнер переборки 2x",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23847,7 +23847,7 @@
   },
   {
     "strName": "ItmStorageBin2x101Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x101Loose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23889,7 +23889,7 @@
   },
   {
     "strName": "ItmStorageBin2x101Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x101Dmg",
     "strNameFriendly": "Контейнер переборки 2x (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23934,7 +23934,7 @@
   },
   {
     "strName": "ItmStorageBin2x101DmgLoose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x101DmgLoose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23978,7 +23978,7 @@
   },
   {
     "strName": "ItmStorageBin2x104",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x104",
     "strNameFriendly": "Контейнер переборки 2x",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24022,7 +24022,7 @@
   },
   {
     "strName": "ItmStorageBin2x104Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x104Loose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24067,7 +24067,7 @@
   },
   {
     "strName": "ItmStorageBin2x104Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x104Dmg",
     "strNameFriendly": "Контейнер переборки 2x (Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24114,7 +24114,7 @@
   },
   {
     "strName": "ItmStorageBin2x104DmgLoose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x104DmgLoose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24161,7 +24161,7 @@
   },
   {
     "strName": "ItmStorageBin3x101",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin3x101",
     "strNameFriendly": "Контейнер переборки 3x",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24204,7 +24204,7 @@
   },
   {
     "strName": "ItmStorageBin3x101Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin3x101Loose",
     "strNameFriendly": "Контейнер переборки 3x (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24247,7 +24247,7 @@
   },
   {
     "strName": "ItmStorageBin3x101Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin3x101Dmg",
     "strNameFriendly": "Контейнер переборки 3x (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24293,7 +24293,7 @@
   },
   {
     "strName": "ItmStorageBin3x101DmgLoose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin3x101DmgLoose",
     "strNameFriendly": "Контейнер переборки 3x (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24338,7 +24338,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C01",
     "strNameFriendly": "Контейнер переборки: Угловой",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24381,7 +24381,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C01Loose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24424,7 +24424,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C01Dmg",
     "strNameFriendly": "Контейнер переборки: Угловой (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24470,7 +24470,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01DmgLoose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C01DmgLoose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24515,7 +24515,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C04",
     "strNameFriendly": "Контейнер переборки: Угловой",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24560,7 +24560,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C04Loose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24605,7 +24605,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C04Dmg",
     "strNameFriendly": "Контейнер переборки: Угловой (Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24653,7 +24653,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04DmgLoose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBin2x2C04DmgLoose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24700,7 +24700,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBinFloor1x101",
     "strDesc": "Серия подпольных накопителей \"Vanilla\" от Rakow расширяет пространство для хранения под полом.\n\nВНИМАНИЕ: Подпольные накопители выполняют функцию герметичного настила, поэтому их демонтаж подвергает внутреннее пространство судна воздействию вакуума.",
     "strNameFriendly": "Контейнер межэтажного перекрытия",
@@ -24742,7 +24742,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101Loose",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBinFloor1x101Loose",
     "strNameFriendly": "Контейнер межэтажного перекрытия (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для подпола расширяют пространство для хранения под полом.",
@@ -24785,7 +24785,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101Dmg",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBinFloor1x101Dmg",
     "strNameFriendly": "Контейнер межэтажного перекрытия (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для подпола расширяют пространство для хранения под полом.",
@@ -24834,7 +24834,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101Patch",
-    "strNameShort": "Bin",
+    "strNameShort": "Мусорка",
     "strItemDef": "ItmStorageBinFloor1x101Patch",
     "strNameFriendly": "Контейнер межэтажного перекрытия (Заплачен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для подпола расширяют пространство для хранения под полом.",
@@ -24876,8 +24876,8 @@
   },
   {
     "strName": "ItmRCSCluster01Off",
-    "strNameShort": "Thruster",
-    "strNameFriendly": "(strNameFriendly in condowners) Блок маневровых двигателей RCS Halvorson (Выключен)",
+    "strNameShort": "Маневровый",
+    "strNameFriendly": "Блок маневровых двигателей RCS Halvorson (Выключен)",
     "strItemDef": "ItmRCSCluster01Off",
     "strDesc": "Блок маневровых двигателей (RCS) от Halvorson. В связке с судовым впускным регулятором он выдаёт струи холодного сжатого газа (обычно N2) для создания тяги и корректировки положения корабля в вакууме.",
     "strType": "Item",
@@ -24924,9 +24924,9 @@
   },
   {
     "strName": "ItmRCSCluster01Loose",
-    "strNameShort": "Thruster",
+    "strNameShort": "Маневровый",
     "strItemDef": "ItmRCSCluster01Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Блок маневровых двигателей RCS Halvorson (Крепление ослабло)",
+    "strNameFriendly": "Блок маневровых двигателей RCS Halvorson (Крепление ослабло)",
     "strDesc": "Блок маневровых двигателей (RCS) от Halvorson. В связке с судовым впускным регулятором он выдаёт струи холодного сжатого газа (обычно N2) для создания тяги и корректировки положения корабля в вакууме.",
     "strType": "Item",
     "aInteractions": [
@@ -24964,8 +24964,8 @@
   },
   {
     "strName": "ItmRCSCluster01",
-    "strNameShort": "Thruster",
-    "strNameFriendly": "(strNameFriendly in condowners) Блок маневровых двигателей RCS Halvorson",
+    "strNameShort": "Маневровый",
+    "strNameFriendly": "Блок маневровых двигателей RCS Halvorson",
     "strItemDef": "ItmRCSCluster01",
     "strDesc": "Блок маневровых двигателей (RCS) от Halvorson. В связке с судовым впускным регулятором он выдаёт струи холодного сжатого газа (обычно N2) для создания тяги и корректировки положения корабля в вакууме.",
     "strType": "Item",
@@ -25012,8 +25012,8 @@
   },
   {
     "strName": "ItmRCSCluster01Dmg",
-    "strNameShort": "Thruster",
-    "strNameFriendly": "(strNameFriendly in condowners) Блок маневровых двигателей RCS Halvorson (Повреждён)",
+    "strNameShort": "Маневровый",
+    "strNameFriendly": "Блок маневровых двигателей RCS Halvorson (Повреждён)",
     "strItemDef": "ItmRCSCluster01Dmg",
     "strDesc": "Блок маневровых двигателей (RCS) от Halvorson. В связке с судовым впускным регулятором он выдаёт струи холодного сжатого газа (обычно N2) для создания тяги и корректировки положения корабля в вакууме.",
     "strType": "Item",
@@ -25052,9 +25052,9 @@
   },
   {
     "strName": "ItmRCSCluster01DmgLoose",
-    "strNameShort": "Thruster",
+    "strNameShort": "Маневровый",
     "strItemDef": "ItmRCSCluster01DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Блок маневровых двигателей RCS Halvorson (Повреждён, Крепление ослабло)",
+    "strNameFriendly": "Блок маневровых двигателей RCS Halvorson (Повреждён, Крепление ослабло)",
     "strDesc": "Блок маневровых двигателей (RCS) от Halvorson. В связке с судовым впускным регулятором он выдаёт струи холодного сжатого газа (обычно N2) для создания тяги и корректировки положения корабля в вакууме.",
     "strType": "Item",
     "aInteractions": [
@@ -25093,8 +25093,8 @@
   },
   {
     "strName": "ItmRCSDistro01Off",
-    "strNameShort": "Intake",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Miura \"Hydra\" (Выкл.)",
+    "strNameShort": "Заборник",
+    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Выкл.)",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strItemDef": "ItmRCSDistro01Off",
     "strType": "Item",
@@ -25144,9 +25144,9 @@
   },
   {
     "strName": "ItmRCSDistro01Loose",
-    "strNameShort": "Intake",
+    "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro01Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Miura \"Hydra\" (Не закреплён)",
+    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Не закреплён)",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25188,8 +25188,8 @@
   },
   {
     "strName": "ItmRCSDistro01",
-    "strNameShort": "Intake",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Miura \"Hydra\"",
+    "strNameShort": "Заборник",
+    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\"",
     "strItemDef": "ItmRCSDistro01",
     "strDesc": "«Hydra» — редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25239,8 +25239,8 @@
   },
   {
     "strName": "ItmRCSDistro01Dmg",
-    "strNameShort": "Intake",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Miura \"Hydra\" (Повреждён)",
+    "strNameShort": "Заборник",
+    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Повреждён)",
     "strItemDef": "ItmRCSDistro01Dmg",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25279,9 +25279,9 @@
   },
   {
     "strName": "ItmRCSDistro01DmgLoose",
-    "strNameShort": "Intake",
+    "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro01DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Miura \"Hydra\" (Не закреплён, Повреждён)",
+    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Не закреплён, Повреждён)",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25320,8 +25320,8 @@
   },
   {
     "strName": "ItmRCSDistro02Off",
-    "strNameShort": "Intake",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Kang \"2202\" (Выкл.)",
+    "strNameShort": "Заборник",
+    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Выкл.)",
     "strItemDef": "ItmRCSDistro02Off",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25368,9 +25368,9 @@
   },
   {
     "strName": "ItmRCSDistro02Loose",
-    "strNameShort": "Intake",
+    "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro02Loose",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Kang \"2202\" (Не закреплён)",
+    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Не закреплён)",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25409,8 +25409,8 @@
   },
   {
     "strName": "ItmRCSDistro02",
-    "strNameShort": "Intake",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Kang \"2202\"",
+    "strNameShort": "Заборник",
+    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\"",
     "strItemDef": "ItmRCSDistro02",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25457,8 +25457,8 @@
   },
   {
     "strName": "ItmRCSDistro02Dmg",
-    "strNameShort": "Intake",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Kang \"2202\" (Повреждён)",
+    "strNameShort": "Заборник",
+    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Повреждён)",
     "strItemDef": "ItmRCSDistro02Dmg",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25496,9 +25496,9 @@
   },
   {
     "strName": "ItmRCSDistro02DmgLoose",
-    "strNameShort": "Intake",
+    "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro02DmgLoose",
-    "strNameFriendly": "(strNameFriendly in condowners) Регулятор забора РСУ: Kang \"2202\" (Не закреплён, Повреждён)",
+    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Не закреплён, Повреждён)",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25536,7 +25536,7 @@
   },
   {
     "strName": "ItmReactorIC02Batt",
-    "strNameShort": "Reactor",
+    "strNameShort": "Реактор",
     "strItemDef": "ItmReactorIC02On",
     "strType": "Item",
     "aInteractions": [],
@@ -25574,8 +25574,8 @@
   },
   {
     "strName": "ItmReactorIC02Ignition",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC: Станционный",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC: Станционный",
     "strItemDef": "ItmReactorIC02On",
     "strType": "Item",
     "aInteractions": [],
@@ -25658,8 +25658,8 @@
   },
   {
     "strName": "ItmReactorIC02Off",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC: Станционный (Выкл.)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC: Станционный (Выкл.)",
     "strItemDef": "ItmReactorIC02Off",
     "strType": "Item",
     "aInteractions": [],
@@ -25697,8 +25697,8 @@
   },
   {
     "strName": "ItmReactorIC02OffLoose",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC: Станционный (Не закреплён)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC: Станционный (Не закреплён)",
     "strItemDef": "ItmReactorIC02OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -25740,8 +25740,8 @@
   },
   {
     "strName": "ItmReactorIC03Batt",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC (Режим батареи)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC (Режим батареи)",
     "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03On",
     "strType": "Item",
@@ -25787,8 +25787,8 @@
   },
   {
     "strName": "ItmReactorIC03Ignition",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC (Работает)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC (Работает)",
     "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03On",
     "strType": "Item",
@@ -25834,8 +25834,8 @@
   },
   {
     "strName": "ItmReactorIC03Off",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC (Выкл.)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC (Выкл.)",
     "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03Off",
     "strType": "Item",
@@ -25880,8 +25880,8 @@
   },
   {
     "strName": "ItmReactorIC03OffLoose",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC (Не закреплён)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC (Не закреплён)",
     "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03OffLoose",
     "strType": "Item",
@@ -25924,8 +25924,8 @@
   },
   {
     "strName": "ItmReactorIC03Dmg",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC (Повреждён)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC (Повреждён)",
     "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03Dmg",
     "strType": "Item",
@@ -25967,8 +25967,8 @@
   },
   {
     "strName": "ItmReactorIC03DmgLoose",
-    "strNameShort": "Reactor",
-    "strNameFriendly": "(strNameFriendly in condowners) Термоядерный реактор IC (Не закреплён, Повреждён)",
+    "strNameShort": "Реактор",
+    "strNameFriendly": "Термоядерный реактор IC (Не закреплён, Повреждён)",
     "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03DmgLoose",
     "strType": "Item",
@@ -26013,9 +26013,9 @@
   },
   {
     "strName": "ItmScrapAluminum",
-    "strNameShort": "Aluminum",
-    "strNameFriendly": "(strNameFriendly in condowners) Лом алюминия",
-    "strDesc": "(strDesc in condowners) Куски алюминия, пригодные для использования при ремонте.",
+    "strNameShort": "Алюминий",
+    "strNameFriendly": "Лом алюминия",
+    "strDesc": "Куски алюминия, пригодные для использования при ремонте.",
     "strItemDef": "ItmScrapMetal02",
     "strType": "Item",
     "nStackLimit": 15,
@@ -26055,9 +26055,9 @@
   },
   {
     "strName": "ItmScrapCarbonFiber",
-    "strNameShort": "(strNameShort in condowners) Углеволокно",
-    "strNameFriendly": "(strNameFriendly in condowners) Лом углеволокна",
-    "strDesc": "(strDesc in condowners) Куски углеволокна, пригодные для использования при ремонте.",
+    "strNameShort": "Углеволокно",
+    "strNameFriendly": "Лом углеволокна",
+    "strDesc": "Куски углеволокна, пригодные для использования при ремонте.",
     "strItemDef": "ItmTrash01",
     "strType": "Item",
     "nStackLimit": 35,
@@ -26097,10 +26097,10 @@
   },
   {
     "strName": "ItmScrapClothClean",
-    "strNameShort": "Cloth",
+    "strNameShort": "Ткань",
     "strItemDef": "ItmScrapClothClean",
-    "strDesc": "(strDesc in condowners) Куски чистой ткани или другого материала.",
-    "strNameFriendly": "(strNameFriendly in condowners) Лом ткани (Чистый)",
+    "strDesc": "Куски чистой ткани или другого материала.",
+    "strNameFriendly": "Лом ткани (Чистый)",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 10,
@@ -26172,10 +26172,10 @@
   },
   {
     "strName": "ItmScrapClothDirty",
-    "strNameShort": "Cloth",
+    "strNameShort": "Ткань",
     "strItemDef": "ItmScrapClothDirty",
-    "strDesc": "(strDesc in condowners) Куски грязной ткани или другого материала.",
-    "strNameFriendly": "(strNameFriendly in condowners) Лом ткани (Грязный)",
+    "strDesc": "Куски грязной ткани или другого материала.",
+    "strNameFriendly": "Лом ткани (Грязный)",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 10,
@@ -26248,9 +26248,9 @@
   },
   {
     "strName": "ItmScrapPlastic",
-    "strNameShort": "Plastic",
-    "strNameFriendly": "(strNameFriendly in condowners) Лом пластика Caylon",
-    "strDesc": "(strDesc in condowners) Куски фирменного устойчивого к коррозии пластика.",
+    "strNameShort": "Пластик",
+    "strNameFriendly": "Лом пластика Caylon",
+    "strDesc": "Куски фирменного устойчивого к коррозии пластика.",
     "strItemDef": "ItmScrapPlastic01",
     "strType": "Item",
     "nStackLimit": 20,
@@ -26291,9 +26291,9 @@
   },
   {
     "strName": "ItmScrapSteel",
-    "strNameShort": "Steel",
-    "strNameFriendly": "(strNameFriendly in condowners) Лом стали",
-    "strDesc": "(strDesc in condowners) Куски стали, пригодные для использования при ремонте.",
+    "strNameShort": "Сталь",
+    "strNameFriendly": "Лом стали",
+    "strDesc": "Куски стали, пригодные для использования при ремонте.",
     "strItemDef": "ItmScrapMetal01",
     "strType": "Item",
     "nStackLimit": 15,
@@ -26335,7 +26335,7 @@
     "strName": "ItmScrapTrash",
     "strNameShort": "Мусор",
     "strNameFriendly": "Мусор",
-    "strDesc": "(strDesc in condowners) Ненужный мусор, не представляющий никакой ценности.",
+    "strDesc": "Ненужный мусор, не представляющий никакой ценности.",
     "strItemDef": "ItmTrash02",
     "strType": "Item",
     "nStackLimit": 3,
@@ -26371,8 +26371,8 @@
   },
   {
     "strName": "ItmSealTemp01",
-    "strNameShort": "(strNameShort in condowners) Стена быстрой герметизации",
-    "strNameFriendly": "(strNameFriendly in condowners) Временная герметизирующая стена \"Ripley\"",
+    "strNameShort": "Стена быстрой герметизации",
+    "strNameFriendly": "Временная герметизирующая стена \"Ripley\"",
     "strDesc": "Когда нужно срочно нагнетать воздух, вам понадобится мгновенный герметизатор «Ripley» от Halvorson. Устанавливается из пакета за несколько минут в качестве стены от пола до потолка. Этот одноразовый комплект герметизации рассчитан на сохранение целостности в течение часа, но приходит в негодность при демонтаже. «Ripley: Прозрачное решение».",
     "strItemDef": "ItmSealTemp01",
     "strType": "Item",
@@ -26414,8 +26414,8 @@
   },
   {
     "strName": "ItmSealTemp01Loose",
-    "strNameShort": "(strNameShort in condowners) Комплект быстрой герметизации",
-    "strNameFriendly": "(strNameFriendly in condowners) Временный герметизирующий комплект \"Ripley\" (Не закреплён)",
+    "strNameShort": "Комплект быстрой герметизации",
+    "strNameFriendly": "Временный герметизирующий комплект \"Ripley\" (Не закреплён)",
     "strItemDef": "ItmSealTemp01Loose",
     "strDesc": "Когда нужно срочно нагнетать воздух, вам понадобится мгновенный герметизатор «Ripley» от Halvorson. Устанавливается из пакета за несколько минут в качестве стены от пола до потолка. Этот одноразовый комплект герметизации рассчитан на сохранение целостности в течение часа, но приходит в негодность при демонтаже. «Ripley: Прозрачное решение».",
     "nStackLimit": 5,
@@ -26457,8 +26457,8 @@
   },
   {
     "strName": "ItmSecretCompartment01",
-    "strNameShort": "(strNameShort in condowners) Тайник",
-    "strNameFriendly": "(strNameShort in condowners) Тайник",
+    "strNameShort": "Тайник",
+    "strNameFriendly": "Тайник",
     "strItemDef": "ItmSecretCompartment01",
     "strType": "Item",
     "strLoot": null,
@@ -26491,10 +26491,10 @@
   },
   {
     "strName": "ItmShirt01",
-    "strNameShort": "Shirt",
+    "strNameShort": "Рубашка",
     "strItemDef": "ItmShirt01",
     "strDesc": "Рубашка средней плотности с длинными рукавами. Выпускается в широкой палитре ярких расцветок, но эта к ним не относится.",
-    "strNameFriendly": "(strNameFriendly in condowners) Рубашка: Серая с длинным рукавом",
+    "strNameFriendly": "Рубашка: Серая с длинным рукавом",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 5,
@@ -26549,10 +26549,10 @@
   },
   {
     "strName": "ItmShirtHoodie01",
-    "strNameShort": "Hoodie",
+    "strNameShort": "Толстовка",
     "strItemDef": "ItmShirtHoodie01",
     "strDesc": "Худи средней плотности с длинными рукавами и просторным передним карманом. Эта модель обеспечивает корпорации Ayotimiwa бесплатную рекламу всякий раз, когда кто-нибудь её надевает.",
-    "strNameFriendly": "(strNameFriendly in condowners) Толстовка: Ayotimiwa",
+    "strNameFriendly": "Толстовка: Ayotimiwa",
     "strType": "Item",
     "strLoot": "ItmPocketsHoodiex1",
     "aInteractions": [
@@ -26722,7 +26722,7 @@
   },
   {
     "strName": "ItmSignNeon01",
-    "strNameShort": "Sign",
+    "strNameShort": "Знак",
     "strNameFriendly": "Неоновая вывеска \"Mescaform\"",
     "strItemDef": "ItmSignNeon01",
     "strType": "Item",
@@ -26764,7 +26764,7 @@
   },
   {
     "strName": "ItmSignNeon01Off",
-    "strNameShort": "Sign",
+    "strNameShort": "Знак",
     "strNameFriendly": "Неоновая вывеска \"Mescaform\" (выключена)",
     "strItemDef": "ItmSignNeon01Off",
     "strType": "Item",
@@ -26806,7 +26806,7 @@
   },
   {
     "strName": "ItmSignNeon01Loose",
-    "strNameShort": "Sign",
+    "strNameShort": "Знак",
     "strNameFriendly": "Неоновая вывеска \"Mescaform\" (откручена)",
     "strItemDef": "ItmSignNeon01Loose",
     "strType": "Item",
@@ -27001,7 +27001,7 @@
   },
   {
     "strName": "ItmSplint01",
-    "strNameShort": "Splint",
+    "strNameShort": "Шина",
     "strItemDef": "ItmSplint01",
     "strDesc": "Жёсткое приспособление для фиксации сломанной конечности. Регулируемое, подходит как для рук, так и для ног.",
     "strNameFriendly": "Splint",
@@ -27055,7 +27055,7 @@
   },
   {
     "strName": "ItmStabilizerActive01On",
-    "strNameShort": "Stabilizer",
+    "strNameShort": "Стабилизатор",
     "strNameFriendly": "Активный стабилизатор",
     "strDesc": "Судовой стабилизатор — компонент, разработанный для повышения устойчивости судна и снижения износа при навигации. Установка более одного стабилизатора имеет снижающийся эффект.",
     "strItemDef": "ItmStabilizerActive01",
@@ -27106,7 +27106,7 @@
   },
   {
     "strName": "ItmStabilizerActive01Off",
-    "strNameShort": "Stabilizer",
+    "strNameShort": "Стабилизатор",
     "strNameFriendly": "Активный стабилизатор (выключен)",
     "strDesc": "Судовой стабилизатор — компонент, разработанный для повышения устойчивости судна и снижения износа при навигации. Установка более одного стабилизатора имеет снижающийся эффект.",
     "strItemDef": "ItmStabilizerActive01Off",
@@ -27580,7 +27580,7 @@
   },
   {
     "strName": "ItmStrut1x1",
-    "strNameShort": "Strut",
+    "strNameShort": "Стойка",
     "strItemDef": "ItmStrut1x1",
     "strType": "Item",
     "strLoot": null,
@@ -27603,7 +27603,7 @@
   },
   {
     "strName": "ItmSwitch01On",
-    "strNameShort": "Switch",
+    "strNameShort": "Переключатель",
     "strNameFriendly": "Рубильник питания (вкл.)",
     "strItemDef": "ItmSwitch01On",
     "strType": "Item",
@@ -27640,7 +27640,7 @@
   },
   {
     "strName": "ItmSwitch01Off",
-    "strNameShort": "Switch",
+    "strNameShort": "Переключатель",
     "strNameFriendly": "Рубильник питания (выкл.)",
     "strItemDef": "ItmSwitch01Off",
     "strType": "Item",
@@ -27678,7 +27678,7 @@
   },
   {
     "strName": "ItmSwitch01Loose",
-    "strNameShort": "Switch",
+    "strNameShort": "Переключатель",
     "strNameFriendly": "Рубильник питания (откручен)",
     "strItemDef": "ItmSwitch01Loose",
     "strType": "Item",
@@ -27717,7 +27717,7 @@
   },
   {
     "strName": "ItmSwitch01Dmg",
-    "strNameShort": "Switch",
+    "strNameShort": "Переключатель",
     "strNameFriendly": "Рубильник питания (повреждён)",
     "strItemDef": "ItmSwitch01Dmg",
     "strType": "Item",
@@ -27748,7 +27748,7 @@
   },
   {
     "strName": "ItmSwitch01DmgLoose",
-    "strNameShort": "Switch",
+    "strNameShort": "Переключатель",
     "strNameFriendly": "Рубильник питания (откручен, повреждён)",
     "strItemDef": "ItmSwitch01DmgLoose",
     "strType": "Item",
@@ -28056,7 +28056,7 @@
   },
   {
     "strName": "ItmTable01",
-    "strNameShort": "Table",
+    "strNameShort": "Стол",
     "strNameFriendly": "Барный стол",
     "strItemDef": "ItmTable01",
     "strType": "Item",
@@ -28093,7 +28093,7 @@
   },
   {
     "strName": "ItmTable01Loose",
-    "strNameShort": "Table",
+    "strNameShort": "Стол",
     "strNameFriendly": "Барный стол (откручен)",
     "strItemDef": "ItmTable01Loose",
     "strType": "Item",
@@ -28133,7 +28133,7 @@
   },
   {
     "strName": "ItmTable02",
-    "strNameShort": "Table",
+    "strNameShort": "Стол",
     "strNameFriendly": "Обеденный стол",
     "strItemDef": "ItmTable02",
     "strType": "Item",
@@ -28165,7 +28165,7 @@
   },
   {
     "strName": "ItmTable02Loose",
-    "strNameShort": "Table",
+    "strNameShort": "Стол",
     "strNameFriendly": "Обеденный стол (откручен)",
     "strItemDef": "ItmTable02Loose",
     "strType": "Item",
@@ -28328,7 +28328,7 @@
   },
   {
     "strName": "ItmToilet01",
-    "strNameShort": "Toilet",
+    "strNameShort": "Туалет",
     "strNameFriendly": "Toilet",
     "strItemDef": "ItmToilet01",
     "strType": "Item",
@@ -28372,8 +28372,8 @@
   },
   {
     "strName": "ItmToilet01Loose",
-    "strNameShort": "Toilet",
-    "strNameFriendly": "(strNameFriendly in condowners) Туалет (Отсоединён)",
+    "strNameShort": "Туалет",
+    "strNameFriendly": "Туалет (Отсоединён)",
     "strItemDef": "ItmToilet01Loose",
     "strType": "Item",
     "aInteractions": [
@@ -28413,7 +28413,7 @@
   },
   {
     "strName": "ItmTablet01",
-    "strNameShort": "Tablet",
+    "strNameShort": "Планшет",
     "strNameFriendly": "Tablet",
     "strDesc": "Карманный смарт-планшет Renbao. Совместим с большинством электронных подсистем, такими как корабельные навигационные станции.",
     "strItemDef": "ItmTablet01",
@@ -28460,8 +28460,8 @@
   },
   {
     "strName": "ItmToolBox01",
-    "strNameShort": "Toolbox",
-    "strNameFriendly": "(strNameFriendly in condowners) Ящик для инструментов Halvorson Pro",
+    "strNameShort": "Ящик инструментов",
+    "strNameFriendly": "Ящик для инструментов Halvorson Pro",
     "strDesc": "Лёгкий, но прочный стальной ящик для инструментов. Популярен среди многих рабочих благодаря своей надёжности и вместительности для расширенного набора полевых инструментов.",
     "strItemDef": "ItmToolBox01",
     "strType": "Item",
@@ -28512,8 +28512,8 @@
   },
   {
     "strName": "ItmToolBox02",
-    "strNameShort": "Toolbox",
-    "strNameFriendly": "(strNameFriendly in condowners) Ящик для инструментов Horang \"PlaStak\"",
+    "strNameShort": "Ящик инструментов",
+    "strNameFriendly": "Ящик для инструментов Horang \"PlaStak\"",
     "strDesc": "Пластиковый переносной кейс. Как и большинство продуктов Horang, он дешёвый и лёгкий.",
     "strItemDef": "ItmToolBox02",
     "strType": "Item",
@@ -28564,8 +28564,8 @@
   },
   {
     "strName": "ItmToolCrowbar01",
-    "strNameShort": "Crowbar",
-    "strNameFriendly": "(strNameFriendly in condowners) Монтировка Weber \"Prize\"",
+    "strNameShort": "Лом",
+    "strNameFriendly": "Монтировка Weber \"Prize\"",
     "strDesc": "24-дюймовый лом Weber «Prize» — полезен для открывания дверей и ящиков, а также для ведения заведомо проигрышной битвы с вторжениями из инопланерного измерения.",
     "strItemDef": "ItmToolCrowbar01",
     "strType": "Item",
@@ -28612,8 +28612,8 @@
   },
   {
     "strName": "ItmToolDrill01",
-    "strNameShort": "Drill",
-    "strNameFriendly": "(strNameFriendly in condowners) Электродрель Gott",
+    "strNameShort": "Дрель",
+    "strNameFriendly": "Электродрель Gott",
     "strDesc": "Ручной электродрель Gott с компенсатором крутящего момента, необходимая для установки большинства корабельных компонентов.",
     "strItemDef": "ItmToolDrill01",
     "strType": "Item",
@@ -28678,8 +28678,8 @@
   },
   {
     "strName": "ItmToolDrill01Dmg",
-    "strNameShort": "Drill",
-    "strNameFriendly": "(strNameFriendly in condowners) Электродрель Gott (Повреждена)",
+    "strNameShort": "Дрель",
+    "strNameFriendly": "Электродрель Gott (Повреждена)",
     "strDesc": "Повреждённая ручная электродрель Gott с компенсатором крутящего момента, необходимая для установки большинства корабельных компонентов.",
     "strItemDef": "ItmToolDrill01Dmg",
     "strType": "Item",
@@ -28744,8 +28744,8 @@
   },
   {
     "strName": "ItmToolFireEx01",
-    "strNameShort": "Extinguisher",
-    "strNameFriendly": "(strNameFriendly in condowners) Огнетушитель Halvorson",
+    "strNameShort": "Огнетушитель",
+    "strNameFriendly": "Огнетушитель Halvorson",
     "strDesc": "Портативный огнетушитель Halvorson класса C, рассчитанный на большинство корабельных аварий.",
     "strItemDef": "ItmToolFireEx01",
     "strType": "Item",
@@ -28801,8 +28801,8 @@
   },
   {
     "strName": "ItmToolFireEx01Dmg",
-    "strNameShort": "Extinguisher",
-    "strNameFriendly": "(strNameFriendly in condowners) Огнетушитель Halvorson (Повреждён)",
+    "strNameShort": "Огнетушитель",
+    "strNameFriendly": "Огнетушитель Halvorson (Повреждён)",
     "strDesc": "Портативный огнетушитель Halvorson класса C, рассчитанный на большинство корабельных аварий.",
     "strItemDef": "ItmToolFireEx01Dmg",
     "strType": "Item",
@@ -28850,8 +28850,8 @@
   },
   {
     "strName": "ItmToolGrinder02",
-    "strNameShort": "Grinder",
-    "strNameFriendly": "(strNameFriendly in condowners) Угловая шлифмашина Gott",
+    "strNameShort": "Болгарка",
+    "strNameFriendly": "Угловая шлифмашина Gott",
     "strDesc": "Ручная угловая шлифмашина Gott — дешёвый способ демонтажа корабельных деталей при подаче питания.",
     "strItemDef": "ItmToolGrinder02",
     "strType": "Item",
@@ -28915,8 +28915,8 @@
   },
   {
     "strName": "ItmToolGrinder02Dmg",
-    "strNameShort": "Grinder",
-    "strNameFriendly": "(strNameFriendly in condowners) Угловая шлифмашина Gott (Повреждена)",
+    "strNameShort": "Болгарка",
+    "strNameFriendly": "Угловая шлифмашина Gott (Повреждена)",
     "strDesc": "Повреждённая ручная угловая шлифмашина Gott — дешёвый способ демонтажа корабельных деталей при подаче питания.",
     "strItemDef": "ItmToolGrinder02Dmg",
     "strType": "Item",
@@ -28978,8 +28978,8 @@
   },
   {
     "strName": "ItmToolHacksaw01",
-    "strNameShort": "Hacksaw",
-    "strNameFriendly": "(strNameFriendly in condowners) Ножовка Horang \"PlastHak\"",
+    "strNameShort": "Ножовка",
+    "strNameFriendly": "Ножовка Horang \"PlastHak\"",
     "strDesc": "Компактная слесарная пила Horang. Минимально необходимый режущий инструмент для демонтажа конструкций корпуса и разборки большинства судовых компонентов.",
     "strItemDef": "ItmToolHacksaw01",
     "strType": "Item",
@@ -29023,8 +29023,8 @@
   },
   {
     "strName": "ItmToolLaserTorch01",
-    "strNameShort": "(strNameShort in condowners) Лазерный резак",
-    "strNameFriendly": "(strNameFriendly in condowners) Лазерный резак Weber \"Lance\"",
+    "strNameShort": "Лазерный резак",
+    "strNameFriendly": "Лазерный резак Weber \"Lance\"",
     "strDesc": "Высокоинтенсивный оптический инструмент Weber с регулировкой мощности, фокусировки и сменными насадками. Идеально подходит для широкого спектра задач — от пайки до резки и сварки — в любых условиях при наличии питания.",
     "strItemDef": "ItmToolLaserTorch01",
     "strType": "Item",
@@ -29091,8 +29091,8 @@
   },
   {
     "strName": "ItmToolLaserTorch01Dmg",
-    "strNameShort": "(strNameShort in condowners) Лазерный резак",
-    "strNameFriendly": "(strNameFriendly in condowners) Лазерный резак Weber \"Lance\" (Повреждён)",
+    "strNameShort": "Лазерный резак",
+    "strNameFriendly": "Лазерный резак Weber \"Lance\" (Повреждён)",
     "strDesc": "Высокоинтенсивный оптический инструмент Weber с регулировкой мощности, фокусировки и сменными насадками. Идеально подходит для широкого спектра задач — от пайки до резки и сварки — в любых условиях при наличии питания.",
     "strItemDef": "ItmToolLaserTorch01Dmg",
     "strType": "Item",
@@ -29157,9 +29157,9 @@
   },
   {
     "strName": "ItmToolScrewDriver01",
-    "strNameShort": "Screwdriver",
-    "strNameFriendly": "(strNameFriendly in condowners) Отвёртка Horang \"PlaScrew\"",
-    "strDesc": "(strDesc in condowners) Ручная отвёртка Horang, необходимая для установки большинства компонентов на корабле.",
+    "strNameShort": "Отвёртка",
+    "strNameFriendly": "Отвёртка Horang \"PlaScrew\"",
+    "strDesc": "Ручная отвёртка Horang, необходимая для установки большинства компонентов на корабле.",
     "strItemDef": "ItmToolScrewDriver01",
     "strType": "Item",
     "strLoot": null,
@@ -29205,9 +29205,9 @@
   },
   {
     "strName": "ItmToolSolderingIron01",
-    "strNameShort": "Solderer",
-    "strNameFriendly": "(strNameFriendly in condowners) Паяльник Gott",
-    "strDesc": "(strDesc in condowners) Ручной паяльник Gott, дешёвый способ пайки электроники.",
+    "strNameShort": "Паяльник",
+    "strNameFriendly": "Паяльник Gott",
+    "strDesc": "Ручной паяльник Gott, дешёвый способ пайки электроники.",
     "strItemDef": "ItmToolSolderingIron01",
     "strType": "Item",
     "strLoot": null,
@@ -29267,9 +29267,9 @@
   },
   {
     "strName": "ItmToolSolderingIron01Dmg",
-    "strNameShort": "Solderer",
-    "strNameFriendly": "(strNameFriendly in condowners) Паяльник Gott (Повреждён)",
-    "strDesc": "(strDesc in condowners) Повреждённый ручной паяльник Gott, дешёвый способ пайки электроники.",
+    "strNameShort": "Паяльник",
+    "strNameFriendly": "Паяльник Gott (Повреждён)",
+    "strDesc": "Повреждённый ручной паяльник Gott, дешёвый способ пайки электроники.",
     "strItemDef": "ItmToolSolderingIron01Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -29329,8 +29329,8 @@
   },
   {
     "strName": "ItmToolWelder01",
-    "strNameShort": "Welder",
-    "strNameFriendly": "(strNameFriendly in condowners) Аппарат трением с перемешиванием Halvorson",
+    "strNameShort": "Сварочник",
+    "strNameFriendly": "Аппарат трением с перемешиванием Halvorson",
     "strDesc": "Ручной инструмент для сварки трением Halvorson. Подходит для сварки в условиях избыточного давления и в вакууме.",
     "strItemDef": "ItmToolWelder01",
     "strType": "Item",
@@ -29390,8 +29390,8 @@
   },
   {
     "strName": "ItmToolWelder01Dmg",
-    "strNameShort": "Welder",
-    "strNameFriendly": "(strNameFriendly in condowners) Аппарат трением с перемешиванием Halvorson (Повреждён)",
+    "strNameShort": "Сварочник",
+    "strNameFriendly": "Аппарат трением с перемешиванием Halvorson (Повреждён)",
     "strDesc": "Повреждённый ручной инструмент для сварки трением Halvorson. Подходит для сварки в условиях избыточного давления и в вакууме.",
     "strItemDef": "ItmToolWelder01Dmg",
     "strType": "Item",
@@ -29451,8 +29451,8 @@
   },
   {
     "strName": "ItmToolWorkLamp01",
-    "strNameShort": "Lamp",
-    "strNameFriendly": "(strNameFriendly in condowners) Рабочая лампа Phoebus (Выключена)",
+    "strNameShort": "Лампа",
+    "strNameFriendly": "Рабочая лампа Phoebus (Выключена)",
     "strDesc": "Повсеместно распространённый промышленный прожектор Phoebus. Оснащён магнитными креплениями для ног.",
     "strItemDef": "ItmToolWorkLamp01",
     "strType": "Item",
@@ -29508,8 +29508,8 @@
   },
   {
     "strName": "ItmToolWorkLamp01On",
-    "strNameShort": "Lamp",
-    "strNameFriendly": "(strNameFriendly in condowners) Рабочая лампа Phoebus",
+    "strNameShort": "Лампа",
+    "strNameFriendly": "Рабочая лампа Phoebus",
     "strDesc": "Повсеместно распространённый промышленный прожектор Phoebus. Оснащён магнитными креплениями для ног.",
     "strItemDef": "ItmToolWorkLamp01On",
     "strType": "Item",
@@ -29574,7 +29574,7 @@
   },
   {
     "strName": "ItmToothbrush01",
-    "strNameShort": "Toothbrush",
+    "strNameShort": "Зубная щётка",
     "strNameFriendly": "Testudo \"AstroBristle Classic\"",
     "strDesc": "AstroBristle Classic от Testudo: «Выбор космонавтов для межпланетной чистоты, что просто вне этого мира!»",
     "strItemDef": "ItmToothbrush01",
@@ -29620,8 +29620,8 @@
   },
   {
     "strName": "ItmTowingBrace01",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\"",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\"",
     "strDesc": "Разработанный Ryokka для совместимости со всеми стыковочными системами шлюзов Bieler, этот четырёхсторонний опорный кронштейн с интеллектуальной лебёдкой надёжно фиксирует груз между пристыкованными судами, минимизируя износ и скручивание при буксировке в условиях низкой гравитации.",
     "strItemDef": "ItmTowingBrace01",
     "strType": "Item",
@@ -29663,8 +29663,8 @@
   },
   {
     "strName": "ItmTowingBrace01Secured",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" (Зафиксирован)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" (Зафиксирован)",
     "strDesc": "Разработанный Ryokka для совместимости со всеми стыковочными системами шлюзов Bieler, этот четырёхсторонний опорный кронштейн с интеллектуальной лебёдкой надёжно фиксирует груз между пристыкованными судами, минимизируя износ и скручивание при буксировке в условиях низкой гравитации.",
     "strItemDef": "ItmTowingBrace01Secured",
     "strType": "Item",
@@ -29708,8 +29708,8 @@
   },
   {
     "strName": "ItmTowingBrace01Off",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" (Отключён)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" (Отключён)",
     "strDesc": "Разработанный Ryokka для совместимости со всеми стыковочными системами шлюзов Bieler, этот четырёхсторонний опорный кронштейн с интеллектуальной лебёдкой надёжно фиксирует груз между пристыкованными судами, минимизируя износ и скручивание при буксировке в условиях низкой гравитации.",
     "strItemDef": "ItmTowingBrace01Off",
     "strType": "Item",
@@ -29748,8 +29748,8 @@
   },
   {
     "strName": "ItmTowingBrace01OffSecured",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" (Отключён, Зафиксирован)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" (Отключён, Зафиксирован)",
     "strDesc": "Разработанный Ryokka для совместимости со всеми стыковочными системами шлюзов Bieler, этот четырёхсторонний опорный кронштейн с интеллектуальной лебёдкой надёжно фиксирует груз между пристыкованными судами, минимизируя износ и скручивание при буксировке в условиях низкой гравитации.",
     "strItemDef": "ItmTowingBrace01Off",
     "strType": "Item",
@@ -29790,8 +29790,8 @@
   },
   {
     "strName": "ItmTowingBrace01Dmg",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" (Повреждён)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" (Повреждён)",
     "strDesc": "Разработанный Ryokka для совместимости со всеми стыковочными системами шлюзов Bieler, этот четырёхсторонний опорный кронштейн с интеллектуальной лебёдкой надёжно фиксирует груз между пристыкованными судами, минимизируя износ и скручивание при буксировке в условиях низкой гравитации.",
     "strItemDef": "ItmTowingBrace01Dmg",
     "strType": "Item",
@@ -29829,8 +29829,8 @@
   },
   {
     "strName": "ItmTowingBrace01DmgSecured",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" (Повреждён, Зафиксирован)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" (Повреждён, Зафиксирован)",
     "strDesc": "Разработанный Ryokka для совместимости со всеми стыковочными системами шлюзов Bieler, этот четырёхсторонний опорный кронштейн с интеллектуальной лебёдкой надёжно фиксирует груз между пристыкованными судами, минимизируя износ и скручивание при буксировке в условиях низкой гравитации.",
     "strItemDef": "ItmTowingBrace01Dmg",
     "strType": "Item",
@@ -29870,8 +29870,8 @@
   },
   {
     "strName": "ItmTowingBrace01Loose",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" 1/2 (Отсоединён)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" 1/2 (Отсоединён)",
     "strDesc": "Для установки требуются две незакреплённые распорки.",
     "strItemDef": "ItmTowingBrace01Loose",
     "strType": "Item",
@@ -29912,8 +29912,8 @@
   },
   {
     "strName": "ItmTowingBrace01DmgLoose",
-    "strNameShort": "(strNameShort in condowners) Буксировочный замок",
-    "strNameFriendly": "(strNameFriendly in condowners) Буксировочный замок Ryokka \"T7N\" 1/2 (Повреждён, Отсоединён)",
+    "strNameShort": "Буксировочный замок",
+    "strNameFriendly": "Буксировочный замок Ryokka \"T7N\" 1/2 (Повреждён, Отсоединён)",
     "strDesc": "Для установки требуются две незакреплённые распорки.",
     "strItemDef": "ItmTowingBrace01DmgLoose",
     "strType": "Item",
@@ -29955,10 +29955,10 @@
   },
   {
     "strName": "ItmToyDinosaur01",
-    "strNameShort": "Toy",
+    "strNameShort": "Игрушка",
     "strItemDef": "ItmToyDinosaur01",
-    "strDesc": "(strDesc in condowners) Динамичная игрушка-динозавр из популярной серии «Эта земля... До начала времён».",
-    "strNameFriendly": "(strNameFriendly in condowners) Игрушка: Паразавролофиллион",
+    "strDesc": "Динамичная игрушка-динозавр из популярной серии «Эта земля... До начала времён».",
+    "strNameFriendly": "Игрушка: Паразавролофиллион",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 1,
@@ -30002,10 +30002,10 @@
   },
   {
     "strName": "ItmToyDinosaur02",
-    "strNameShort": "Toy",
+    "strNameShort": "Игрушка",
     "strItemDef": "ItmToyDinosaur02",
-    "strDesc": "(strDesc in condowners) Динамичная игрушка-динозавр из популярной серии «Эта земля... До начала времён».",
-    "strNameFriendly": "(strNameFriendly in condowners) Игрушка: Тюдикозавр Рекс",
+    "strDesc": "Динамичная игрушка-динозавр из популярной серии «Эта земля... До начала времён».",
+    "strNameFriendly": "Игрушка: Тюдикозавр Рекс",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 1,
@@ -30049,8 +30049,8 @@
   },
   {
     "strName": "ItmStrengthTrainer01",
-    "strNameShort": "(strNameShort in condowners) Тренажёр для укрепления мышц",
-    "strNameFriendly": "(strNameFriendly in condowners) Функциональная система нагрузочных упражнений (FLEX)",
+    "strNameShort": "Тренажёр для укрепления мышц",
+    "strNameFriendly": "Функциональная система нагрузочных упражнений (FLEX)",
     "strDesc": "Используя передовую технологию адаптивного усилия, функциональная нагрузочная экзосистема Halvorson (FLEX) имитирует земную гравитацию, обеспечивая эффективные целенаправленные тренировки, которые помогают сохранять мышечную массу в условиях микрогравитации. Это делает её обязательным дополнением к кораблю для космонавтов по всей Солнечной системе, предпочитающих держать мышцы в тонусе.",
     "strItemDef": "ItmStrengthTrainer01",
     "strType": "Item",
@@ -30099,8 +30099,8 @@
   },
   {
     "strName": "ItmStrengthTrainer01Active",
-    "strNameShort": "(strNameShort in condowners) Тренажёр для укрепления мышц",
-    "strNameFriendly": "(strNameFriendly in condowners) Функциональная система нагрузочных упражнений (FLEX) (Работает)",
+    "strNameShort": "Тренажёр для укрепления мышц",
+    "strNameFriendly": "Функциональная система нагрузочных упражнений (FLEX) (Работает)",
     "strDesc": "Используя передовую технологию адаптивного усилия, функциональная нагрузочная экзосистема Halvorson (FLEX) имитирует земную гравитацию, обеспечивая эффективные целенаправленные тренировки, которые помогают сохранять мышечную массу в условиях микрогравитации. Это делает её обязательным дополнением к кораблю для космонавтов по всей Солнечной системе, предпочитающих держать мышцы в тонусе.",
     "strItemDef": "ItmStrengthTrainer01Active",
     "strType": "Item",
@@ -30147,8 +30147,8 @@
   },
   {
     "strName": "ItmStrengthTrainer01Off",
-    "strNameShort": "(strNameShort in condowners) Тренажёр для укрепления мышц",
-    "strNameFriendly": "(strNameFriendly in condowners) Функциональная Экзосистема Нагрузки (FLEX) (Выкл.)",
+    "strNameShort": "Тренажёр для укрепления мышц",
+    "strNameFriendly": "Функциональная Экзосистема Нагрузки (FLEX) (Выкл.)",
     "strDesc": "Используя передовую технологию адаптивного усилия, функциональная нагрузочная экзосистема Halvorson (FLEX) имитирует земную гравитацию, обеспечивая эффективные целенаправленные тренировки, которые помогают сохранять мышечную массу в условиях микрогравитации. Это делает её обязательным дополнением к кораблю для космонавтов по всей Солнечной системе, предпочитающих держать мышцы в тонусе.",
     "strItemDef": "ItmStrengthTrainer01Off",
     "strType": "Item",
@@ -30194,8 +30194,8 @@
   },
   {
     "strName": "ItmStrengthTrainer01Dmg",
-    "strNameShort": "(strNameShort in condowners) Тренажёр для укрепления мышц",
-    "strNameFriendly": "(strNameFriendly in condowners) Функциональная Экзосистема Нагрузки (FLEX) (Повреждено)",
+    "strNameShort": "Тренажёр для укрепления мышц",
+    "strNameFriendly": "Функциональная Экзосистема Нагрузки (FLEX) (Повреждено)",
     "strDesc": "Используя передовую технологию адаптивного усилия, функциональная нагрузочная экзосистема Halvorson (FLEX) имитирует земную гравитацию, обеспечивая эффективные целенаправленные тренировки, которые помогают сохранять мышечную массу в условиях микрогравитации. Это делает её обязательным дополнением к кораблю для космонавтов по всей Солнечной системе, предпочитающих держать мышцы в тонусе.",
     "strItemDef": "ItmStrengthTrainer01Dmg",
     "strType": "Item",
@@ -30239,8 +30239,8 @@
   },
   {
     "strName": "ItmStrengthTrainer01DmgLoose",
-    "strNameShort": "(strNameShort in condowners) Тренажёр для укрепления мышц",
-    "strNameFriendly": "(strNameFriendly in condowners) Функциональная Экзосистема Нагрузки (FLEX) (Повреждено, Не закреплено)",
+    "strNameShort": "Тренажёр для укрепления мышц",
+    "strNameFriendly": "Функциональная Экзосистема Нагрузки (FLEX) (Повреждено, Не закреплено)",
     "strDesc": "Используя передовую технологию адаптивного усилия, функциональная нагрузочная экзосистема Halvorson (FLEX) имитирует земную гравитацию, обеспечивая эффективные целенаправленные тренировки, которые помогают сохранять мышечную массу в условиях микрогравитации. Это делает её обязательным дополнением к кораблю для космонавтов по всей Солнечной системе, предпочитающих держать мышцы в тонусе.",
     "strItemDef": "ItmStrengthTrainer01DmgLoose",
     "strType": "Item",
@@ -30283,8 +30283,8 @@
   },
   {
     "strName": "ItmStrengthTrainer01Loose",
-    "strNameShort": "(strNameShort in condowners) Тренажёр для укрепления мышц",
-    "strNameFriendly": "(strNameFriendly in condowners) Функциональная Экзосистема Нагрузки (FLEX) (Не закреплено)",
+    "strNameShort": "Тренажёр для укрепления мышц",
+    "strNameFriendly": "Функциональная Экзосистема Нагрузки (FLEX) (Не закреплено)",
     "strDesc": "Используя передовую технологию адаптивного усилия, функциональная нагрузочная экзосистема Halvorson (FLEX) имитирует земную гравитацию, обеспечивая эффективные целенаправленные тренировки, которые помогают сохранять мышечную массу в условиях микрогравитации. Это делает её обязательным дополнением к кораблю для космонавтов по всей Солнечной системе, предпочитающих держать мышцы в тонусе.",
     "strItemDef": "ItmStrengthTrainer01Loose",
     "strType": "Item",
@@ -30326,7 +30326,7 @@
   },
   {
     "strName": "ItmTreadmill01",
-    "strNameShort": "Treadmill",
+    "strNameShort": "Беговая дорожка",
     "strNameFriendly": "Treadmill",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01Active",
@@ -30376,8 +30376,8 @@
   },
   {
     "strName": "ItmTreadmill01Active",
-    "strNameShort": "Treadmill",
-    "strNameFriendly": "(strNameFriendly in condowners) Беговая дорожка (Работает)",
+    "strNameShort": "Беговая дорожка",
+    "strNameFriendly": "Беговая дорожка (Работает)",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01Active",
     "strType": "Item",
@@ -30424,8 +30424,8 @@
   },
   {
     "strName": "ItmTreadmill01Off",
-    "strNameShort": "Treadmill",
-    "strNameFriendly": "(strNameFriendly in condowners) Беговая дорожка (Выкл.)",
+    "strNameShort": "Беговая дорожка",
+    "strNameFriendly": "Беговая дорожка (Выкл.)",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01Off",
     "strType": "Item",
@@ -30471,8 +30471,8 @@
   },
   {
     "strName": "ItmTreadmill01Dmg",
-    "strNameShort": "Treadmill",
-    "strNameFriendly": "(strNameFriendly in condowners) Беговая дорожка (Повреждена)",
+    "strNameShort": "Беговая дорожка",
+    "strNameFriendly": "Беговая дорожка (Повреждена)",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01Dmg",
     "strType": "Item",
@@ -30517,8 +30517,8 @@
   },
   {
     "strName": "ItmTreadmill01DmgLoose",
-    "strNameShort": "Treadmill",
-    "strNameFriendly": "(strNameFriendly in condowners) Беговая дорожка: Halvorson \"Ибн Баттута\" (Повреждена, Не закреплена)",
+    "strNameShort": "Беговая дорожка",
+    "strNameFriendly": "Беговая дорожка: Halvorson \"Ибн Баттута\" (Повреждена, Не закреплена)",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01DmgLoose",
     "strType": "Item",
@@ -30561,8 +30561,8 @@
   },
   {
     "strName": "ItmTreadmill01Loose",
-    "strNameShort": "Treadmill",
-    "strNameFriendly": "(strNameFriendly in condowners) Беговая дорожка: Halvorson \"Ибн Баттута\" (Не закреплена)",
+    "strNameShort": "Беговая дорожка",
+    "strNameFriendly": "Беговая дорожка: Halvorson \"Ибн Баттута\" (Не закреплена)",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01Loose",
     "strType": "Item",
@@ -30603,7 +30603,7 @@
   },
   {
     "strName": "ItmTShirt01",
-    "strNameShort": "(strNameShort in condowners) Футболка",
+    "strNameShort": "Футболка",
     "strItemDef": "ItmTShirt01",
     "strDesc": "Лёгкая облегающая футболка. Футболки — это один из немногих способов выразить свой стиль под скафандром.",
     "strNameFriendly": "Футболка: белая",
@@ -30661,7 +30661,7 @@
   },
   {
     "strName": "ItmTV01",
-    "strNameShort": "TV",
+    "strNameShort": "ТВ",
     "strNameFriendly": "Renbao \"Smart\" ТВ",
     "strItemDef": "ItmTV01",
     "strType": "Item",
@@ -30709,8 +30709,8 @@
   },
   {
     "strName": "ItmTV01Drama",
-    "strNameShort": "TV",
-    "strNameFriendly": "(strNameFriendly in condowners) \"Умный\" ТВ Renbao (Повторы)",
+    "strNameShort": "ТВ",
+    "strNameFriendly": "\"Умный\" ТВ Renbao (Повторы)",
     "strItemDef": "ItmTV01",
     "strType": "Item",
     "strLoot": null,
@@ -30757,8 +30757,8 @@
   },
   {
     "strName": "ItmTV01Off",
-    "strNameShort": "TV",
-    "strNameFriendly": "(strNameFriendly in condowners) \"Умный\" ТВ Renbao (Выкл.)",
+    "strNameShort": "ТВ",
+    "strNameFriendly": "\"Умный\" ТВ Renbao (Выкл.)",
     "strItemDef": "ItmTV01Off",
     "strType": "Item",
     "strLoot": null,
@@ -30800,8 +30800,8 @@
   },
   {
     "strName": "ItmTV01Loose",
-    "strNameShort": "TV",
-    "strNameFriendly": "(strNameFriendly in condowners) \"Умный\" ТВ Renbao (Не закреплено)",
+    "strNameShort": "ТВ",
+    "strNameFriendly": "\"Умный\" ТВ Renbao (Не закреплено)",
     "strItemDef": "ItmTV01Loose",
     "strType": "Item",
     "strLoot": null,
@@ -30840,8 +30840,8 @@
   },
   {
     "strName": "ItmUbiqWISPNode01",
-    "strNameShort": "(strNameShort in condowners) Узел WISP",
-    "strNameFriendly": "(strNameFriendly in condowners) Узел Ubiq WISP",
+    "strNameShort": "Узел WISP",
+    "strNameFriendly": "Узел Ubiq WISP",
     "strDesc": "Телекоммуникационные узлы Ubiq WISP действуют как миниатюрные орбитальные или наземные ретрансляторы сигнала, которые самоорганизуются в ячеистые сети при достижении критической массы в зоне прямой видимости.",
     "strItemDef": "ItmUbiqWISPNode01",
     "strType": "Item",
@@ -30899,8 +30899,8 @@
   },
   {
     "strName": "ItmUbiqWISPNode01Hacked",
-    "strNameShort": "(strNameShort in condowners) Узел WISP",
-    "strNameFriendly": "(strNameFriendly in condowners) Узел Ubiq WISP (Взломан)",
+    "strNameShort": "Узел WISP",
+    "strNameFriendly": "Узел Ubiq WISP (Взломан)",
     "strDesc": "Телекоммуникационные узлы Ubiq WISP действуют как миниатюрные орбитальные или наземные ретрансляторы сигнала, которые самоорганизуются в ячеистые сети при достижении критической массы в зоне прямой видимости.",
     "strItemDef": "ItmUbiqWISPNode01Hacked",
     "strType": "Item",
@@ -30959,9 +30959,9 @@
   },
   {
     "strName": "ItmVendingMachineCoffee",
-    "strNameShort": "(strNameShort in condowners) Кофемашина",
+    "strNameShort": "Кофемашина",
     "strItemDef": "ItmVendingMachineCoffee",
-    "strNameFriendly": "(strNameShort in condowners) Кофемашина",
+    "strNameFriendly": "Кофемашина",
     "strLoot": "ItmVendingMachineCoffee",
     "strType": "Item",
     "aInteractions": [
@@ -30991,8 +30991,8 @@
   },
   {
     "strName": "ItmVent01Closed",
-    "strNameShort": "Vent",
-    "strNameFriendly": "(strNameFriendly in condowners) Воздуховод (Закрыт)",
+    "strNameShort": "Вентиляция",
+    "strNameFriendly": "Воздуховод (Закрыт)",
     "strDesc": "Вентиляционные решётки серии FF от Kang, часто встречающиеся на кораблях как часть системы жизнеобеспечения. Используются для регулирования свободного потока газа между отсеками.",
     "strItemDef": "ItmVent01Closed",
     "strType": "Item",
@@ -31030,8 +31030,8 @@
   },
   {
     "strName": "ItmVent01Open",
-    "strNameShort": "Vent",
-    "strNameFriendly": "(strNameFriendly in condowners) Воздуховод (Открыт)",
+    "strNameShort": "Вентиляция",
+    "strNameFriendly": "Воздуховод (Открыт)",
     "strDesc": "Вентиляционные решётки серии FF от Kang, часто встречающиеся на кораблях как часть системы жизнеобеспечения. Используются для регулирования свободного потока газа между отсеками.",
     "strItemDef": "ItmVent01Open",
     "strType": "Item",
@@ -31071,8 +31071,8 @@
   },
   {
     "strName": "ItmVent01Loose",
-    "strNameShort": "Vent",
-    "strNameFriendly": "(strNameFriendly in condowners) Воздуховод (Не закреплен)",
+    "strNameShort": "Вентиляция",
+    "strNameFriendly": "Воздуховод (Не закреплен)",
     "strDesc": "Вентиляционные решётки серии FF от Kang, часто встречающиеся на кораблях как часть системы жизнеобеспечения. Используются для регулирования свободного потока газа между отсеками.",
     "strItemDef": "ItmVent01Loose",
     "strType": "Item",
@@ -31109,8 +31109,8 @@
   },
   {
     "strName": "ItmVent02Closed",
-    "strNameShort": "(strNameShort in condowners) Авто-вентиляция",
-    "strNameFriendly": "(strNameFriendly in condowners) Авто-вентиляция (Закрыта)",
+    "strNameShort": "Авто-вентиляция",
+    "strNameFriendly": "Авто-вентиляция (Закрыта)",
     "strDesc": "Вентиляционные решётки серии Kang VF, обычно устанавливаемые на кораблях высокого класса как часть системы жизнеобеспечения, контролирующие свободный поток газа между отсеками. При подаче питания эта продвинутая модель автоматически герметично закрывается при обнаружении небезопасного давления кислорода с любой из сторон и требует ручного открытия.",
     "strItemDef": "ItmVent02Closed",
     "strType": "Item",
@@ -31159,8 +31159,8 @@
   },
   {
     "strName": "ItmVent02Off",
-    "strNameShort": "(strNameShort in condowners) Авто-вентиляция",
-    "strNameFriendly": "(strNameFriendly in condowners) Авто-вентиляция (Выкл.)",
+    "strNameShort": "Авто-вентиляция",
+    "strNameFriendly": "Авто-вентиляция (Выкл.)",
     "strDesc": "Вентиляционные решётки серии Kang VF, обычно устанавливаемые на кораблях высокого класса как часть системы жизнеобеспечения, контролирующие свободный поток газа между отсеками. При подаче питания эта продвинутая модель автоматически герметично закрывается при обнаружении небезопасного давления кислорода с любой из сторон и требует ручного открытия.",
     "strItemDef": "ItmVent02Off",
     "strType": "Item",
@@ -31209,8 +31209,8 @@
   },
   {
     "strName": "ItmVent02Open",
-    "strNameShort": "(strNameShort in condowners) Авто-вентиляция",
-    "strNameFriendly": "(strNameFriendly in condowners) Авто-вентиляция (Открыта)",
+    "strNameShort": "Авто-вентиляция",
+    "strNameFriendly": "Авто-вентиляция (Открыта)",
     "strDesc": "Вентиляционные решётки серии Kang VF, обычно устанавливаемые на кораблях высокого класса как часть системы жизнеобеспечения, контролирующие свободный поток газа между отсеками. При подаче питания эта продвинутая модель автоматически герметично закрывается при обнаружении небезопасного давления кислорода с любой из сторон и требует ручного открытия.",
     "strItemDef": "ItmVent02Open",
     "strType": "Item",
@@ -31264,8 +31264,8 @@
   },
   {
     "strName": "ItmVent02Loose",
-    "strNameShort": "(strNameShort in condowners) Авто-вентиляция",
-    "strNameFriendly": "(strNameFriendly in condowners) Авто-вентиляция (Не закреплена)",
+    "strNameShort": "Авто-вентиляция",
+    "strNameFriendly": "Авто-вентиляция (Не закреплена)",
     "strDesc": "Вентиляционные решётки серии Kang VF, обычно устанавливаемые на кораблях высокого класса как часть системы жизнеобеспечения, контролирующие свободный поток газа между отсеками. При подаче питания эта продвинутая модель автоматически герметично закрывается при обнаружении небезопасного давления кислорода с любой из сторон и требует ручного открытия.",
     "strItemDef": "ItmVent02Loose",
     "strType": "Item",
@@ -31305,7 +31305,7 @@
   },
   {
     "strName": "ItmWall1x1",
-    "strNameShort": "Wall",
+    "strNameShort": "Стена",
     "strNameFriendly": "Wall",
     "strItemDef": "ItmWall1x1",
     "strType": "Item",
@@ -31339,7 +31339,7 @@
   },
   {
     "strName": "ItmWall1x1Loose",
-    "strNameShort": "Wall",
+    "strNameShort": "Стена",
     "strItemDef": "ItmWall1x1Loose",
     "strType": "Item",
     "aInteractions": [
@@ -31370,8 +31370,8 @@
   },
   {
     "strName": "ItmWall1x1Dmg",
-    "strNameShort": "Wall",
-    "strNameFriendly": "(strNameFriendly in condowners) Стена (Повреждена)",
+    "strNameShort": "Стена",
+    "strNameFriendly": "Стена (Повреждена)",
     "strItemDef": "ItmWall1x1Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -31415,8 +31415,8 @@
   },
   {
     "strName": "ItmWall1x1Patch",
-    "strNameShort": "Wall",
-    "strNameFriendly": "(strNameFriendly in condowners) Стена (Заплатка)",
+    "strNameShort": "Стена",
+    "strNameFriendly": "Стена (Заплатка)",
     "strItemDef": "ItmWall1x1Patch",
     "strType": "Item",
     "strLoot": null,
@@ -31453,8 +31453,8 @@
   },
   {
     "strName": "ItmWallAero1x1",
-    "strNameShort": "(strNameShort in condowners) Аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая угловая стена",
+    "strNameShort": "Аэро-стена",
+    "strNameFriendly": "Аэродинамическая угловая стена",
     "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1",
     "strType": "Item",
@@ -31492,8 +31492,8 @@
   },
   {
     "strName": "ItmWallAero1x1Loose",
-    "strNameShort": "(strNameShort in condowners) Аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая угловая стена (Не закреплена)",
+    "strNameShort": "Аэро-стена",
+    "strNameFriendly": "Аэродинамическая угловая стена (Не закреплена)",
     "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1Loose",
     "strType": "Item",
@@ -31528,8 +31528,8 @@
   },
   {
     "strName": "ItmWallAero1x1Sq",
-    "strNameShort": "(strNameShort in condowners) Аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая стена",
+    "strNameShort": "Аэро-стена",
+    "strNameFriendly": "Аэродинамическая стена",
     "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1Sq",
     "strType": "Item",
@@ -31568,8 +31568,8 @@
   },
   {
     "strName": "ItmWallAero1x1SqLoose",
-    "strNameShort": "(strNameShort in condowners) Аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая стена (Не закреплена)",
+    "strNameShort": "Аэро-стена",
+    "strNameFriendly": "Аэродинамическая стена (Не закреплена)",
     "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1SqLoose",
     "strType": "Item",
@@ -31605,8 +31605,8 @@
   },
   {
     "strName": "ItmWallAero1x2Slant",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая наклонная стена 1x2 (Правая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Аэродинамическая наклонная стена 1x2 (Правая)",
     "strDesc": "Правосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x2Slant",
     "strType": "Item",
@@ -31644,8 +31644,8 @@
   },
   {
     "strName": "ItmWallAero1x2SlantLoose",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая наклонная стена 1x2 (Не закреплена, Правая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Аэродинамическая наклонная стена 1x2 (Не закреплена, Правая)",
     "strDesc": "Правосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x2SlantLoose",
     "strType": "Item",
@@ -31680,8 +31680,8 @@
   },
   {
     "strName": "ItmWallAero1x2SlantB",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая наклонная стена 1x2 (Левая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Аэродинамическая наклонная стена 1x2 (Левая)",
     "strDesc": "Левосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x2SlantB",
     "strType": "Item",
@@ -31720,8 +31720,8 @@
   },
   {
     "strName": "ItmWallAero1x2SlantBLoose",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Левая аэродинамическая наклонная стена 1x2 (Не закреплена, Левая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Левая аэродинамическая наклонная стена 1x2 (Не закреплена, Левая)",
     "strDesc": "Левосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x2SlantBLoose",
     "strType": "Item",
@@ -31757,8 +31757,8 @@
   },
   {
     "strName": "ItmWallAero1x3Slant",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая наклонная стена 1x3 (Правая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Аэродинамическая наклонная стена 1x3 (Правая)",
     "strDesc": "Правосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x3Slant",
     "strType": "Item",
@@ -31796,8 +31796,8 @@
   },
   {
     "strName": "ItmWallAero1x3SlantLoose",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая наклонная стена 1x3 (Не закреплена, Правая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Аэродинамическая наклонная стена 1x3 (Не закреплена, Правая)",
     "strDesc": "Правосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x3SlantLoose",
     "strType": "Item",
@@ -31832,8 +31832,8 @@
   },
   {
     "strName": "ItmWallAero1x3SlantB",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
-    "strNameFriendly": "(strNameFriendly in condowners) Аэродинамическая наклонная стена 1x3 (Левая)",
+    "strNameShort": "Наклонная аэро-стена",
+    "strNameFriendly": "Аэродинамическая наклонная стена 1x3 (Левая)",
     "strDesc": "Левосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x3SlantB",
     "strType": "Item",
@@ -31872,7 +31872,7 @@
   },
   {
     "strName": "ItmWallAero1x3SlantBLoose",
-    "strNameShort": "(strNameShort in condowners) Наклонная аэро-стена",
+    "strNameShort": "Наклонная аэро-стена",
     "strNameFriendly": "Аэродинамическая наклонная стена 1x3 (незакреплённая, ЛН)",
     "strDesc": "Левосторонний аэродинамический фюзеляж, включающий формы, снижающие сопротивление и обеспечивающие подъёмную силу и управляемость в атмосфере. Может иметь форму крыла, плавника, стабилизатора или руля.",
     "strItemDef": "ItmWallAero1x3SlantBLoose",
@@ -31909,7 +31909,7 @@
   },
   {
     "strName": "ItmWallPlastic1x1",
-    "strNameShort": "Wall",
+    "strNameShort": "Стена",
     "strNameFriendly": "Стена: Caylon «Серия DuraWal Interior»",
     "strItemDef": "ItmWallPlastic1x1",
     "strType": "Item",
@@ -31945,7 +31945,7 @@
   },
   {
     "strName": "ItmWallPlastic1x1Loose",
-    "strNameShort": "Wall",
+    "strNameShort": "Стена",
     "strNameFriendly": "Стена (незакреплённая): Caylon «Серия DuraWal Interior»",
     "strItemDef": "ItmWallPlastic1x1Loose",
     "strType": "Item",
@@ -31979,7 +31979,7 @@
   },
   {
     "strName": "ItmWallPlastic1x1Dmg",
-    "strNameShort": "Wall",
+    "strNameShort": "Стена",
     "strNameFriendly": "Стена (повреждённая): Caylon «Серия DuraWal Interior»",
     "strItemDef": "ItmWallPlastic1x1Dmg",
     "strType": "Item",
@@ -32028,7 +32028,7 @@
   },
   {
     "strName": "ItmWallPlastic1x1Patch",
-    "strNameShort": "Wall",
+    "strNameShort": "Стена",
     "strNameFriendly": "Стена (заплатка): Caylon «Серия DuraWal Interior»",
     "strItemDef": "ItmWallPlastic1x1Patch",
     "strType": "Item",
@@ -32068,7 +32068,7 @@
   },
   {
     "strName": "ItmWallThin1x1",
-    "strNameShort": "Frame",
+    "strNameShort": "Каркас",
     "strNameFriendly": "Каркас Whipple: Testudo «Серия Rain»",
     "strDesc": "Негерметичный каркас из распорок быстрой сборки, обеспечивающий частичную защиту Уиппла и структурную поддержку, но мало что более.",
     "strItemDef": "ItmWallThin1x1",
@@ -32103,7 +32103,7 @@
   },
   {
     "strName": "ItmWallThin1x1Loose",
-    "strNameShort": "Frame",
+    "strNameShort": "Каркас",
     "strNameFriendly": "Каркас Whipple: Testudo «Серия Rain»",
     "strDesc": "Негерметичный каркас из распорок быстрой сборки, обеспечивающий частичную защиту Уиппла и структурную поддержку, но мало что более.",
     "strItemDef": "ItmWallThin1x1Loose",
@@ -32148,7 +32148,7 @@
   },
   {
     "strName": "ItmWallWindow1x1",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Угловая стена с окном",
     "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1",
@@ -32185,7 +32185,7 @@
   },
   {
     "strName": "ItmWallWindow1x1Loose",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Угловая стена с окном (незакреплённая)",
     "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения достаточно прочного материала, устойчивого к окислению и радиации.",
     "strItemDef": "ItmWallWindow1x1Loose",
@@ -32220,7 +32220,7 @@
   },
   {
     "strName": "ItmWallWindow1x1Dmg",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (повреждённая)",
     "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1Dmg",
@@ -32266,7 +32266,7 @@
   },
   {
     "strName": "ItmWallWindow1x1Patch",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (заплатка)",
     "strItemDef": "ItmWallWindow1x1Patch",
     "strType": "Item",
@@ -32304,7 +32304,7 @@
   },
   {
     "strName": "ItmWallWindow1x1Sq",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном",
     "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1Sq",
@@ -32342,7 +32342,7 @@
   },
   {
     "strName": "ItmWallWindow1x1SqLoose",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (незакреплённая)",
     "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1SqLoose",
@@ -32378,7 +32378,7 @@
   },
   {
     "strName": "ItmWallWindow1x1SqDmg",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (повреждённая)",
     "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1Dmg",
@@ -32425,7 +32425,7 @@
   },
   {
     "strName": "ItmWallWindow1x1SqPatch",
-    "strNameShort": "Window",
+    "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (заплатка)",
     "strItemDef": "ItmWallWindow1x1Patch",
     "strType": "Item",
@@ -32464,7 +32464,7 @@
   },
   {
     "strName": "ItmWorkbench01",
-    "strNameShort": "Workbench",
+    "strNameShort": "Верстак",
     "strNameFriendly": "Workbench",
     "strItemDef": "ItmWorkbench01",
     "strType": "Item",
@@ -32495,7 +32495,7 @@
   },
   {
     "strName": "ItmWristPDA01",
-    "strNameShort": "PDA",
+    "strNameShort": "КПК",
     "strNameFriendly": "КПК Renbao «Portal»",
     "strDesc": "Карманный смарт-КПК Renbao. Повсеместный предмет личного пользования для хранения контактов, управления экипажем и списками дел, фотосъёмки и т.д. Совместим с большинством электронных подсистем, такими как навигационные станции кораблей или другие персональные компьютеры.",
     "strItemDef": "ItmWristPDA01",
@@ -32564,7 +32564,7 @@
   },
   {
     "strName": "ItmWristPDA01Locked",
-    "strNameShort": "PDA",
+    "strNameShort": "КПК",
     "strNameFriendly": "КПК Renbao «Portal» (заблокирован)",
     "strDesc": "Карманный смарт-КПК Renbao. Повсеместный предмет личного пользования для хранения контактов, управления экипажем и списками дел, фотосъёмки и т.д. Совместим с большинством электронных подсистем, такими как навигационные станции кораблей или другие персональные компьютеры.",
     "strItemDef": "ItmWristPDA01Locked",
@@ -32628,7 +32628,7 @@
   },
   {
     "strName": "ItmWristPDA01Dmg",
-    "strNameShort": "PDA",
+    "strNameShort": "КПК",
     "strNameFriendly": "КПК Renbao «Portal» (повреждён)",
     "strDesc": "Карманный смарт-КПК Renbao. Повсеместный предмет личного пользования для хранения контактов, управления экипажем и списками дел, фотосъёмки и т.д. Совместим с большинством электронных подсистем, такими как навигационные станции кораблей или другие персональные компьютеры.",
     "strItemDef": "ItmWristPDA01Dmg",
@@ -32688,7 +32688,7 @@
   },
   {
     "strName": "LiquidBlood",
-    "strNameShort": "Blood",
+    "strNameShort": "Кровь",
     "strNameFriendly": "Blood",
     "strItemDef": "ItmLiquidBlood",
     "strType": "Item",
@@ -32724,7 +32724,7 @@
   },
   {
     "strName": "LiquidCoffee",
-    "strNameShort": "Coffee",
+    "strNameShort": "Кофе",
     "strNameFriendly": "Moretti Coffee",
     "strDesc": "Порция насыщенного кофе Moretti объёмом 6 унций — напиток, адаптированный для космоса и знаменитый по всей Системе. Его часто наслаждаются из специальных питьевых бульбов, разработанных для употребления в невесомости и сохраняющих правильный аромат.",
     "strItemDef": "ItmLiquidBrown",
@@ -32856,7 +32856,7 @@
   },
   {
     "strName": "LiquidVodka",
-    "strNameShort": "Vodka",
+    "strNameShort": "Водка",
     "strNameFriendly": "Бисмертная водка",
     "strDesc": "Порция водки бренда Bismertnaya, созданной нефтяной компанией Soyuzneft. Эта пшеничная водка была произведена, когда Soyuzneft начала поставлять её российским вооружённым силам в 2024 году. Полезна для дезинфекции ран.",
     "strItemDef": "ItmLiquidClear",
@@ -33249,7 +33249,7 @@
   },
   {
     "strName": "OutfitHelmet02",
-    "strNameShort": "Helmet",
+    "strNameShort": "Шлем",
     "strNameFriendly": "Шлем герметичного скафандра",
     "strDesc": "Аналог компенсационного скафандра «Патфайндер». Шлем крепится на шее герметичными уплотнениями, получившими оценку «Приемлемо» как минимум от одной системной организации по стандартизации.",
     "strItemDef": "OutfitHelmet02",
@@ -33299,7 +33299,7 @@
   },
   {
     "strName": "OutfitHelmet02Dmg",
-    "strNameShort": "Helmet",
+    "strNameShort": "Шлем",
     "strNameFriendly": "Шлем герметичного скафандра (повреждён)",
     "strDesc": "Повреждённый шлем от компенсационного скафандра «Патфайндер». Шлем крепится на шее герметичными уплотнениями, получившими оценку «Приемлемо» как минимум от одной системной организации по стандартизации.",
     "strItemDef": "OutfitHelmet02Dmg02",
@@ -33586,7 +33586,7 @@
   },
   {
     "strName": "OutfitSuit01",
-    "strNameShort": "Coat",
+    "strNameShort": "Куртка",
     "strItemDef": "OutfitSuit01",
     "strDesc": "Несмотря на все попытки модных домов искоренить эту тенденцию, коричневые куртки продолжают упрямо появляться то тут, то там.",
     "strNameFriendly": "Коричневый пыльник",
@@ -33670,7 +33670,7 @@
   },
   {
     "strName": "OutfitSuit02",
-    "strNameShort": "Coveralls",
+    "strNameShort": "Комбинезон",
     "strItemDef": "OutfitSuit02",
     "strDesc": "Свободная одежда, закрывающая всё тело, также известная как комбинезон. Защитит вашу скромность и, в общем-то, больше ничего. Жёлтый цвет иногда ассоциируется с оптимизмом и жизнерадостностью; в Xinhua это цвет престижа. Также он ассоциируется с высоковидимыми ремонтными работами.",
     "strNameFriendly": "Жёлтый комбинезон: Ayotimiwa",
@@ -33743,7 +33743,7 @@
   },
   {
     "strName": "OutfitSuit03",
-    "strNameShort": "Coveralls",
+    "strNameShort": "Комбинезон",
     "strItemDef": "OutfitSuit03",
     "strDesc": "Свободная одежда, покрывающая всё тело, также известная как комбинезон. Защитит вашу скромность — и немного больше.",
     "strNameFriendly": "Красный комбинезон: New Cal",
@@ -33828,7 +33828,7 @@
   },
   {
     "strName": "OutfitSuit04",
-    "strNameShort": "Coveralls",
+    "strNameShort": "Комбинезон",
     "strItemDef": "OutfitSuit04",
     "strDesc": "Свободная одежда, закрывающая всё тело, также известная как комбинезон. Защитит вашу скромность и, в общем-то, больше ничего. Зелёный — цвет зависти, но также плодородия и здоровья. К творчеству он отношения не имеет.",
     "strNameFriendly": "Морского цвета комбинезон: Ubiq",
@@ -33913,7 +33913,7 @@
   },
   {
     "strName": "OutfitSuit05",
-    "strNameShort": "Coveralls",
+    "strNameShort": "Комбинезон",
     "strItemDef": "OutfitSuit05",
     "strDesc": "Свободная одежда, закрывающая всё тело, также известная как комбинезон. Защитит вашу скромность и, в общем-то, больше ничего. Песочный — светлый оттенок коричневого. Его самая примечательная черта — полное отсутствие каких-либо примечательных черт.",
     "strNameFriendly": "Песочный комбинезон: Atlantis",
@@ -33998,7 +33998,7 @@
   },
   {
     "strName": "OutfitSuit06",
-    "strNameShort": "Coveralls",
+    "strNameShort": "Комбинезон",
     "strItemDef": "OutfitSuit06",
     "strDesc": "Свободная одежда, покрывающая всё тело, также известная как комбинезон. Защитит вашу скромность — и немного больше.",
     "strNameFriendly": "Свинцово-серый комбинезон: Tharsis Landing",
@@ -34071,7 +34071,7 @@
   },
   {
     "strName": "OutfitSuit07",
-    "strNameShort": "Coveralls",
+    "strNameShort": "Комбинезон",
     "strItemDef": "OutfitSuit07",
     "strDesc": "Свободная одежда, закрывающая всё тело, также известная как комбинезон. Защитит вашу скромность и, в общем-то, больше ничего. Фиолетовый — благоприятный цвет...",
     "strNameFriendly": "Фиолетовый комбинезон",
@@ -34199,7 +34199,7 @@
   },
   {
     "strName": "PocketBreast01",
-    "strNameShort": "Pocket",
+    "strNameShort": "Карман",
     "strItemDef": "Blank",
     "strDesc": "Нагрудный карман на куртках или комбинезонах.",
     "strNameFriendly": "Нагрудный карман",
@@ -34228,7 +34228,7 @@
   },
   {
     "strName": "PocketCoat01",
-    "strNameShort": "Pocket",
+    "strNameShort": "Карман",
     "strItemDef": "Blank",
     "strDesc": "Карман пальто на куртках или пальто.",
     "strNameFriendly": "Карман пальто",
@@ -34368,7 +34368,7 @@
   },
   {
     "strName": "PocketHip01",
-    "strNameShort": "Pocket",
+    "strNameShort": "Карман",
     "strItemDef": "Blank",
     "strDesc": "Боковой карман на штанах или комбинезоне.",
     "strNameFriendly": "Боковой карман",
@@ -34397,7 +34397,7 @@
   },
   {
     "strName": "PocketPouchSmall01",
-    "strNameShort": "Pouch",
+    "strNameShort": "Кобура",
     "strItemDef": "Blank",
     "strDesc": "Небольшая сумка.",
     "strNameFriendly": "Малый подсумок",
@@ -34496,7 +34496,7 @@
   },
   {
     "strName": "PocketSmall01",
-    "strNameShort": "Pocket",
+    "strNameShort": "Карман",
     "strItemDef": "Blank",
     "strDesc": "Маленький карман на эластичных штанах.",
     "strNameFriendly": "Эластичный карман",
@@ -34525,7 +34525,7 @@
   },
   {
     "strName": "Placeholder",
-    "strNameShort": "Placeholder",
+    "strNameShort": "Заглушка",
     "strItemDef": "Blank",
     "strType": "Item",
     "aStartingConds": [
@@ -34585,7 +34585,7 @@
   },
   {
     "strName": "Compartment",
-    "strNameShort": "Compartment",
+    "strNameShort": "Отсек",
     "strNameFriendly": "Compartment",
     "strDesc": "Любое помещение или внешнее пространство в мире считается Отсеком, и каждый из них будет иметь собственные отслеживаемые значения давления газов и температуры.\n\nЛюбой Отсек с проемом, ведущим наружу корабля, будет постепенно выравнивать температуру и давление в соответствии с внешней средой.",
     "strItemDef": "Blank",
@@ -35003,7 +35003,7 @@
   },
   {
     "strName": "SysLootSpawner",
-    "strNameShort": "Spawner",
+    "strNameShort": "Спавнер",
     "strItemDef": "SysLootSpawner",
     "strType": "Item",
     "aInteractions": [
@@ -35050,7 +35050,7 @@
   },
   {
     "strName": "SysORG",
-    "strNameShort": "Organization",
+    "strNameShort": "Организация",
     "strItemDef": "Blank",
     "strType": "Item",
     "strLoot": null,
@@ -35069,7 +35069,7 @@
   },
   {
     "strName": "TIL",
-    "strNameShort": "Tile",
+    "strNameShort": "Плитка",
     "strItemDef": "TIL",
     "strType": "Item",
     "strLoot": null,
@@ -35089,7 +35089,7 @@
   },
   {
     "strName": "ShipCO",
-    "strNameShort": "ShipCO",
+    "strNameShort": "Корабль",
     "strItemDef": "Blank",
     "strType": "Ship",
     "strLoot": null,

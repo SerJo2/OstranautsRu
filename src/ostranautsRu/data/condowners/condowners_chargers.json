@@ -62,7 +62,7 @@
   {
     "strName": "ItmChargerBattDrill01Dmg",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Gott (Повреждено)",
+    "strNameFriendly": "Зарядное устройство: Gott (Повреждено)",
     "strItemDef": "ItmChargerBattDrill01Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -104,7 +104,7 @@
   {
     "strName": "ItmChargerBattDrill01DmgLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Gott (Не закреплено, Повреждено)",
+    "strNameFriendly": "Зарядное устройство: Gott (Не закреплено, Повреждено)",
     "strItemDef": "ItmChargerBattDrill01DmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -150,7 +150,7 @@
   {
     "strName": "ItmChargerBattDrill01Off",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Gott (Выключено)",
+    "strNameFriendly": "Зарядное устройство: Gott (Выключено)",
     "strItemDef": "ItmChargerBattDrill01Off",
     "strType": "Item",
     "strLoot": null,
@@ -201,7 +201,7 @@
   {
     "strName": "ItmChargerBattDrill01OffLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Gott (Не закреплено)",
+    "strNameFriendly": "Зарядное устройство: Gott (Не закреплено)",
     "strItemDef": "ItmChargerBattDrill01OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -246,7 +246,7 @@
   {
     "strName": "ItmChargerBattEVA",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Bingham-12 EVA",
+    "strNameFriendly": "Зарядная станция: Bingham-12 EVA",
     "strItemDef": "ItmChargerBattEVA",
     "strType": "Item",
     "strLoot": null,
@@ -308,7 +308,7 @@
   {
     "strName": "ItmChargerBattEVAOffLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Bingham-12 EVA (Не закреплено)",
+    "strNameFriendly": "Зарядная станция: Bingham-12 EVA (Не закреплено)",
     "strItemDef": "ItmChargerBattEVAOffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -353,7 +353,7 @@
   {
     "strName": "ItmChargerBattEVAOff",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Bingham-12 EVA (Выключено)",
+    "strNameFriendly": "Зарядная станция: Bingham-12 EVA (Выключено)",
     "strItemDef": "ItmChargerBattEVAOff",
     "strType": "Item",
     "strLoot": null,
@@ -407,7 +407,7 @@
   {
     "strName": "ItmChargerBattEVADmgLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Bingham-12 EVA (Не закреплено, Повреждено)",
+    "strNameFriendly": "Зарядная станция: Bingham-12 EVA (Не закреплено, Повреждено)",
     "strItemDef": "ItmChargerBattEVADmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -456,7 +456,7 @@
   {
     "strName": "ItmChargerBattEVADmg",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Bingham-12 EVA (Выключено)",
+    "strNameFriendly": "Зарядная станция: Bingham-12 EVA (Выключено)",
     "strItemDef": "ItmChargerBattEVADmg",
     "strType": "Item",
     "strLoot": null,
@@ -499,7 +499,7 @@
   {
     "strName": "ItmChargerBattery04",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Weber Laser",
+    "strNameFriendly": "Зарядная станция: Weber Laser",
     "strItemDef": "ItmChargerBattery04",
     "strType": "Item",
     "strLoot": null,
@@ -559,7 +559,7 @@
   {
     "strName": "ItmChargerBattery04Dmg",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Weber Laser (Повреждено)",
+    "strNameFriendly": "Зарядная станция: Weber Laser (Повреждено)",
     "strItemDef": "ItmChargerBattery04Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -602,7 +602,7 @@
   {
     "strName": "ItmChargerBattery04DmgLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Weber Laser (Не закреплено, Повреждено)",
+    "strNameFriendly": "Зарядная станция: Weber Laser (Не закреплено, Повреждено)",
     "strItemDef": "ItmChargerBattery04DmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -651,7 +651,7 @@
   {
     "strName": "ItmChargerBattery04Off",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Weber Laser (Выключено)",
+    "strNameFriendly": "Зарядная станция: Weber Laser (Выключено)",
     "strItemDef": "ItmChargerBattery04Off",
     "strType": "Item",
     "strLoot": null,
@@ -702,7 +702,7 @@
   {
     "strName": "ItmChargerBattery04OffLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядная станция: Weber Laser (Не закреплено)",
+    "strNameFriendly": "Зарядная станция: Weber Laser (Не закреплено)",
     "strItemDef": "ItmChargerBattery04OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -750,7 +750,7 @@
   {
     "strName": "ItmChargerBattWelder01",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Halvorson",
+    "strNameFriendly": "Зарядное устройство: Halvorson",
     "strItemDef": "ItmChargerBattWelder01",
     "strType": "Item",
     "strLoot": null,
@@ -810,7 +810,7 @@
   {
     "strName": "ItmChargerBattWelder01OffLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Halvorson (Не закреплено)",
+    "strNameFriendly": "Зарядное устройство: Halvorson (Не закреплено)",
     "strItemDef": "ItmChargerBattWelder01OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -855,7 +855,7 @@
   {
     "strName": "ItmChargerBattWelder01Off",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Halvorson (Выключено)",
+    "strNameFriendly": "Зарядное устройство: Halvorson (Выключено)",
     "strItemDef": "ItmChargerBattWelder01Off",
     "strType": "Item",
     "strLoot": null,
@@ -907,7 +907,7 @@
   {
     "strName": "ItmChargerBattWelder01DmgLoose",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Halvorson (Не закреплено, Повреждено)",
+    "strNameFriendly": "Зарядное устройство: Halvorson (Не закреплено, Повреждено)",
     "strItemDef": "ItmChargerBattWelder01DmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -953,7 +953,7 @@
   {
     "strName": "ItmChargerBattWelder01Dmg",
     "strNameShort": "Зарядное устройство для батарей",
-    "strNameFriendly": "(strNameFriendly in condowners) Зарядное устройство: Halvorson (Повреждено)",
+    "strNameFriendly": "Зарядное устройство: Halvorson (Повреждено)",
     "strItemDef": "ItmChargerBattWelder01Dmg",
     "strType": "Item",
     "strLoot": null,

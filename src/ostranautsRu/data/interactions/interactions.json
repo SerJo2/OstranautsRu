@@ -7714,7 +7714,7 @@
   {
     "strName": "CGEncShadyDealJoinFail",
     "strTitle": "РИСК: Вступить в махинацию (Уличная смекалка)",
-    "strDesc": "(strDesc in interactions) План неплохой, и вы рады в нём участвовать. Несколько недель вы работаете наблюдателем и заодно зарабатываете деньги.",
+    "strDesc": "План неплохой, и вы рады в нём участвовать. Несколько недель вы работаете наблюдателем и заодно зарабатываете деньги.",
     "aInverse": [
       "CGEncImprisoned"
     ],
@@ -8168,7 +8168,7 @@
   {
     "strName": "CGEncRichSchmuckMug",
     "strTitle": "Просто ограбить",
-    "strDesc": "(strDesc in interactions) К чёрту. Иногда путь к богатству — это прямая линия.",
+    "strDesc": "К чёрту. Иногда путь к богатству — это прямая линия.",
     "aInverse": [
       "CGEncImprisoned"
     ],
@@ -8183,7 +8183,7 @@
   {
     "strName": "CGEncRichSchmuckSeduce",
     "strTitle": "Соблазнить",
-    "strDesc": "(strDesc in interactions) Вы ловите взгляды друг друга в переполненном баре. Задержавшийся взгляд, приподнятая бровь — вот и всё, что нужно. Вы настолько хороши. Преступно жаль, что вы зарабатываете на жизнь разборкой космических кораблей.",
+    "strDesc": "Вы ловите взгляды друг друга в переполненном баре. Задержавшийся взгляд, приподнятая бровь — вот и всё, что нужно. Вы настолько хороши. Преступно жаль, что вы зарабатываете на жизнь разборкой космических кораблей.",
     "aLootItms": [
       "addus,SOCNameDropManager"
     ],
@@ -8198,7 +8198,7 @@
   {
     "strName": "CGEncRichSchmuckSeduceMan",
     "strTitle": "Соблазнить",
-    "strDesc": "(strDesc in interactions) Вы ловите его взгляд в переполненном баре. Задержавшийся взгляд, приподнятая бровь — вот и всё, что нужно. Вы настолько хороши. Преступно жаль, что вы зарабатываете на жизнь разборкой космических кораблей.",
+    "strDesc": "Вы ловите его взгляд в переполненном баре. Задержавшийся взгляд, приподнятая бровь — вот и всё, что нужно. Вы настолько хороши. Преступно жаль, что вы зарабатываете на жизнь разборкой космических кораблей.",
     "aInverse": [],
     "fDuration": 0.0,
     "LootCTsUs": "CTRichSchmuckSeduce",
@@ -8210,7 +8210,7 @@
   {
     "strName": "CGEncRichSchmuckSeduceWoman",
     "strTitle": "Соблазнить",
-    "strDesc": "(strDesc in interactions) Вы ловите её взгляд в переполненном баре. Задержавшийся взгляд, приподнятая бровь — вот и всё, что нужно. Вы настолько хороши. Преступно жаль, что вы зарабатываете на жизнь разборкой космических кораблей.",
+    "strDesc": "Вы ловите её взгляд в переполненном баре. Задержавшийся взгляд, приподнятая бровь — вот и всё, что нужно. Вы настолько хороши. Преступно жаль, что вы зарабатываете на жизнь разборкой космических кораблей.",
     "aInverse": [],
     "fDuration": 0.0,
     "LootCTsUs": "CTRichSchmuckSeduce",
@@ -8433,7 +8433,7 @@
   {
     "strName": "CGEncDailyGrindUndergroundBoxing",
     "strTitle": "Бойцовский клуб",
-    "strDesc": "(strDesc in interactions) Повторы боев Freefall Fighting Championship на портале уже не arousят. Нужно кому-то врезать. Нужно, чтобы врезали тебе. Хватит этой медленной смерти от тысячи порезов, ежедневной рутины и ХРЕНИ. Пора заняться физической стиркой — отделить боль от мук. Если жизнь и должна причинять боль, то пусть она причиняет ЕЁ ПО-НАСТОЯЩЕМУ.",
+    "strDesc": "Повторы боев Freefall Fighting Championship на портале уже не arousят. Нужно кому-то врезать. Нужно, чтобы врезали тебе. Хватит этой медленной смерти от тысячи порезов, ежедневной рутины и ХРЕНИ. Пора заняться физической стиркой — отделить боль от мук. Если жизнь и должна причинять боль, то пусть она причиняет ЕЁ ПО-НАСТОЯЩЕМУ.",
     "aLootItms": [
       "addus,SOCNameDropLEO"
     ],
@@ -8448,7 +8448,7 @@
   {
     "strName": "CGEncDailyGrindShippingNews",
     "strTitle": "Наблюдение за кораблями",
-    "strDesc": "(strDesc in interactions) «Сверхтяжёлый грузовой корабль приближается к подсолнечному максимуму, входит с Jade Rabbit, начинает второй тормозной импульс. Обратите внимание на индиго-маркировку — она частный подрядчик безопасности. Интересно, что она делала на Luna?»",
+    "strDesc": "«Сверхтяжёлый грузовой корабль приближается к подсолнечному максимуму, входит с Jade Rabbit, начинает второй тормозной импульс. Обратите внимание на индиго-маркировку — она частный подрядчик безопасности. Интересно, что она делала на Luna?»",
     "aInverse": [],
     "fDuration": 0.0,
     "LootCTsUs": "CTEncDailyGrindShippingNews",
@@ -8460,7 +8460,7 @@
   {
     "strName": "CGEncRareSalvageIntro",
     "strTitle": "Редкий трофей",
-    "strDesc": "(strDesc in interactions) Она настоящая красавица, Testudo Heavy Lifter 448, и со странной смесью гордости и ужаса вы по контракту разбираете её на части.",
+    "strDesc": "Она настоящая красавица, Testudo Heavy Lifter 448, и со странной смесью гордости и ужаса вы по контракту разбираете её на части.",
     "aInverse": [
       "CGEncRareSalvageTellAyotimiwa",
       "CGEncRareSalvageSmuggleItOffSite",
@@ -8477,7 +8477,7 @@
   {
     "strName": "CGEncRareSalvageTellAyotimiwa",
     "strTitle": "Уведомить корпорацию Ayotimiwa",
-    "strDesc": "(strDesc in interactions) Возможно, вы не одобряете такую практику, или, может быть, на этот раз просто не стоит рисковать. Вас уже проверяли раньше. Никогда не удовольствие объяснять, откуда взялись лишние карманные деньги. Какова бы ни была причина, вы сообщаете своему начальнику, тот — своему, и так далее по цепочке. Из штаба Ayotimiwa в призме направляют специальную команду, которая аккуратно вырезает деталь, помещает её в опломбированный контейнер и оперативно оставляет на пути выхлопа термоядерной горелки.",
+    "strDesc": "Возможно, вы не одобряете такую практику, или, может быть, на этот раз просто не стоит рисковать. Вас уже проверяли раньше. Никогда не удовольствие объяснять, откуда взялись лишние карманные деньги. Какова бы ни была причина, вы сообщаете своему начальнику, тот — своему, и так далее по цепочке. Из штаба Ayotimiwa в призме направляют специальную команду, которая аккуратно вырезает деталь, помещает её в опломбированный контейнер и оперативно оставляет на пути выхлопа термоядерной горелки.",
     "aInverse": [],
     "fDuration": 0.0,
     "LootCTsUs": "CTEncRareSalvageTellAyotimiwa",
@@ -12501,7 +12501,7 @@
   {
     "strName": "JOBKioskDropoff",
     "strTitle": "Курьер — доставка в киоск",
-    "strDesc": "(strDesc in interactions) Обработка доставки предметов в терминал Gig Nexus",
+    "strDesc": "Обработка доставки предметов в терминал Gig Nexus",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -12517,8 +12517,8 @@
   },
   {
     "strName": "JOBKioskPickup",
-    "strTitle": "(strTitle in interactions) Доступ к шкафчику",
-    "strDesc": "(strDesc in interactions) [us] [заглядывает] в шкафчик.",
+    "strTitle": "Доступ к шкафчику",
+    "strDesc": "[us] [заглядывает] в шкафчик.",
     "strTooltip": " Забирает или доставляет рабочие предметы.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12537,7 +12537,7 @@
   },
   {
     "strName": "JOBMVPCourierTestAbandonClient",
-    "strTitle": "(strTitle in interactions) Курьер — отказ клиента",
+    "strTitle": "Курьер — отказ клиента",
     "strDesc": "Обработка изменений в отношении заказчика при отказе игрока от задания",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12555,7 +12555,7 @@
   },
   {
     "strName": "JOBMVPPowerItemAbandonClient",
-    "strTitle": "(strTitle in interactions) Доставка энергопитания — отказ клиента",
+    "strTitle": "Доставка энергопитания — отказ клиента",
     "strDesc": "Обработка изменений в отношении заказчика при отказе игрока от задания",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12573,7 +12573,7 @@
   },
   {
     "strName": "JOBMVPPowerItemAbandonPlayer",
-    "strTitle": "(strTitle in interactions) Доставка энергопитания — отказ игрока",
+    "strTitle": "Доставка энергопитания — отказ игрока",
     "strActionGroup": "Use",
     "strDesc": "",
     "nLogging": 0,
@@ -12588,7 +12588,7 @@
   },
   {
     "strName": "JOBMVPCourierTestAbandonPlayer",
-    "strTitle": "(strTitle in interactions) Курьер — отказ игрока",
+    "strTitle": "Курьер — отказ игрока",
     "strActionGroup": "Use",
     "strDesc": "",
     "nLogging": 0,
@@ -12603,8 +12603,8 @@
   },
   {
     "strName": "JOBMVPCourierTestDo",
-    "strTitle": "(strTitle in interactions) Доставить предметы",
-    "strDesc": "(strDesc in interactions) [us] [передаёт] доставку [them].",
+    "strTitle": "Доставить предметы",
+    "strDesc": "[us] [передаёт] доставку [them].",
     "strTooltip": " Доставляет рабочий предмет цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12622,7 +12622,7 @@
   },
   {
     "strName": "JOBMVPCourierTestFinishClient",
-    "strTitle": "(strTitle in interactions) Курьерский заказ выполнен",
+    "strTitle": "Курьерский заказ выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12639,7 +12639,7 @@
   },
   {
     "strName": "JOBMVPPowerItemFinishClient",
-    "strTitle": "(strTitle in interactions) Заказ по доставке энергопитания выполнен",
+    "strTitle": "Заказ по доставке энергопитания выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12656,7 +12656,7 @@
   },
   {
     "strName": "JOBMVPPowerItemFinishPlayer",
-    "strTitle": "(strTitle in interactions) Заказ по доставке энергопитания выполнен",
+    "strTitle": "Заказ по доставке энергопитания выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12674,7 +12674,7 @@
   },
   {
     "strName": "JOBMVPCourierTestFinishPlayer",
-    "strTitle": "(strTitle in interactions) Курьерский заказ выполнен",
+    "strTitle": "Курьерский заказ выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12732,7 +12732,7 @@
   },
   {
     "strName": "JOBMVPPowerItemSetupClientLocker",
-    "strTitle": "(strTitle in interactions) ДОСТАВКА ОПАСНОГО ПРЕДМЕТА (ПИТАНИЕ, ТЕМП.)",
+    "strTitle": "ДОСТАВКА ОПАСНОГО ПРЕДМЕТА (ПИТАНИЕ, ТЕМП.)",
     "strDesc": "[us] ищет надёжную и быструю доставку продвинутого суперкомпьютера с ИИ, обладающего значительными требованиями к электропитанию и тепловыделению. На борту компьютера находится [txt1]",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12752,7 +12752,7 @@
   },
   {
     "strName": "JOBMVPCourierPowerItemSetupPlayer",
-    "strTitle": "(strTitle in interactions) Залог за заказ по доставке энергопитания",
+    "strTitle": "Залог за заказ по доставке энергопитания",
     "strActionGroup": "Use",
     "strDesc": "",
     "nLogging": 0,
@@ -13344,7 +13344,7 @@
   },
   {
     "strName": "JOBMVPHoneypotDoFailWords",
-    "strTitle": "(strTitle in interactions) Отказаться от разглашения конфиденциальной информации",
+    "strTitle": "Отказаться от разглашения конфиденциальной информации",
     "strDesc": "[us] [говорит], что [us-subj] ни за что не стал(а) бы обсуждать с [them] нечто столь личное.",
     "strActionGroup": "Talk",
     "nLogging": 1,
@@ -13365,7 +13365,7 @@
   },
   {
     "strName": "JOBMVPHoneypotFinishClient",
-    "strTitle": "(strTitle in interactions) Заказ «Приманка» выполнен",
+    "strTitle": "Заказ «Приманка» выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13382,7 +13382,7 @@
   },
   {
     "strName": "JOBMVPHoneypotFinishPlayer",
-    "strTitle": "(strTitle in interactions) Заказ «Приманка» выполнен",
+    "strTitle": "Заказ «Приманка» выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13400,7 +13400,7 @@
   },
   {
     "strName": "JOBDeadBody1FinishClient",
-    "strTitle": "(strTitle in interactions) Заказ «Труп 1» выполнен",
+    "strTitle": "Заказ «Труп 1» выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13417,7 +13417,7 @@
   },
   {
     "strName": "JOBMVPTestFinishClient",
-    "strTitle": "(strTitle in interactions) Заказ «Разведка безопасности» выполнен",
+    "strTitle": "Заказ «Разведка безопасности» выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13434,7 +13434,7 @@
   },
   {
     "strName": "JOBMVPTest01FinishClient",
-    "strTitle": "(strTitle in interactions) Заказ «Разведка безопасности» выполнен",
+    "strTitle": "Заказ «Разведка безопасности» выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13451,7 +13451,7 @@
   },
   {
     "strName": "JOBHeavy1FinishClient",
-    "strTitle": "(strTitle in interactions) Заказ «Тяжёлый удар 1» выполнен",
+    "strTitle": "Заказ «Тяжёлый удар 1» выполнен",
     "strDesc": "[us] — заказчик, [them] — цель. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13468,7 +13468,7 @@
   },
   {
     "strName": "JOBHeavy1FinishPlayer",
-    "strTitle": "(strTitle in interactions) Заказ «Тяжёлый удар 1» выполнен",
+    "strTitle": "Заказ «Тяжёлый удар 1» выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13486,7 +13486,7 @@
   },
   {
     "strName": "JOBMVPTestFinishPlayer",
-    "strTitle": "(strTitle in interactions) Заказ «Разведка безопасности» выполнен",
+    "strTitle": "Заказ «Разведка безопасности» выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13504,7 +13504,7 @@
   },
   {
     "strName": "JOBMVPTest01FinishPlayer",
-    "strTitle": "(strTitle in interactions) Заказ «Разведка безопасности» выполнен",
+    "strTitle": "Заказ «Разведка безопасности» выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13522,7 +13522,7 @@
   },
   {
     "strName": "JOBDeadBody1FinishPlayer",
-    "strTitle": "(strTitle in interactions) Заказ «Труп 1» выполнен",
+    "strTitle": "Заказ «Труп 1» выполнен",
     "strDesc": "[us] — исполнитель, [them] — заказчик. Задание выполнено? Плюс применение социальных/репутационных последствий",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13540,7 +13540,7 @@
   },
   {
     "strName": "JOBMVPTestSetupClient00",
-    "strTitle": "(strTitle in interactions) РАЗВЕДКА БЕЗОПАСНОСТИ",
+    "strTitle": "РАЗВЕДКА БЕЗОПАСНОСТИ",
     "strDesc": "[us] хочет подставить [them] на [them-shipfriendly], но сначала [us] нужно, чтобы кто-то провел разведку и выяснил, [is] ли там [them-contract].\n\n - Проникнуть на борт [them-shipfriendly]\n - Использовать КПК, чтобы сделать разведывательный снимок [them]\n - Вернуться к терминалу заданий и завершить работу.",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13560,7 +13560,7 @@
   },
   {
     "strName": "JOBMVPTestSetupClient01",
-    "strTitle": "(strTitle in interactions) РАЗВЕДКА БЕЗОПАСНОСТИ",
+    "strTitle": "РАЗВЕДКА БЕЗОПАСНОСТИ",
     "strDesc": "[us] разыскивает информацию о местонахождении [them], который [txt1]\n\nВам необходимо обнаружить [them] на [them-shipfriendly] и использовать КПК, чтобы сделать фотографию, подтверждающую последнее местонахождение.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -13579,7 +13579,7 @@
   },
   {
     "strName": "JOBViolentHeavy1SetupClient",
-    "strTitle": "(strTitle in interactions) ТЯЖЁЛАЯ РАБОТА",
+    "strTitle": "ТЯЖЁЛАЯ РАБОТА",
     "strDesc": "[us] хочет показать [them], насколько серьезно [us-subj] [is] после того, как [them] [txt1]\n\n\n - Проникнуть на борт [them-shipfriendly]\n - Найти и тяжело ранить [them], не убивая [them-obj]\n - Передать [them], что [us] передает [us-pos] приветствия \n - Вернуться к терминалу заданий и завершить работу",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13607,7 +13607,7 @@
   },
   {
     "strName": "JOBDeadBody1SetupClient01",
-    "strTitle": "(strTitle in interactions) РАССЛЕДОВАНИЕ СМЕРТИ",
+    "strTitle": "РАССЛЕДОВАНИЕ СМЕРТИ",
     "strDesc": "[us] ищет услуги частного детектива для расследования сообщенной смерти [them]. Объект [txt1]\n\nНайдите тело [them-pos] на [them-shipfriendly], осмотрите тело [them-pos], чтобы установить причину смерти, затем передайте эту информацию на терминал Gig Nexus.",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13638,7 +13638,7 @@
   },
   {
     "strName": "JOBMVPHoneypotSetupPlayer",
-    "strTitle": "(strTitle in interactions) Залог за заказ «Приманка»",
+    "strTitle": "Залог за заказ «Приманка»",
     "strActionGroup": "Use",
     "strDesc": "",
     "nLogging": 0,
@@ -13689,7 +13689,7 @@
   },
   {
     "strName": "JOBViolentHeavy1SetupPlayer",
-    "strTitle": "(strTitle in interactions) Контракт на тяжёлый заказ",
+    "strTitle": "Контракт на тяжёлый заказ",
     "strActionGroup": "Use",
     "strDesc": "",
     "nLogging": 0,
@@ -13707,7 +13707,7 @@
   {
     "strName": "PickupDragStart",
     "strTitle": "Захват",
-    "strDesc": "(strDesc in interactions) [us] [собирается] тащить [them].",
+    "strDesc": "[us] [собирается] тащить [them].",
     "strTooltip": "Удерживайте предмет в слоте перетаскивания. Замедляет движение.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13735,7 +13735,7 @@
   {
     "strName": "PickupDragStartNPCPledge",
     "strTitle": "Захват",
-    "strDesc": "(strDesc in interactions) [us] [собирается] тащить [them].",
+    "strDesc": "[us] [собирается] тащить [them].",
     "strTooltip": "Удерживайте предмет в слоте перетаскивания. Замедляет движение.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13762,8 +13762,8 @@
   },
   {
     "strName": "PickupDragAllow",
-    "strTitle": "(strTitle in interactions) Перетаскивание: завершено",
-    "strDesc": "(strDesc in interactions) [them] [тащит] [us].",
+    "strTitle": "Перетаскивание: завершено",
+    "strDesc": "[them] [тащит] [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -13784,9 +13784,9 @@
   },
   {
     "strName": "PickupDragStop",
-    "strTitle": "(strTitle in interactions) Прекратить перетаскивание",
-    "strDesc": "(strDesc in interactions) [us] [собирается] прекратить перетаскивание.",
-    "strTooltip": "(strTooltip in interactions) Убрать предмет из слота перетаскивания.",
+    "strTitle": "Прекратить перетаскивание",
+    "strDesc": "[us] [собирается] прекратить перетаскивание.",
+    "strTooltip": "Убрать предмет из слота перетаскивания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -13809,8 +13809,8 @@
   {
     "strName": "DropCorpse",
     "strTitle": "Drop",
-    "strDesc": "(strDesc in interactions) [us] [бросает] [them].",
-    "strTooltip": "(strTooltip in interactions) Убрать цель из слота перетаскивания.",
+    "strDesc": "[us] [бросает] [them].",
+    "strTooltip": "Убрать цель из слота перетаскивания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0.5,
@@ -13832,8 +13832,8 @@
   },
   {
     "strName": "ShakeOff",
-    "strTitle": "(strTitle in interactions) Скинуть с себя",
-    "strDesc": "(strDesc in interactions) [us] [стряхивает] предметы с [them].",
+    "strTitle": "Скинуть с себя",
+    "strDesc": "[us] [стряхивает] предметы с [them].",
     "strTooltip": "Стряхнуть предмет с перетаскивающего. Возвращает перетаскиваемый предмет на пол.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -13867,7 +13867,7 @@
   },
   {
     "strName": "PickupItem",
-    "strTitle": "(strTitle in interactions) Поднять",
+    "strTitle": "Поднять",
     "strDesc": "[us] [собирается] забрать [them].",
     "strTooltip": "Переместить предмет в подходящий слот инвентаря или в стопку.",
     "strActionGroup": "Use",
@@ -13894,8 +13894,8 @@
   },
   {
     "strName": "PickupItemAllow",
-    "strTitle": "(strTitle in interactions) Подбор предмета: завершено",
-    "strDesc": "(strDesc in interactions) [them] [берёт] [us].",
+    "strTitle": "Подбор предмета: завершено",
+    "strDesc": "[them] [берёт] [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -13917,7 +13917,7 @@
   },
   {
     "strName": "PickupItemStack",
-    "strTitle": "(strTitle in interactions) Поднять стопку",
+    "strTitle": "Поднять стопку",
     "strDesc": "[us] [собирается] забрать [them].",
     "strTooltip": "Переместить стопку предметов в подходящий пустой слот инвентаря.",
     "strActionGroup": "Use",
@@ -13944,8 +13944,8 @@
   },
   {
     "strName": "PickupItemStackAllow",
-    "strTitle": "(strTitle in interactions) Подбор стопки предметов: завершено",
-    "strDesc": "(strDesc in interactions) [them] [берёт] [us].",
+    "strTitle": "Подбор стопки предметов: завершено",
+    "strDesc": "[them] [берёт] [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -13967,7 +13967,7 @@
   },
   {
     "strName": "Placeholder",
-    "strTitle": "(strTitle in interactions) Замена заглушки",
+    "strTitle": "Замена заглушки",
     "strDesc": "[us] [берется] установить [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "placeholder",
@@ -14012,7 +14012,7 @@
   },
   {
     "strName": "Plot3MechanicsSpawn",
-    "strTitle": "(strTitle in interactions) Создать 3 персонажей-механиков",
+    "strTitle": "Создать 3 персонажей-механиков",
     "strDesc": "Создать персонажей, необходимых для 3 Механик.",
     "strActionGroup": "Use",
     "fDuration": 0.0,

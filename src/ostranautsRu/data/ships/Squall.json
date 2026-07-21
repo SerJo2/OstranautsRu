@@ -6008,7 +6008,7 @@
     "year": "2065",
     "origin": "$TEMPLATE",
     "description": "Шаттл среднего размера, разработанный Testudo для ограниченных операций в районе аэростатов Венеры.",
-    "designation": "(designation in ships) Аэро-пассажирский шаттл",
+    "designation": "Аэро-пассажирский шаттл",
     "publicName": "$TEMPLATE",
     "dimensions": "8.32m x 9.92m",
     "fShallowMass": 5273.35,

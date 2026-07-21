@@ -2,26 +2,26 @@
   {
     "strName": "ACTFixerEntryUs",
     "strTitle": "Решала",
-    "strMainText": "(strMainText in context) Убедить Фиксатора дать вам доступ к чёрному рынку."
+    "strMainText": "Убедить Фиксатора дать вам доступ к чёрному рынку."
   },
   {
     "strName": "ACTPortAuthorityEntryUs",
     "strTitle": "Портовая администрация",
-    "strMainText": "(strMainText in context) Убедить клерка списать вам стыковочный сбор на этот раз."
+    "strMainText": "Убедить клерка списать вам стыковочный сбор на этот раз."
   },
   {
     "strName": "ACTPoliceShakedownThem",
     "strTitle": "Полицейский рэкет",
-    "strMainText": "(strMainText in context) Убедите копов позволить вам заняться своими делами или хотя бы минимизировать штраф."
+    "strMainText": "Убедите копов позволить вам заняться своими делами или хотя бы минимизировать штраф."
   },
   {
     "strName": "ACTSTKFollowThem",
     "strTitle": "Отслеживание ставок",
-    "strMainText": "(strMainText in context) Убедить их пойти за вами."
+    "strMainText": "Убедить их пойти за вами."
   },
   {
     "strName": "ACTSTKTemplateThem",
     "strTitle": "Просить об одолжении",
-    "strMainText": "(strMainText in context) Убедить их оказать вам услугу."
+    "strMainText": "Убедить их оказать вам услугу."
   }
 ]

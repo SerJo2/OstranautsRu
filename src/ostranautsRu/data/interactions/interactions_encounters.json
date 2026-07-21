@@ -553,7 +553,7 @@
   {
     "strName": "ENCEmbassyServicesBCRSVisaLocalSponsored",
     "strTitle": "Информация: Местная спонсируемая виза: $500,000",
-    "strDesc": "(strDesc in interactions) Стоимость: $500,000",
+    "strDesc": "Стоимость: $500,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesBCRSVisaLocalSponsoredAccept,[us],[them]",
@@ -825,7 +825,7 @@
   {
     "strName": "ENCEmbassyServicesOKLGVisaInvestor",
     "strTitle": "Информация: Инвесторская виза: $5,000,000",
-    "strDesc": "(strDesc in interactions) Стоимость: $5,000,000",
+    "strDesc": "Стоимость: $5,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesOKLGVisaInvestorAccept",
@@ -873,7 +873,7 @@
   {
     "strName": "ENCEmbassyServicesOKLGVisaSkilledLabor",
     "strTitle": "Информация: Виза квалифицированного специалиста: $750,000",
-    "strDesc": "(strDesc in interactions) Стоимость: $750,000",
+    "strDesc": "Стоимость: $750,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesOKLGVisaSkilledLaborAccept",
@@ -1023,7 +1023,7 @@
   {
     "strName": "ENCEmbassyServicesVENCVisaInvestor",
     "strTitle": "Информация: Инвесторская виза: $5,000,000",
-    "strDesc": "(strDesc in interactions) Стоимость: $5,000,000",
+    "strDesc": "Стоимость: $5,000,000",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCEmbassyServicesVENCVisaInvestorAccept",

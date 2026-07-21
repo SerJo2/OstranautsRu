@@ -1,7 +1,7 @@
 [
   {
     "strName": "AModeGrinder",
-    "strNameFriendly": "(strNameFriendly in attackmodes) угловая шлифмашина",
+    "strNameFriendly": "угловая шлифмашина",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimAngleGrinderSound01",
@@ -13,7 +13,7 @@
   },
   {
     "strName": "AModeGrinderHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimAngleGrinderSound01",
@@ -35,7 +35,7 @@
   },
   {
     "strName": "AModeCanisterShrapnel",
-    "strNameFriendly": "(strNameFriendly in attackmodes) шрапнель",
+    "strNameFriendly": "шрапнель",
     "strType": "ranged",
     "fRange": 1.5,
     "fDmgBlunt": 0.1,
@@ -45,7 +45,7 @@
   },
   {
     "strName": "AModeCollision",
-    "strNameFriendly": "(strNameFriendly in attackmodes) столкновение",
+    "strNameFriendly": "столкновение",
     "strType": "ranged",
     "fRange": 100,
     "fDmgBlunt": 10.0,
@@ -55,7 +55,7 @@
   },
   {
     "strName": "AModeCrowbar",
-    "strNameFriendly": "(strNameFriendly in attackmodes) монтировка",
+    "strNameFriendly": "монтировка",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound08",
@@ -67,7 +67,7 @@
   },
   {
     "strName": "AModeCrowbarHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound08",
@@ -79,7 +79,7 @@
   },
   {
     "strName": "AModeDefault",
-    "strNameFriendly": "(strNameFriendly in attackmodes) брошенный предмет",
+    "strNameFriendly": "брошенный предмет",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -91,7 +91,7 @@
   },
   {
     "strName": "AModeDefaultFire",
-    "strNameFriendly": "(strNameFriendly in attackmodes) огонь",
+    "strNameFriendly": "огонь",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": null,
@@ -103,7 +103,7 @@
   },
   {
     "strName": "AModeDefaultHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -115,7 +115,7 @@
   },
   {
     "strName": "AModeDefaultShaft",
-    "strNameFriendly": "(strNameFriendly in attackmodes) взмах",
+    "strNameFriendly": "взмах",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -127,7 +127,7 @@
   },
   {
     "strName": "AModeDefaultShaftHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -139,7 +139,7 @@
   },
   {
     "strName": "AModeDefaultSharp",
-    "strNameFriendly": "(strNameFriendly in attackmodes) острый предмет",
+    "strNameFriendly": "острый предмет",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -151,7 +151,7 @@
   },
   {
     "strName": "AModeDefaultSharpHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -163,7 +163,7 @@
   },
   {
     "strName": "AModeDefaultSharpStab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар остриём",
+    "strNameFriendly": "удар остриём",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -175,7 +175,7 @@
   },
   {
     "strName": "AModeDefaultSharpStabHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -187,7 +187,7 @@
   },
   {
     "strName": "AModeDefaultSoft",
-    "strNameFriendly": "(strNameFriendly in attackmodes) пощёчина",
+    "strNameFriendly": "пощёчина",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound05",
@@ -199,7 +199,7 @@
   },
   {
     "strName": "AModeDefaultSoftHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound05",
@@ -211,7 +211,7 @@
   },
   {
     "strName": "AModeDerelictBreakIn",
-    "strNameFriendly": "(strNameFriendly in attackmodes) износ",
+    "strNameFriendly": "износ",
     "strType": "ranged",
     "fRange": 100.0,
     "fDmgBlunt": 20.0,
@@ -221,7 +221,7 @@
   },
   {
     "strName": "AModeDrinkBottle01DmgStab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар разбитой бутылкой",
+    "strNameFriendly": "удар разбитой бутылкой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -233,7 +233,7 @@
   },
   {
     "strName": "AModeDrinkBottle01DmgSlash",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар разбитой бутылкой",
+    "strNameFriendly": "удар разбитой бутылкой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -245,7 +245,7 @@
   },
   {
     "strName": "AModeDrinkBottle01DmgHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -257,7 +257,7 @@
   },
   {
     "strName": "AModeExplosionFusion",
-    "strNameFriendly": "(strNameFriendly in attackmodes) взрыв термоядерного заряда",
+    "strNameFriendly": "взрыв термоядерного заряда",
     "strType": "ranged",
     "fRange": 15.0,
     "fDmgBlunt": 0.1,
@@ -267,7 +267,7 @@
   },
   {
     "strName": "AModeExplosionTrad",
-    "strNameFriendly": "(strNameFriendly in attackmodes) взрыв",
+    "strNameFriendly": "взрыв",
     "strType": "ranged",
     "fRange": 15.0,
     "fDmgBlunt": 0.1,
@@ -277,7 +277,7 @@
   },
   {
     "strName": "AModeExplosionTradSmall",
-    "strNameFriendly": "(strNameFriendly in attackmodes) небольшой взрыв",
+    "strNameFriendly": "небольшой взрыв",
     "strType": "ranged",
     "fRange": 1.5,
     "fDmgBlunt": 0.1,
@@ -287,7 +287,7 @@
   },
   {
     "strName": "AModeMicrometeoroid",
-    "strNameFriendly": "(strNameFriendly in attackmodes) микрометеороид",
+    "strNameFriendly": "микрометеороид",
     "strType": "ranged",
     "fRange": 100.0,
     "fDmgBlunt": 11.0,
@@ -297,7 +297,7 @@
   },
   {
     "strName": "AModePistol01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из пистолета .45",
+    "strNameFriendly": "выстрел из пистолета .45",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound01",
@@ -309,7 +309,7 @@
   },
   {
     "strName": "AModePistol02",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из 9мм пистолета",
+    "strNameFriendly": "выстрел из 9мм пистолета",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound02",
@@ -321,7 +321,7 @@
   },
   {
     "strName": "AModePistol03",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из револьвера .38",
+    "strNameFriendly": "выстрел из револьвера .38",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound03",
@@ -333,7 +333,7 @@
   },
   {
     "strName": "AModePistol04",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из RiP-пушки",
+    "strNameFriendly": "выстрел из RiP-пушки",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound03",
@@ -345,7 +345,7 @@
   },
   {
     "strName": "AModePistolEnergy01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из пистолета HG",
+    "strNameFriendly": "выстрел из пистолета HG",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSound02",
@@ -357,7 +357,7 @@
   },
   {
     "strName": "AModePistolWhip",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар пистолетом",
+    "strNameFriendly": "удар пистолетом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -369,7 +369,7 @@
   },
   {
     "strName": "AModePunch",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар кулаком",
+    "strNameFriendly": "удар кулаком",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -381,7 +381,7 @@
   },
   {
     "strName": "AModePunchQuick",
-    "strNameFriendly": "(strNameFriendly in attackmodes) быстрый удар кулаком",
+    "strNameFriendly": "быстрый удар кулаком",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound02",
@@ -393,7 +393,7 @@
   },
   {
     "strName": "AModePunchHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -405,7 +405,7 @@
   },
   {
     "strName": "AModeRandomWound",
-    "strNameFriendly": "(strNameFriendly in attackmodes) случайное ранение",
+    "strNameFriendly": "случайное ранение",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "fRange": 1.0,
@@ -416,7 +416,7 @@
   },
   {
     "strName": "AModeRandomWoundFatal",
-    "strNameFriendly": "(strNameFriendly in attackmodes) случайное ранение",
+    "strNameFriendly": "случайное ранение",
     "strType": "melee",
     "strCTTargetWound": "TIsWoundVital",
     "bPlayAudioEarly": true,
@@ -428,7 +428,7 @@
   },
   {
     "strName": "AModeFinishingBlow",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -440,7 +440,7 @@
   },
   {
     "strName": "AModeLaserTorch",
-    "strNameFriendly": "(strNameFriendly in attackmodes) сварочный лазер",
+    "strNameFriendly": "сварочный лазер",
     "strType": "ranged",
     "bPlayAudioEarly": false,
     "strAudioAttack": "AnimLaserTorchSound01",
@@ -452,7 +452,7 @@
   },
   {
     "strName": "AModeLaserTorchHelpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "ranged",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimLaserTorchSound01",
@@ -464,7 +464,7 @@
   },
   {
     "strName": "AModeRifle01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из боевой винтовки",
+    "strNameFriendly": "выстрел из боевой винтовки",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01",
@@ -476,7 +476,7 @@
   },
   {
     "strName": "AModeRifle01x3",
-    "strNameFriendly": "(strNameFriendly in attackmodes) очередью из боевой винтовки",
+    "strNameFriendly": "очередью из боевой винтовки",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01Burst",
@@ -490,7 +490,7 @@
   },
   {
     "strName": "AModeRifle02",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из карабина",
+    "strNameFriendly": "выстрел из карабина",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01",
@@ -502,7 +502,7 @@
   },
   {
     "strName": "AModeRifle02HG",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из карабина HG",
+    "strNameFriendly": "выстрел из карабина HG",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01",
@@ -514,7 +514,7 @@
   },
   {
     "strName": "AModeRifle02x3",
-    "strNameFriendly": "(strNameFriendly in attackmodes) очередь из карабина",
+    "strNameFriendly": "очередь из карабина",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01Burst",
@@ -528,7 +528,7 @@
   },
   {
     "strName": "AModeRifle02x3HG",
-    "strNameFriendly": "(strNameFriendly in attackmodes) очередь из карабина HG",
+    "strNameFriendly": "очередь из карабина HG",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundRifle01Burst",
@@ -542,7 +542,7 @@
   },
   {
     "strName": "AModeScrewdriver01Stab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар отвёрткой",
+    "strNameFriendly": "удар отвёрткой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -554,7 +554,7 @@
   },
   {
     "strName": "AModeScrewdriver01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -577,7 +577,7 @@
   },
   {
     "strName": "AModeShotgun01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из дробовика",
+    "strNameFriendly": "выстрел из дробовика",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundShotgun01",
@@ -591,7 +591,7 @@
   },
   {
     "strName": "AModeShotgun02",
-    "strNameFriendly": "(strNameFriendly in attackmodes) выстрел из дробовика HG",
+    "strNameFriendly": "выстрел из дробовика HG",
     "strType": "ranged",
     "bAllowOnInanimate": true,
     "strAudioAttack": "AnimShootSoundShotgun01",
@@ -605,7 +605,7 @@
   },
   {
     "strName": "AModeShotgun01Stock",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар прикладом дробовика",
+    "strNameFriendly": "удар прикладом дробовика",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -617,7 +617,7 @@
   },
   {
     "strName": "AModeSolderingIron01Stab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар паяльником",
+    "strNameFriendly": "удар паяльником",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -629,7 +629,7 @@
   },
   {
     "strName": "AModeSolderingIron01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -641,7 +641,7 @@
   },
   {
     "strName": "AModeTakeDown",
-    "strNameFriendly": "(strNameFriendly in attackmodes) захват",
+    "strNameFriendly": "захват",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -653,7 +653,7 @@
   },
   {
     "strName": "AModeTrip",
-    "strNameFriendly": "(strNameFriendly in attackmodes) подножка",
+    "strNameFriendly": "подножка",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound04",
@@ -665,7 +665,7 @@
   },
   {
     "strName": "AModeWeaponKnuckles01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) кастет",
+    "strNameFriendly": "кастет",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -677,7 +677,7 @@
   },
   {
     "strName": "AModeWeaponKnuckles01Quick",
-    "strNameFriendly": "(strNameFriendly in attackmodes) укол кастетом",
+    "strNameFriendly": "укол кастетом",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound02",
@@ -689,7 +689,7 @@
   },
   {
     "strName": "AModeWeaponKnuckles01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound01",
@@ -701,7 +701,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар битой изо всех сил",
+    "strNameFriendly": "удар битой изо всех сил",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -713,7 +713,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -725,7 +725,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat02",
-    "strNameFriendly": "(strNameFriendly in attackmodes) сокрушительный удар битой",
+    "strNameFriendly": "сокрушительный удар битой",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -737,7 +737,7 @@
   },
   {
     "strName": "AModeWeaponBaseballBat02Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound07",
@@ -749,7 +749,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) порез абордажной саблей",
+    "strNameFriendly": "порез абордажной саблей",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -761,7 +761,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01GripPunch",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар рукоятью абордажной сабли",
+    "strNameFriendly": "удар рукоятью абордажной сабли",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound03",
@@ -773,7 +773,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01Stab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) укол абордажной саблей",
+    "strNameFriendly": "укол абордажной саблей",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -785,7 +785,7 @@
   },
   {
     "strName": "AModeWeaponCutlass01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -797,7 +797,7 @@
   },
   {
     "strName": "AModeWeaponGoat01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) удар очищающим скипетром",
+    "strNameFriendly": "удар очищающим скипетром",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -809,7 +809,7 @@
   },
   {
     "strName": "AModeWeaponGoat01Stab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) укол очищающим скипетром",
+    "strNameFriendly": "укол очищающим скипетром",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -821,7 +821,7 @@
   },
   {
     "strName": "AModeWeaponGoat01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) очищающий удар",
+    "strNameFriendly": "очищающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -833,7 +833,7 @@
   },
   {
     "strName": "AModeWeaponKatana01",
-    "strNameFriendly": "(strNameFriendly in attackmodes) порез катаной",
+    "strNameFriendly": "порез катаной",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -845,7 +845,7 @@
   },
   {
     "strName": "AModeWeaponKatana01Stab",
-    "strNameFriendly": "(strNameFriendly in attackmodes) укол катаной",
+    "strNameFriendly": "укол катаной",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",
@@ -857,7 +857,7 @@
   },
   {
     "strName": "AModeWeaponKatana01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -893,7 +893,7 @@
   },
   {
     "strName": "AModeWeaponKnife01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -941,7 +941,7 @@
   },
   {
     "strName": "AModeWeaponMachete01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -965,7 +965,7 @@
   },
   {
     "strName": "AModeWeaponNightstick01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -989,7 +989,7 @@
   },
   {
     "strName": "AModeWeaponNightstick02Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound09",
@@ -1025,7 +1025,7 @@
   },
   {
     "strName": "AModeWeaponPocketknife01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1061,7 +1061,7 @@
   },
   {
     "strName": "AModeWeaponShiv01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound11",
@@ -1097,7 +1097,7 @@
   },
   {
     "strName": "AModeWeaponSpear01Helpless",
-    "strNameFriendly": "(strNameFriendly in attackmodes) добивающий удар",
+    "strNameFriendly": "добивающий удар",
     "strType": "melee",
     "bPlayAudioEarly": true,
     "strAudioAttack": "AnimMeleeSound10",

@@ -854,7 +854,7 @@
   },
   {
     "strName": "LuxuryGoodsConsumer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Спрос на предметы роскоши",
+    "strFriendlyDescription": "Спрос на предметы роскоши",
     "strOutputCollection": null,
     "fOutputPerHour": 1,
     "aInputCollections": [
@@ -863,7 +863,7 @@
   },
   {
     "strName": "LuxuryGoodsConsumerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Высокий спрос на большое количество предметов роскоши",
+    "strFriendlyDescription": "Высокий спрос на большое количество предметов роскоши",
     "strOutputCollection": null,
     "fOutputPerHour": 3,
     "aInputCollections": [
@@ -872,14 +872,14 @@
   },
   {
     "strName": "LuxuryGoodsProducer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит предметы роскоши",
+    "strFriendlyDescription": "Производит предметы роскоши",
     "strOutputCollection": "AnyLuxuryGoods",
     "fOutputPerHour": 1,
     "aInputCollections": []
   },
   {
     "strName": "MediaConsumer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Спрос на медиаконтент",
+    "strFriendlyDescription": "Спрос на медиаконтент",
     "strOutputCollection": null,
     "fOutputPerHour": 1,
     "aInputCollections": [
@@ -888,7 +888,7 @@
   },
   {
     "strName": "MediaConsumerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Спрос на медиаконтент",
+    "strFriendlyDescription": "Спрос на медиаконтент",
     "strOutputCollection": null,
     "fOutputPerHour": 3,
     "aInputCollections": [
@@ -897,28 +897,28 @@
   },
   {
     "strName": "MediaProducer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит медиаконтент",
+    "strFriendlyDescription": "Производит медиаконтент",
     "strOutputCollection": "AnyMedia",
     "fOutputPerHour": 1,
     "aInputCollections": []
   },
   {
     "strName": "MediaProducerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит медиаконтент",
+    "strFriendlyDescription": "Производит медиаконтент",
     "strOutputCollection": "AnyMedia",
     "fOutputPerHour": 3,
     "aInputCollections": []
   },
   {
     "strName": "MediaProducerx5",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит много медиаконтента",
+    "strFriendlyDescription": "Производит много медиаконтента",
     "strOutputCollection": "AnyMedia",
     "fOutputPerHour": 5,
     "aInputCollections": []
   },
   {
     "strName": "MedicalConsumer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Спрос на медикаменты",
+    "strFriendlyDescription": "Спрос на медикаменты",
     "strOutputCollection": null,
     "fOutputPerHour": 1,
     "aInputCollections": [
@@ -927,7 +927,7 @@
   },
   {
     "strName": "MedicalConsumerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Высокий спрос на медикаменты",
+    "strFriendlyDescription": "Высокий спрос на медикаменты",
     "strOutputCollection": null,
     "fOutputPerHour": 3,
     "aInputCollections": [
@@ -936,28 +936,28 @@
   },
   {
     "strName": "MedicalProducer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит медикаменты",
+    "strFriendlyDescription": "Производит медикаменты",
     "strOutputCollection": "AnyMedical",
     "fOutputPerHour": 1,
     "aInputCollections": []
   },
   {
     "strName": "MedicalProducerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит достаточное количество медикаментов",
+    "strFriendlyDescription": "Производит достаточное количество медикаментов",
     "strOutputCollection": "AnyMedical",
     "fOutputPerHour": 3,
     "aInputCollections": []
   },
   {
     "strName": "MedicalProducerx5",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит много медикаментов",
+    "strFriendlyDescription": "Производит много медикаментов",
     "strOutputCollection": "AnyMedical",
     "fOutputPerHour": 5,
     "aInputCollections": []
   },
   {
     "strName": "MetalConsumer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Спрос на металлы",
+    "strFriendlyDescription": "Спрос на металлы",
     "strOutputCollection": null,
     "fOutputPerHour": 1,
     "aInputCollections": [
@@ -966,7 +966,7 @@
   },
   {
     "strName": "MetalConsumerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Высокий спрос на металлы",
+    "strFriendlyDescription": "Высокий спрос на металлы",
     "strOutputCollection": null,
     "fOutputPerHour": 3,
     "aInputCollections": [
@@ -975,21 +975,21 @@
   },
   {
     "strName": "MetalProducer",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит металлы",
+    "strFriendlyDescription": "Производит металлы",
     "strOutputCollection": "AnyMetal",
     "fOutputPerHour": 1,
     "aInputCollections": []
   },
   {
     "strName": "MetalProducerx3",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит достаточное количество металлов",
+    "strFriendlyDescription": "Производит достаточное количество металлов",
     "strOutputCollection": "AnyMetal",
     "fOutputPerHour": 3,
     "aInputCollections": []
   },
   {
     "strName": "MHNGWaterToFoodConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит продукты питания из воды",
+    "strFriendlyDescription": "Производит продукты питания из воды",
     "strOutputCollection": "AnyFood",
     "fOutputPerHour": 6.87,
     "nOutputPerRun": 5,
@@ -999,7 +999,7 @@
   },
   {
     "strName": "MHNGVolatilesToLifeSupportConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит системы жизнеобеспечения из летучих веществ",
+    "strFriendlyDescription": "Производит системы жизнеобеспечения из летучих веществ",
     "strOutputCollection": "AnyLifeSupport",
     "fOutputPerHour": 6.87,
     "nOutputPerRun": 3,
@@ -1019,7 +1019,7 @@
   },
   {
     "strName": "MHNGMedicalToTrashConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит отходы из медикаментов",
+    "strFriendlyDescription": "Производит отходы из медикаментов",
     "strOutputCollection": "AnyTrash",
     "fOutputPerHour": 6.87,
     "nOutputPerRun": 1,
@@ -1029,7 +1029,7 @@
   },
   {
     "strName": "MHNGMediaToScienceConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит научную продукцию из медиаконтента",
+    "strFriendlyDescription": "Производит научную продукцию из медиаконтента",
     "strOutputCollection": "AnyScience",
     "fOutputPerHour": 6.87,
     "nOutputPerRun": 1,
@@ -1039,7 +1039,7 @@
   },
   {
     "strName": "MHNGTextilesToConsumerGoodsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит потребительские товары из текстиля",
+    "strFriendlyDescription": "Производит потребительские товары из текстиля",
     "strOutputCollection": "AnyConsumerGoods",
     "fOutputPerHour": 6.87,
     "nOutputPerRun": 1,
@@ -1049,7 +1049,7 @@
   },
   {
     "strName": "MLABFoodToTextilesConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит текстиль из продуктов питания",
+    "strFriendlyDescription": "Производит текстиль из продуктов питания",
     "strOutputCollection": "AnyTextiles",
     "fOutputPerHour": 4.58,
     "nOutputPerRun": 3,
@@ -1059,7 +1059,7 @@
   },
   {
     "strName": "MLABFoodToConsumerGoodsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит потребительские товары из продуктов питания",
+    "strFriendlyDescription": "Производит потребительские товары из продуктов питания",
     "strOutputCollection": "AnyConsumerGoods",
     "fOutputPerHour": 4.58,
     "nOutputPerRun": 1,
@@ -1069,7 +1069,7 @@
   },
   {
     "strName": "MLABIndustrialProductsToElectronicsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит электронику из промышленной продукции",
+    "strFriendlyDescription": "Производит электронику из промышленной продукции",
     "strOutputCollection": "AnyElectronics",
     "fOutputPerHour": 4.58,
     "nOutputPerRun": 1,
@@ -1079,7 +1079,7 @@
   },
   {
     "strName": "MLABIndustrialProductsToHVACConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит климатическое оборудование из промышленной продукции",
+    "strFriendlyDescription": "Производит климатическое оборудование из промышленной продукции",
     "strOutputCollection": "AnyHVAC",
     "fOutputPerHour": 4.58,
     "aInputCollections": [
@@ -1088,7 +1088,7 @@
   },
   {
     "strName": "MLABMedicalToTrashConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит отходы из медицинской продукции",
+    "strFriendlyDescription": "Производит отходы из медицинской продукции",
     "strOutputCollection": "AnyTrash",
     "fOutputPerHour": 4.58,
     "nOutputPerRun": 1,
@@ -1108,7 +1108,7 @@
   },
   {
     "strName": "MLABConsumeMedia",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Потребляет медиаконтент",
+    "strFriendlyDescription": "Потребляет медиаконтент",
     "fOutputPerHour": 4.58,
     "aInputCollections": [
       "AnyMedia=1"
@@ -1116,7 +1116,7 @@
   },
   {
     "strName": "MSUZWaterToFoodConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит продукты питания из воды",
+    "strFriendlyDescription": "Производит продукты питания из воды",
     "strOutputCollection": "AnyFood",
     "fOutputPerHour": 2.3,
     "nOutputPerRun": 3,
@@ -1126,7 +1126,7 @@
   },
   {
     "strName": "MSUZPlasticsAndMetalsToElectronicsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит электронику из пластика и металлов",
+    "strFriendlyDescription": "Производит электронику из пластика и металлов",
     "strOutputCollection": "AnyElectronics",
     "fOutputPerHour": 2.3,
     "nOutputPerRun": 4,
@@ -1137,7 +1137,7 @@
   },
   {
     "strName": "MSUZIndustrialProductsToFurnitureConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит мебель из промышленной продукции",
+    "strFriendlyDescription": "Производит мебель из промышленной продукции",
     "strOutputCollection": "AnyFurniture",
     "fOutputPerHour": 2.3,
     "nOutputPerRun": 1,
@@ -1157,7 +1157,7 @@
   },
   {
     "strName": "MTRSElectronicsToConsumerGoodsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит потребительские товары из электроники",
+    "strFriendlyDescription": "Производит потребительские товары из электроники",
     "strOutputCollection": "AnyConsumerGoods",
     "fOutputPerHour": 27.5,
     "aInputCollections": [
@@ -1166,7 +1166,7 @@
   },
   {
     "strName": "MTRSIntoxicantsToMedicalConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит медицинские товары из интоксикантов",
+    "strFriendlyDescription": "Производит медицинские товары из интоксикантов",
     "strOutputCollection": "AnyMedical",
     "fOutputPerHour": 14,
     "aInputCollections": [
@@ -1175,7 +1175,7 @@
   },
   {
     "strName": "MTRSMetalsAndIndustrialProductsAndToolsToFusionPartsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит детали для термоядерных реакторов из металлов и инструментов",
+    "strFriendlyDescription": "Производит детали для термоядерных реакторов из металлов и инструментов",
     "strOutputCollection": "AnyFusionParts",
     "fOutputPerHour": 27.5,
     "nOutputPerRun": 3,
@@ -1187,7 +1187,7 @@
   },
   {
     "strName": "MTRSPlasticsToConsumerGoodsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит потребительские товары из пластика",
+    "strFriendlyDescription": "Производит потребительские товары из пластика",
     "strOutputCollection": "AnyConsumerGoods",
     "fOutputPerHour": 27.5,
     "aInputCollections": [
@@ -1196,7 +1196,7 @@
   },
   {
     "strName": "MTRSPlasticsToTextilesConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит текстиль из пластика",
+    "strFriendlyDescription": "Производит текстиль из пластика",
     "strOutputCollection": "AnyTextiles",
     "fOutputPerHour": 27.5,
     "aInputCollections": [
@@ -1205,7 +1205,7 @@
   },
   {
     "strName": "MTRSPlasticsAndMetalsToElectronicsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит электронику из пластика и металлов",
+    "strFriendlyDescription": "Производит электронику из пластика и металлов",
     "strOutputCollection": "AnyElectronics",
     "fOutputPerHour": 27.5,
     "nOutputPerRun": 2,
@@ -1216,7 +1216,7 @@
   },
   {
     "strName": "MTRSPlasticsAndMetalsToLuxuryGoodsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит предметы роскоши из пластика, металлов и электроники",
+    "strFriendlyDescription": "Производит предметы роскоши из пластика, металлов и электроники",
     "strOutputCollection": "AnyLuxuryGoods",
     "fOutputPerHour": 27.5,
     "aInputCollections": [
@@ -1227,7 +1227,7 @@
   },
   {
     "strName": "MTRSWaterToFoodConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит продукты питания из воды",
+    "strFriendlyDescription": "Производит продукты питания из воды",
     "strOutputCollection": "AnyFood",
     "fOutputPerHour": 14,
     "aInputCollections": [
@@ -1236,7 +1236,7 @@
   },
   {
     "strName": "MTRSWaterToIntoxicantsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит интоксиканты из воды",
+    "strFriendlyDescription": "Производит интоксиканты из воды",
     "strOutputCollection": "AnyIntoxicants",
     "fOutputPerHour": 27.5,
     "aInputCollections": [
@@ -1245,7 +1245,7 @@
   },
   {
     "strName": "MTRSMetalsToIndustrialProductsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит промышленную продукцию из металлов",
+    "strFriendlyDescription": "Производит промышленную продукцию из металлов",
     "strOutputCollection": "AnyIndustrialProducts",
     "fOutputPerHour": 27.5,
     "nOutputPerRun": 2,
@@ -1256,7 +1256,7 @@
   },
   {
     "strName": "MTRSVolatilesToLifeSupportConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит системы жизнеобеспечения из летучих веществ",
+    "strFriendlyDescription": "Производит системы жизнеобеспечения из летучих веществ",
     "strOutputCollection": "AnyLifeSupport",
     "fOutputPerHour": 27.5,
     "nOutputPerRun": 3,
@@ -1266,7 +1266,7 @@
   },
   {
     "strName": "MVOLScienceToMedicalConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит медицинскую продукцию из научной продукции",
+    "strFriendlyDescription": "Производит медицинскую продукцию из научной продукции",
     "strOutputCollection": "AnyMedical",
     "fOutputPerHour": 0.7,
     "nOutputPerRun": 5,
@@ -1276,7 +1276,7 @@
   },
   {
     "strName": "MVOLScienceToIndustrialProductsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит промышленную продукцию из научной продукции",
+    "strFriendlyDescription": "Производит промышленную продукцию из научной продукции",
     "strOutputCollection": "AnyIndustrialProducts",
     "fOutputPerHour": 0.7,
     "nOutputPerRun": 3,
@@ -1286,7 +1286,7 @@
   },
   {
     "strName": "MVOLScienceToControlSystemsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит системы управления из научной продукции",
+    "strFriendlyDescription": "Производит системы управления из научной продукции",
     "strOutputCollection": "AnyControlSystems",
     "fOutputPerHour": 0.7,
     "nOutputPerRun": 1,
@@ -1296,7 +1296,7 @@
   },
   {
     "strName": "MVOLPlasticsToControlSystemsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит системы управления из пластика",
+    "strFriendlyDescription": "Производит системы управления из пластика",
     "strOutputCollection": "AnyControlSystems",
     "fOutputPerHour": 0.7,
     "nOutputPerRun": 1,
@@ -1336,7 +1336,7 @@
   },
   {
     "strName": "MVOLVolatilesToLifeSupportConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит системы жизнеобеспечения из летучих веществ",
+    "strFriendlyDescription": "Производит системы жизнеобеспечения из летучих веществ",
     "strOutputCollection": "AnyLifeSupport",
     "fOutputPerHour": 0.7,
     "nOutputPerRun": 2,
@@ -1358,7 +1358,7 @@
   },
   {
     "strName": "OFLTWaterToIntoxicantsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит интоксиканты из воды",
+    "strFriendlyDescription": "Производит интоксиканты из воды",
     "strOutputCollection": "AnyIntoxicants",
     "fOutputPerHour": 0.1,
     "nOutputPerRun": 1,
@@ -1428,7 +1428,7 @@
   },
   {
     "strName": "OKLGIndustrialProductsToFurnitureConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит мебель из промышленной продукции",
+    "strFriendlyDescription": "Производит мебель из промышленной продукции",
     "strOutputCollection": "AnyFurniture",
     "fOutputPerHour": 0.5,
     "nOutputPerRun": 1,
@@ -1680,7 +1680,7 @@
   },
   {
     "strName": "SVIRMedicalToTrashConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит отходы из медикаментов",
+    "strFriendlyDescription": "Производит отходы из медикаментов",
     "strOutputCollection": "AnyTrash",
     "fOutputPerHour": 18.3,
     "nOutputPerRun": 1,
@@ -1874,7 +1874,7 @@
   },
   {
     "strName": "VCBRIndustrialProductsToHVACConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит климатическое оборудование из промышленной продукции",
+    "strFriendlyDescription": "Производит климатическое оборудование из промышленной продукции",
     "strOutputCollection": "AnyHVAC",
     "fOutputPerHour": 0.1,
     "nOutputPerRun": 1,
@@ -1983,7 +1983,7 @@
   },
   {
     "strName": "VNCAPlasticsToTextilesConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит текстиль из пластика",
+    "strFriendlyDescription": "Производит текстиль из пластика",
     "strOutputCollection": "AnyTextiles",
     "fOutputPerHour": 6.9,
     "nOutputPerRun": 1,
@@ -1993,7 +1993,7 @@
   },
   {
     "strName": "VNCAVolatilesToLifeSupportConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит системы жизнеобеспечения из летучих веществ",
+    "strFriendlyDescription": "Производит системы жизнеобеспечения из летучих веществ",
     "strOutputCollection": "AnyLifeSupport",
     "fOutputPerHour": 6.9,
     "nOutputPerRun": 3,
@@ -2013,7 +2013,7 @@
   },
   {
     "strName": "VNCAMetalToIndustrialProductsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит промышленную продукцию из металлов",
+    "strFriendlyDescription": "Производит промышленную продукцию из металлов",
     "strOutputCollection": "AnyIndustrialProducts",
     "fOutputPerHour": 6.9,
     "nOutputPerRun": 1,
@@ -2023,7 +2023,7 @@
   },
   {
     "strName": "VORBMetalToIndustrialProductsConverter",
-    "strFriendlyDescription": "(strFriendlyDescription in market) Производит промышленную продукцию из металлов",
+    "strFriendlyDescription": "Производит промышленную продукцию из металлов",
     "strOutputCollection": "AnyIndustrialProducts",
     "fOutputPerHour": 3,
     "nOutputPerRun": 1,

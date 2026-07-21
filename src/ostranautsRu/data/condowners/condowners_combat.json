@@ -1,8 +1,8 @@
 [
   {
     "strName": "ItmAmmo12Gauge",
-    "strNameShort": "(strNameShort in condowners) Патроны: картечь",
-    "strNameFriendly": "(strNameFriendly in condowners) Патроны: 12-го калибра 00 Бакшот",
+    "strNameShort": "Патроны: картечь",
+    "strNameFriendly": "Патроны: 12-го калибра 00 Бакшот",
     "strDesc": "Некогда вездесущий тип боеприпасов рабочей лошадки на Old Earth, он по-прежнему имеет множество приверженцев в глубоком космосе. Он выпускает мелкую дробь россыпью, максимально повышая шансы на попадание и ранение движущейся цели.",
     "strItemDef": "ItmAmmo12Gauge",
     "strType": "Item",
@@ -83,8 +83,8 @@
   },
   {
     "strName": "ItmAmmo38",
-    "strNameShort": "(strNameShort in condowners) Патроны: .38",
-    "strNameFriendly": "(strNameFriendly in condowners) Патроны: .38 Special",
+    "strNameShort": "Патроны: .38",
+    "strNameFriendly": "Патроны: .38 Special",
     "strDesc": "Редкие патроны эпохи Старой Земли, когда-то известные низкой отдачей, точностью и стрелками Дикого Запада. Выстрел из такого в космосе, скорее всего, приведёт к быстрой неконтролируемой декомпрессии.",
     "strItemDef": "ItmAmmo38",
     "strType": "Item",
@@ -123,8 +123,8 @@
   },
   {
     "strName": "ItmAmmo45",
-    "strNameShort": "(strNameShort in condowners) Патроны: .45",
-    "strNameFriendly": "(strNameFriendly in condowners) Патроны: .45 ACP",
+    "strNameShort": "Патроны: .45",
+    "strNameFriendly": "Патроны: .45 ACP",
     "strDesc": "Мощные боеприпасы эпохи Старой Земли, известные своей останавливающей способностью и сильной отдачей — более чем достаточно, чтобы пробить как тела, так и переборки.",
     "strItemDef": "ItmAmmo45",
     "strType": "Item",
@@ -163,8 +163,8 @@
   },
   {
     "strName": "ItmAmmo556",
-    "strNameShort": "(strNameShort in condowners) Патроны: 5.56мм",
-    "strNameFriendly": "(strNameShort in condowners) Патроны: 5.56мм",
+    "strNameShort": "Патроны: 5.56мм",
+    "strNameFriendly": "Патроны: 5.56мм",
     "strDesc": "Винтовочный патрон, унаследованный от оружия НАТО с Old Earth; этот тип боеприпасов довольно редко встречается вне военного применения в космосе.",
     "strItemDef": "ItmAmmo556",
     "strType": "Item",
@@ -200,8 +200,8 @@
   },
   {
     "strName": "ItmAmmo55602",
-    "strNameShort": "(strNameShort in condowners) Патроны: 5.56мм",
-    "strNameFriendly": "(strNameFriendly in condowners) Патроны: Special 5.56мм",
+    "strNameShort": "Патроны: 5.56мм",
+    "strNameFriendly": "Патроны: Special 5.56мм",
     "strDesc": "Это особое!",
     "strItemDef": "ItmAmmo55602",
     "strType": "Item",
@@ -318,8 +318,8 @@
   },
   {
     "strName": "ItmAmmo9mm",
-    "strNameShort": "(strNameShort in condowners) Патроны: 9мм",
-    "strNameFriendly": "(strNameFriendly in condowners) Патроны: 9мм FMJ",
+    "strNameShort": "Патроны: 9мм",
+    "strNameFriendly": "Патроны: 9мм FMJ",
     "strDesc": "Когда-то распространённые патроны эпохи Старой Земли, которые всё ещё способны разгерметизировать отсек, несмотря на меньший размер и энергию выстрела по сравнению с другими староземными патронами.",
     "strItemDef": "ItmAmmo9mm",
     "strType": "Item",
@@ -359,8 +359,8 @@
   },
   {
     "strName": "ItmAmmoHullsafe",
-    "strNameShort": "(strNameShort in condowners) Патроны: 9мм HG",
-    "strNameFriendly": "(strNameShort in condowners) Патроны: 9мм HG",
+    "strNameShort": "Патроны: 9мм HG",
+    "strNameFriendly": "Патроны: 9мм HG",
     "strDesc": "9-мм противопехотные патроны, созданные по технологии hollowgel, которая рассеивает силикагелевые шарики при ударе для минимизации риска декомпрессии корпуса.",
     "strItemDef": "ItmAmmoHullsafe",
     "strType": "Item",
@@ -400,8 +400,8 @@
   },
   {
     "strName": "ItmAmmoBolt",
-    "strNameShort": "(strNameShort in condowners) Патроны: Болт",
-    "strNameFriendly": "(strNameFriendly in condowners) Патроны: Арбалетный болт",
+    "strNameShort": "Патроны: Болт",
+    "strNameFriendly": "Патроны: Арбалетный болт",
     "strItemDef": "ItmAmmoBolt",
     "strType": "Item",
     "nStackLimit": 10,
@@ -443,8 +443,8 @@
   },
   {
     "strName": "ItmAmmoCasings01",
-    "strNameShort": "(strNameShort in condowners) Гильзы",
-    "strNameFriendly": "(strNameShort in condowners) Гильзы",
+    "strNameShort": "Гильзы",
+    "strNameFriendly": "Гильзы",
     "strItemDef": "ItmAmmoCasings01",
     "strType": "Item",
     "nStackLimit": 10,
@@ -476,9 +476,9 @@
   },
   {
     "strName": "ItmAmmoPowerCell01",
-    "strNameShort": "(strNameShort in condowners) Патроны: Энергоячейка",
-    "strNameFriendly": "(strNameShort in condowners) Патроны: Энергоячейка",
-    "strDesc": "(strDesc in condowners) Энергоблок для высокотехнологичного энергетического оружия.",
+    "strNameShort": "Патроны: Энергоячейка",
+    "strNameFriendly": "Патроны: Энергоячейка",
+    "strDesc": "Энергоблок для высокотехнологичного энергетического оружия.",
     "strItemDef": "ItmAmmoPowerCell01",
     "strType": "Item",
     "nStackLimit": 1,
@@ -526,7 +526,7 @@
   },
   {
     "strName": "ItmWeaponBaseballBat01",
-    "strNameShort": "Bat",
+    "strNameShort": "Бита",
     "strNameFriendly": "Bat",
     "strDesc": "Классическая бита из староземного развлечения, обычно изготавливаемая из алюминия или фибергласа.",
     "strItemDef": "ItmWeaponBaseballBat01",
@@ -572,7 +572,7 @@
   },
   {
     "strName": "ItmWeaponBaseballBat02",
-    "strNameShort": "Bat",
+    "strNameShort": "Бита",
     "strNameFriendly": "Slugger",
     "strDesc": "Редкая деревянная версия классической биты из староземного развлечения, с выцветшим автографом и перемотанной рукояткой.",
     "strItemDef": "ItmWeaponBaseballBat02",
@@ -619,8 +619,8 @@
   },
   {
     "strName": "ItmWeaponCrossbow01",
-    "strNameShort": "CrossBow",
-    "strNameFriendly": "(strNameFriendly in condowners) Блочный арбалет",
+    "strNameShort": "Арбалет",
+    "strNameFriendly": "Блочный арбалет",
     "strDesc": "Композитный арбалет, который на удивление эффективно метит острые болты в микрогравитации. Эта классическая дуговая версия — современная интерпретация средневековых конструкций с задним взводным механизмом.",
     "strItemDef": "ItmWeaponCrossbow01",
     "strType": "Item",
@@ -677,8 +677,8 @@
   },
   {
     "strName": "ItmWeaponCrossbow02",
-    "strNameShort": "CrossBow",
-    "strNameFriendly": "(strNameFriendly in condowners) Безрукий арбалет",
+    "strNameShort": "Арбалет",
+    "strNameFriendly": "Безрукий арбалет",
     "strDesc": "Безлучный арбалет, который на удивление эффективно метит острые болты в микрогравитации. Эта конструкция компактнее классических дуговых версий, но всё же требует съёмного взводного механизма для перезарядки.",
     "strItemDef": "ItmWeaponCrossbow02",
     "strType": "Item",
@@ -732,7 +732,7 @@
   },
   {
     "strName": "ItmWeaponCutlass01",
-    "strNameShort": "Cutlass",
+    "strNameShort": "Катлас",
     "strNameFriendly": "Cutlass",
     "strDesc": "Это абордажное оружие эпохи парусов может показаться анахронизмом, но в умелых руках короткий изогнутый клинок может быть эффективен против небронированных целей в тесных пространствах.",
     "strItemDef": "ItmWeaponCutlass01",
@@ -783,8 +783,8 @@
   },
   {
     "strName": "ItmWeaponGoat01",
-    "strNameShort": "(strNameShort in condowners) Спинальный скипетр",
-    "strNameFriendly": "(strNameShort in condowners) Спинальный скипетр",
+    "strNameShort": "Спинальный скипетр",
+    "strNameFriendly": "Спинальный скипетр",
     "strDesc": "Необычное оружие, изготовленное из черепа и позвоночника массивного козло-человеческого гибрида — варварское для одних, но тем не менее эффективное. Позволяет как колоть, так и резать большую часть защитной одежды.",
     "strItemDef": "ItmWeaponGoat01",
     "strType": "Item",
@@ -835,7 +835,7 @@
   },
   {
     "strName": "ItmWeaponKatana01",
-    "strNameShort": "Katana",
+    "strNameShort": "Катана",
     "strNameFriendly": "Katana",
     "strDesc": "Длинный изогнутый меч с 70-см однолезвийным клинком и плетёной рукояткой для одной или двух рук. Создан для баланса, точности и стиля, но иногда бывает слишком длинным для тесных пространств.",
     "strItemDef": "ItmWeaponKatana01",
@@ -887,8 +887,8 @@
   },
   {
     "strName": "ItmWeaponKnife01",
-    "strNameShort": "(strNameShort in condowners) Тактический нож",
-    "strNameFriendly": "(strNameFriendly in condowners) Тактический нож",
+    "strNameShort": "Тактический нож",
+    "strNameFriendly": "Тактический нож",
     "strDesc": "Классический 30,5-см боевой нож из углеродистой стали с рукояткой в кожаных кольцах и частично зазубренным лезвием.",
     "strItemDef": "ItmWeaponKnife01",
     "strType": "Item",
@@ -937,9 +937,9 @@
   },
   {
     "strName": "ItmWeaponKnuckles01",
-    "strNameShort": "Knuckleduster",
+    "strNameShort": "Кастет",
     "strNameFriendly": "Knuckleduster",
-    "strDesc": "(strDesc in condowners) Кастет для незаметного утяжеления и усиления ваших ударов.",
+    "strDesc": "Кастет для незаметного утяжеления и усиления ваших ударов.",
     "strItemDef": "ItmWeaponKnuckles01",
     "strType": "Item",
     "strLoot": null,
@@ -984,7 +984,7 @@
   },
   {
     "strName": "ItmWeaponMachete01",
-    "strNameShort": "Machete",
+    "strNameShort": "Мачете",
     "strNameFriendly": "Machete",
     "strDesc": "Городской мачете с 46-см закалённым стальным клинком и рифлёной синтетической рукояткой. Предназначен для рубки и взлома препятствий.",
     "strItemDef": "ItmWeaponMachete01",
@@ -1082,7 +1082,7 @@
   },
   {
     "strName": "ItmWeaponNightstick02",
-    "strNameShort": "Nightstick",
+    "strNameShort": "Дубинка",
     "strNameFriendly": "Nightstick",
     "strDesc": "Длинная Т-дубинка с боковой рукоятью из алюминия, стекловолокна или углеводного композита. Дубинки, вдохновлённые тонфа, часто носятся сотрудниками силовых ведомств в качестве оборонительного средства принуждения к подчинению.",
     "strItemDef": "ItmWeaponNightstick02",
@@ -1474,7 +1474,7 @@
   },
   {
     "strName": "ItmWeaponPocketKnife01",
-    "strNameShort": "Pocketknife",
+    "strNameShort": "Нож",
     "strNameFriendly": "Pocketknife",
     "strDesc": "Маленький складной нож, помещающийся в кармане.",
     "strItemDef": "ItmWeaponPocketKnife01",
@@ -1653,7 +1653,7 @@
   },
   {
     "strName": "ItmWeaponShiv01",
-    "strNameShort": "Shiv",
+    "strNameShort": "Заточка",
     "strNameFriendly": "Shiv",
     "strDesc": "Самодельный клинок из заточённого металла или стекла, обмотанный тканью, шнуром или другими подобными материалами для защиты удерживающей руки.",
     "strItemDef": "ItmWeaponShiv01",
@@ -1887,7 +1887,7 @@
   },
   {
     "strName": "ItmWeaponSpear01",
-    "strNameShort": "Spear",
+    "strNameShort": "Копьё",
     "strNameFriendly": "Spear",
     "strDesc": "Копьё с острым стальным наконечником на метровой рукояти.",
     "strItemDef": "ItmWeaponSpear01",

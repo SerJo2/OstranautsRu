@@ -2844,7 +2844,7 @@
     "model": "Cobra",
     "year": "2061",
     "origin": "$TEMPLATE",
-    "description": "(description in ships) Шасси для аэрогонок, созданное в партнерстве с Mobile Space Systems. Cobra служит платформой для машин множества соревнующихся команд в лигах аэрогонок по всей Системе.",
+    "description": "Шасси для аэрогонок, созданное в партнерстве с Mobile Space Systems. Cobra служит платформой для машин множества соревнующихся команд в лигах аэрогонок по всей Системе.",
     "designation": "Гоночный атмосферный корабль",
     "publicName": "$TEMPLATE",
     "dimensions": "6.72m x 6.08m",

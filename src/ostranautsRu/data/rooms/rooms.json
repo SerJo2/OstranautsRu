@@ -1,7 +1,7 @@
 [
   {
     "strName": "Reactor",
-    "strNameFriendly": "(strNameFriendly in rooms) Реакторный отсек",
+    "strNameFriendly": "Реакторный отсек",
     "strIconName": "reactor",
     "nMinTileSize": 4,
     "nMaxTileSize": -1,
@@ -15,7 +15,7 @@
   },
   {
     "strName": "BridgeRoom",
-    "strNameFriendly": "(strNameFriendly in rooms) Рубка (закрытая)",
+    "strNameFriendly": "Рубка (закрытая)",
     "strIconName": "bridge",
     "nMinTileSize": 4,
     "nMaxTileSize": -1,
@@ -36,7 +36,7 @@
   },
   {
     "strName": "TowingRoom",
-    "strNameFriendly": "(strNameFriendly in rooms) Буксировочный отсек",
+    "strNameFriendly": "Буксировочный отсек",
     "strIconName": "towing",
     "nMinTileSize": 2,
     "nMaxTileSize": -1,
@@ -50,7 +50,7 @@
   },
   {
     "strName": "BridgeArea",
-    "strNameFriendly": "(strNameFriendly in rooms) Рубка (открытая)",
+    "strNameFriendly": "Рубка (открытая)",
     "strIconName": "bridge",
     "nMinTileSize": 4,
     "nMaxTileSize": -1,
@@ -87,7 +87,7 @@
   },
   {
     "strName": "Engineering",
-    "strNameFriendly": "(strNameFriendly in rooms) Машинное отделение",
+    "strNameFriendly": "Машинное отделение",
     "strIconName": "engineering",
     "nMinTileSize": 4,
     "nMaxTileSize": -1,
@@ -101,7 +101,7 @@
   },
   {
     "strName": "WellnessRoom",
-    "strNameFriendly": "(strNameFriendly in rooms) Медотсек",
+    "strNameFriendly": "Медотсек",
     "strIconName": "wellness",
     "nMinTileSize": 4,
     "nMaxTileSize": -1,
@@ -119,7 +119,7 @@
   },
   {
     "strName": "Recreation",
-    "strNameFriendly": "(strNameFriendly in rooms) Рекреационный отсек",
+    "strNameFriendly": "Рекреационный отсек",
     "strIconName": "recreational",
     "nMinTileSize": 10,
     "nMaxTileSize": -1,
@@ -137,7 +137,7 @@
   },
   {
     "strName": "LuxuryQuarters",
-    "strNameFriendly": "(strNameFriendly in rooms) Люксовые каюты",
+    "strNameFriendly": "Люксовые каюты",
     "strIconName": "basicquarters",
     "nMinTileSize": 12,
     "nMaxTileSize": -1,
@@ -196,7 +196,7 @@
   },
   {
     "strName": "BasicQuarters",
-    "strNameFriendly": "(strNameFriendly in rooms) Базовые каюты",
+    "strNameFriendly": "Базовые каюты",
     "strIconName": "basicquarters",
     "nMinTileSize": 8,
     "nMaxTileSize": -1,
@@ -216,7 +216,7 @@
   },
   {
     "strName": "Passenger2",
-    "strNameFriendly": "(strNameFriendly in rooms) Пассажирская каюта (средняя)",
+    "strNameFriendly": "Пассажирская каюта (средняя)",
     "strIconName": "passenger",
     "nMinTileSize": 32,
     "nMaxTileSize": -1,
@@ -235,7 +235,7 @@
   },
   {
     "strName": "Passenger1",
-    "strNameFriendly": "(strNameFriendly in rooms) Пассажирская каюта (малая)",
+    "strNameFriendly": "Пассажирская каюта (малая)",
     "strIconName": "passenger",
     "nMinTileSize": 16,
     "nMaxTileSize": -1,
@@ -254,7 +254,7 @@
   },
   {
     "strName": "GasCargoRoom",
-    "strNameFriendly": "(strNameFriendly in rooms) Грузовой отсек для газов",
+    "strNameFriendly": "Грузовой отсек для газов",
     "strIconName": "storage",
     "nMinTileSize": 12,
     "nMaxTileSize": -1,
@@ -268,7 +268,7 @@
   },
   {
     "strName": "CargoRoom",
-    "strNameFriendly": "(strNameFriendly in rooms) Грузовой отсек",
+    "strNameFriendly": "Грузовой отсек",
     "strIconName": "storage",
     "nMinTileSize": 6,
     "nMaxTileSize": -1,
@@ -282,7 +282,7 @@
   },
   {
     "strName": "CargoRoomExterior",
-    "strNameFriendly": "(strNameFriendly in rooms) Грузовое пространство (внешнее)",
+    "strNameFriendly": "Грузовое пространство (внешнее)",
     "strIconName": "storage",
     "nMinTileSize": 6,
     "nMaxTileSize": -1,
@@ -296,7 +296,7 @@
   },
   {
     "strName": "Blank",
-    "strNameFriendly": "(strNameFriendly in rooms) Без специализации отсека",
+    "strNameFriendly": "Без специализации отсека",
     "strIconName": null,
     "nMinTileSize": -1,
     "nMaxTileSize": -1,

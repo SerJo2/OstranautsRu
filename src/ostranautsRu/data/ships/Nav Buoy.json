@@ -2341,7 +2341,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "ASC",
-    "model": "(model in ships) Периметральный буй 01",
+    "model": "Периметральный буй 01",
     "year": "2036",
     "origin": "K-Leg",
     "description": "",
