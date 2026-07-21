@@ -1,21 +1,14 @@
 [
-  {
-    "strName": "Manual Pages",
-    "aValues": [
-      "Basics",
-      "Базовое Управление",
-      "Work Safety",
-      "Плакат По Охране Труда Из Реестра Ogiso",
-      "Hull Patch",
-      "Заплата Holden От Halvorson",
-      "Nav Console",
-      "Руководство пользователя и справочник пилота для стандартной навигационной консоли Polaris",
-      "Environmental",
-      "Руководство по сертификации систем контроля среды",
-      "Fusion",
-      "Руководство по термоядерному реактору",
-      "Cont'd",
-      "Скоро будет"
-    ]
-  }
-]
+    {
+      "strName" : "Manual Pages",
+      "aValues" : [
+        "Basics","Basic Controls",
+        "Work Safety","Ogiso's Register Work Safety Poster",
+        "Hull Patch","Holden Patch by Halvorson",
+        "Nav Console","Polaris Standard Navigation Console User Manual and Pilot Handbook",
+        "Environmental","Environmental Control Systems Certification Guide",
+        "Fusion","Fusion Reactor Manual",
+        "Cont'd","Coming Soon"
+     ]
+    }
+  ]
