@@ -8,7 +8,7 @@
       "strIATrigger|PLOTTEMP3ActMIDStartTrigger,[protag],[contact],[target]"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] пишет [us], прося о TEMP3ActMID для [3rd]."
+      "strDesc|[them] пишет [us], прося о TEMP3ActMID для [3rd]."
     ]
   },
   {
@@ -18,7 +18,7 @@
     "strReplace": "TEMP3ActMID",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] должен сказать [them], что [3rd] был TEMP3ActMIDed."
+      "strDesc|[us] должен сказать [them], что [3rd] был TEMP3ActMIDed."
     ]
   },
   {
@@ -28,7 +28,7 @@
     "strReplace": "TEMP3ActMID",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] запускает TEMP3ActMID, сюжетный эпизод 2, с целью [3rd] и контактом [them]."
+      "strDesc|[us] запускает TEMP3ActMID, сюжетный эпизод 2, с целью [3rd] и контактом [them]."
     ]
   },
   {
@@ -40,7 +40,7 @@
       "strIATrigger|PLOTTEMP3ActENDStartTrigger,[protag],[contact],[target]"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] пишет [us], прося о TEMP3ActEND для [3rd]."
+      "strDesc|[them] пишет [us], прося о TEMP3ActEND для [3rd]."
     ]
   },
   {
@@ -50,7 +50,7 @@
     "strReplace": "TEMP3ActEND",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] должен сказать [them], что [3rd] был TEMP3ActENDed."
+      "strDesc|[us] должен сказать [them], что [3rd] был TEMP3ActENDed."
     ]
   },
   {
@@ -60,7 +60,7 @@
     "strReplace": "TEMP3ActEND",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] запускает TEMP3ActEND, сюжетный эпизод 2, с целью [3rd] и контактом [them]."
+      "strDesc|[us] запускает TEMP3ActEND, сюжетный эпизод 2, с целью [3rd] и контактом [them]."
     ]
   }
 ]

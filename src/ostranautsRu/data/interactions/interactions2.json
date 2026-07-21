@@ -585,7 +585,7 @@
   },
   {
     "strName": "SOCOfferThank",
-    "strTitle": "Thank",
+    "strTitle": "Поблагодарить",
     "strDesc": "[us] [благодарит] [them] и с радостью [us-принимает] предложение.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -730,7 +730,7 @@
   },
   {
     "strName": "SOCIntimidate",
-    "strTitle": "Intimidate",
+    "strTitle": "Запугать",
     "strDesc": "[us] [шагает] к [them] угрожающе.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -790,7 +790,7 @@
   },
   {
     "strName": "SOCIntimidateLEO",
-    "strTitle": "Intimidate",
+    "strTitle": "Запугать",
     "strDesc": "[us] [шагает] к [them] угрожающе, демонстрируя символы власти.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -1030,7 +1030,7 @@
   },
   {
     "strName": "SOCSnub",
-    "strTitle": "Snub",
+    "strTitle": "Игнорировать",
     "strDesc": "[us] [пренебрежительно реагирует на] [them] и [us-уходит].",
     "strActionGroup": "Talk",
     "fTargetPointRange": 0.0,
@@ -1716,7 +1716,7 @@
   },
   {
     "strName": "SOCListenIntently",
-    "strTitle": "Listen",
+    "strTitle": "Слушать",
     "strDesc": "[us] [кивает] и [слушает] внимательно.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -1851,7 +1851,7 @@
   },
   {
     "strName": "SOCReminisce",
-    "strTitle": "Reminisce",
+    "strTitle": "Вспомнить",
     "strDesc": "[us] [начинает] рассказывать [them] старые военные истории.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
@@ -2855,7 +2855,7 @@
   },
   {
     "strName": "SeekKillAllow",
-    "strTitle": "Die",
+    "strTitle": "Умереть",
     "strDesc": "[us] [умирает].",
     "strTargetPoint": null,
     "strActionGroup": "Talk",
@@ -2906,7 +2906,7 @@
   },
   {
     "strName": "SeekKillTarget",
-    "strTitle": "Kill",
+    "strTitle": "Убить",
     "strDesc": "[us] [пытается] убить [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Fight",
@@ -3051,7 +3051,7 @@
   },
   {
     "strName": "SOCCommiserate",
-    "strTitle": "Commiserate",
+    "strTitle": "Посочувствовать",
     "strDesc": "[us] [сетует] [them] на бессмысленность своего существования.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
@@ -3469,7 +3469,7 @@
   },
   {
     "strName": "SOCGasp",
-    "strTitle": "Gasp",
+    "strTitle": "Ахнуть",
     "strDesc": "[us] [вздыхает] от шока.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -3873,7 +3873,7 @@
   },
   {
     "strName": "SOCScoffSuperstition",
-    "strTitle": "Scoff",
+    "strTitle": "Фыркнуть",
     "strDesc": "[us] [фыркает], что всё это — полная чушь.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -3900,7 +3900,7 @@
   },
   {
     "strName": "SOCReassure",
-    "strTitle": "Reassure",
+    "strTitle": "Успокоить",
     "strDesc": "[us] [уверяет] [them], что с [them-subj] всё [будет] хорошо.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
@@ -3936,7 +3936,7 @@
   },
   {
     "strName": "SOCNodAndBreathe",
-    "strTitle": "Nod",
+    "strTitle": "Кивнуть",
     "strDesc": "[us] [делает] глубокий вдох и [кивает].",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -4238,7 +4238,7 @@
   },
   {
     "strName": "SOCInsult",
-    "strTitle": "Insult",
+    "strTitle": "Оскорбить",
     "strDesc": "[us] [оскорбляет] [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
@@ -4302,7 +4302,7 @@
   },
   {
     "strName": "SOCInsultLEO",
-    "strTitle": "Chasten",
+    "strTitle": "Наказать",
     "strDesc": "[us] [оскорбляет] и [осаживает] [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
@@ -5059,7 +5059,7 @@
   },
   {
     "strName": "SOCEncourage",
-    "strTitle": "Encourage",
+    "strTitle": "Подбодрить",
     "strDesc": "[us] [воодушевляет] [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",

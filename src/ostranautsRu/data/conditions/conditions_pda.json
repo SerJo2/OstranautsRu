@@ -364,7 +364,7 @@
   },
   {
     "strName": "PDAGradient11",
-    "strNameFriendly": "(strNameFriendly в условиях) (КПК) Градиент: #11 «Диско»",
+    "strNameFriendly": "(КПК) Градиент: #11 «Диско»",
     "strColor": "Neutral",
     "strDesc": "Заставляет ваш корабль выглядеть как диско!",
     "nDisplaySelf": 2,
@@ -419,7 +419,7 @@
   },
   {
     "strName": "IsPDACartridge",
-    "strNameFriendly": "(strNameFriendly в условиях) Картридж КПК",
+    "strNameFriendly": "Картридж КПК",
     "strColor": "Neutral",
     "strDesc": "[us] может быть установлен в КПК для активации дополнительных функций.",
     "nDisplaySelf": 2,

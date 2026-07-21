@@ -2,7 +2,7 @@
   {
     "strName": "SOCPoliceShakedownNameDrop",
     "strTitle": "Применить имя связного-менеджера OKLG",
-    "strDesc": "(strDesc in archived_content) [us] говорит [them], что было бы жаль, если бы [3rd] об этом узнал(а).",
+    "strDesc": "[us] говорит [them], что было бы жаль, если бы [3rd] об этом узнал(а).",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -25,8 +25,8 @@
   },
   {
     "strName": "SOCPoliceShakedownNameDropAllow",
-    "strTitle": "(strTitle in archived_content) Реакция на имя менеджера OKLG",
-    "strDesc": "(strDesc in archived_content) [us] заметно вздрагивает при упоминании [3rd] и сбивчиво извиняется.",
+    "strTitle": "Реакция на имя менеджера OKLG",
+    "strDesc": "[us] заметно вздрагивает при упоминании [3rd] и сбивчиво извиняется.",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -49,7 +49,7 @@
   {
     "strName": "ENCPoliceBoardAllow",
     "strTitle": "Согласиться",
-    "strDesc": "(strDesc in archived_content) [us] соглашается встретиться с [them].",
+    "strDesc": "[us] соглашается встретиться с [them].",
     "strColor": "Dialogue",
     "bSocial": true,
     "aInverse": [
@@ -72,8 +72,8 @@
   },
   {
     "strName": "ENCPoliceBoardIgnore",
-    "strTitle": "(strTitle in archived_content) Игнорировать",
-    "strDesc": "(strDesc in archived_content) [us] игнорирует [them].",
+    "strTitle": "Игнорировать",
+    "strDesc": "[us] игнорирует [them].",
     "strColor": "Dialogue",
     "bSocial": true,
     "aInverse": [
@@ -94,8 +94,8 @@
   },
   {
     "strName": "ENCPoliceBoardGetAttention",
-    "strTitle": "(strTitle in archived_content) Привлечь внимание",
-    "strDesc": "(strDesc in archived_content) [us] требует внимания [them].",
+    "strTitle": "Привлечь внимание",
+    "strDesc": "[us] требует внимания [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -120,8 +120,8 @@
   },
   {
     "strName": "ENCPoliceBoardForceResponse",
-    "strTitle": "Acknowledge",
-    "strDesc": "(strDesc in archived_content) [us] поворачивается к [them].",
+    "strTitle": "Подтвердить",
+    "strDesc": "[us] поворачивается к [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -146,8 +146,8 @@
   },
   {
     "strName": "ENCPoliceBoardThinking",
-    "strTitle": "Thinking",
-    "strDesc": "(strDesc in archived_content) [us] обдумывает, что делать с [them].",
+    "strTitle": "Думает",
+    "strDesc": "[us] обдумывает, что делать с [them].",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -170,8 +170,8 @@
   },
   {
     "strName": "ENCPoliceBoardQuestioning",
-    "strTitle": "(strTitle in archived_content) Обычный опрос",
-    "strDesc": "(strDesc in archived_content) [us] опрашивает [them] по ряду стандартных вопросов.",
+    "strTitle": "Обычный опрос",
+    "strDesc": "[us] опрашивает [them] по ряду стандартных вопросов.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -198,8 +198,8 @@
   },
   {
     "strName": "ENCPoliceBoardQuestioningAnswerTruthfully",
-    "strTitle": "(strTitle in archived_content) Ответить правдиво",
-    "strDesc": "(strDesc in archived_content) [us] отвечает [them] настолько точно, насколько помнит.",
+    "strTitle": "Ответить правдиво",
+    "strDesc": "[us] отвечает [them] настолько точно, насколько помнит.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -225,8 +225,8 @@
   },
   {
     "strName": "ENCPoliceBoardQuestioningAnswerEvasively",
-    "strTitle": "(strTitle in archived_content) Ответить уклончиво",
-    "strDesc": "(strDesc in archived_content) [us] не лжёт напрямую, но и правду особо не подчёркивает.",
+    "strTitle": "Ответить уклончиво",
+    "strDesc": "[us] не лжёт напрямую, но и правду особо не подчёркивает.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -252,8 +252,8 @@
   },
   {
     "strName": "ENCPoliceBoardQuestioningLie",
-    "strTitle": "Lie",
-    "strDesc": "(strDesc in archived_content) [us] нагло врёт в лицо.",
+    "strTitle": "Солгать",
+    "strDesc": "[us] нагло врёт в лицо.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -279,8 +279,8 @@
   },
   {
     "strName": "ENCPoliceBoardLieBelieves",
-    "strTitle": "Accept",
-    "strDesc": "(strDesc in archived_content) [us], кажется, принимает ложь [them] за чистую монету.",
+    "strTitle": "Принять",
+    "strDesc": "[us], кажется, принимает ложь [them] за чистую монету.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -305,8 +305,8 @@
   },
   {
     "strName": "ENCPoliceBoardSuspiciousQuestioning",
-    "strTitle": "(strTitle in archived_content) Подозрительный опрос",
-    "strDesc": "(strDesc in archived_content) [us] считает, что [them] что-то скрывает, и вопросы становятся всё более жёсткими.",
+    "strTitle": "Подозрительный опрос",
+    "strDesc": "[us] считает, что [them] что-то скрывает, и вопросы становятся всё более жёсткими.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,
@@ -329,8 +329,8 @@
   },
   {
     "strName": "ENCPoliceBoardFishForBribe",
-    "strTitle": "Questioning",
-    "strDesc": "(strDesc in archived_content) [us] ненавязчиво намекает, что [them], возможно, стоит дать взятку.",
+    "strTitle": "Допрос",
+    "strDesc": "[us] ненавязчиво намекает, что [them], возможно, стоит дать взятку.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,

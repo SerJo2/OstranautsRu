@@ -97,7 +97,7 @@
   },
   {
     "strName": "ACTBash",
-    "strTitle": "Bash",
+    "strTitle": "Ударить",
     "strDesc": "[us] [собирается] ударить [them].",
     "strTooltip": "Снижает состояние цели, пока она не будет повреждена или уничтожена.",
     "strActionGroup": "Work",
@@ -132,7 +132,7 @@
   },
   {
     "strName": "ACTBashBig",
-    "strTitle": "Bash",
+    "strTitle": "Ударить",
     "strDesc": "[us] [собирается] ударить [them].",
     "strTooltip": "Снижает состояние цели, пока она не будет повреждена или уничтожена.",
     "strActionGroup": "Work",
@@ -167,7 +167,7 @@
   },
   {
     "strName": "ACTBashAllow",
-    "strTitle": "Bash",
+    "strTitle": "Ударить",
     "strDesc": "[us] [бьёт] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -314,7 +314,7 @@
   },
   {
     "strName": "ACTChairSitAllow",
-    "strTitle": "Sitting",
+    "strTitle": "Сидит",
     "strDesc": "[us] [сидит] на [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "sit",
@@ -470,7 +470,7 @@
   },
   {
     "strName": "ACTChairSitSecureAllow",
-    "strTitle": "Sitting",
+    "strTitle": "Сидит",
     "strDesc": "[us] [сидит], надёжно закрепившись на [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "sit",
@@ -802,7 +802,7 @@
   },
   {
     "strName": "ACTDecorAdmire",
-    "strTitle": "Admire",
+    "strTitle": "Восхищаться",
     "strDesc": "[us] [тратит] немного времени, любуясь деталями [them].",
     "strActionGroup": "Use",
     "strTooltip": "Ищет улучшение настроения, созерцая красоту. Цель должна быть установлена.",
@@ -829,7 +829,7 @@
   },
   {
     "strName": "ACTDecorAdmireAllow",
-    "strTitle": "Admiring",
+    "strTitle": "Восхищение",
     "strDesc": "[us] [любуется] [them] и [us-appreciates] его эстетическими качествами.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -958,7 +958,7 @@
   },
   {
     "strName": "ACTDismantleTEMP",
-    "strTitle": "Dismantle",
+    "strTitle": "Разобрать",
     "strDesc": "[us] [собирается] разобрать [them].",
     "strTooltip": "Аккуратно разбирает предмет для максимального выхода лома. Внимание: демонтаж обычно необратим.",
     "strActionGroup": "Work",
@@ -985,7 +985,7 @@
   },
   {
     "strName": "ACTDismantleTEMPAllow",
-    "strTitle": "Dismantling",
+    "strTitle": "Разборка",
     "strDesc": "[us] [разбирает] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -1009,7 +1009,7 @@
   },
   {
     "strName": "ACTDismantleNoSparksTEMP",
-    "strTitle": "Dismantle",
+    "strTitle": "Разобрать",
     "strDesc": "[us] [собирается] разобрать [them].",
     "strTooltip": "Аккуратно разбирает предмет для максимального получения годных деталей. Внимание: демонтаж обычно необратим.",
     "strActionGroup": "Work",
@@ -1036,7 +1036,7 @@
   },
   {
     "strName": "ACTDismantleNoSparksTEMPAllow",
-    "strTitle": "Dismantling",
+    "strTitle": "Разборка",
     "strDesc": "[us] [разбирает] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -1060,7 +1060,7 @@
   },
   {
     "strName": "ACTFeedItem",
-    "strTitle": "Deliver",
+    "strTitle": "Доставить",
     "strDesc": "[us] [собирается] доставить детали к [them]: [object]",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1294,7 +1294,7 @@
   },
   {
     "strName": "ACTDispenseLiquidAllow",
-    "strTitle": "Dispensing",
+    "strTitle": "Выдача",
     "strDesc": "[us] наливает в [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -1429,7 +1429,7 @@
   },
   {
     "strName": "ACTExcerciseTreadmillDo",
-    "strTitle": "Exercising",
+    "strTitle": "Упражнение",
     "strDesc": "[us] [тренируется] на [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
@@ -1515,7 +1515,7 @@
   },
   {
     "strName": "ACTExcerciseStrengthTrainerDo",
-    "strTitle": "Exercising",
+    "strTitle": "Упражнение",
     "strDesc": "[us] [тренируется] на [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
@@ -1658,7 +1658,7 @@
   },
   {
     "strName": "ACTHaulItem",
-    "strTitle": "Haul",
+    "strTitle": "Тащить",
     "strDesc": "[us] [переносит] [object] на склад.",
     "strTooltip": "Перемещает предмет в соответствующую зону хранения (если она назначена).",
     "strActionGroup": "Work",
@@ -4500,7 +4500,7 @@
   },
   {
     "strName": "ACTPryOpen",
-    "strTitle": "Pry",
+    "strTitle": "Взорвать",
     "strDesc": "[us] [начинает] вскрывать [them].",
     "strTooltip": "Принудительно открывает цель с помощью инструмента для взлома.",
     "strActionGroup": "Use",
@@ -4530,7 +4530,7 @@
   },
   {
     "strName": "ACTPryOpenAllow",
-    "strTitle": "Pry",
+    "strTitle": "Взорвать",
     "strDesc": "[us] [взламывает] [them].",
     "strActionGroup": "Use",
     "strAnim": "Tooling",
@@ -4595,7 +4595,7 @@
   },
   {
     "strName": "ACTScrapTEMP",
-    "strTitle": "Scrap",
+    "strTitle": "Утилизировать",
     "strDesc": "[us] [собирается] разобрать [them] на запчасти.",
     "strTooltip": "Спешно разбирает предмет для его удаления. Получается несколько ломаных деталей.",
     "strActionGroup": "Work",
@@ -4692,7 +4692,7 @@
   },
   {
     "strName": "ACTSpacedFlail",
-    "strTitle": "Flail",
+    "strTitle": "Размахивать",
     "strDesc": "[us] [бешено размахивает] руками.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -4716,7 +4716,7 @@
   },
   {
     "strName": "ACTSpacedFlail2",
-    "strTitle": "Flail",
+    "strTitle": "Размахивать",
     "strDesc": "[us] [слабо машет] руками.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5926,7 +5926,7 @@
   },
   {
     "strName": "ACTStudySkillCont",
-    "strTitle": "Studying",
+    "strTitle": "Изучает",
     "strDesc": "[us] изучает новые концепции, используя [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6593,7 +6593,7 @@
   },
   {
     "strName": "ACTUndamageTEMP",
-    "strTitle": "Restore",
+    "strTitle": "Восстановить",
     "strDesc": "[us] [собирается] восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
@@ -6618,7 +6618,7 @@
   },
   {
     "strName": "ACTUndamageTEMPAllow",
-    "strTitle": "Restoring",
+    "strTitle": "Восстановление",
     "strDesc": "[us] [восстанавливает] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -6641,7 +6641,7 @@
   },
   {
     "strName": "ACTUndamageHullTEMPNPC",
-    "strTitle": "Maintain",
+    "strTitle": "Обслуживать",
     "strDesc": "[us] [собирается] восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
@@ -6666,7 +6666,7 @@
   },
   {
     "strName": "ACTUndamageHullTEMPNPCAllow",
-    "strTitle": "Maintain",
+    "strTitle": "Обслуживать",
     "strDesc": "[us] [обслуживает] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -6689,7 +6689,7 @@
   },
   {
     "strName": "ACTUndamageTEMPNPC",
-    "strTitle": "Maintain",
+    "strTitle": "Обслуживать",
     "strDesc": "[us] [собирается] восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
@@ -6714,7 +6714,7 @@
   },
   {
     "strName": "ACTUndamageTEMPNPCAllow",
-    "strTitle": "Maintain",
+    "strTitle": "Обслуживать",
     "strDesc": "[us] [обслуживает] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -6737,7 +6737,7 @@
   },
   {
     "strName": "ACTUndamageNoSparksTEMP",
-    "strTitle": "Restore",
+    "strTitle": "Восстановить",
     "strDesc": "[us] [собирается] восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
@@ -6762,7 +6762,7 @@
   },
   {
     "strName": "ACTUndamageNoSparksTEMPAllow",
-    "strTitle": "Restoring",
+    "strTitle": "Восстановление",
     "strDesc": "[us] [восстанавливает] [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -6838,7 +6838,7 @@
   },
   {
     "strName": "ACTUninstallTEMP",
-    "strTitle": "Uninstall",
+    "strTitle": "Демонтировать",
     "strDesc": "[us] [собирается] демонтировать [them].",
     "strTooltip": "Демонтирует деталь корабля для перемещения в другое место.",
     "strActionGroup": "Work",
@@ -6883,7 +6883,7 @@
   },
   {
     "strName": "ACTUninstallNoSparksTEMP",
-    "strTitle": "Uninstall",
+    "strTitle": "Демонтировать",
     "strDesc": "[us] [собирается] демонтировать [them].",
     "strTooltip": "Демонтирует деталь корабля для перемещения в другое место.",
     "strActionGroup": "Work",
@@ -8381,7 +8381,7 @@
   },
   {
     "strName": "CGEncDailyGrindHacking",
-    "strTitle": "Hacking",
+    "strTitle": "Взлом",
     "strDesc": "Хорошо жить в космосе — все системы объединены в сеть. Хорошо, когда системы в сети — их создали, чтобы взламывать. В прямом смысле этого слова, судя по кое-каким крамольным заметкам, что вы отыскали в страницах документации во время одного из сетевых погружений.",
     "aInverse": [],
     "fDuration": 0.0,
@@ -8666,7 +8666,7 @@
   },
   {
     "strName": "CGEncPokerGameCheat",
-    "strTitle": "Cheat",
+    "strTitle": "Обмануть",
     "strDesc": "Зеркальные очки. Крутая идея, лет на сто вышедшая из моды, и неспроста. Киберимпланты слишком глупы, чтобы не быть подключёнными к сети, и как только ты его взломал, ты смог видеть глазами этого позёра последние двадцать рук. Ты подглядываешь и обнаруживаешь, что парень наконец-то реально держит монстра.",
     "aInverse": [],
     "fDuration": 0.0,
@@ -8807,7 +8807,7 @@
   },
   {
     "strName": "CGEncCrackdownIntro",
-    "strTitle": "Crackdown",
+    "strTitle": "Облава",
     "strDesc": "«Чжоу, Чжоу, Чжоуи!» — окликает женщина. Вы бросаете то, что делаете, во рту пересохло. То же самое делают ещё около десятка подёнщиков в тесном общежитии — «Серебряный класс эконом-апартаментов» в казармах ASC.",
     "aInverse": [
       "CGEncCrackdownVents",
@@ -8836,7 +8836,7 @@
   },
   {
     "strName": "CGEncCrackdownBluff",
-    "strTitle": "Bluff",
+    "strTitle": "Блефовать",
     "strDesc": "Нельзя провернуть аферу без подготовки. И нельзя довести её до конца без капли удачи. К счастью, сегодня у вас есть и то, и другое.",
     "aInverse": [],
     "fDuration": 0.0,
@@ -9060,7 +9060,7 @@
   },
   {
     "strName": "DefecationFinish",
-    "strTitle": "Defecating",
+    "strTitle": "Нужда",
     "strDesc": "[us] [закончил] испражнение.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -9229,7 +9229,7 @@
   },
   {
     "strName": "DropItem",
-    "strTitle": "Drop",
+    "strTitle": "Бросить",
     "strDesc": "[us] [is] собирается выбросить [them].",
     "strTooltip": "Выбросить один предмет из инвентаря на соседнюю клетку.",
     "strActionGroup": "Use",
@@ -9331,7 +9331,7 @@
   },
   {
     "strName": "EquipItem",
-    "strTitle": "Equip",
+    "strTitle": "Экипировать",
     "strDesc": "[us] [собирается] забрать [them].",
     "strTooltip": "Пытается поместить предмет в подходящий свободный слот экипировки или удержания.",
     "strActionGroup": "Use",
@@ -10477,7 +10477,7 @@
   },
   {
     "strName": "GUIMultiSheet",
-    "strTitle": "Read",
+    "strTitle": "Читать",
     "strDesc": "[us] [читает] [them].",
     "strTooltip": "Детально просматривает содержимое предмета.",
     "strActionGroup": "Use",
@@ -10524,7 +10524,7 @@
   },
   {
     "strName": "GUIOneSheet",
-    "strTitle": "Read",
+    "strTitle": "Читать",
     "strDesc": "[us] [читает] [them].",
     "strTooltip": "Детально просматривает предмет.",
     "strActionGroup": "Use",
@@ -10571,7 +10571,7 @@
   },
   {
     "strName": "GUIOneSheetInspect",
-    "strTitle": "Inspect",
+    "strTitle": "Осмотреть",
     "strDesc": "[us] [осматривает] [them].",
     "strActionGroup": "Use",
     "strTooltip": "Детально просматривает предмет.",
@@ -10641,7 +10641,7 @@
   },
   {
     "strName": "GUIOneSheetInspectAdmire",
-    "strTitle": "Admire",
+    "strTitle": "Восхищаться",
     "strDesc": "[us] [тратит] немного времени, любуясь деталями [them].",
     "strActionGroup": "Use",
     "strTooltip": "Ищет улучшение настроения, созерцая красоту. Цель должна быть установлена.",
@@ -11829,7 +11829,7 @@
   },
   {
     "strName": "GUITradeKiosk",
-    "strTitle": "Trade",
+    "strTitle": "Торговать",
     "strDesc": "[us] [browses] ассортимент [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Use",
@@ -12341,7 +12341,7 @@
   },
   {
     "strName": "JettisonItem",
-    "strTitle": "Jettison",
+    "strTitle": "Катапультировать",
     "strDesc": "[us] [is] собирается выбросить [them]",
     "strTooltip": "Безвозвратно выбрасывает предмет в открытый космос.",
     "strActionGroup": "Use",
@@ -12447,7 +12447,7 @@
   },
   {
     "strName": "JettisonCorpse",
-    "strTitle": "Jettison",
+    "strTitle": "Катапультировать",
     "strDesc": "[us] [катапультирует] [them]",
     "strTooltip": "Безвозвратно катапультирует цель в открытый космос.",
     "strActionGroup": "Use",
@@ -12474,7 +12474,7 @@
   },
   {
     "strName": "JettisonRobot",
-    "strTitle": "Jettison",
+    "strTitle": "Катапультировать",
     "strDesc": "[us] [катапультирует] [them]",
     "strTooltip": "Безвозвратно катапультирует цель в открытый космос.",
     "strActionGroup": "Use",
@@ -13808,7 +13808,7 @@
   },
   {
     "strName": "DropCorpse",
-    "strTitle": "Drop",
+    "strTitle": "Бросить",
     "strDesc": "[us] [бросает] [them].",
     "strTooltip": "Убрать цель из слота перетаскивания.",
     "strActionGroup": "Use",
@@ -15978,7 +15978,7 @@
   },
   {
     "strName": "SeekSleepSimple",
-    "strTitle": "Sleep",
+    "strTitle": "Спать",
     "strDesc": "[us] [пытается] уснуть на [them].",
     "strTooltip": "Пытается уснуть здесь.",
     "strActionGroup": "Use",
@@ -16742,7 +16742,7 @@
   },
   {
     "strName": "SocialCombat",
-    "strTitle": "Socialize",
+    "strTitle": "Общаться",
     "strDesc": "[us] [привлекает] внимание.",
     "strTooltip": "Открывает интерфейс социального взаимодействия.",
     "strActionGroup": "Talk",
@@ -16790,7 +16790,7 @@
   },
   {
     "strName": "Strip",
-    "strTitle": "Strip",
+    "strTitle": "Снять",
     "strDesc": "[us] [собирается] раздеть [them].",
     "strTooltip": "Снимает надетые и переносимые предметы с не отвечающего на запросы объекта.",
     "strActionGroup": "Use",
@@ -16887,7 +16887,7 @@
   },
   {
     "strName": "DismantleRobotSucceed",
-    "strTitle": "Scrap",
+    "strTitle": "Утилизировать",
     "strDesc": "[us] [начинает] разбирать [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17085,7 +17085,7 @@
   },
   {
     "strName": "Unconscious",
-    "strTitle": "Unconscious",
+    "strTitle": "Без сознания",
     "strDesc": "[us] [обмякает].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
@@ -17213,7 +17213,7 @@
   },
   {
     "strName": "Wander",
-    "strTitle": "Wander",
+    "strTitle": "Бродить",
     "strDesc": "[us] [бродит].",
     "strTooltip": "Дойти до случайного места поблизости.",
     "strActionGroup": "Use",
@@ -17399,7 +17399,7 @@
   },
   {
     "strName": "ACTLightCigViceroyAllow",
-    "strTitle": "Lighting",
+    "strTitle": "Освещение",
     "strDesc": "[them] [заканчивает] прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -17423,7 +17423,7 @@
   },
   {
     "strName": "ACTLightCigViceroy02Allow",
-    "strTitle": "Lighting",
+    "strTitle": "Освещение",
     "strDesc": "[them] [заканчивает] прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -17447,7 +17447,7 @@
   },
   {
     "strName": "ACTLightCigDamaskRoseAllow",
-    "strTitle": "Lighting",
+    "strTitle": "Освещение",
     "strDesc": "[them] [заканчивает] прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -17471,7 +17471,7 @@
   },
   {
     "strName": "ACTLightCigUnicornDreamAllow",
-    "strTitle": "Lighting",
+    "strTitle": "Освещение",
     "strDesc": "[them] [заканчивает] прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -17545,7 +17545,7 @@
   },
   {
     "strName": "ACTSnuffCigAllow",
-    "strTitle": "Snuffing",
+    "strTitle": "Тушение",
     "strDesc": "[them] [тушит] [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -17821,7 +17821,7 @@
   },
   {
     "strName": "ACTSeekHygieneAllowTrash",
-    "strTitle": "Cleansing",
+    "strTitle": "Очищение",
     "strDesc": "[us] [освежается], используя [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "",
@@ -18054,7 +18054,7 @@
   },
   {
     "strName": "ACTSeekHygieneAllowWater",
-    "strTitle": "Cleansing",
+    "strTitle": "Очищение",
     "strDesc": "[us] [использует] [them], чтобы освежиться.",
     "strActionGroup": "Use",
     "strTargetPoint": "",

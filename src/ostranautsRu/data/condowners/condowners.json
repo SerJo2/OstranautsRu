@@ -11141,7 +11141,7 @@
   },
   {
     "strName": "ItmPDACart00",
-    "strNameShort": "(strNameFriendly в условиях) Картридж КПК",
+    "strNameShort": "Картридж КПК",
     "strNameFriendly": "Чистая карта Renbao",
     "strDesc": "Картридж расширения для КПК Renbao. Содержит специальное оборудование, предназначенное для добавления новых функций в КПК.",
     "strItemDef": "ItmPDACart00",

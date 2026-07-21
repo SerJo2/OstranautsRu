@@ -89,7 +89,7 @@
     "strReplace": "WrongfullyAccusedManagerBEG",
     "aOverrideValues": [
       "strTitle|Передать угрожающее сообщение",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [uses] социальные уловки, имеющиеся в [us-pos] распоряжении, чтобы убедить [3rd] отстать от [them].",
+      "strDesc|[us] [uses] социальные уловки, имеющиеся в [us-pos] распоряжении, чтобы убедить [3rd] отстать от [them].",
       "strActionGroup|Использовать",
       "strLootRELChangeThemSeesUs|RELFriendLossJob"
     ]
@@ -113,8 +113,8 @@
     "strFind": "AyoCorpSnitch",
     "strReplace": "WrongfullyAccusedLEOBEG",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Напугать, чтобы отстали",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [говорит] [them] отстать, не то будет больно.",
+      "strTitle|Напугать, чтобы отстали",
+      "strDesc|[us] [говорит] [them] отстать, не то будет больно.",
       "strActionGroup|Использовать",
       "CTTestThem|TIsTargetInPain0203",
       "strLootRELChangeThemSeesUs|RELEnemyJob"
@@ -127,7 +127,7 @@
     "strReplace": "WrongfullyAccusedCrimBEG",
     "aOverrideValues": [
       "strTitle|Спросить о звонке",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [спрашивает] [them], зачем [them-subj] позвонил.",
+      "strDesc|[us] [спрашивает] [them], зачем [them-subj] позвонил.",
       "strActionGroup|Talk",
       "strTargetPoint|talk",
       "fTargetPointRange|2.0"
@@ -139,8 +139,8 @@
     "strFind": "AyoCorpSnitch",
     "strReplace": "WrongfullyAccusedCrimBEG",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Напугать, чтобы отстали",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [требует] от [them] похоронить отчёт о страховом мошенничестве, или иначе.",
+      "strTitle|Напугать, чтобы отстали",
+      "strDesc|[us] [требует] от [them] похоронить отчёт о страховом мошенничестве, или иначе.",
       "strActionGroup|Использовать",
       "strLootRELChangeThemSeesUs|RELEnemyJob"
     ]
@@ -152,7 +152,7 @@
     "strReplace": "WrongfullyAccusedCrimMID",
     "aOverrideValues": [
       "strTitle|Спросить о звонке",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [спрашивает] [them], зачем [them-subj] позвонил.",
+      "strDesc|[us] [спрашивает] [them], зачем [them-subj] позвонил.",
       "PSpecTest3rd|TargetDead",
       "strActionGroup|Talk",
       "strTargetPoint|talk",
@@ -165,8 +165,8 @@
     "strFind": "AyoCorpSnitch",
     "strReplace": "WrongfullyAccusedCrimMID",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Осмотреть мёртвое тело",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [recognizes] в [them-pos] теле человека, с которым [3rd] когда-то проводил время. Бывшего возлюбленного или, по крайней мере, очень близкого друга.",
+      "strTitle|Осмотреть мёртвое тело",
+      "strDesc|[us] [recognizes] в [them-pos] теле человека, с которым [3rd] когда-то проводил время. Бывшего возлюбленного или, по крайней мере, очень близкого друга.",
       "strActionGroup|Использовать",
       "strLootRELChange3rdSeesUs|RELFriendJob"
     ]
@@ -177,8 +177,8 @@
     "strFind": "AyoCorpSnitch",
     "strReplace": "WrongfullyAccusedPrisonerCellmateBEG",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Поговорить с бывшим сокамерником",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [спрашивает] [them], зачем [them-subj] позвонил спустя столько времени.",
+      "strTitle|Поговорить с бывшим сокамерником",
+      "strDesc|[us] [спрашивает] [them], зачем [them-subj] позвонил спустя столько времени.",
       "strActionGroup|Talk",
       "strTargetPoint|talk",
       "fTargetPointRange|2.0"
@@ -190,8 +190,8 @@
     "strFind": "AyoCorpSnitch",
     "strReplace": "WrongfullyAccusedPrisonerCellmateBEG",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Напугать, чтобы отстали",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [говорит] [3rd] перестать третировать [them], не то пожалеет.",
+      "strTitle|Напугать, чтобы отстали",
+      "strDesc|[us] [говорит] [3rd] перестать третировать [them], не то пожалеет.",
       "strActionGroup|Использовать",
       "strLootRELChange3rdSeesUs|RELFriendLossJob"
     ]
@@ -202,9 +202,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceXYZ01a",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Вариант А",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] говорит [them]: «Я выбираю Вариант А».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются."
+      "strTitle|Вариант А",
+      "strDesc|[us] говорит [them]: «Я выбираю Вариант А».",
+      "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются."
     ]
   },
   {
@@ -213,9 +213,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceXYZ01b",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Вариант B",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] говорит [them]: «Я выбираю Вариант B».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
+      "strTitle|Вариант B",
+      "strDesc|[us] говорит [them]: «Я выбираю Вариант B».",
+      "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
   },
@@ -225,9 +225,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceXYZ02a",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Вариант 2А",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] говорит [them]: «Я выбираю Вариант А».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
+      "strTitle|Вариант 2А",
+      "strDesc|[us] говорит [them]: «Я выбираю Вариант А».",
+      "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
   },
@@ -237,9 +237,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceXYZ02b",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Вариант 2B",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] говорит [them]: «Я выбираю Вариант B».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
+      "strTitle|Вариант 2B",
+      "strDesc|[us] говорит [them]: «Я выбираю Вариант B».",
+      "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
   },
@@ -249,9 +249,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceXYZ03a",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Финальный выбор А",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] говорит [them]: «Я выбираю Вариант А».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
+      "strTitle|Финальный выбор А",
+      "strDesc|[us] говорит [them]: «Я выбираю Вариант А».",
+      "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
   },
@@ -261,9 +261,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceXYZ03b",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Финальный выбор B",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] говорит [them]: «Я выбираю Вариант B».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
+      "strTitle|Финальный выбор B",
+      "strDesc|[us] говорит [them]: «Я выбираю Вариант B».",
+      "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
   },
@@ -273,8 +273,8 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanBreakoutTeam01",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Поговорить о спорте",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [улыбается] [them] и [us-предлагает] поболтать о спорте.",
+      "strTitle|Поговорить о спорте",
+      "strDesc|[us] [улыбается] [them] и [us-предлагает] поболтать о спорте.",
       "LootCondsThem|null",
       "aInverse|PLOTChoiceFanBreakoutTeam01Reply",
       "bInterrupt|true"
@@ -286,8 +286,8 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanBreakoutTeam01",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Обсудить команды по брейк-ауту",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [is] рад(а) поболтать с [them] о командах Прорыва, игроках и текущих событиях. Только Внешняя Лига, разумеется."
+      "strTitle|Обсудить команды по брейк-ауту",
+      "strDesc|[us] [is] рад(а) поболтать с [them] о командах Прорыва, игроках и текущих событиях. Только Внешняя Лига, разумеется."
     ]
   },
   {
@@ -296,9 +296,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanBreakoutTeam02a",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Восхищаться Ganymede Warriors",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [says] [them]: «Воины — навсегда». Эта команда несёт надежды всех, кто жаждет второго шанса.",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразить предпочтение команде «Ганимедские Воины».",
+      "strTitle|Восхищаться Ganymede Warriors",
+      "strDesc|[us] [says] [them]: «Воины — навсегда». Эта команда несёт надежды всех, кто жаждет второго шанса.",
+      "strTooltip|Выразить предпочтение команде «Ганимедские Воины».",
       "LootCondsThem|null",
       "LootCTsUs|CTPLOTFanBreakoutWarriors",
       "aInverse|PLOTChoiceFanBreakoutTeam02aReply",
@@ -311,9 +311,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanBreakoutTeam02b",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Восхищаться Ceres Shooters",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [says] [them]: «Стрелки — первые и лучшие». Команда будит ностальгию по спорту, придуманному десятилетия назад.",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразить предпочтение команде «Ceres Стрелки».",
+      "strTitle|Восхищаться Ceres Shooters",
+      "strDesc|[us] [says] [them]: «Стрелки — первые и лучшие». Команда будит ностальгию по спорту, придуманному десятилетия назад.",
+      "strTooltip|Выразить предпочтение команде «Ceres Стрелки».",
       "LootCondsThem|null",
       "LootCTsUs|CTPLOTFanBreakoutShooters",
       "aInverse|PLOTChoiceFanBreakoutTeam02bReply",
@@ -326,9 +326,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanBreakoutTeam02c",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Восхищаться Ceres Rioters",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [says] [them]: «Мятежники — или никто». Команда вдохновляет аутсайдеров Системы и отчаянных смельчаков из всех слоёв общества.",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразить предпочтение команде «Ceres Мятежники».",
+      "strTitle|Восхищаться Ceres Rioters",
+      "strDesc|[us] [says] [them]: «Мятежники — или никто». Команда вдохновляет аутсайдеров Системы и отчаянных смельчаков из всех слоёв общества.",
+      "strTooltip|Выразить предпочтение команде «Ceres Мятежники».",
       "LootCondsThem|null",
       "LootCTsUs|CTPLOTFanBreakoutRioters",
       "aInverse|PLOTChoiceFanBreakoutTeam02cReply",
@@ -341,9 +341,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanBreakoutTeam02d",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Лучше восхищаться 3FC",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [opines], что Прорыв — это детские забавы по сравнению с настоящим спортом вроде Чемпионата по боям в невесомости.",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразить своё отвращение к Прорыву по сравнению с другим главным спортом Системы: Чемпионатом по боям в невесомости (3FC).",
+      "strTitle|Лучше восхищаться 3FC",
+      "strDesc|[us] [opines], что Прорыв — это детские забавы по сравнению с настоящим спортом вроде Чемпионата по боям в невесомости.",
+      "strTooltip|Выразить своё отвращение к Прорыву по сравнению с другим главным спортом Системы: Чемпионатом по боям в невесомости (3FC).",
       "LootCondsThem|null",
       "LootCTsUs|CTPLOTFan3FC",
       "CTTestUs|TIsFan3FC",
@@ -356,8 +356,8 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanSmokes01",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Поговорить о сигаретах",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [gives] [them] [us-pos] внимание и [us-welcomes] шутливую беседу о марках сигарет.",
+      "strTitle|Поговорить о сигаретах",
+      "strDesc|[us] [gives] [them] [us-pos] внимание и [us-welcomes] шутливую беседу о марках сигарет.",
       "LootCondsThem|null",
       "aInverse|PLOTChoiceFanSmokes01Reply",
       "bInterrupt|true"
@@ -369,8 +369,8 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanSmokes01",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Обсудить марки сигарет",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [raises] извечный спор космонавтов о лучшей марке сигарет: Viceroys или Damask Rose?"
+      "strTitle|Обсудить марки сигарет",
+      "strDesc|[us] [raises] извечный спор космонавтов о лучшей марке сигарет: Viceroys или Damask Rose?"
     ]
   },
   {
@@ -379,9 +379,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanSmokes02a",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Предпочитать Sungura Viceroys",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [extols] [them] достоинства Viceroys: «По приказу Viceroy. Слаще кислорода».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразите свои предпочтения относительно сигарет Sungura Viceroy",
+      "strTitle|Предпочитать Sungura Viceroys",
+      "strDesc|[us] [extols] [them] достоинства Viceroys: «По приказу Viceroy. Слаще кислорода».",
+      "strTooltip|Выразите свои предпочтения относительно сигарет Sungura Viceroy",
       "LootCondsThem|null",
       "LootCTsUs|CTPLOTFanViceroys",
       "aInverse|PLOTChoiceFanSmokes02aReply",
@@ -394,9 +394,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanSmokes02b",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) Предпочитать Damask Rose",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [расхваливает] [them] достоинства Damask Rose: «Покури розу. Уплыви в облака».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразите свои предпочтения относительно сигарет Damask Rose.",
+      "strTitle|Предпочитать Damask Rose",
+      "strDesc|[us] [расхваливает] [them] достоинства Damask Rose: «Покури розу. Уплыви в облака».",
+      "strTooltip|Выразите свои предпочтения относительно сигарет Damask Rose.",
       "LootCondsThem|null",
       "LootCTsUs|CTPLOTFanDamaskRose",
       "aInverse|PLOTChoiceFanSmokes02bReply",
@@ -409,9 +409,9 @@
     "strFind": "ChoicesDialogue01",
     "strReplace": "ChoiceFanSmokes02c",
     "aOverrideValues": [
-      "strTitle|(aOverrideValues in interaction_overrides) «Я не курю».",
-      "strDesc|(aOverrideValues in interaction_overrides) [us] [говорит] [them]: «Курение — не совсем моё».",
-      "strTooltip|(aOverrideValues in interaction_overrides) Выразить своё предпочтение не курить.",
+      "strTitle|«Я не курю».",
+      "strDesc|[us] [говорит] [them]: «Курение — не совсем моё».",
+      "strTooltip|Выразить своё предпочтение не курить.",
       "LootCondsThem|null",
       "CTTestUs|TIsNotSmoker",
       "aInverse|PLOTChoiceFanSmokes02cReply"

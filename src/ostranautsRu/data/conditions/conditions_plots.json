@@ -1524,7 +1524,7 @@
     "strName": "IsAttractedMen",
     "strNameFriendly": "Испытывает влечение к мужчинам",
     "strColor": "Neutral",
-    "strDesc": "(strDesc в условиях) [us] [is] привлекают мужчины.",
+    "strDesc": "[us] [is] привлекают мужчины.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5809,7 +5809,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 01",
+    "strNameFriendly": "Plot_Meat_WhispersFound 01",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 01 сюжета: Мясо.",
     "bResetTimer": false,
@@ -5822,7 +5822,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound01Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 01 Перезарядка",
+    "strNameFriendly": "Plot_Meat_WhispersFound 01 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие WhispersFound 01 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -5835,7 +5835,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 02",
+    "strNameFriendly": "Plot_Meat_WhispersFound 02",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 02 сюжета: Мясо.",
     "bResetTimer": false,
@@ -5848,7 +5848,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound02Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 02 Перезарядка",
+    "strNameFriendly": "Plot_Meat_WhispersFound 02 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие WhispersFound 02 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -5861,7 +5861,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound03",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 03",
+    "strNameFriendly": "Plot_Meat_WhispersFound 03",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 03 сюжета: Мясо.",
     "bResetTimer": false,
@@ -5874,7 +5874,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 04",
+    "strNameFriendly": "Plot_Meat_WhispersFound 04",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 04 сюжета: Мясо.",
     "bResetTimer": false,
@@ -5887,7 +5887,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound04b",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 04b",
+    "strNameFriendly": "Plot_Meat_WhispersFound 04b",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 04b сюжета: Мясо.",
     "bResetTimer": false,
@@ -5900,7 +5900,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound05",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 05",
+    "strNameFriendly": "Plot_Meat_WhispersFound 05",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 05 сюжета: Мясо.",
     "bResetTimer": false,
@@ -5913,7 +5913,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound05Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 05 Перезарядка",
+    "strNameFriendly": "Plot_Meat_WhispersFound 05 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие WhispersFound 05 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -5926,7 +5926,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound06",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 06",
+    "strNameFriendly": "Plot_Meat_WhispersFound 06",
     "strColor": "Neutral",
     "strDesc": "Завершено IA WhispersFound 06 сюжета: Meat.",
     "bResetTimer": false,
@@ -5939,7 +5939,7 @@
   },
   {
     "strName": "Plot_Meat_WhispersFound06Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_WhispersFound 06 Перезарядка",
+    "strNameFriendly": "Plot_Meat_WhispersFound 06 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие WhispersFound 06 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -5978,7 +5978,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 01",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 01",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 01 сюжета: Meat.",
     "bResetTimer": false,
@@ -5991,7 +5991,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 02",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 02",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 02 сюжета: Meat.",
     "bResetTimer": false,
@@ -6004,7 +6004,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed03",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 03",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 03",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 03 сюжета: Meat.",
     "bResetTimer": false,
@@ -6017,7 +6017,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 04",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 04",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 04 сюжета: Meat.",
     "bResetTimer": false,
@@ -6030,7 +6030,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed05",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 05",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 05",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 05 сюжета: Meat.",
     "bResetTimer": false,
@@ -6043,7 +6043,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed06",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 06",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 06",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 06 сюжета: Meat.",
     "bResetTimer": false,
@@ -6056,7 +6056,7 @@
   },
   {
     "strName": "Plot_Meat_SignsDiscussed06Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_SignsDiscussed 06 Перезарядка",
+    "strNameFriendly": "Plot_Meat_SignsDiscussed 06 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие SignsDiscussed 06 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -6095,7 +6095,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 01",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 01",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged 01 сюжета: Meat.",
     "bResetTimer": false,
@@ -6108,7 +6108,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 02",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 02",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged 02 сюжета: Meat.",
     "bResetTimer": false,
@@ -6121,7 +6121,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged03",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 03",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 03",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged 03 сюжета: Meat.",
     "bResetTimer": false,
@@ -6134,7 +6134,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged03Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 03 Перезарядка",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 03 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие MeatEngaged 03 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -6147,7 +6147,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged03Cultist",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 03 Культист",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 03 Культист",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged 03 после услышанного от культиста Meat в сюжете: Meat.",
     "bResetTimer": false,
@@ -6160,7 +6160,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 04",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 04",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged 04 сюжета: Meat.",
     "bResetTimer": false,
@@ -6173,7 +6173,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged05",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 05",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 05",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged 05 сюжета: Meat.",
     "bResetTimer": false,
@@ -6186,7 +6186,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngaged05Cooldown",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged 05 Перезарядка",
+    "strNameFriendly": "Plot_Meat_MeatEngaged 05 Перезарядка",
     "strColor": "Neutral",
     "strDesc": "Недавно завершено интерактивное действие MeatEngaged 05 в сюжете: Meat; повторное завершение невозможно в течение нескольких минут.",
     "bResetTimer": false,
@@ -6199,7 +6199,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngagedAttack",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged Атака",
+    "strNameFriendly": "Plot_Meat_MeatEngaged Атака",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged Attack сюжета: Meat.",
     "bResetTimer": false,
@@ -6212,7 +6212,7 @@
   },
   {
     "strName": "Plot_Meat_MeatEngagedEat",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatEngaged Съесть",
+    "strNameFriendly": "Plot_Meat_MeatEngaged Съесть",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatEngaged Eat сюжета: Meat.",
     "bResetTimer": false,
@@ -6290,7 +6290,7 @@
   },
   {
     "strName": "Plot_Meat_MeatKnown04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_MeatKnown 04",
+    "strNameFriendly": "Plot_Meat_MeatKnown 04",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MeatKnown 04 сюжета: Meat.",
     "bResetTimer": false,
@@ -6342,7 +6342,7 @@
   },
   {
     "strName": "Plot_Meat_RitualPrepared01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_RitualPrepared 01",
+    "strNameFriendly": "Plot_Meat_RitualPrepared 01",
     "strColor": "Neutral",
     "strDesc": "Завершено IA RitualPrepared 01 сюжета: Meat.",
     "bResetTimer": false,
@@ -6355,7 +6355,7 @@
   },
   {
     "strName": "Plot_Meat_RitualPrepared02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Meat_RitualPrepared 02",
+    "strNameFriendly": "Plot_Meat_RitualPrepared 02",
     "strColor": "Neutral",
     "strDesc": "Завершено IA RitualPrepared 02 сюжета: Meat.",
     "bResetTimer": false,
@@ -7079,7 +7079,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 01",
+    "strNameFriendly": "Plot_Merga_WhispersFound 01",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 01 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7092,7 +7092,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 02",
+    "strNameFriendly": "Plot_Merga_WhispersFound 02",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 02 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7105,7 +7105,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound03",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 03",
+    "strNameFriendly": "Plot_Merga_WhispersFound 03",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 03 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7118,7 +7118,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 04",
+    "strNameFriendly": "Plot_Merga_WhispersFound 04",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 04 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7131,7 +7131,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound05",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 05",
+    "strNameFriendly": "Plot_Merga_WhispersFound 05",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 05 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7144,7 +7144,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound06",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 06",
+    "strNameFriendly": "Plot_Merga_WhispersFound 06",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 06 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7157,7 +7157,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound07",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 07",
+    "strNameFriendly": "Plot_Merga_WhispersFound 07",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 07 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7170,7 +7170,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound08",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 08",
+    "strNameFriendly": "Plot_Merga_WhispersFound 08",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 08 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7183,7 +7183,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound09",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 09",
+    "strNameFriendly": "Plot_Merga_WhispersFound 09",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 09 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7196,7 +7196,7 @@
   },
   {
     "strName": "Plot_Merga_WhispersFound10",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_WhispersFound 10",
+    "strNameFriendly": "Plot_Merga_WhispersFound 10",
     "strColor": "Neutral",
     "strDesc": "Завершен этап WhispersFound 10 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7235,7 +7235,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 01",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 01",
     "strColor": "Neutral",
     "strDesc": "Завершен этап SignsDiscussed 01 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7248,7 +7248,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 02",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 02",
     "strColor": "Neutral",
     "strDesc": "Завершен этап SignsDiscussed 02 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7261,7 +7261,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed03",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 03",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 03",
     "strColor": "Neutral",
     "strDesc": "Завершен этап SignsDiscussed 03 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7274,7 +7274,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 04",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 04",
     "strColor": "Neutral",
     "strDesc": "Завершен этап SignsDiscussed 04 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7287,7 +7287,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed05",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 05",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 05",
     "strColor": "Neutral",
     "strDesc": "Завершен этап SignsDiscussed 05 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -7300,7 +7300,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed06",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 06",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 06",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 06 сюжета: Merga.",
     "bResetTimer": false,
@@ -7313,7 +7313,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed07",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 07",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 07",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 06 сюжета: Merga.",
     "bResetTimer": false,
@@ -7326,7 +7326,7 @@
   },
   {
     "strName": "Plot_Merga_SignsDiscussed08",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_SignsDiscussed 08",
+    "strNameFriendly": "Plot_Merga_SignsDiscussed 08",
     "strColor": "Neutral",
     "strDesc": "Завершено IA SignsDiscussed 06 сюжета: Merga.",
     "bResetTimer": false,
@@ -7365,7 +7365,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 01",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 01",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 01 сюжета: Merga.",
     "bResetTimer": false,
@@ -7378,7 +7378,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 02",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 02",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 02 сюжета: Merga.",
     "bResetTimer": false,
@@ -7391,7 +7391,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged03",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 03",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 03",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 03 сюжета: Merga.",
     "bResetTimer": false,
@@ -7404,7 +7404,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 04",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 04",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 04 сюжета: Merga.",
     "bResetTimer": false,
@@ -7417,7 +7417,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged05",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 05",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 05",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 05 сюжета: Merga.",
     "bResetTimer": false,
@@ -7430,7 +7430,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged06",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 06",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 06",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 06 сюжета: Merga.",
     "bResetTimer": false,
@@ -7443,7 +7443,7 @@
   },
   {
     "strName": "Plot_Merga_MergaEngaged07",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaEngaged 07",
+    "strNameFriendly": "Plot_Merga_MergaEngaged 07",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaEngaged 07 сюжета: Merga.",
     "bResetTimer": false,
@@ -7521,7 +7521,7 @@
   },
   {
     "strName": "Plot_Merga_MergaKnown04",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_MergaKnown 04",
+    "strNameFriendly": "Plot_Merga_MergaKnown 04",
     "strColor": "Neutral",
     "strDesc": "Завершено IA MergaKnown 04 сюжета: Merga.",
     "bResetTimer": false,
@@ -7586,7 +7586,7 @@
   },
   {
     "strName": "Plot_Merga_EndgamePrepared01",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_EndgamePrepared 01",
+    "strNameFriendly": "Plot_Merga_EndgamePrepared 01",
     "strColor": "Neutral",
     "strDesc": "Завершено IA EndgamePrepared 01 сюжета: Merga.",
     "bResetTimer": false,
@@ -7599,7 +7599,7 @@
   },
   {
     "strName": "Plot_Merga_EndgamePrepared02",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_Merga_EndgamePrepared 02",
+    "strNameFriendly": "Plot_Merga_EndgamePrepared 02",
     "strColor": "Neutral",
     "strDesc": "Завершен этап EndgamePrepared 02 IA сюжета: Merga.",
     "bResetTimer": false,
@@ -8143,7 +8143,7 @@
   },
   {
     "strName": "Plot_ProspectorFetchGold_DeliverDelay",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_ProspectorFetchGold_Deliver Случайная задержка",
+    "strNameFriendly": "Plot_ProspectorFetchGold_Deliver Случайная задержка",
     "strColor": "Neutral",
     "strDesc": "ProspectorFetchGold доставил предметы для задания.",
     "bResetTimer": false,
@@ -8223,7 +8223,7 @@
   },
   {
     "strName": "Plot_ProspectorBCERFetchGold_DeliverDelay",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_ProspectorBCERFetchGold_Deliver Случайная задержка",
+    "strNameFriendly": "Plot_ProspectorBCERFetchGold_Deliver Случайная задержка",
     "strColor": "Neutral",
     "strDesc": "ProspectorBCERFetchGold доставил предметы для задания.",
     "bResetTimer": false,
@@ -8303,7 +8303,7 @@
   },
   {
     "strName": "Plot_ProspectorBCRSFetchGold_DeliverDelay",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_ProspectorBCRSFetchGold_Deliver Случайная задержка",
+    "strNameFriendly": "Plot_ProspectorBCRSFetchGold_Deliver Случайная задержка",
     "strColor": "Neutral",
     "strDesc": "ProspectorBCRSFetchGold доставил предметы для задания.",
     "bResetTimer": false,
@@ -8409,7 +8409,7 @@
   },
   {
     "strName": "Plot_ScavFetch_DeliverDelay",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_ScavFetch_Deliver Случайная задержка",
+    "strNameFriendly": "Plot_ScavFetch_Deliver Случайная задержка",
     "strColor": "Neutral",
     "strDesc": "ScavFetch доставил предметы для задания.",
     "bResetTimer": false,
@@ -8567,7 +8567,7 @@
   },
   {
     "strName": "Plot_VLAFetch_DeliverDelay",
-    "strNameFriendly": "(strNameFriendly в условиях) Plot_VLAFetch_Deliver Случайная задержка",
+    "strNameFriendly": "Plot_VLAFetch_Deliver Случайная задержка",
     "strColor": "Neutral",
     "strDesc": "VLAFetch доставил предметы для задания.",
     "bResetTimer": false,

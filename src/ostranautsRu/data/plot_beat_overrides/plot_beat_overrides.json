@@ -45,7 +45,7 @@
       "bNoObjective|false"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) Динамик на станции захрипел: «[us-fullname], просьба явиться к представителю Портового управления [them-surname] в коммерческой зоне Azikiwe в удобное для вас время».",
+      "strDesc|Динамик на станции захрипел: «[us-fullname], просьба явиться к представителю Портового управления [them-surname] в коммерческой зоне Azikiwe в удобное для вас время».",
       "CTTestUs|TIsNot_Plot_Any_Cooldown",
       "ShipTestUs|AnyStation_OKLG",
       "ShipTestThem|OKLG_BIZ",
@@ -64,7 +64,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] [передаёт] то, что похоже на跟踪 device. [them-subj] невозмутимо [поручает] [us] незаметно подкинуть его [3rd].",
+      "strDesc|[them] [передаёт] то, что похоже на跟踪 device. [them-subj] невозмутимо [поручает] [us] незаметно подкинуть его [3rd].",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -77,7 +77,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) Устройство подкинуто, но [us] [задаётся] вопросом, что это будет значить для [3rd]. И для [us-obj]. На этой скале Ayotimiwa обладает силой как благословлять, так и проклинать.",
+      "strDesc|Устройство подкинуто, но [us] [задаётся] вопросом, что это будет значить для [3rd]. И для [us-obj]. На этой скале Ayotimiwa обладает силой как благословлять, так и проклинать.",
       "strColor|Goodish",
       "nLogging|1"
     ]
@@ -103,7 +103,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] [принимает] звонок от [them], который [просит] о скорой встрече. [them-subj] [кажется] в ужасе.",
+      "strDesc|[us] [принимает] звонок от [them], который [просит] о скорой встрече. [them-subj] [кажется] в ужасе.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|RandomAdultGigTargetLiving",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -120,7 +120,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] [бледнеет] как полотно. [them-subj] [сообщает], что кто-то из высшего руководства AyoSec по имени [3rd] [обвиняет] [them-obj] в контрабанде, якобы связанной с какой-то мошеннической схемой сканирования запчастей. [them] [просит] [us] поговорить с [3rd] и уладить дело.",
+      "strDesc|[them] [бледнеет] как полотно. [them-subj] [сообщает], что кто-то из высшего руководства AyoSec по имени [3rd] [обвиняет] [them-obj] в контрабанде, якобы связанной с какой-то мошеннической схемой сканирования запчастей. [them] [просит] [us] поговорить с [3rd] и уладить дело.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -133,7 +133,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [3rd] [соглашается] временно отстать от [them], но [3rd-insists] на том, что [3rd-subj] [продолжает] [сомневаться] — не [был] ли [them-subj] всё-таки замешан в контрабанде.",
+      "strDesc|[3rd] [соглашается] временно отстать от [them], но [3rd-insists] на том, что [3rd-subj] [продолжает] [сомневаться] — не [был] ли [them-subj] всё-таки замешан в контрабанде.",
       "strColor|Goodish"
     ]
   },
@@ -146,7 +146,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] [принимает] звонок от [them], высокопоставленного корпоративного менеджера, который [просит] о скорой встрече. [them-subj] [кажется] в ужасе.",
+      "strDesc|[us] [принимает] звонок от [them], высокопоставленного корпоративного менеджера, который [просит] о скорой встрече. [them-subj] [кажется] в ужасе.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|GigTargetManager",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -163,7 +163,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] нервничает. [them-subj] [говорит], что коллега из Ayotimiwa по имени [3rd] ложно обвиняет [them-obj] в организации враждебного поглощения отдела пищевой обработки. [them] [просит] [us] напугать [3rd], чтобы [3rd] отказался от [3rd-pos] планов.",
+      "strDesc|[them] нервничает. [them-subj] [говорит], что коллега из Ayotimiwa по имени [3rd] ложно обвиняет [them-obj] в организации враждебного поглощения отдела пищевой обработки. [them] [просит] [us] напугать [3rd], чтобы [3rd] отказался от [3rd-pos] планов.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -176,7 +176,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [3rd] достаточно напуган и соглашается отказаться от [3rd-pos] заговора против [them]. Прежде чем [us] [уходит], [3rd] [говорит], что [them], возможно, не говорит всей правды об отделе пищевой обработки.",
+      "strDesc|[3rd] достаточно напуган и соглашается отказаться от [3rd-pos] заговора против [them]. Прежде чем [us] [уходит], [3rd] [говорит], что [them], возможно, не говорит всей правды об отделе пищевой обработки.",
       "strColor|Goodish"
     ]
   },
@@ -189,7 +189,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] [принимает] вызов от [them], сотрудника правоохранительных органов, в чьём голосе слышится страх. [them-contractWould] хотел бы встретиться с [us-obj] как можно скорее.",
+      "strDesc|[us] [принимает] вызов от [them], сотрудника правоохранительных органов, в чьём голосе слышится страх. [them-contractWould] хотел бы встретиться с [us-obj] как можно скорее.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|OKLGLEOStranger",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -206,7 +206,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] утверждает, что коллега по имени [3rd] обвиняет [them] в продаже вещей из комнаты хранения вещественных доказательств на чёрном рынке. [them] просит [us] навестить [3rd], проучить [3rd-obj] и убедить прекратить распространять эти гнусные слухи.",
+      "strDesc|[them] утверждает, что коллега по имени [3rd] обвиняет [them] в продаже вещей из комнаты хранения вещественных доказательств на чёрном рынке. [them] просит [us] навестить [3rd], проучить [3rd-obj] и убедить прекратить распространять эти гнусные слухи.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -219,7 +219,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [3rd] испытывает достаточно мучений. [3rd-subj] [соглашается] прекратить [3rd-pos] кампанию против [them]. Прежде чем [us] [уходит], [3rd] спрашивает [us], почему [us-contractWould] так легко доверяет известному лжецу такому как [them].",
+      "strDesc|[3rd] испытывает достаточно мучений. [3rd-subj] [соглашается] прекратить [3rd-pos] кампанию против [them]. Прежде чем [us] [уходит], [3rd] спрашивает [us], почему [us-contractWould] так легко доверяет известному лжецу такому как [them].",
       "strColor|Goodish"
     ]
   },
@@ -232,7 +232,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] принимает вызов от [them], бывшего заключённого, который настаивает на личной встрече в ближайшее время. Собеседник ведёт себя уклончиво, нервничает, торопится закончить разговор.",
+      "strDesc|[us] принимает вызов от [them], бывшего заключённого, который настаивает на личной встрече в ближайшее время. Собеседник ведёт себя уклончиво, нервничает, торопится закончить разговор.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|CriminalVanilla",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip"
@@ -248,7 +248,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] говорит, что оказался в затруднительном положении. Контрактный агент Ogiso из Ayotimiwa по имени [3rd] обвиняет [them] в подаче страхового иска на недавно уничтоженный гоночный корабль, оформленный на чужое имя. [them] просит [us] поговорить с [3rd] и прояснить ситуацию.",
+      "strDesc|[them] говорит, что оказался в затруднительном положении. Контрактный агент Ogiso из Ayotimiwa по имени [3rd] обвиняет [them] в подаче страхового иска на недавно уничтоженный гоночный корабль, оформленный на чужое имя. [them] просит [us] поговорить с [3rd] и прояснить ситуацию.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -261,7 +261,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [3rd] поддаётся давлению. [3rd] соглашается отозвать расследование в отношении [them], но настаивает, что в этой истории есть больше, чем кажется на первый взгляд.",
+      "strDesc|[3rd] поддаётся давлению. [3rd] соглашается отозвать расследование в отношении [them], но настаивает, что в этой истории есть больше, чем кажется на первый взгляд.",
       "strColor|Goodish"
     ]
   },
@@ -274,7 +274,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] принимает вызов от [them], менеджера Ogiso, обвинившего [3rd] в мошенничестве. [them] говорит, что хочет поговорить, и что это срочно."
+      "strDesc|[us] принимает вызов от [them], менеджера Ogiso, обвинившего [3rd] в мошенничестве. [them] говорит, что хочет поговорить, и что это срочно."
     ]
   },
   {
@@ -289,7 +289,7 @@
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
       "ShipTest3rd|PlayerCurrentShip",
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] говорит, что нашёл бывшего владельца корабля, на который ваш маленький криминальный друг подал страховой иск — некоего [3rd]. Он мёртв. Если [us] не верит [them], [us] может отправиться на корабль [3rd] и убедиться воочию."
+      "strDesc|[them] говорит, что нашёл бывшего владельца корабля, на который ваш маленький криминальный друг подал страховой иск — некоего [3rd]. Он мёртв. Если [us] не верит [them], [us] может отправиться на корабль [3rd] и убедиться воочию."
     ]
   },
   {
@@ -314,7 +314,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [us] принимает вызов от [them], [them-pos] бывшего сокамерника. [them] хочет встретиться в ближайшее время, лично. [them] кажется нервным, даже напуганным.",
+      "strDesc|[us] принимает вызов от [them], [them-pos] бывшего сокамерника. [them] хочет встретиться в ближайшее время, лично. [them] кажется нервным, даже напуганным.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|CGEncHomeworldPrisonerFriend",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -344,7 +344,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [3rd] поддаётся давлению. [3rd] соглашается перестать требовать деньги с [them], но продолжает настаивать, что [them] связан с криминальными сетями из [them-pos] прошлого.",
+      "strDesc|[3rd] поддаётся давлению. [3rd] соглашается перестать требовать деньги с [them], но продолжает настаивать, что [them] связан с криминальными сетями из [them-pos] прошлого.",
       "strColor|Dialogue"
     ]
   },
@@ -531,7 +531,7 @@
       "bRelease|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|(aOverrideTriggerIAValues in plot_beat_overrides) [them] [спрашивает] [us], какие сигареты лучше: Sungura Viceroys или Damask Rose? Вековое соперничество вновь даёт о себе знать."
+      "strDesc|[them] [спрашивает] [us], какие сигареты лучше: Sungura Viceroys или Damask Rose? Вековое соперничество вновь даёт о себе знать."
     ]
   },
   {
