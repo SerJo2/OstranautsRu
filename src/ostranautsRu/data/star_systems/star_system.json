@@ -3526,7 +3526,7 @@
         "aFactions"          : [
             {
             "strName" : "BeltPirates",
-            "strNameFriendly" : "Belt Pirates",
+            "strNameFriendly" : "Пираты Пояса",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_BeltPirates",
@@ -3540,7 +3540,7 @@
             },
             {
             "strName" : "CCRE",
-            "strNameFriendly" : "Coalition of Ceres Resource Extraction",
+            "strNameFriendly" : "Коалиция Цереры по добыче ресурсов",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_BCRSLEO",
@@ -3553,7 +3553,7 @@
             },
             {
             "strName" : "GalileanConfederacy",
-            "strNameFriendly" : "Galilean Confederacy",
+            "strNameFriendly" : "Галилеанская Конфедерация",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_BCERLEO",
@@ -3580,7 +3580,7 @@
             },
             {
             "strName" : "OKLGCorp",
-            "strNameFriendly" : "Ayotimiwa Ship Breaking Co.",
+            "strNameFriendly" : "Судоразборочная компания Ayotimiwa",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_OKLGCorp",
@@ -3608,7 +3608,7 @@
             },
             {
             "strName" : "OKLGFlotilla",
-            "strNameFriendly" : "Flotilla",
+            "strNameFriendly" : "Флотилия",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_OKLGFlotilla",
@@ -3666,7 +3666,7 @@
             },
             {
             "strName" : "OKLGProspector",
-            "strNameFriendly" : "Peralta Prospecting Concern",
+            "strNameFriendly" : "Разведывательная компания Peralta",
             "aMembers" : [ ],
             "bAutoAdd" : false,
             "strInteractionTriggered" : "",
@@ -3701,7 +3701,7 @@
             },
             {
             "strName" : "VCBRLEO",
-            "strNameFriendly" : "Cloudbreak Corporate Security",
+            "strNameFriendly" : "Корпоративная безопасность Cloudbreak",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_VCBRLEO",
@@ -3751,7 +3751,7 @@
             },
             {
             "strName" : "VenusCrim",
-            "strNameFriendly" : "Venusian Crime Gangs",
+            "strNameFriendly" : "Венерианские преступные группировки",
             "aMembers" : [],
             "bAutoAdd" : true,
             "strInteractionTriggered" : "AF_VenusCrim",

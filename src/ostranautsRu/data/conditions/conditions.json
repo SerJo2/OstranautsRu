@@ -14518,7 +14518,7 @@
   },
   {
     "strName": "IsModeSwitching",
-    "strNameFriendly": "ModeSwitching",
+    "strNameFriendly": "Переключение режимов",
     "strColor": "Neutral",
     "strDesc": "[us] переключает режимы на месте",
     "nDisplaySelf": 0,
@@ -14646,7 +14646,7 @@
   },
   {
     "strName": "IsOgisoPosted",
-    "strNameFriendly": "OgisoPosted",
+    "strNameFriendly": "Сообщение от Ogiso",
     "strColor": "Neutral",
     "strDesc": "[us] — это плакат с правилами регистра Огисо, размещённый в этой комнате?",
     "nDisplaySelf": 2,
@@ -15068,7 +15068,7 @@
   },
   {
     "strName": "IsShakedownCooldown",
-    "strNameFriendly": "ShakedownCooldown",
+    "strNameFriendly": "Откат после проверки",
     "strColor": "Neutral",
     "strDesc": "[us] недавно подвергался рэкету.",
     "bResetTimer": true,
@@ -15595,7 +15595,7 @@
   },
   {
     "strName": "IsUndockGracePeriodMajor",
-    "strNameFriendly": "UndockGracePeriodMajor",
+    "strNameFriendly": "Значительный период нештрафуемой стыковки",
     "strColor": "Neutral",
     "strDesc": "[us] временно защищён от столкновений после отстыковки (значительно).",
     "nDisplaySelf": 0,
@@ -15605,7 +15605,7 @@
   },
   {
     "strName": "IsUndockGracePeriodMinor",
-    "strNameFriendly": "UndockGracePeriodMinor",
+    "strNameFriendly": "Незначительный период нештрафуемой стыковки",
     "strColor": "Neutral",
     "strDesc": "[us] временно защищён от столкновений после отстыковки (незначительно).",
     "nDisplaySelf": 0,
