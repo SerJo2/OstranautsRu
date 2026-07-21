@@ -40,7 +40,7 @@
   },
   {
     "strName": "IsSignalable",
-    "strNameFriendly": "Signalable",
+    "strNameFriendly": "Приёмопередатчик",
     "strColor": "Neutral",
     "strDesc": "[us] может отправлять или принимать сигналы.",
     "nDisplaySelf": 2,
@@ -84,7 +84,7 @@
   },
   {
     "strName": "IsConnected",
-    "strNameFriendly": "Connected",
+    "strNameFriendly": "На связи",
     "strColor": "Neutral",
     "strDesc": "[us] электрически подключён.",
     "nDisplaySelf": 2,
@@ -954,7 +954,7 @@
   },
   {
     "strName": "Bleeding",
-    "strNameFriendly": "Bleeding",
+    "strNameFriendly": "Кровотечение",
     "strColor": "Bad",
     "strDesc": "[us] [кровоточит].",
     "nDisplaySelf": 2,
@@ -980,7 +980,7 @@
   },
   {
     "strName": "Blisters",
-    "strNameFriendly": "Blisters",
+    "strNameFriendly": "Волдыри",
     "strColor": "Bad",
     "strDesc": "У [us-pos] [имеются] болезненные волдыри.",
     "nDisplaySelf": 2,
@@ -1090,7 +1090,7 @@
   },
   {
     "strName": "Cholera1",
-    "strNameFriendly": "Cholera",
+    "strNameFriendly": "Холера",
     "strColor": "Bad",
     "strDesc": "[us] [заразился] холерой.",
     "aNext": [
@@ -1102,7 +1102,7 @@
   },
   {
     "strName": "Cholera2",
-    "strNameFriendly": "Cholera",
+    "strNameFriendly": "Холера",
     "strColor": "Bad",
     "strDesc": "[us] [чувствует] тошноту, [у него] [наблюдаются] неконтролируемые приступы рвоты и диареи.",
     "nDisplaySelf": 2,
@@ -1119,7 +1119,7 @@
   },
   {
     "strName": "Cholera3",
-    "strNameFriendly": "Cholera",
+    "strNameFriendly": "Холера",
     "strColor": "Bad",
     "strDesc": "У [us-poss] [усиливаются] диарея и рвота, а кожа [начинает] приобретать синеватый оттенок.",
     "nDisplaySelf": 2,
@@ -1155,7 +1155,7 @@
   },
   {
     "strName": "Concussion",
-    "strNameFriendly": "Concussion",
+    "strNameFriendly": "Сотрясение",
     "strColor": "Bad",
     "strDesc": "У [us-pos] [сотрясение] мозга, [он] [несколько дезориентирован].",
     "bResetTimer": true,
@@ -1170,7 +1170,7 @@
   },
   {
     "strName": "Coughing",
-    "strNameFriendly": "Coughing",
+    "strNameFriendly": "Кашель",
     "strColor": "Bad",
     "strDesc": "У [us-pos] [начался] кашель.",
     "bResetTimer": true,
@@ -1290,7 +1290,7 @@
   },
   {
     "strName": "Diarrhea",
-    "strNameFriendly": "Diarrhea",
+    "strNameFriendly": "Диарея",
     "strColor": "Bad",
     "strDesc": "[us] [has] диарею.",
     "bResetTimer": true,
@@ -1305,7 +1305,7 @@
   },
   {
     "strName": "Dizzy",
-    "strNameFriendly": "Dizzy",
+    "strNameFriendly": "Головокружение",
     "strColor": "Bad",
     "strDesc": "[us] [is] чувствует головокружение.",
     "bResetTimer": true,
@@ -1320,7 +1320,7 @@
   },
   {
     "strName": "Drunk",
-    "strNameFriendly": "Drunk",
+    "strNameFriendly": "Пьян",
     "strColor": "Bad",
     "strDesc": "[us] [is] пьян.",
     "bResetTimer": true,
@@ -1406,7 +1406,7 @@
   },
   {
     "strName": "Ebullism",
-    "strNameFriendly": "Ebullism",
+    "strNameFriendly": "Эмболия",
     "strColor": "Bad",
     "strDesc": "[us] [has] опухшее тело, а [us-pos] слюна пузырится.",
     "bResetTimer": true,
@@ -1422,7 +1422,7 @@
   },
   {
     "strName": "Feverish",
-    "strNameFriendly": "Feverish",
+    "strNameFriendly": "Лихорадка",
     "strColor": "Badish",
     "strDesc": "[us] [is] чувствует жар и озноб.",
     "bResetTimer": true,
@@ -1472,7 +1472,7 @@
   },
   {
     "strName": "Gasping",
-    "strNameFriendly": "Gasping",
+    "strNameFriendly": "Задыхается",
     "strColor": "Bad",
     "strDesc": "[us] [is] хватается ртом воздух.",
     "bResetTimer": true,
@@ -1488,7 +1488,7 @@
   },
   {
     "strName": "Gastroenteritis1",
-    "strNameFriendly": "Gastroenteritis",
+    "strNameFriendly": "Гастроэнтерит",
     "strColor": "Bad",
     "strDesc": "[us] заболел гастроэнтеритом.",
     "aNext": [
@@ -1502,7 +1502,7 @@
   },
   {
     "strName": "Gastroenteritis2",
-    "strNameFriendly": "Gastroenteritis",
+    "strNameFriendly": "Гастроэнтерит",
     "strColor": "Bad",
     "strDesc": "[us] [is] испытывает сильную боль в желудке, сопровождающуюся диареей.",
     "nDisplaySelf": 2,
@@ -1663,7 +1663,7 @@
   },
   {
     "strName": "Headache",
-    "strNameFriendly": "Headache",
+    "strNameFriendly": "Головная боль",
     "strColor": "Bad",
     "strDesc": "[us] [has] головную боль.",
     "bResetTimer": true,
@@ -1790,7 +1790,7 @@
   },
   {
     "strName": "Immunostimulant",
-    "strNameFriendly": "Immunostimulant",
+    "strNameFriendly": "Иммунностимулятор",
     "strColor": "Good",
     "strDesc": "Иммунная система [us-pos] временно усилена.",
     "bResetTimer": true,
@@ -1828,7 +1828,7 @@
   },
   {
     "strName": "Itching",
-    "strNameFriendly": "Itching",
+    "strNameFriendly": "Зуд",
     "strColor": "Badish",
     "strDesc": "[us] беспокоит постоянный зуд.",
     "bResetTimer": true,
@@ -1852,7 +1852,7 @@
   },
   {
     "strName": "Jaundice2",
-    "strNameFriendly": "Jaundice",
+    "strNameFriendly": "Желтуха",
     "strColor": "Bad",
     "strDesc": "Кожа и глаза [us-pos] приобрели неестественный желтоватый оттенок.",
     "nDisplaySelf": 2,
@@ -1863,7 +1863,7 @@
   },
   {
     "strName": "Jolted",
-    "strNameFriendly": "Jolted",
+    "strNameFriendly": "Вздрогнул",
     "strColor": "Bad",
     "strDesc": "[us] [скован] вызванной электричеством болью и непроизвольными мышечными спазмами.",
     "nDisplaySelf": 2,
@@ -1923,7 +1923,7 @@
   },
   {
     "strName": "Nausea",
-    "strNameFriendly": "Nausea",
+    "strNameFriendly": "Тошнота",
     "strColor": "Bad",
     "strDesc": "[us] тошнит.",
     "bResetTimer": true,
@@ -2074,7 +2074,7 @@
   },
   {
     "strName": "Pneumonia1",
-    "strNameFriendly": "Pneumonia",
+    "strNameFriendly": "Пневмония",
     "strColor": "Bad",
     "strDesc": "[us] заболел пневмонией.",
     "aNext": [
@@ -2086,7 +2086,7 @@
   },
   {
     "strName": "Pneumonia2",
-    "strNameFriendly": "Pneumonia",
+    "strNameFriendly": "Пневмония",
     "strColor": "Bad",
     "strDesc": "У [us] пневмония.",
     "nDisplaySelf": 2,
@@ -2103,7 +2103,7 @@
   },
   {
     "strName": "Pneumonia3",
-    "strNameFriendly": "Pneumonia",
+    "strNameFriendly": "Пневмония",
     "strColor": "Bad",
     "strDesc": "У [us] тяжёлая пневмония.",
     "nDisplaySelf": 2,
@@ -2166,7 +2166,7 @@
   },
   {
     "strName": "Prone",
-    "strNameFriendly": "Prone",
+    "strNameFriendly": "Лёжа",
     "strColor": "Bad",
     "strDesc": "[us] лежит.",
     "nDisplaySelf": 2,
@@ -2193,7 +2193,7 @@
   },
   {
     "strName": "Recovering",
-    "strNameFriendly": "Recovering",
+    "strNameFriendly": "Восстанавливается",
     "strColor": "Bad",
     "strDesc": "[us] приходит в себя и пока не может двигаться.",
     "nDisplaySelf": 2,
@@ -2209,7 +2209,7 @@
   },
   {
     "strName": "Roused",
-    "strNameFriendly": "Roused",
+    "strNameFriendly": "Проснулся",
     "strColor": "Neutral",
     "strDesc": "[us] недавно проснулся.",
     "bResetTimer": true,
@@ -2223,7 +2223,7 @@
   },
   {
     "strName": "Sedated",
-    "strNameFriendly": "Sedated",
+    "strNameFriendly": "Под седацией",
     "strColor": "Bad",
     "strDesc": "[us] находится под действием сильного седативного средства.",
     "bResetTimer": true,
@@ -2238,7 +2238,7 @@
   },
   {
     "strName": "Shivering",
-    "strNameFriendly": "Shivering",
+    "strNameFriendly": "Дрожит",
     "strColor": "Bad",
     "strDesc": "[us] дрожит.",
     "nDisplaySelf": 2,
@@ -2252,7 +2252,7 @@
   },
   {
     "strName": "Sitting",
-    "strNameFriendly": "Sitting",
+    "strNameFriendly": "Сидит",
     "strColor": "Neutral",
     "strDesc": "[us] сидит.",
     "nDisplaySelf": 2,
@@ -2304,7 +2304,7 @@
   },
   {
     "strName": "SleepingMedical",
-    "strNameFriendly": "Recuperating",
+    "strNameFriendly": "Выздоравливает",
     "strColor": "Good",
     "strDesc": "[us] восстанавливается во время отдыха под медицинским наблюдением.",
     "nDisplaySelf": 2,
@@ -2333,7 +2333,7 @@
   },
   {
     "strName": "Stunned",
-    "strNameFriendly": "Stunned",
+    "strNameFriendly": "Оглушён",
     "strColor": "Bad",
     "strDesc": "[us] оглушён и не может двигаться несколько мгновений.",
     "nDisplaySelf": 2,
@@ -2349,7 +2349,7 @@
   },
   {
     "strName": "Sweating",
-    "strNameFriendly": "Sweating",
+    "strNameFriendly": "Потеет",
     "strColor": "Bad",
     "strDesc": "[us] потеет.",
     "nDisplaySelf": 2,
@@ -2388,7 +2388,7 @@
   },
   {
     "strName": "Tipsy",
-    "strNameFriendly": "Tipsy",
+    "strNameFriendly": "Подвыпил",
     "strColor": "Bad",
     "strDesc": "[us] слегка пьян.",
     "bResetTimer": true,
@@ -2416,7 +2416,7 @@
   },
   {
     "strName": "Unconscious",
-    "strNameFriendly": "Unconscious",
+    "strNameFriendly": "Без сознания",
     "strColor": "Bad",
     "strDesc": "[us] без сознания.",
     "nDisplaySelf": 2,
@@ -2432,7 +2432,7 @@
   },
   {
     "strName": "Vomiting",
-    "strNameFriendly": "Vomiting",
+    "strNameFriendly": "Рвота",
     "strColor": "Bad",
     "strDesc": "[us] блюёт.",
     "bResetTimer": true,
@@ -2447,7 +2447,7 @@
   },
   {
     "strName": "Vulnerable",
-    "strNameFriendly": "Vulnerable",
+    "strNameFriendly": "Уязвимый",
     "strColor": "Badish",
     "strDesc": "[us] уязвим для атаки.",
     "bResetTimer": true,
@@ -2462,7 +2462,7 @@
   },
   {
     "strName": "Weakness",
-    "strNameFriendly": "Weakness",
+    "strNameFriendly": "Слабость",
     "strColor": "Bad",
     "strDesc": "[us] чувствует слабость.",
     "nDisplaySelf": 2,
@@ -2550,7 +2550,7 @@
   },
   {
     "strName": "Refreshed",
-    "strNameFriendly": "Napped",
+    "strNameFriendly": "Подремал",
     "strColor": "Goodish",
     "strDesc": "[us] чувствует бодрость после короткого сна.",
     "nDisplaySelf": 2,
@@ -2563,7 +2563,7 @@
   },
   {
     "strName": "Refreshed2",
-    "strNameFriendly": "Refreshed",
+    "strNameFriendly": "Свежий",
     "strColor": "Good",
     "strDesc": "[us] чувствует умеренную бодрость после продолжительного сна.",
     "nDisplaySelf": 2,
@@ -2576,7 +2576,7 @@
   },
   {
     "strName": "Refreshed3",
-    "strNameFriendly": "Energized",
+    "strNameFriendly": "Полон сил",
     "strColor": "Good",
     "strDesc": "[us] чувствует прилив сил после продолжительного сна. Это ощущение может продлиться час-два.",
     "nDisplaySelf": 2,
@@ -2589,7 +2589,7 @@
   },
   {
     "strName": "Refreshed4",
-    "strNameFriendly": "Enlivened",
+    "strNameFriendly": "Бодрый",
     "strColor": "Good",
     "strDesc": "[us] чувствует бодрость, свежесть и прилив сил после редкого продолжительного сна. Это ощущение должно продлиться несколько часов.",
     "nDisplaySelf": 2,
@@ -2812,7 +2812,7 @@
   },
   {
     "strName": "TraitChronicAsthma",
-    "strNameFriendly": "Asthma",
+    "strNameFriendly": "Астма",
     "strColor": "Badish",
     "strDesc": "[us] периодически страдает от закупорки дыхательных путей из-за астмы.",
     "bRemoveAll": true,
@@ -2828,7 +2828,7 @@
   },
   {
     "strName": "ChronicAsthma",
-    "strNameFriendly": "Asthma",
+    "strNameFriendly": "Астма",
     "strColor": "Badish",
     "strDesc": "[us] периодически страдает от закупорки дыхательных путей из-за астмы.",
     "bRemoveAll": true,
@@ -2880,7 +2880,7 @@
   },
   {
     "strName": "TraitChronicEmphysema",
-    "strNameFriendly": "Emphysema",
+    "strNameFriendly": "Эмфизема лёгких",
     "strColor": "Badish",
     "strDesc": "[us] периодически страдает от одышки, стеснения в груди и свистящего продуктивного кашля из-за эмфиземы.",
     "bRemoveAll": true,
@@ -2896,7 +2896,7 @@
   },
   {
     "strName": "TraitChronicEmphysemaFAF",
-    "strNameFriendly": "Emphysema",
+    "strNameFriendly": "Эмфизема лёгких",
     "strColor": "Badish",
     "strDesc": "[us] периодически страдает от одышки, стеснения в груди и свистящего продуктивного кашля из-за эмфиземы.",
     "bRemoveAll": true,
@@ -2912,7 +2912,7 @@
   },
   {
     "strName": "ChronicEmphysema",
-    "strNameFriendly": "Emphysema",
+    "strNameFriendly": "Эмфизема лёгких",
     "strColor": "Badish",
     "strDesc": "[us] периодически страдает от одышки, стеснения в груди и свистящего продуктивного кашля из-за эмфиземы.",
     "bRemoveAll": true,
@@ -2964,7 +2964,7 @@
   },
   {
     "strName": "TraitChronicSilicosis",
-    "strNameFriendly": "Silicosis",
+    "strNameFriendly": "Силикоз",
     "strColor": "Badish",
     "strDesc": "[us] периодически страдает от одышки и свистящего кашля из-за длительного вдыхания каменной пыли.",
     "bRemoveAll": true,
@@ -3100,7 +3100,7 @@
   },
   {
     "strName": "TraitChronicTuberculosis",
-    "strNameFriendly": "Tuberculosis",
+    "strNameFriendly": "Туберкулёз",
     "strColor": "Badish",
     "strDesc": "[us] периодически [страдает] от затруднённого дыхания из-за туберкулёза лёгких.",
     "bRemoveAll": true,
@@ -3116,7 +3116,7 @@
   },
   {
     "strName": "ChronicTuberculosis",
-    "strNameFriendly": "Tuberculosis",
+    "strNameFriendly": "Туберкулёз",
     "strColor": "Badish",
     "strDesc": "[us] периодически [страдает] от затруднённого дыхания из-за туберкулёза лёгких.",
     "bRemoveAll": true,
@@ -3600,7 +3600,7 @@
   },
   {
     "strName": "TraitChronicTendonitis",
-    "strNameFriendly": "Tendonitis",
+    "strNameFriendly": "Тендинит",
     "strColor": "Badish",
     "strDesc": "[us] [suffers] от тендинита, который периодически снижает скорость работы.",
     "bRemoveAll": true,
@@ -3616,7 +3616,7 @@
   },
   {
     "strName": "ChronicTendonitis",
-    "strNameFriendly": "Tendonitis",
+    "strNameFriendly": "Тендинит",
     "strColor": "Badish",
     "strDesc": "[us] [suffers] от тендинита, который периодически снижает скорость работы.",
     "bRemoveAll": true,
@@ -3649,7 +3649,7 @@
   },
   {
     "strName": "TraitChronicArthritis",
-    "strNameFriendly": "Arthritis",
+    "strNameFriendly": "Артрит",
     "strColor": "Badish",
     "strDesc": "[us] [has] периодические генерализованные боли в суставах и мышцах из-за аутоиммунного ревматизма.",
     "bRemoveAll": true,
@@ -3665,7 +3665,7 @@
   },
   {
     "strName": "ChronicArthritis",
-    "strNameFriendly": "Arthritis",
+    "strNameFriendly": "Артрит",
     "strColor": "Badish",
     "strDesc": "[us] [has] периодические генерализованные боли в суставах и мышцах из-за аутоиммунного ревматизма.",
     "bRemoveAll": true,
@@ -5184,7 +5184,7 @@
   },
   {
     "strName": "DcAging01",
-    "strNameFriendly": "Youthful",
+    "strNameFriendly": "Молодой",
     "strColor": "Good",
     "strDesc": "[us] [чувствует] молодость.",
     "bResetTimer": false,
@@ -5571,7 +5571,7 @@
   },
   {
     "strName": "DcBodyTemp02",
-    "strNameFriendly": "Hypothermia",
+    "strNameFriendly": "Гипотермия",
     "strColor": "Cold",
     "strDesc": "У [us-poss] сильное переохлаждение.",
     "bResetTimer": false,
@@ -5586,7 +5586,7 @@
   },
   {
     "strName": "DcBodyTemp03",
-    "strNameFriendly": "Freezing",
+    "strNameFriendly": "Замерзает",
     "strColor": "Coldish",
     "strDesc": "У [us-poss] умеренное переохлаждение.",
     "bResetTimer": false,
@@ -5600,7 +5600,7 @@
   },
   {
     "strName": "DcBodyTemp04",
-    "strNameFriendly": "Cold",
+    "strNameFriendly": "Озябший",
     "strColor": "Neutral",
     "strDesc": "[us] мёрзнет.",
     "bResetTimer": false,
@@ -5613,7 +5613,7 @@
   },
   {
     "strName": "DcBodyTemp05",
-    "strNameFriendly": "Comfortable",
+    "strNameFriendly": "Уютно",
     "strColor": "Good",
     "strDesc": "[us] в тепле.",
     "bResetTimer": false,
@@ -5626,7 +5626,7 @@
   },
   {
     "strName": "DcBodyTemp06",
-    "strNameFriendly": "Overheating",
+    "strNameFriendly": "Перегрев",
     "strColor": "Neutral",
     "strDesc": "[us] перегревается.",
     "bResetTimer": false,
@@ -6297,7 +6297,7 @@
   },
   {
     "strName": "DcEncumbrance01",
-    "strNameFriendly": "Unburdened",
+    "strNameFriendly": "Свободен",
     "strColor": "Good",
     "strDesc": "[us] не обременён тем, что [us-contractIs] несёт.",
     "nDisplaySelf": 0,
@@ -6306,7 +6306,7 @@
   },
   {
     "strName": "DcEncumbrance02",
-    "strNameFriendly": "Burdened",
+    "strNameFriendly": "Обременён",
     "strColor": "Neutral",
     "strDesc": "[us] несёт умеренный груз, и скорость его передвижения снижена. [us] также быстрее [устаёт].",
     "nDisplaySelf": 2,
@@ -6315,7 +6315,7 @@
   },
   {
     "strName": "DcEncumbrance03",
-    "strNameFriendly": "Struggling",
+    "strNameFriendly": "Сопротивляется",
     "strColor": "Badish",
     "strDesc": "[us] несёт тяжёлый груз, и скорость его передвижения сильно снижена. [us] также гораздо быстрее [устаёт].",
     "nDisplaySelf": 2,
@@ -6325,7 +6325,7 @@
   },
   {
     "strName": "DcEncumbrance04",
-    "strNameFriendly": "Overloaded",
+    "strNameFriendly": "Перегружен",
     "strColor": "Bad",
     "strDesc": "[us] несёт слишком много веса и не может двигаться.",
     "nDisplaySelf": 2,
@@ -6489,7 +6489,7 @@
   },
   {
     "strName": "DcFatigue01",
-    "strNameFriendly": "Relaxed",
+    "strNameFriendly": "Расслаблен",
     "strColor": "Good",
     "strDesc": "[us] полностью отдохнул.",
     "nDisplaySelf": 0,
@@ -6498,7 +6498,7 @@
   },
   {
     "strName": "DcFatigue02",
-    "strNameFriendly": "Winded",
+    "strNameFriendly": "Запыхался",
     "strColor": "Neutral",
     "strDesc": "[us] запыхался.",
     "nDisplaySelf": 2,
@@ -6507,7 +6507,7 @@
   },
   {
     "strName": "DcFatigue03",
-    "strNameFriendly": "Fatigued",
+    "strNameFriendly": "Устал",
     "strColor": "Bad",
     "strDesc": "[us] утомлён от длительного напряжения.",
     "nDisplaySelf": 2,
@@ -6516,7 +6516,7 @@
   },
   {
     "strName": "DcFatigue04",
-    "strNameFriendly": "Drained",
+    "strNameFriendly": "Истощён",
     "strColor": "Bad",
     "strDesc": "[us] приближается к [us-pos] физическому пределу.",
     "nDisplaySelf": 2,
@@ -6526,7 +6526,7 @@
   },
   {
     "strName": "DcFatigue05",
-    "strNameFriendly": "Exhausted",
+    "strNameFriendly": "Истощён",
     "strColor": "Bad",
     "strDesc": "[us] слишком измотан, чтобы двигаться.",
     "nDisplaySelf": 2,
@@ -6601,7 +6601,7 @@
   },
   {
     "strName": "DcFood02",
-    "strNameFriendly": "Sustained",
+    "strNameFriendly": "Устойчивый",
     "strColor": "Badish",
     "strDesc": "[us] достаточно сыт.",
     "bResetTimer": false,
@@ -6614,7 +6614,7 @@
   },
   {
     "strName": "DcFood03",
-    "strNameFriendly": "Malnourished",
+    "strNameFriendly": "Истощён",
     "strColor": "Bad",
     "strDesc": "[us] истощён.",
     "bResetTimer": false,
@@ -6628,7 +6628,7 @@
   },
   {
     "strName": "DcFood04",
-    "strNameFriendly": "Wasting",
+    "strNameFriendly": "Истощение",
     "strColor": "BadVery",
     "strDesc": "[us] медленно угасает.",
     "bResetTimer": false,
@@ -6642,7 +6642,7 @@
   },
   {
     "strName": "DcFood05",
-    "strNameFriendly": "Starved",
+    "strNameFriendly": "Голодает",
     "strColor": "Bad",
     "strDesc": "[us] умер от голода.",
     "bResetTimer": false,
@@ -6760,7 +6760,7 @@
   },
   {
     "strName": "DcGasPressureOverCap",
-    "strNameFriendly": "Overpressure",
+    "strNameFriendly": "Избыточное давление",
     "strColor": "Bad",
     "strDesc": "[us] [has] давление воздуха, превышающее номинальную нагрузку корпуса.",
     "bResetTimer": false,
@@ -7046,7 +7046,7 @@
   },
   {
     "strName": "DcGrav01",
-    "strNameFriendly": "Microgravity",
+    "strNameFriendly": "Микрогравитация",
     "strColor": "Good",
     "strDesc": "[us] [is] в условиях микрогравитации.",
     "nDisplaySelf": 2,
@@ -7074,7 +7074,7 @@
   },
   {
     "strName": "DcGrav04",
-    "strNameFriendly": "Supergravic",
+    "strNameFriendly": "Супергравия",
     "strColor": "Bad",
     "strDesc": "[us] [is] раздавливается гравитационными силами.",
     "nDisplaySelf": 2,
@@ -7084,7 +7084,7 @@
   },
   {
     "strName": "DcGrav05",
-    "strNameFriendly": "Hypergravic",
+    "strNameFriendly": "Гипергравия",
     "strColor": "Bad",
     "strDesc": "[us] [is] смертельно раздавливается гравитационными силами.",
     "nDisplaySelf": 2,
@@ -7094,7 +7094,7 @@
   },
   {
     "strName": "DcHydration01",
-    "strNameFriendly": "Slaked",
+    "strNameFriendly": "Утолил жажду",
     "strColor": "Good",
     "strDesc": "[us] [has] утолил(а) жажду.",
     "nDisplaySelf": 0,
@@ -7103,7 +7103,7 @@
   },
   {
     "strName": "DcHydration02",
-    "strNameFriendly": "Thirsty",
+    "strNameFriendly": "Жаждет",
     "strColor": "Badish",
     "strDesc": "[us] [is] хочет пить.",
     "nDisplaySelf": 2,
@@ -7112,7 +7112,7 @@
   },
   {
     "strName": "DcHydration03",
-    "strNameFriendly": "Parched",
+    "strNameFriendly": "Пересохший",
     "strColor": "Bad",
     "strDesc": "[us] [is] слабеет от жажды.",
     "nDisplaySelf": 2,
@@ -7121,7 +7121,7 @@
   },
   {
     "strName": "DcHydration04",
-    "strNameFriendly": "Dehydrated",
+    "strNameFriendly": "Обезвожен",
     "strColor": "BadVery",
     "strDesc": "[us] [is] умирает от жажды.",
     "nDisplaySelf": 2,
@@ -7151,7 +7151,7 @@
   },
   {
     "strName": "DcHygiene02",
-    "strNameFriendly": "Disheveled",
+    "strNameFriendly": "Растрёпанный",
     "strColor": "Neutral",
     "strDesc": "[us] не помешало бы освежиться.",
     "nDisplaySelf": 2,
@@ -7160,7 +7160,7 @@
   },
   {
     "strName": "DcHygiene03",
-    "strNameFriendly": "Dirty",
+    "strNameFriendly": "Грязный",
     "strColor": "Bad",
     "strDesc": "[us] [looks] растрёпанным(ой) и неприятно пахнет.",
     "nDisplaySelf": 2,
@@ -7169,7 +7169,7 @@
   },
   {
     "strName": "DcHygiene04",
-    "strNameFriendly": "Filthy",
+    "strNameFriendly": "Грязнуля",
     "strColor": "Bad",
     "strDesc": "[us] [has] тело, оскорбляющее обоняние и зрение окружающих.",
     "nDisplaySelf": 2,
@@ -7179,7 +7179,7 @@
   },
   {
     "strName": "DcInfection01",
-    "strNameFriendly": "Healthy",
+    "strNameFriendly": "Здоровый",
     "strColor": "Neutral",
     "strDesc": "[us] [has] здоровую иммунную систему.",
     "nDisplaySelf": 0,
@@ -7188,7 +7188,7 @@
   },
   {
     "strName": "DcInfection02",
-    "strNameFriendly": "Infection",
+    "strNameFriendly": "Инфекция",
     "strColor": "Bad",
     "strDesc": "[us] [is] борется с инфекцией.",
     "nDisplaySelf": 2,
@@ -7197,7 +7197,7 @@
   },
   {
     "strName": "DcInfection03",
-    "strNameFriendly": "Sepsis",
+    "strNameFriendly": "Сепсис",
     "strColor": "BadVery",
     "strDesc": "Всё тело [us] находится в воспалённом, потенциально смертельном состоянии.",
     "nDisplaySelf": 2,
@@ -7453,7 +7453,7 @@
   },
   {
     "strName": "DcOxygen02",
-    "strNameFriendly": "Hypoxic",
+    "strNameFriendly": "Гипоксия",
     "strColor": "Bad",
     "strDesc": "[us] [страдает] от гипоксии.",
     "bResetTimer": false,
@@ -7484,7 +7484,7 @@
   },
   {
     "strName": "DcOxygen04",
-    "strNameFriendly": "Asphyxiated",
+    "strNameFriendly": "Удушье",
     "strColor": "Bad",
     "strDesc": "[us] [задохнулся].",
     "bResetTimer": false,
@@ -7535,7 +7535,7 @@
   },
   {
     "strName": "DcPain04",
-    "strNameFriendly": "Shock",
+    "strNameFriendly": "Шок",
     "strColor": "BadVery",
     "strDesc": "[us] потерял сознание от невыносимой боли.",
     "nDisplaySelf": 2,
@@ -7869,7 +7869,7 @@
   },
   {
     "strName": "DcPopulation02",
-    "strNameFriendly": "Solitary",
+    "strNameFriendly": "Одиночка",
     "strColor": "Neutral",
     "strDesc": "В [us] один человек.",
     "nDisplaySelf": 2,
@@ -7878,7 +7878,7 @@
   },
   {
     "strName": "DcPopulation03",
-    "strNameFriendly": "Couple",
+    "strNameFriendly": "Пара",
     "strColor": "Neutral",
     "strDesc": "В [us] два человека.",
     "nDisplaySelf": 2,
@@ -7887,7 +7887,7 @@
   },
   {
     "strName": "DcPopulation04",
-    "strNameFriendly": "Intimate",
+    "strNameFriendly": "Интимный",
     "strColor": "Neutral",
     "strDesc": "В [us] несколько человек.",
     "nDisplaySelf": 2,
@@ -7896,7 +7896,7 @@
   },
   {
     "strName": "DcPopulation05",
-    "strNameFriendly": "Crowded",
+    "strNameFriendly": "Тесно",
     "strColor": "Neutral",
     "strDesc": "[us] [переполнен] людьми.",
     "nDisplaySelf": 2,
@@ -8270,7 +8270,7 @@
   },
   {
     "strName": "DcSatiety01",
-    "strNameFriendly": "Hungry",
+    "strNameFriendly": "Голодный",
     "strColor": "Badish",
     "strDesc": "[us] [is] чувствует голод.",
     "nDisplaySelf": 2,
@@ -8280,7 +8280,7 @@
   },
   {
     "strName": "DcSatiety02",
-    "strNameFriendly": "Sated",
+    "strNameFriendly": "Сыт",
     "strColor": "Good",
     "strDesc": "[us] [is] сыт.",
     "nDisplaySelf": 0,
@@ -8289,7 +8289,7 @@
   },
   {
     "strName": "DcSatiety03",
-    "strNameFriendly": "Stuffed",
+    "strNameFriendly": "Объелся",
     "strColor": "Goodish",
     "strDesc": "[us] [is] наелся до отвала и больше не может есть.",
     "nDisplaySelf": 2,
@@ -8477,7 +8477,7 @@
   },
   {
     "strName": "DcSleep01",
-    "strNameFriendly": "Rested",
+    "strNameFriendly": "Отдохнул",
     "strColor": "Goodish",
     "strDesc": "[us] [отдохнул(а)] достаточно.",
     "bResetTimer": false,
@@ -8490,7 +8490,7 @@
   },
   {
     "strName": "DcSleep02",
-    "strNameFriendly": "Tired",
+    "strNameFriendly": "Устал",
     "strColor": "Badish",
     "strDesc": "[us] [is] уставший(ая) и готов(а) ко сну после целого дня бодрствования.",
     "bResetTimer": false,
@@ -8503,7 +8503,7 @@
   },
   {
     "strName": "DcSleep03",
-    "strNameFriendly": "Drowsy",
+    "strNameFriendly": "Сонный",
     "strColor": "Bad",
     "strDesc": "[us] [is] сонный(ая), словно [us-contractHas] не спал(а) всю ночь.",
     "bResetTimer": false,
@@ -8516,7 +8516,7 @@
   },
   {
     "strName": "DcSleep04",
-    "strNameFriendly": "Weary",
+    "strNameFriendly": "Утомлён",
     "strColor": "Bad",
     "strDesc": "[us] [is] измотан(а) из-за сильного недосыпа и, вероятно, галлюционирует.",
     "bResetTimer": false,
@@ -12221,7 +12221,7 @@
   },
   {
     "strName": "DcWoundBlunt04",
-    "strNameFriendly": "Broken",
+    "strNameFriendly": "Сломлен",
     "strColor": "Bad",
     "strDesc": "[us] сломан.",
     "nDisplaySelf": 2,
@@ -12387,7 +12387,7 @@
   },
   {
     "strName": "DeathSoon",
-    "strNameFriendly": "Dying",
+    "strNameFriendly": "Умирает",
     "strColor": "Bad",
     "strDesc": "[us] скоро [умрёт].",
     "nDisplaySelf": 2,
@@ -12593,7 +12593,7 @@
   },
   {
     "strName": "IsAgliophobic",
-    "strNameFriendly": "Agliophobic",
+    "strNameFriendly": "Боязнь боли",
     "strColor": "Bad",
     "strDesc": "[us] [has] парализующий страх боли.",
     "nDisplaySelf": 2,
@@ -12646,7 +12646,7 @@
   },
   {
     "strName": "IsAmbitious",
-    "strNameFriendly": "Ambitious",
+    "strNameFriendly": "Амбициозный",
     "strColor": "Good",
     "strDesc": "[us] [is] более решителен в достижении успеха, чем большинство.",
     "nDisplaySelf": 2,
@@ -12688,7 +12688,7 @@
   },
   {
     "strName": "IsApathetic",
-    "strNameFriendly": "Apathetic",
+    "strNameFriendly": "Апатичный",
     "strColor": "Neutral",
     "strDesc": "[us] [is] значительно менее прихотлив, чем большинство.",
     "nDisplaySelf": 2,
@@ -12716,7 +12716,7 @@
   },
   {
     "strName": "IsArrogant",
-    "strNameFriendly": "Arrogant",
+    "strNameFriendly": "Высокомерный",
     "strColor": "Bad",
     "strDesc": "[us] [is] излишне самоуверен.",
     "nDisplaySelf": 2,
@@ -12741,7 +12741,7 @@
   },
   {
     "strName": "IsBarefoot",
-    "strNameFriendly": "Barefoot",
+    "strNameFriendly": "Босиком",
     "strColor": "Neutral",
     "strDesc": "[us] [is] босиком.",
     "nDisplaySelf": 2,
@@ -12753,7 +12753,7 @@
   },
   {
     "strName": "IsBeautiful",
-    "strNameFriendly": "Beautiful",
+    "strNameFriendly": "Красивый",
     "strColor": "Good",
     "strDesc": "[us] [is] поразительно привлекателен.",
     "nDisplaySelf": 2,
@@ -12765,7 +12765,7 @@
   },
   {
     "strName": "IsBlinded",
-    "strNameFriendly": "Blinded",
+    "strNameFriendly": "Ослеплён",
     "strColor": "Neutral",
     "strDesc": "[us] ничего не видит.",
     "nDisplaySelf": 2,
@@ -12777,7 +12777,7 @@
   },
   {
     "strName": "IsBrave",
-    "strNameFriendly": "Brave",
+    "strNameFriendly": "Смелый",
     "strColor": "Good",
     "strDesc": "[us] храбрее большинства.",
     "nDisplaySelf": 2,
@@ -12805,7 +12805,7 @@
   },
   {
     "strName": "IsCharismatic",
-    "strNameFriendly": "Charismatic",
+    "strNameFriendly": "Харизматичный",
     "strColor": "Good",
     "strDesc": "[us] [вдохновляет] других на преданность.",
     "nDisplaySelf": 2,
@@ -12816,7 +12816,7 @@
   },
   {
     "strName": "IsChaste",
-    "strNameFriendly": "Chaste",
+    "strNameFriendly": "Целомудренный",
     "strColor": "Neutral",
     "strDesc": "[us] [не одобряет] интимные отношения.",
     "nDisplaySelf": 2,
@@ -13506,7 +13506,7 @@
   },
   {
     "strName": "IsClumsy",
-    "strNameFriendly": "Clumsy",
+    "strNameFriendly": "Неуклюжий",
     "strColor": "Bad",
     "strDesc": "[us] крайне неуклюж.",
     "nDisplaySelf": 2,
@@ -13563,7 +13563,7 @@
   },
   {
     "strName": "IsCombatDodging",
-    "strNameFriendly": "Dodging",
+    "strNameFriendly": "Уклонение",
     "strColor": "Good",
     "strDesc": "[us] пытается уклониться от входящих атак.",
     "bResetTimer": true,
@@ -13579,7 +13579,7 @@
   },
   {
     "strName": "IsComedian",
-    "strNameFriendly": "Comedian",
+    "strNameFriendly": "Шутник",
     "strColor": "Good",
     "strDesc": "[us] часто использует юмор в разговоре.",
     "nDisplaySelf": 2,
@@ -13607,7 +13607,7 @@
   },
   {
     "strName": "IsComplacent",
-    "strNameFriendly": "Complacent",
+    "strNameFriendly": "Самодовольный",
     "strColor": "Neutral",
     "strDesc": "[us] не заинтересован в личном продвижении.",
     "nDisplaySelf": 2,
@@ -13635,7 +13635,7 @@
   },
   {
     "strName": "IsCoordinated",
-    "strNameFriendly": "Coordinated",
+    "strNameFriendly": "Скоординированный",
     "strColor": "Good",
     "strDesc": "[us] физически скоординированнее большинства.",
     "nDisplaySelf": 2,
@@ -13673,7 +13673,7 @@
   },
   {
     "strName": "IsCraven",
-    "strNameFriendly": "Craven",
+    "strNameFriendly": "Трусливый",
     "strColor": "Bad",
     "strDesc": "[us] пугается легче, чем большинство.",
     "nDisplaySelf": 2,
@@ -13710,7 +13710,7 @@
   },
   {
     "strName": "IsCruel",
-    "strNameFriendly": "Cruel",
+    "strNameFriendly": "Жестокий",
     "strColor": "Bad",
     "strDesc": "[us] наслаждается причинением боли другим.",
     "nDisplaySelf": 2,
@@ -13724,7 +13724,7 @@
   },
   {
     "strName": "IsCultist",
-    "strNameFriendly": "Cultist",
+    "strNameFriendly": "Сектант",
     "strColor": "Neutral",
     "strDesc": "[us] глубоко предан определённому делу, лидеру или системе убеждений.",
     "bResetTimer": false,
@@ -13738,7 +13738,7 @@
   },
   {
     "strName": "IsCumbersome",
-    "strNameFriendly": "Cumbersome",
+    "strNameFriendly": "Громоздкий",
     "strColor": "Neutral",
     "strDesc": "[us] нелегко удерживать или хранить; с трудом проходит через отверстие диаметром 50 см.",
     "nDisplaySelf": 2,
@@ -13749,7 +13749,7 @@
   },
   {
     "strName": "IsDiligent",
-    "strNameFriendly": "Diligent",
+    "strNameFriendly": "Прилежный",
     "strColor": "Good",
     "strDesc": "[us] значительно тщательнее других относится к своей работе.",
     "nDisplaySelf": 2,
@@ -13798,7 +13798,7 @@
   },
   {
     "strName": "IsDragged",
-    "strNameFriendly": "Dragged",
+    "strNameFriendly": "Влечётся",
     "strColor": "Bad",
     "strDesc": "[us] сейчас волочётся по земле.",
     "nDisplaySelf": 0,
@@ -13810,7 +13810,7 @@
   },
   {
     "strName": "IsDragging",
-    "strNameFriendly": "Dragging",
+    "strNameFriendly": "Тащит",
     "strColor": "Neutral",
     "strDesc": "[us] тащит за собой что-то.",
     "nDisplaySelf": 0,
@@ -13898,7 +13898,7 @@
   },
   {
     "strName": "IsFeeble",
-    "strNameFriendly": "Feeble",
+    "strNameFriendly": "Слабый",
     "strColor": "Bad",
     "strDesc": "[us] физически слабее большинства.",
     "nDisplaySelf": 2,
@@ -13912,7 +13912,7 @@
   },
   {
     "strName": "IsFinicky",
-    "strNameFriendly": "Finicky",
+    "strNameFriendly": "Разборчивый",
     "strColor": "Bad",
     "strDesc": "[us] придирчив к каждой мелочи.",
     "nDisplaySelf": 2,
@@ -13940,7 +13940,7 @@
   },
   {
     "strName": "IsFit",
-    "strNameFriendly": "Fit",
+    "strNameFriendly": "В форме",
     "strColor": "Good",
     "strDesc": "[us] физически выносливее и менее подвержен усталости, чем большинство.",
     "nDisplaySelf": 2,
@@ -13954,7 +13954,7 @@
   },
   {
     "strName": "IsFollower",
-    "strNameFriendly": "Follower",
+    "strNameFriendly": "Последователь",
     "strColor": "Bad",
     "strDesc": "[us] не любит принимать решения и предпочитает следовать за другими.",
     "nDisplaySelf": 2,
@@ -13968,7 +13968,7 @@
   },
   {
     "strName": "IsFoodie",
-    "strNameFriendly": "Foodie",
+    "strNameFriendly": "Гурман",
     "strColor": "Neutral",
     "strDesc": "[us] обожает обсуждать и работать с самой разнообразной едой, особенно с редкими или экзотическими ингредиентами.",
     "bResetTimer": false,
@@ -13982,7 +13982,7 @@
   },
   {
     "strName": "IsForgiving",
-    "strNameFriendly": "Forgiving",
+    "strNameFriendly": "Снисходительный",
     "strColor": "Neutral",
     "strDesc": "[us] более склонен прощать, чем большинство.",
     "nDisplaySelf": 2,
@@ -14006,7 +14006,7 @@
   },
   {
     "strName": "IsFragile",
-    "strNameFriendly": "Fragile",
+    "strNameFriendly": "Хрупкий",
     "strColor": "Bad",
     "strDesc": "[us] физически более уязвим, чем большинство.",
     "nDisplaySelf": 2,
@@ -14031,7 +14031,7 @@
   },
   {
     "strName": "IsGenius",
-    "strNameFriendly": "Genius",
+    "strNameFriendly": "Гений",
     "strColor": "Good",
     "strDesc": "[us] значительно умнее большинства.",
     "nDisplaySelf": 2,
@@ -14069,7 +14069,7 @@
   },
   {
     "strName": "IsGlutton",
-    "strNameFriendly": "Glutton",
+    "strNameFriendly": "Обжора",
     "strColor": "Bad",
     "strDesc": "[us] [часто] [злоупотребляет] и [предаётся] излишествам ради удовольствия.",
     "nDisplaySelf": 2,
@@ -14083,7 +14083,7 @@
   },
   {
     "strName": "IsGregarious",
-    "strNameFriendly": "Gregarious",
+    "strNameFriendly": "Общительный",
     "strColor": "Neutral",
     "strDesc": "[us] [любит] компанию гораздо больше большинства людей.",
     "nDisplaySelf": 2,
@@ -14139,7 +14139,7 @@
   },
   {
     "strName": "IsHeartbeat",
-    "strNameFriendly": "Heartbeat",
+    "strNameFriendly": "Сердцебиение",
     "strColor": "Neutral",
     "strDesc": "[us] [только] что произошёл очередной такт сердцебиения.",
     "bResetTimer": false,
@@ -14149,7 +14149,7 @@
   },
   {
     "strName": "IsHonest",
-    "strNameFriendly": "Honest",
+    "strNameFriendly": "Честный",
     "strColor": "Neutral",
     "strDesc": "[us] [склонен] говорить правду.",
     "nDisplaySelf": 2,
@@ -14177,7 +14177,7 @@
   },
   {
     "strName": "IsHumble",
-    "strNameFriendly": "Humble",
+    "strNameFriendly": "Скромный",
     "strColor": "Good",
     "strDesc": "[us] [ведёт] себя скромнее большинства.",
     "nDisplaySelf": 2,
@@ -14191,7 +14191,7 @@
   },
   {
     "strName": "IsHumorless",
-    "strNameFriendly": "Humorless",
+    "strNameFriendly": "Без юмора",
     "strColor": "Bad",
     "strDesc": "[us] [лишён] чувства юмора.",
     "nDisplaySelf": 2,
@@ -14232,7 +14232,7 @@
   },
   {
     "strName": "IsImmunoSuppressed",
-    "strNameFriendly": "Immunosuppressed",
+    "strNameFriendly": "Иммуносупрессия",
     "strColor": "Bad",
     "strDesc": "[us] [страдает] перманентно ослабленной иммунной системой.",
     "nDisplaySelf": 2,
@@ -14245,7 +14245,7 @@
   },
   {
     "strName": "IsImpatient",
-    "strNameFriendly": "Impatient",
+    "strNameFriendly": "Нетерпеливый",
     "strColor": "Bad",
     "strDesc": "[us] [не] [умеет] ждать.",
     "nDisplaySelf": 2,
@@ -14288,7 +14288,7 @@
   },
   {
     "strName": "IsInARelationship",
-    "strNameFriendly": "Looped",
+    "strNameFriendly": "Зацикленный",
     "strColor": "Goodish",
     "strDesc": "[us] [состоит] в романтических отношениях.",
     "nDisplaySelf": 0,
@@ -14298,7 +14298,7 @@
   },
   {
     "strName": "IsInsomniac",
-    "strNameFriendly": "Insomniac",
+    "strNameFriendly": "Бессонница",
     "strColor": "Bad",
     "strDesc": "[us] [трудно] засыпать и сохранять сон.",
     "nDisplaySelf": 2,
@@ -14348,7 +14348,7 @@
   },
   {
     "strName": "IsKind",
-    "strNameFriendly": "Kind",
+    "strNameFriendly": "Добрый",
     "strColor": "Good",
     "strDesc": "[us] [наслаждается], делая других счастливыми.",
     "nDisplaySelf": 2,
@@ -14362,7 +14362,7 @@
   },
   {
     "strName": "IsLeader",
-    "strNameFriendly": "Leader",
+    "strNameFriendly": "Лидер",
     "strColor": "Good",
     "strDesc": "[us] [умеет] руководить и организовывать людей.",
     "nDisplaySelf": 2,
@@ -14406,7 +14406,7 @@
   },
   {
     "strName": "IsLiar",
-    "strNameFriendly": "Liar",
+    "strNameFriendly": "Лжец",
     "strColor": "Bad",
     "strDesc": "[us] [лжёт] без малейших угрызений совести.",
     "nDisplaySelf": 2,
@@ -14434,7 +14434,7 @@
   },
   {
     "strName": "IsLoyal",
-    "strNameFriendly": "Loyal",
+    "strNameFriendly": "Верный",
     "strColor": "Good",
     "strDesc": "[us] [is] с большей вероятностью останется верен [us-pos] команде в трудные времена, чем большинство.",
     "nDisplaySelf": 2,
@@ -14448,7 +14448,7 @@
   },
   {
     "strName": "IsLustful",
-    "strNameFriendly": "Lustful",
+    "strNameFriendly": "Похотливый",
     "strColor": "Neutral",
     "strDesc": "[us] [is] свободен в интимных отношениях.",
     "nDisplaySelf": 2,
@@ -14476,7 +14476,7 @@
   },
   {
     "strName": "IsMasochist",
-    "strNameFriendly": "Masochist",
+    "strNameFriendly": "Мазохист",
     "strColor": "Bad",
     "strDesc": "[us] [enjoys] испытывать боль и наказание.",
     "nDisplaySelf": 2,
@@ -14530,7 +14530,7 @@
   },
   {
     "strName": "IsOblivious",
-    "strNameFriendly": "Oblivious",
+    "strNameFriendly": "Невнимательный",
     "strColor": "Bad",
     "strDesc": "[us] [is] совершенно не замечает [us-pos] окружения и деталей.",
     "nDisplaySelf": 2,
@@ -14571,7 +14571,7 @@
   },
   {
     "strName": "IsObservant",
-    "strNameFriendly": "Observant",
+    "strNameFriendly": "Наблюдательный",
     "strColor": "Good",
     "strDesc": "[us] [is] способен замечать детали лучше, чем большинство.",
     "nDisplaySelf": 2,
@@ -14599,7 +14599,7 @@
   },
   {
     "strName": "IsObtuse",
-    "strNameFriendly": "Obtuse",
+    "strNameFriendly": "Туповатый",
     "strColor": "Bad",
     "strDesc": "[us] [is] медленно устанавливает связи и усваивает новое.",
     "nDisplaySelf": 2,
@@ -14634,7 +14634,7 @@
   },
   {
     "strName": "IsOccupied",
-    "strNameFriendly": "Occupied",
+    "strNameFriendly": "Занят",
     "strColor": "Neutral",
     "strDesc": "[us] сейчас занят и не может быть использован кем-либо ещё.",
     "nDisplaySelf": 2,
@@ -14656,7 +14656,7 @@
   },
   {
     "strName": "IsOptimist",
-    "strNameFriendly": "Optimist",
+    "strNameFriendly": "Оптимист",
     "strColor": "Good",
     "strDesc": "[us] [sees] во всём светлую сторону.",
     "nDisplaySelf": 2,
@@ -14740,7 +14740,7 @@
   },
   {
     "strName": "IsPatient",
-    "strNameFriendly": "Patient",
+    "strNameFriendly": "Терпеливый",
     "strColor": "Good",
     "strDesc": "[us] [is] готов ждать дольше, чем большинство, не раздражаясь.",
     "nDisplaySelf": 2,
@@ -14768,7 +14768,7 @@
   },
   {
     "strName": "IsPessimist",
-    "strNameFriendly": "Pessimist",
+    "strNameFriendly": "Пессимист",
     "strColor": "Bad",
     "strDesc": "[us] [sees] во всём негатив.",
     "nDisplaySelf": 2,
@@ -14830,7 +14830,7 @@
   },
   {
     "strName": "IsPushover",
-    "strNameFriendly": "Pushover",
+    "strNameFriendly": "Рохля",
     "strColor": "Bad",
     "strDesc": "[us] редко вступается за себя или свои убеждения.",
     "nDisplaySelf": 2,
@@ -14844,7 +14844,7 @@
   },
   {
     "strName": "IsQuitter",
-    "strNameFriendly": "Quitter",
+    "strNameFriendly": "Дроп",
     "strColor": "Bad",
     "strDesc": "[us] с большей вероятностью сдастся при столкновении с трудностями, чем большинство.",
     "nDisplaySelf": 2,
@@ -14981,7 +14981,7 @@
   },
   {
     "strName": "IsRepulsive",
-    "strNameFriendly": "Repulsive",
+    "strNameFriendly": "Отталкивающий",
     "strColor": "Bad",
     "strDesc": "[us] вызывает у других сильную неприязнь.",
     "nDisplaySelf": 2,
@@ -15040,7 +15040,7 @@
   },
   {
     "strName": "IsSelfish",
-    "strNameFriendly": "Selfish",
+    "strNameFriendly": "Эгоистичный",
     "strColor": "Bad",
     "strDesc": "[us] значительно чаще ставит свои интересы выше интересов других.",
     "nDisplaySelf": 2,
@@ -15054,7 +15054,7 @@
   },
   {
     "strName": "IsSelfless",
-    "strNameFriendly": "Selfless",
+    "strNameFriendly": "Бескорыстный",
     "strColor": "Good",
     "strDesc": "[us] значительно чаще ставит интересы других выше своих.",
     "nDisplaySelf": 2,
@@ -15114,7 +15114,7 @@
   },
   {
     "strName": "IsShy",
-    "strNameFriendly": "Shy",
+    "strNameFriendly": "Застенчивый",
     "strColor": "Bad",
     "strDesc": "[us] чувствует себя некомфортно рядом с другими людьми, особенно с незнакомцами.",
     "nDisplaySelf": 2,
@@ -15170,7 +15170,7 @@
   },
   {
     "strName": "IsSlovenly",
-    "strNameFriendly": "Slovenly",
+    "strNameFriendly": "Неряшливый",
     "strColor": "Bad",
     "strDesc": "[us] [is] чрезмерно неряшлив(а).",
     "nDisplaySelf": 2,
@@ -15198,7 +15198,7 @@
   },
   {
     "strName": "IsStrong",
-    "strNameFriendly": "Strong",
+    "strNameFriendly": "Сильный",
     "strColor": "Good",
     "strDesc": "[us] [is] физически сильнее большинства людей.",
     "nDisplaySelf": 2,
@@ -15212,7 +15212,7 @@
   },
   {
     "strName": "IsStubborn",
-    "strNameFriendly": "Stubborn",
+    "strNameFriendly": "Упрямый",
     "strColor": "Bad",
     "strDesc": "[us] вряд ли [is] изменит своё мнение, даже если [is] ошибается.",
     "nDisplaySelf": 2,
@@ -15361,7 +15361,7 @@
   },
   {
     "strName": "IsSubdued",
-    "strNameFriendly": "Subdued",
+    "strNameFriendly": "Подавлен",
     "strColor": "Badish",
     "strDesc": "[us] [is] подавлен(а) и уязвим(а).",
     "nDisplaySelf": 2,
@@ -15374,7 +15374,7 @@
   },
   {
     "strName": "IsSuspicious",
-    "strNameFriendly": "Suspicious",
+    "strNameFriendly": "Подозрительный",
     "strColor": "Neutral",
     "strDesc": "[us] [is] не доверяет другим людям.",
     "nDisplaySelf": 2,
@@ -15426,7 +15426,7 @@
   },
   {
     "strName": "IsTemperate",
-    "strNameFriendly": "Temperate",
+    "strNameFriendly": "Умеренный",
     "strColor": "Good",
     "strDesc": "[us] вряд ли [is] станет предаваться удовольствию ради самого удовольствия.",
     "nDisplaySelf": 2,
@@ -15450,7 +15450,7 @@
   },
   {
     "strName": "IsTidy",
-    "strNameFriendly": "Tidy",
+    "strNameFriendly": "Опрятный",
     "strColor": "Neutral",
     "strDesc": "[us] [испытывает] непреодолимое желание убирать беспорядок, особенно [us-poss] собственный.",
     "nDisplaySelf": 2,
@@ -15475,7 +15475,7 @@
   },
   {
     "strName": "IsTough",
-    "strNameFriendly": "Tough",
+    "strNameFriendly": "Стойкий",
     "strColor": "Good",
     "strDesc": "[us] [может] выдержать больше наказаний, чем большинство.",
     "nDisplaySelf": 2,
@@ -15513,7 +15513,7 @@
   },
   {
     "strName": "IsTreacherous",
-    "strNameFriendly": "Treacherous",
+    "strNameFriendly": "Коварный",
     "strColor": "Bad",
     "strDesc": "[us] [не питает] никакой преданности, кроме как к себе самому.",
     "nDisplaySelf": 2,
@@ -15527,7 +15527,7 @@
   },
   {
     "strName": "IsTrusting",
-    "strNameFriendly": "Trusting",
+    "strNameFriendly": "Доверчивый",
     "strColor": "Neutral",
     "strDesc": "[us] [не боится] доверять другим.",
     "nDisplaySelf": 2,
@@ -15569,7 +15569,7 @@
   },
   {
     "strName": "IsUgly",
-    "strNameFriendly": "Ugly",
+    "strNameFriendly": "Уродливый",
     "strColor": "Bad",
     "strDesc": "На [us] неприятно смотреть.",
     "nDisplaySelf": 2,
@@ -15581,7 +15581,7 @@
   },
   {
     "strName": "IsUnfit",
-    "strNameFriendly": "Unfit",
+    "strNameFriendly": "Непригоден",
     "strColor": "Bad",
     "strDesc": "[us] [устаёт] от физических нагрузок быстрее большинства.",
     "nDisplaySelf": 2,
@@ -15615,7 +15615,7 @@
   },
   {
     "strName": "IsVengeful",
-    "strNameFriendly": "Vengeful",
+    "strNameFriendly": "Мстительный",
     "strColor": "Bad",
     "strDesc": "[us] крайне склонен [затаить] обиду и [искать] мести.",
     "nDisplaySelf": 2,
@@ -16154,7 +16154,7 @@
   },
   {
     "strName": "StatAltruism",
-    "strNameFriendly": "Altruism",
+    "strNameFriendly": "Альтруизм",
     "strColor": "Neutral",
     "strDesc": "Насколько [us] [is] склонен к благотворительности.",
     "bResetTimer": false,
@@ -16214,7 +16214,7 @@
   },
   {
     "strName": "StatAutonomy",
-    "strNameFriendly": "Autonomy",
+    "strNameFriendly": "Автономия",
     "strColor": "Neutral",
     "strDesc": "Насколько [us] [feels], что [us-subj] [has] автономии.",
     "bResetTimer": false,
@@ -16332,7 +16332,7 @@
   },
   {
     "strName": "StatDamage",
-    "strNameFriendly": "Damage",
+    "strNameFriendly": "Урон",
     "strColor": "Neutral",
     "strDesc": "Объём урона, нанесённого [us].",
     "bPersists": true,
@@ -16354,7 +16354,7 @@
   },
   {
     "strName": "StatDefense",
-    "strNameFriendly": "Defense",
+    "strNameFriendly": "Защита",
     "strColor": "Neutral",
     "strDesc": "Способность [us-pos] защищаться в бою."
   },
@@ -16390,7 +16390,7 @@
   },
   {
     "strName": "StatEsteem",
-    "strNameFriendly": "Respect",
+    "strNameFriendly": "Уважение",
     "strColor": "Neutral",
     "strDesc": "Уважение [us-pos] среди [us-pos] коллег.",
     "bResetTimer": false,
@@ -16405,7 +16405,7 @@
   },
   {
     "strName": "StatFamily",
-    "strNameFriendly": "Family",
+    "strNameFriendly": "Семья",
     "strColor": "Neutral",
     "strDesc": "Насколько сильно [us] скучает по семье.",
     "bResetTimer": false,
@@ -16679,7 +16679,7 @@
   },
   {
     "strName": "StatIntimacy",
-    "strNameFriendly": "Intimacy",
+    "strNameFriendly": "Близость",
     "strColor": "Neutral",
     "strDesc": "Уровень потребности в близости, который [us] [испытывает].",
     "bResetTimer": false,
@@ -16869,7 +16869,7 @@
   },
   {
     "strName": "StatPiloting",
-    "strNameFriendly": "Piloting",
+    "strNameFriendly": "Пилотирование",
     "strColor": "Neutral",
     "strDesc": "Способность [us-poss] управлять кораблём"
   },
@@ -16914,7 +16914,7 @@
   },
   {
     "strName": "StatPrivacy",
-    "strNameFriendly": "Privacy",
+    "strNameFriendly": "Личное пространство",
     "strColor": "Neutral",
     "strDesc": "Личное пространство [us-poss].",
     "bResetTimer": false,
@@ -16984,7 +16984,7 @@
   },
   {
     "strName": "StatSecurity",
-    "strNameFriendly": "Security",
+    "strNameFriendly": "Безопасность",
     "strColor": "Neutral",
     "strDesc": "Насколько безопасно чувствует себя [us].",
     "bResetTimer": false,
@@ -17134,7 +17134,7 @@
   },
   {
     "strName": "StatThreat",
-    "strNameFriendly": "Threat",
+    "strNameFriendly": "Угроза",
     "strColor": "Neutral",
     "strDesc": "Насколько уверенно и угрожающе [us] [выглядит] для других на инстинктивном уровне.",
     "bResetTimer": false,
@@ -17446,7 +17446,7 @@
   },
   {
     "strName": "StatWeird",
-    "strNameFriendly": "Weird",
+    "strNameFriendly": "Странный",
     "strColor": "Neutral",
     "strDesc": "Степень подверженности [us] необъяснимому.",
     "bResetTimer": false,
@@ -17680,7 +17680,7 @@
   },
   {
     "strName": "PaySalary",
-    "strNameFriendly": "Salary",
+    "strNameFriendly": "Зарплата",
     "strColor": "Neutral",
     "strDesc": "[us] получает эту сумму в день.",
     "nDisplaySelf": 0,
@@ -17704,7 +17704,7 @@
   },
   {
     "strName": "PoliceBribe",
-    "strNameFriendly": "Bribe",
+    "strNameFriendly": "Взятка",
     "strColor": "Neutral",
     "strDesc": "[us] получает эту сумму в качестве взятки.",
     "nDisplaySelf": 0,
@@ -17893,7 +17893,7 @@
   },
   {
     "strName": "Cannabis3",
-    "strNameFriendly": "Groovy",
+    "strNameFriendly": "Кайф",
     "strColor": "Good",
     "strDesc": "[us] чувствует себя прекрасно.",
     "bResetTimer": true,
@@ -17959,7 +17959,7 @@
   },
   {
     "strName": "CannabisIndica3",
-    "strNameFriendly": "Stoned",
+    "strNameFriendly": "Под кайфом",
     "strColor": "Good",
     "strDesc": "[us] [is] чувствует себя обкуренным.",
     "bResetTimer": true,
@@ -17992,7 +17992,7 @@
   },
   {
     "strName": "IsSmoker",
-    "strNameFriendly": "Smoker",
+    "strNameFriendly": "Курильщик",
     "strColor": "Neutral",
     "strDesc": "[us] регулярно испытывает тягу к никотину, что иногда приводит к раздражительности при задержке курения.",
     "nDisplaySelf": 2,
@@ -18045,7 +18045,7 @@
   },
   {
     "strName": "CannabisHigh",
-    "strNameFriendly": "High",
+    "strNameFriendly": "Под кайфом",
     "strColor": "Good",
     "strDesc": "[us] [is] испытывает головной кайф от каннабиса.",
     "nDisplaySelf": 2,
@@ -18054,7 +18054,7 @@
   },
   {
     "strName": "CannabisStoned",
-    "strNameFriendly": "Groovy",
+    "strNameFriendly": "Кайф",
     "strColor": "Good",
     "strDesc": "[us] чувствует себя прекрасно.",
     "nDisplaySelf": 2,
@@ -18063,7 +18063,7 @@
   },
   {
     "strName": "CannabisIndicaHigh",
-    "strNameFriendly": "High",
+    "strNameFriendly": "Под кайфом",
     "strColor": "Good",
     "strDesc": "[us] [is] испытывает телесный кайф от каннабиса.",
     "nDisplaySelf": 1,
@@ -18072,7 +18072,7 @@
   },
   {
     "strName": "CannabisIndicaStoned",
-    "strNameFriendly": "Stoned",
+    "strNameFriendly": "Под кайфом",
     "strColor": "Good",
     "strDesc": "[us] [is] чувствует себя обкуренным.",
     "nDisplaySelf": 2,

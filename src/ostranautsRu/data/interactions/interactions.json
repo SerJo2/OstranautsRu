@@ -6593,7 +6593,7 @@
   },
   {
     "strName": "ACTUndamageTEMP",
-    "strTitle": "Восстановить",
+    "strTitle": "Ремонт",
     "strDesc": "[us] [собирается] восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
@@ -6737,7 +6737,7 @@
   },
   {
     "strName": "ACTUndamageNoSparksTEMP",
-    "strTitle": "Восстановить",
+    "strTitle": "Ремонт",
     "strDesc": "[us] [собирается] восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",

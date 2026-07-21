@@ -25094,7 +25094,7 @@
   {
     "strName": "ItmRCSDistro01Off",
     "strNameShort": "Заборник",
-    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Выкл.)",
+    "strNameFriendly": "Регулятор забора RCS: Miura \"Hydra\" (Выкл.)",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strItemDef": "ItmRCSDistro01Off",
     "strType": "Item",
@@ -25146,7 +25146,7 @@
     "strName": "ItmRCSDistro01Loose",
     "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro01Loose",
-    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Не закреплён)",
+    "strNameFriendly": "Регулятор забора RCS: Miura \"Hydra\" (Не закреплён)",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25189,7 +25189,7 @@
   {
     "strName": "ItmRCSDistro01",
     "strNameShort": "Заборник",
-    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\"",
+    "strNameFriendly": "Регулятор забора RCS: Miura \"Hydra\"",
     "strItemDef": "ItmRCSDistro01",
     "strDesc": "«Hydra» — редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25240,7 +25240,7 @@
   {
     "strName": "ItmRCSDistro01Dmg",
     "strNameShort": "Заборник",
-    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Повреждён)",
+    "strNameFriendly": "Регулятор забора RCS: Miura \"Hydra\" (Повреждён)",
     "strItemDef": "ItmRCSDistro01Dmg",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25281,7 +25281,7 @@
     "strName": "ItmRCSDistro01DmgLoose",
     "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro01DmgLoose",
-    "strNameFriendly": "Регулятор забора РСУ: Miura \"Hydra\" (Не закреплён, Повреждён)",
+    "strNameFriendly": "Регулятор забора RCS: Miura \"Hydra\" (Не закреплён, Повреждён)",
     "strDesc": "Редкий и ценный впускной регулятор RCS с вторичного рынка, выпускавшийся ранее компанией Miura. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25321,7 +25321,7 @@
   {
     "strName": "ItmRCSDistro02Off",
     "strNameShort": "Заборник",
-    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Выкл.)",
+    "strNameFriendly": "Регулятор забора RCS: Kang \"2202\" (Выкл.)",
     "strItemDef": "ItmRCSDistro02Off",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25370,7 +25370,7 @@
     "strName": "ItmRCSDistro02Loose",
     "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro02Loose",
-    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Не закреплён)",
+    "strNameFriendly": "Регулятор забора RCS: Kang \"2202\" (Не закреплён)",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
@@ -25410,7 +25410,7 @@
   {
     "strName": "ItmRCSDistro02",
     "strNameShort": "Заборник",
-    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\"",
+    "strNameFriendly": "Регулятор забора RCS: Kang \"2202\"",
     "strItemDef": "ItmRCSDistro02",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25458,7 +25458,7 @@
   {
     "strName": "ItmRCSDistro02Dmg",
     "strNameShort": "Заборник",
-    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Повреждён)",
+    "strNameFriendly": "Регулятор забора RCS: Kang \"2202\" (Повреждён)",
     "strItemDef": "ItmRCSDistro02Dmg",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
@@ -25498,7 +25498,7 @@
     "strName": "ItmRCSDistro02DmgLoose",
     "strNameShort": "Заборник",
     "strItemDef": "ItmRCSDistro02DmgLoose",
-    "strNameFriendly": "Регулятор забора РСУ: Kang \"2202\" (Не закреплён, Повреждён)",
+    "strNameFriendly": "Регулятор забора RCS: Kang \"2202\" (Не закреплён, Повреждён)",
     "strDesc": "Массовый впускной регулятор системы реактивного управления (RCS) от Kang. Создаёт тягу, забирая холодный сжатый газ (обычно N2) из установленного баллона и направляя его в бортовые маневровые двигатели.",
     "strType": "Item",
     "aInteractions": [
