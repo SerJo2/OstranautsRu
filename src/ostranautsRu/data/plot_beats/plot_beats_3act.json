@@ -10,14 +10,14 @@
   },
   {
     "strName": "TEMP3ActBEGTarget",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTTEMP3ActBEGTargetTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOTTEMP3ActBEGTargetTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bTension": true,
     "nPhaseChange": 1
   },
   {
     "strName": "TEMP3ActBEGTurnIn",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTTEMP3ActBEGTurnInTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOTTEMP3ActBEGTurnInTrigger,[protag],[contact],[target]",
     "bTension": true,
     "nPhaseChange": 1
   }

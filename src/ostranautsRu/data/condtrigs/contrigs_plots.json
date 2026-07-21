@@ -762,7 +762,7 @@
   },
   {
     "strName": "CTPLOT_Merga_VenusImmunity",
-    "strCondName": "Иммунитет Венеры",
+    "strCondName": "Venus Immunity",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -3545,7 +3545,7 @@
   },
   {
     "strName": "TDnTutorialEmbassyCooldown",
-    "strCondName": "Перезарядка TutorialEmbassy",
+    "strCondName": "TutorialEmbassyCooldown",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [
@@ -7240,7 +7240,7 @@
   },
   {
     "strName": "TIsSanDiegoTrader",
-    "strCondName": "Торговец из Сан-Диего",
+    "strCondName": "Is a San Diego Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -7252,7 +7252,7 @@
   },
   {
     "strName": "TIsSanDiegoTraderNoClue",
-    "strCondName": "Торговец из Сан-Диего",
+    "strCondName": "Is a San Diego Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -7270,7 +7270,7 @@
   },
   {
     "strName": "TIsSanDiegoTraderRenbao",
-    "strCondName": "Торговец Жэньбао из Сан-Диего",
+    "strCondName": "Is a San Diego Renbao Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -7282,7 +7282,7 @@
   },
   {
     "strName": "TIsSanDiegoTraderShoes",
-    "strCondName": "Торговец обувью из Сан-Диего",
+    "strCondName": "Is a San Diego Shoe Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -7294,7 +7294,7 @@
   },
   {
     "strName": "TIsSanDiegoTraderClothes",
-    "strCondName": "Торговец одеждой из Сан-Диего",
+    "strCondName": "Is a San Diego Clothes Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -7306,7 +7306,7 @@
   },
   {
     "strName": "TIsSanDiegoTraderCurio",
-    "strCondName": "Торговец редкостями из Сан-Диего",
+    "strCondName": "Is a San Diego Curio Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -7318,7 +7318,7 @@
   },
   {
     "strName": "TIsSanDiegoTraderSulaiman",
-    "strCondName": "Торговец Сулайман из Сан-Диего",
+    "strCondName": "Is a San Diego Sulaiman Trader",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [
@@ -9428,7 +9428,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue01Done",
-    "strCondName": "СюжетВыборовДиалога01Завершён",
+    "strCondName": "PlotChoicesDialogue01Done",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9438,7 +9438,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue01aDone",
-    "strCondName": "СюжетВыборовДиалога01aЗавершён",
+    "strCondName": "PlotChoicesDialogue01aDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9448,7 +9448,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue01bDone",
-    "strCondName": "СюжетВыборовДиалога01bЗавершён",
+    "strCondName": "PlotChoicesDialogue01bDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9458,7 +9458,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue01cDone",
-    "strCondName": "СюжетВыборовДиалога01cЗавершён",
+    "strCondName": "PlotChoicesDialogue01cDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9468,7 +9468,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue02Done",
-    "strCondName": "СюжетВыборовДиалога02Завершён",
+    "strCondName": "PlotChoicesDialogue02Done",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9478,7 +9478,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue02aDone",
-    "strCondName": "СюжетВыборовДиалога02aЗавершён",
+    "strCondName": "PlotChoicesDialogue02aDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9488,7 +9488,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue02bDone",
-    "strCondName": "СюжетВыборовДиалога02bЗавершён",
+    "strCondName": "PlotChoicesDialogue02bDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9498,7 +9498,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue02cDone",
-    "strCondName": "СюжетВыборовДиалога02cЗавершён",
+    "strCondName": "PlotChoicesDialogue02cDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9508,7 +9508,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue03Done",
-    "strCondName": "СюжетВыборовДиалога03Завершён",
+    "strCondName": "PlotChoicesDialogue03Done",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9518,7 +9518,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue03aDone",
-    "strCondName": "СюжетВыборовДиалога03aЗавершён",
+    "strCondName": "PlotChoicesDialogue03aDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9528,7 +9528,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue03bDone",
-    "strCondName": "СюжетВыборовДиалога03bЗавершён",
+    "strCondName": "PlotChoicesDialogue03bDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9538,7 +9538,7 @@
   },
   {
     "strName": "TDnPlotChoicesDialogue03cDone",
-    "strCondName": "СюжетВыборовДиалога03cЗавершён",
+    "strCondName": "PlotChoicesDialogue03cDone",
     "fChance": 1.0,
     "fCount": -1.0,
     "aReqs": [],
@@ -9548,14 +9548,14 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue01Done",
-    "strCondName": "СюжетВыборовДиалога01Завершён",
+    "strCondName": "PlotChoicesDialogue01Done",
     "fChance": 1.0,
     "fCount": 1.0,
     "bAND": true
   },
   {
     "strName": "TUpPlotChoicesDialogue01aDone",
-    "strCondName": "СюжетВыборовДиалога01aЗавершён",
+    "strCondName": "PlotChoicesDialogue01aDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9565,7 +9565,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue01bDone",
-    "strCondName": "СюжетВыборовДиалога01bЗавершён",
+    "strCondName": "PlotChoicesDialogue01bDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9575,7 +9575,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue01cDone",
-    "strCondName": "СюжетВыборовДиалога01cЗавершён",
+    "strCondName": "PlotChoicesDialogue01cDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9585,7 +9585,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue02Done",
-    "strCondName": "СюжетВыборовДиалога02Завершён",
+    "strCondName": "PlotChoicesDialogue02Done",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9595,7 +9595,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue02aDone",
-    "strCondName": "СюжетВыборовДиалога02aЗавершён",
+    "strCondName": "PlotChoicesDialogue02aDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9605,7 +9605,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue02bDone",
-    "strCondName": "СюжетВыборовДиалога02bЗавершён",
+    "strCondName": "PlotChoicesDialogue02bDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9615,7 +9615,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue02cDone",
-    "strCondName": "СюжетВыборовДиалога02cЗавершён",
+    "strCondName": "PlotChoicesDialogue02cDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9625,7 +9625,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue03Done",
-    "strCondName": "СюжетВыборовДиалога03Завершён",
+    "strCondName": "PlotChoicesDialogue03Done",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9635,7 +9635,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue03aDone",
-    "strCondName": "СюжетВыборовДиалога03aЗавершён",
+    "strCondName": "PlotChoicesDialogue03aDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9645,7 +9645,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue03bDone",
-    "strCondName": "СюжетВыборовДиалога03bЗавершён",
+    "strCondName": "PlotChoicesDialogue03bDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],
@@ -9655,7 +9655,7 @@
   },
   {
     "strName": "TUpPlotChoicesDialogue03cDone",
-    "strCondName": "СюжетВыборовДиалога03cЗавершён",
+    "strCondName": "PlotChoicesDialogue03cDone",
     "fChance": 1.0,
     "fCount": 1.0,
     "aReqs": [],

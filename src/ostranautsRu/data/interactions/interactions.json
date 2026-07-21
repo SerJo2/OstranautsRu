@@ -1108,7 +1108,7 @@
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "strDuty": "Firefight",
-    "strUseCase": "Проверить",
+    "strUseCase": "Check",
     "strBubble": "BblTouch",
     "fTargetPointRange": 1.5,
     "strAnim": "ShootPistol",

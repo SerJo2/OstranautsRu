@@ -102,33 +102,33 @@
   },
   {
     "strName": "SnapPhotoTarget",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTSnapPhotoTargetTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOTSnapPhotoTargetTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "nPhaseChange": 1
   },
   {
     "strName": "SnapPhotoTurnIn",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTSnapPhotoTurnInTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOTSnapPhotoTurnInTrigger,[protag],[contact],[target]",
     "nPhaseChange": 1
   },
   {
     "strName": "SnapPhotoCancel",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTSnapPhotoCancel,[protag],[contact],[target]",
+    "strIATrigger": "PLOTSnapPhotoCancel,[protag],[contact],[target]",
     "nPhaseChange": 0
   },
   {
     "strName": "SnapPhotoStartReverse",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTSnapPhotoStartTrigger,[protag],[target],[contact]",
+    "strIATrigger": "PLOTSnapPhotoStartTrigger,[protag],[target],[contact]",
     "nPhaseChange": 1
   },
   {
     "strName": "SnapPhotoTargetReverse",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTSnapPhotoTargetTrigger,[protag],[target],[contact]",
+    "strIATrigger": "PLOTSnapPhotoTargetTrigger,[protag],[target],[contact]",
     "nPhaseChange": 1
   },
   {
     "strName": "SnapPhotoTurnInReverse",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOTSnapPhotoTurnInTrigger,[protag],[target],[contact]",
+    "strIATrigger": "PLOTSnapPhotoTurnInTrigger,[protag],[target],[contact]",
     "nPhaseChange": 1
   },
   {
@@ -141,75 +141,75 @@
   },
   {
     "strName": "MedHeist_Approach",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_ApproachTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_ApproachTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_Persuade",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_PersuadeTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_PersuadeTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_Dissuade",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_DissuadeTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_DissuadeTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 3
   },
   {
     "strName": "MedHeist_PlanInMotionSupport",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_PlanInMotionSupportTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_PlanInMotionSupportTrigger,[protag],[contact]",
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_PlanInMotionResist",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_PlanInMotionResistTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_PlanInMotionResistTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_SupportReturnFail",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_SupportReturn_FailTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_SupportReturn_FailTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_SupportReturnSucceed",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_SupportReturn_SucceedTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_SupportReturn_SucceedTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_ResistReturnFail",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_ResistReturn_FailTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_ResistReturn_FailTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_ResistReturnSucceed",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_ResistReturn_SucceedTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_ResistReturn_SucceedTrigger,[protag],[contact]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_End",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_EndTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_EndTrigger,[protag],[contact]",
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "MedHeist_Cancel",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_MedHeist_CancelTrigger,[protag],[contact]",
+    "strIATrigger": "PLOT_MedHeist_CancelTrigger,[protag],[contact]",
     "bRelease": true,
     "nPhaseChange": 0
   },
@@ -224,48 +224,48 @@
   },
   {
     "strName": "Messenger_Offer",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_OfferTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_OfferTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger_Agree",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_AgreeTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_AgreeTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger_Refuse",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_RefuseTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_RefuseTrigger,[protag],[contact],[target]",
     "bRelease": true,
     "nPhaseChange": 3
   },
   {
     "strName": "Messenger_TargetEarly",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_TargetTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_TargetTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 2
   },
   {
     "strName": "Messenger_Target",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_TargetTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_TargetTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger_TurnIn",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_TurnInTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_TurnInTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger_TurnInPay",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_TurnInPayTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_TurnInPayTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
@@ -278,7 +278,7 @@
   },
   {
     "strName": "Messenger_Cancel",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_CancelTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_CancelTrigger,[protag],[contact],[target]",
     "bRelease": true,
     "nPhaseChange": 0
   },
@@ -300,48 +300,48 @@
   },
   {
     "strName": "Messenger02_Offer",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_OfferTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_OfferTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger02_Agree",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_AgreeTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_AgreeTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger02_Refuse",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_RefuseTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_RefuseTrigger,[protag],[contact],[target]",
     "bRelease": true,
     "nPhaseChange": 3
   },
   {
     "strName": "Messenger02_TargetEarly",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_TargetTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_TargetTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 2
   },
   {
     "strName": "Messenger02_Target",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_TargetTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_TargetTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger02_TurnIn",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_TurnInTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_TurnInTrigger,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
   },
   {
     "strName": "Messenger02_TurnInDead",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger02_TurnInTriggerDead,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger02_TurnInTriggerDead,[protag],[contact],[target]",
     "bNoticeable": true,
     "bRelease": true,
     "nPhaseChange": 1
@@ -445,7 +445,7 @@
   },
   {
     "strName": "MessengerCorp_Cancel",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_CancelTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_CancelTrigger,[protag],[contact],[target]",
     "bRelease": true,
     "nPhaseChange": 0
   },
@@ -657,7 +657,7 @@
   },
   {
     "strName": "MessengerRomantic_Cancel",
-    "strIATrigger": "(strIATrigger в plot_beats) PLOT_Messenger_CancelTrigger,[protag],[contact],[target]",
+    "strIATrigger": "PLOT_Messenger_CancelTrigger,[protag],[contact],[target]",
     "bRelease": true,
     "nPhaseChange": 0
   },

@@ -23632,7 +23632,7 @@
   },
   {
     "strName": "ItmStorageBin1x101",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin1x101",
     "strNameFriendly": "Контейнер переборки",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23674,7 +23674,7 @@
   },
   {
     "strName": "ItmStorageBin1x101Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin1x101Loose",
     "strNameFriendly": "Контейнер переборки (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23716,7 +23716,7 @@
   },
   {
     "strName": "ItmStorageBin1x101Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin1x101Dmg",
     "strNameFriendly": "Контейнер переборки (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23761,7 +23761,7 @@
   },
   {
     "strName": "ItmStorageBin1x101DmgLoose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin1x101DmgLoose",
     "strNameFriendly": "Контейнер переборки (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23805,7 +23805,7 @@
   },
   {
     "strName": "ItmStorageBin2x101",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x101",
     "strNameFriendly": "Контейнер переборки 2x",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23847,7 +23847,7 @@
   },
   {
     "strName": "ItmStorageBin2x101Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x101Loose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23889,7 +23889,7 @@
   },
   {
     "strName": "ItmStorageBin2x101Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x101Dmg",
     "strNameFriendly": "Контейнер переборки 2x (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23934,7 +23934,7 @@
   },
   {
     "strName": "ItmStorageBin2x101DmgLoose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x101DmgLoose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -23978,7 +23978,7 @@
   },
   {
     "strName": "ItmStorageBin2x104",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x104",
     "strNameFriendly": "Контейнер переборки 2x",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24022,7 +24022,7 @@
   },
   {
     "strName": "ItmStorageBin2x104Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x104Loose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24067,7 +24067,7 @@
   },
   {
     "strName": "ItmStorageBin2x104Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x104Dmg",
     "strNameFriendly": "Контейнер переборки 2x (Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24114,7 +24114,7 @@
   },
   {
     "strName": "ItmStorageBin2x104DmgLoose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x104DmgLoose",
     "strNameFriendly": "Контейнер переборки 2x (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24161,7 +24161,7 @@
   },
   {
     "strName": "ItmStorageBin3x101",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin3x101",
     "strNameFriendly": "Контейнер переборки 3x",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24204,7 +24204,7 @@
   },
   {
     "strName": "ItmStorageBin3x101Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin3x101Loose",
     "strNameFriendly": "Контейнер переборки 3x (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24247,7 +24247,7 @@
   },
   {
     "strName": "ItmStorageBin3x101Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin3x101Dmg",
     "strNameFriendly": "Контейнер переборки 3x (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24293,7 +24293,7 @@
   },
   {
     "strName": "ItmStorageBin3x101DmgLoose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin3x101DmgLoose",
     "strNameFriendly": "Контейнер переборки 3x (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24338,7 +24338,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C01",
     "strNameFriendly": "Контейнер переборки: Угловой",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24381,7 +24381,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C01Loose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24424,7 +24424,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C01Dmg",
     "strNameFriendly": "Контейнер переборки: Угловой (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24470,7 +24470,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C01DmgLoose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C01DmgLoose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24515,7 +24515,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C04",
     "strNameFriendly": "Контейнер переборки: Угловой",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24560,7 +24560,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C04Loose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24605,7 +24605,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C04Dmg",
     "strNameFriendly": "Контейнер переборки: Угловой (Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24653,7 +24653,7 @@
   },
   {
     "strName": "ItmStorageBin2x2C04DmgLoose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBin2x2C04DmgLoose",
     "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен, Поврежден)",
     "strDesc": "Контейнеры серии «Reserve» от Rakow для встраивания в переборки не так вместительны, как отдельно стоящие модели, но они компактно убираются — неоценимое преимущество на тесных судах.",
@@ -24700,7 +24700,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBinFloor1x101",
     "strDesc": "Серия подпольных накопителей \"Vanilla\" от Rakow расширяет пространство для хранения под полом.\n\nВНИМАНИЕ: Подпольные накопители выполняют функцию герметичного настила, поэтому их демонтаж подвергает внутреннее пространство судна воздействию вакуума.",
     "strNameFriendly": "Контейнер межэтажного перекрытия",
@@ -24742,7 +24742,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101Loose",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBinFloor1x101Loose",
     "strNameFriendly": "Контейнер межэтажного перекрытия (Не закреплен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для подпола расширяют пространство для хранения под полом.",
@@ -24785,7 +24785,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101Dmg",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBinFloor1x101Dmg",
     "strNameFriendly": "Контейнер межэтажного перекрытия (Поврежден)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для подпола расширяют пространство для хранения под полом.",
@@ -24834,7 +24834,7 @@
   },
   {
     "strName": "ItmStorageBinFloor1x101Patch",
-    "strNameShort": "Мусорка",
+    "strNameShort": "Контейнер",
     "strItemDef": "ItmStorageBinFloor1x101Patch",
     "strNameFriendly": "Контейнер межэтажного перекрытия (Заплачен)",
     "strDesc": "Контейнеры серии «Vanilla» от Rakow для подпола расширяют пространство для хранения под полом.",
