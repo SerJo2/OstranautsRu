@@ -1,43 +1,43 @@
 [
   {
     "strName": "home",
-    "strFriendlyName": "HOME",
+    "strFriendlyName": "ГЛАВНАЯ",
     "strIcon": "pda_apps/IcoPDAHome",
     "bHidden": true
   },
   {
     "strName": "inventory",
-    "strFriendlyName": "ITEMS",
+    "strFriendlyName": "ПРЕДМЕТЫ",
     "strIcon": "pda_apps/IcoPDAInv",
     "bHidden": false
   },
   {
     "strName": "zones",
-    "strFriendlyName": "ZONES",
+    "strFriendlyName": "ЗОНЫ",
     "strIcon": "pda_apps/IcoPDAZones",
     "bHidden": false
   },
   {
     "strName": "goals",
-    "strFriendlyName": "GOALS",
+    "strFriendlyName": "ЦЕЛИ",
     "strIcon": "pda_apps/IcoPDAObjectives",
     "bHidden": false
   },
   {
     "strName": "roster",
-    "strFriendlyName": "ROSTER",
+    "strFriendlyName": "СПИСОК",
     "strIcon": "pda_apps/IcoPDADuties",
     "bHidden": false
   },
   {
     "strName": "socials",
-    "strFriendlyName": "SOCIAL",
+    "strFriendlyName": "СОЦИАЛЬНЫЕ",
     "strIcon": "pda_apps/IcoPDASocial",
     "bHidden": false
   },
   {
     "strName": "gigs",
-    "strFriendlyName": "GIGS",
+    "strFriendlyName": "РАБОТА",
     "strIcon": "pda_apps/IcoPDAGigNexus",
     "bHidden": false
   },
@@ -49,19 +49,19 @@
   },
   {
     "strName": "files",
-    "strFriendlyName": "FILES",
+    "strFriendlyName": "ФАЙЛЫ",
     "strIcon": "pda_apps/IcoPDAStorage",
     "bHidden": false
   },
   {
     "strName": "navmap",
-    "strFriendlyName": "NAVMAP",
+    "strFriendlyName": "КАРТА",
     "strIcon": "pda_apps/IcoPDANAV",
     "bHidden": false
   },
   {
     "strName": "navlink",
-    "strFriendlyName": "NAVLINK",
+    "strFriendlyName": "НАВЛИНК",
     "strIcon": "pda_apps/IcoPDANAVLink",
     "bHidden": false
   },
@@ -73,43 +73,43 @@
   },
   {
     "strName": "build",
-    "strFriendlyName": "INSTALL",
+    "strFriendlyName": "УСТАНОВКА",
     "strIcon": "pda_apps/IcoBuildMenu",
     "bHidden": false
   },
   {
     "strName": "orders",
-    "strFriendlyName": "ORDERS",
+    "strFriendlyName": "ПРИКАЗЫ",
     "strIcon": "pda_apps/IcoInteractionLarge",
     "bHidden": false
   },
   {
     "strName": "tasks",
-    "strFriendlyName": "TASKS",
+    "strFriendlyName": "ЗАДАЧИ",
     "strIcon": "pda_apps/IcoPDARoster",
     "bHidden": false
   },
   {
     "strName": "notes",
-    "strFriendlyName": "NOTES",
+    "strFriendlyName": "ЗАМЕТКИ",
     "strIcon": "pda_apps/IcoPDANotes",
     "bHidden": false
   },
   {
     "strName": "timer",
-    "strFriendlyName": "TIMER",
+    "strFriendlyName": "ТАЙМЕР",
     "strIcon": "pda_apps/IcoPDATimer",
     "bHidden": false
   },
   {
     "strName": "standings",
-    "strFriendlyName": "FACTION TIES",
+    "strFriendlyName": "СВЯЗИ С ФРАКЦИЯМИ",
     "strIcon": "pda_apps/IcoPDAStandings",
     "bHidden": false
   },
   {
     "strName": "exit",
-    "strFriendlyName": "CLOSE",
+    "strFriendlyName": "ЗАКРЫТЬ",
     "strIcon": "pda_apps/IcoCancel",
     "bHidden": true
   }

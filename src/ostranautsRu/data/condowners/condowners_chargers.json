@@ -32,8 +32,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerDrill01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryDrill01",
       "ItmChargerBattDrill01Full"
@@ -87,8 +87,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerDrill01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryDrill01",
       "ItmChargerBattDrill01FullDmg"
@@ -127,8 +127,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerDrill01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryDrill01",
       "ItmChargerBattDrill01FullDmgLoose"
@@ -175,8 +175,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerDrill01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryDrill01",
       "ItmChargerBattDrill01FullOff"
@@ -223,8 +223,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerDrill01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryDrill01",
       "ItmChargerBattDrill01FullOffLoose"
@@ -529,8 +529,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerBattery04",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBattery04",
       "ItmChargerBattery04Full"
@@ -584,8 +584,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerBattery04",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBattery04",
       "ItmChargerBattery04FullDmg"
@@ -626,8 +626,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerBattery04",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBattery04",
       "ItmChargerBattery04FullDmgLoose"
@@ -676,8 +676,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerBattery04",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBattery04",
       "ItmChargerBattery04FullOff"
@@ -725,8 +725,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerBattery04",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBattery04",
       "ItmChargerBattery04FullOffLoose"
@@ -780,8 +780,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerWelder01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryWelder01",
       "ItmChargerBattWelder01Full"
@@ -832,8 +832,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerWelder01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryWelder01",
       "ItmChargerBattWelder01FullOffLoose"
@@ -880,8 +880,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerWelder01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryWelder01",
       "ItmChargerBattWelder01FullOff"
@@ -930,8 +930,8 @@
       "IsCategoryElectronics=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerWelder01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryWelder01",
       "ItmChargerBattWelder01FullDmgLoose"
@@ -979,8 +979,8 @@
       "IsSignalable=1.0x1"
     ],
     "strContainerCT": "TIsFitContainerWelder01Battery",
-    "nContainerHeight": 1,
-    "nContainerWidth": 1,
+    "nContainerHeight": 2,
+    "nContainerWidth": 2,
     "mapAltItemDefs": [
       "IsBatteryWelder01",
       "ItmChargerBattWelder01FullDmg"

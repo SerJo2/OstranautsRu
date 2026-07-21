@@ -1,7 +1,7 @@
 [
   {
     "strName": "SnapPhoto",
-    "strNameFriendly": "Photo Request",
+    "strNameFriendly": "Запрос фотографии",
     "strCancelBeat": "SnapPhotoCancel",
     "aPhases": [
       [
@@ -31,7 +31,7 @@
   },
   {
     "strName": "MedHeist",
-    "strNameFriendly": "Medical Heist",
+    "strNameFriendly": "Кража медикаментов",
     "bNoCheck": true,
     "strCancelBeat": "MedHeist_Cancel",
     "aPhaseTitles": [
@@ -88,7 +88,7 @@
   },
   {
     "strName": "Messenger",
-    "strNameFriendly": "Career Issues",
+    "strNameFriendly": "Проблемы с карьерой",
     "strCancelBeat": "Messenger_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -143,7 +143,7 @@
   },
   {
     "strName": "Messenger02",
-    "strNameFriendly": "More Career Issues",
+    "strNameFriendly": "Дополнительные проблемы с карьерой",
     "strCancelBeat": "Messenger02_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -211,7 +211,7 @@
   },
   {
     "strName": "MessengerFamily",
-    "strNameFriendly": "Family Issues",
+    "strNameFriendly": "Семейные проблемы",
     "strCancelBeat": "MessengerFamily_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -266,7 +266,7 @@
   },
   {
     "strName": "MessengerCorp",
-    "strNameFriendly": "Corporation Issues",
+    "strNameFriendly": "Проблемы с корпорацией",
     "strCancelBeat": "MessengerCorp_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -321,7 +321,7 @@
   },
   {
     "strName": "MessengerLegal",
-    "strNameFriendly": "Legal Issues",
+    "strNameFriendly": "Юридические проблемы",
     "strCancelBeat": "MessengerLegal_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -376,7 +376,7 @@
   },
   {
     "strName": "MessengerRomanticMatchmaker",
-    "strNameFriendly": "Matchmaker",
+    "strNameFriendly": "Сваха",
     "strCancelBeat": "MessengerRomantic_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -435,7 +435,7 @@
   },
   {
     "strName": "MessengerTechnical",
-    "strNameFriendly": "Technical Help",
+    "strNameFriendly": "Техническая помощь",
     "strCancelBeat": "MessengerTechnical_Cancel",
     "aPhaseTitles": [
       "STARTING",
@@ -490,7 +490,7 @@
   },
   {
     "strName": "Boop",
-    "strNameFriendly": "Boop Request",
+    "strNameFriendly": "Запрос на связь",
     "bNoCheck": true,
     "aPhases": [
       [
@@ -515,7 +515,7 @@
   },
   {
     "strName": "AyoCorpSnitch",
-    "strNameFriendly": "Light Surveillance",
+    "strNameFriendly": "Легкое наблюдение",
     "strCancelBeat": "AyoCorpSnitchCancel",
     "aPhaseTitles": [
       "STARTING",
@@ -545,7 +545,7 @@
   },
   {
     "strName": "WrongfullyAccusedBreakerBEG",
-    "strNameFriendly": "Framed",
+    "strNameFriendly": "Подставлен",
     "aPhaseTitles": [
       "STARTING",
       "Find out what [contact] needs.",
@@ -574,7 +574,7 @@
   },
   {
     "strName": "WrongfullyAccusedManagerBEG",
-    "strNameFriendly": "Hostile Takeover Accusation",
+    "strNameFriendly": "Обвинение во враждебном поглощении",
     "aPhaseTitles": [
       "STARTING",
       "Find out what [contact] needs.",
@@ -603,7 +603,7 @@
   },
   {
     "strName": "WrongfullyAccusedLEOBEG",
-    "strNameFriendly": "Internal Affairs Woes",
+    "strNameFriendly": "Проблемы со службой внутренней безопасности",
     "aPhaseTitles": [
       "STARTING",
       "Find out what [contact] needs.",
@@ -632,7 +632,7 @@
   },
   {
     "strName": "WrongfullyAccusedCrimBEG",
-    "strNameFriendly": "Insurance Fraud",
+    "strNameFriendly": "Страховое мошенничество",
     "aPhaseTitles": [
       "STARTING",
       "Find out what [contact] needs.",
@@ -680,7 +680,7 @@
   },
   {
     "strName": "WrongfullyAccusedPrisonerCellmateBEG",
-    "strNameFriendly": "Caught in a Racket",
+    "strNameFriendly": "Замешан в рэкете",
     "aPhaseTitles": [
       "STARTING",
       "Find out what [contact] needs.",
@@ -809,7 +809,7 @@
   },
   {
     "strName": "ChoiceFanBreakoutTeam",
-    "strNameFriendly": "Breakout Banter",
+    "strNameFriendly": "Побочная беседа при побеге",
     "strCancelBeat": "ChoiceFanBreakoutTeamCleanup",
     "aPhaseTitles": [
       "See what [target] wants.",
@@ -849,7 +849,7 @@
   },
   {
     "strName": "ChoiceFanSmokes",
-    "strNameFriendly": "Banter",
+    "strNameFriendly": "Побочная беседа за курением",
     "strCancelBeat": "ChoiceFanSmokesCleanup",
     "aPhaseTitles": [
       "See what [target] wants.",
@@ -887,7 +887,7 @@
   },
   {
     "strName": "ChoicePanhandling",
-    "strNameFriendly": "Help a Spacer Out",
+    "strNameFriendly": "Помощь космонавту",
     "strCancelBeat": "ChoicePanhandlingEnd",
     "aPhaseTitles": [
       "STARTING",
@@ -908,7 +908,7 @@
   },
   {
     "strName": "FixerTrustIssues",
-    "strNameFriendly": "Trust Issues",
+    "strNameFriendly": "Проблемы с доверием",
     "aPhases": [
       [
         "FixerTrustIssuesStart"
@@ -938,7 +938,7 @@
   },
   {
     "strName": "OKLGCritter",
-    "strNameFriendly": "Rattling Vent",
+    "strNameFriendly": "Гремящая вентиляция",
     "strCancelBeat": "OKLGCritterEnd",
     "aPhaseTitles": [
       "STARTING",
@@ -1006,7 +1006,7 @@
   },
   {
     "strName": "OKLGEmbassy",
-    "strNameFriendly": "Legal Dreams",
+    "strNameFriendly": "Юридические мечты",
     "strCancelBeat": "OKLGEmbassy_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1066,7 +1066,7 @@
   },
   {
     "strName": "Lonesome",
-    "strNameFriendly": "Lonesome Polecat",
+    "strNameFriendly": "Одиночка",
     "strCancelBeat": "Beat_Lonesome_End",
     "aPhases": [
       [
@@ -1145,7 +1145,7 @@
   },
   {
     "strName": "Meat",
-    "strNameFriendly": "Perpetual Protein Project",
+    "strNameFriendly": "Бесконечный проект по производству протеина",
     "strCancelBeat": "Beat_Meat_End",
     "aPhases": [
       [
@@ -1276,7 +1276,7 @@
   },
   {
     "strName": "Merga",
-    "strNameFriendly": "The Truth Is Out There",
+    "strNameFriendly": "Правда где-то рядом",
     "strCancelBeat": "Beat_Merga_End",
     "aPhases": [
       [
@@ -1440,7 +1440,7 @@
   },
   {
     "strName": "NewOKLGFixer",
-    "strNameFriendly": "New Face",
+    "strNameFriendly": "Новое лицо",
     "aPhases": [
       [
         "Beat_NewOKLGFixer_Start"
@@ -1470,7 +1470,7 @@
   },
   {
     "strName": "ProspectorFetchGold",
-    "strNameFriendly": "Gold Rush",
+    "strNameFriendly": "Золотая лихорадка",
     "strCancelBeat": "ProspectorFetchGold_End",
     "aPhaseTitles": [
       "Find out what [contact] wants.",
@@ -1505,7 +1505,7 @@
   },
   {
     "strName": "ProspectorBCRSFetchGold",
-    "strNameFriendly": "Gold Rush",
+    "strNameFriendly": "Золотая лихорадка",
     "strCancelBeat": "ProspectorBCRSFetchGold_End",
     "aPhaseTitles": [
       "Find out what [contact] wants.",
@@ -1535,7 +1535,7 @@
   },
   {
     "strName": "ProspectorBCERFetchGold",
-    "strNameFriendly": "Gold Rush",
+    "strNameFriendly": "Золотая лихорадка",
     "strCancelBeat": "ProspectorBCERFetchGold_End",
     "aPhaseTitles": [
       "Find out what [contact] wants.",
@@ -1565,7 +1565,7 @@
   },
   {
     "strName": "ScavFetch",
-    "strNameFriendly": "Salvage Collecting",
+    "strNameFriendly": "Сбор утиля",
     "strCancelBeat": "ScavFetch_End",
     "aPhaseTitles": [
       "Find out what [contact] wants.",
@@ -1595,7 +1595,7 @@
   },
   {
     "strName": "ScavFetch02",
-    "strNameFriendly": "Salvage Collecting",
+    "strNameFriendly": "Сбор утиля",
     "strCancelBeat": "ScavFetch02_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1625,7 +1625,7 @@
   },
   {
     "strName": "ScavFetch03",
-    "strNameFriendly": "Salvage Collecting",
+    "strNameFriendly": "Сбор утиля",
     "strCancelBeat": "ScavFetch_End03",
     "aPhaseTitles": [
       "STARTING",
@@ -1655,7 +1655,7 @@
   },
   {
     "strName": "VLAFetch",
-    "strNameFriendly": "Aerostat Parts Reclamation",
+    "strNameFriendly": "Восстановление запчастей аэростата",
     "strCancelBeat": "VLAFetch_End",
     "aPhaseTitles": [
       "Find out what [contact] wants.",
@@ -1685,7 +1685,7 @@
   },
   {
     "strName": "VLAFetch02",
-    "strNameFriendly": "Aerostat Parts Reclamation",
+    "strNameFriendly": "Восстановление запчастей аэростата",
     "strCancelBeat": "VLAFetch02_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1715,7 +1715,7 @@
   },
   {
     "strName": "VLAFetch03",
-    "strNameFriendly": "Aerostat Parts Reclamation",
+    "strNameFriendly": "Восстановление запчастей аэростата",
     "strCancelBeat": "VLAFetch03_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1745,7 +1745,7 @@
   },
   {
     "strName": "VLAFetch04",
-    "strNameFriendly": "Aerostat Parts Reclamation",
+    "strNameFriendly": "Восстановление запчастей аэростата",
     "strCancelBeat": "VLAFetch04_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1775,7 +1775,7 @@
   },
   {
     "strName": "VLAFetch05",
-    "strNameFriendly": "Aerostat Parts Reclamation",
+    "strNameFriendly": "Восстановление запчастей аэростата",
     "strCancelBeat": "VLAFetch05_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1805,7 +1805,7 @@
   },
   {
     "strName": "Whodunnit",
-    "strNameFriendly": "Death Investigation",
+    "strNameFriendly": "Расследование смерти",
     "strCancelBeat": "Beat_Whodunnit_EndCase_End",
     "aPhaseTitles": [
       "STARTING",
@@ -1926,7 +1926,7 @@
   {
     "strName": "Ceres",
     "FriendlyName": "Ceres",
-    "strNameFriendly": "The Ceres Affair",
+    "strNameFriendly": "Инцидент на Церере",
     "aPhases": [
       [
         "Beat_Ceres_Start_Character_Add_Isambard"

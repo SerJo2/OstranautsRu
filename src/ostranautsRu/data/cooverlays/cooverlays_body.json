@@ -1,7 +1,7 @@
 [
   {
     "strName": "BodyarmLowerLB",
-    "strNameFriendly": "Arm: Lower Left",
+    "strNameFriendly": "Рука: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -19,7 +19,7 @@
   },
   {
     "strName": "BodyarmLowerLC",
-    "strNameFriendly": "Arm: Lower Left",
+    "strNameFriendly": "Рука: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -37,7 +37,7 @@
   },
   {
     "strName": "BodyarmLowerRB",
-    "strNameFriendly": "Arm: Lower Right",
+    "strNameFriendly": "Рука: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -55,7 +55,7 @@
   },
   {
     "strName": "BodyarmLowerRC",
-    "strNameFriendly": "Arm: Lower Right",
+    "strNameFriendly": "Рука: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -73,7 +73,7 @@
   },
   {
     "strName": "BodyarmUpperLB",
-    "strNameFriendly": "Arm: Upper Left",
+    "strNameFriendly": "Рука: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -91,7 +91,7 @@
   },
   {
     "strName": "BodyarmUpperLC",
-    "strNameFriendly": "Arm: Upper Left",
+    "strNameFriendly": "Рука: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -109,7 +109,7 @@
   },
   {
     "strName": "BodyarmUpperRB",
-    "strNameFriendly": "Arm: Upper Right",
+    "strNameFriendly": "Рука: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -127,7 +127,7 @@
   },
   {
     "strName": "BodyarmUpperRC",
-    "strNameFriendly": "Arm: Upper Right",
+    "strNameFriendly": "Рука: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -145,7 +145,7 @@
   },
   {
     "strName": "BodylegLowerLB",
-    "strNameFriendly": "Leg: Lower Left",
+    "strNameFriendly": "Нога: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -163,7 +163,7 @@
   },
   {
     "strName": "BodylegLowerLC",
-    "strNameFriendly": "Leg: Lower Left",
+    "strNameFriendly": "Нога: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -181,7 +181,7 @@
   },
   {
     "strName": "BodylegLowerRB",
-    "strNameFriendly": "Leg: Lower Right",
+    "strNameFriendly": "Нога: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -199,7 +199,7 @@
   },
   {
     "strName": "BodylegLowerRC",
-    "strNameFriendly": "Leg: Lower Right",
+    "strNameFriendly": "Нога: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -217,7 +217,7 @@
   },
   {
     "strName": "BodylegUpperLB",
-    "strNameFriendly": "Leg: Upper Left",
+    "strNameFriendly": "Нога: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -235,7 +235,7 @@
   },
   {
     "strName": "BodylegUpperLC",
-    "strNameFriendly": "Leg: Upper Left",
+    "strNameFriendly": "Нога: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -253,7 +253,7 @@
   },
   {
     "strName": "BodylegUpperRB",
-    "strNameFriendly": "Leg: Upper Right",
+    "strNameFriendly": "Нога: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -271,7 +271,7 @@
   },
   {
     "strName": "BodylegUpperRC",
-    "strNameFriendly": "Leg: Upper Right",
+    "strNameFriendly": "Нога: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -289,7 +289,7 @@
   },
   {
     "strName": "BodyfootLB",
-    "strNameFriendly": "Foot: Left",
+    "strNameFriendly": "Ступня: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -307,7 +307,7 @@
   },
   {
     "strName": "BodyfootLC",
-    "strNameFriendly": "Foot: Left",
+    "strNameFriendly": "Ступня: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -325,7 +325,7 @@
   },
   {
     "strName": "BodyfootRB",
-    "strNameFriendly": "Foot: Right",
+    "strNameFriendly": "Ступня: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -343,7 +343,7 @@
   },
   {
     "strName": "BodyfootRC",
-    "strNameFriendly": "Foot: Right",
+    "strNameFriendly": "Ступня: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -361,7 +361,7 @@
   },
   {
     "strName": "BodyhandLB",
-    "strNameFriendly": "Hand: Left",
+    "strNameFriendly": "Кисть: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -379,7 +379,7 @@
   },
   {
     "strName": "BodyhandLC",
-    "strNameFriendly": "Hand: Left",
+    "strNameFriendly": "Кисть: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -397,7 +397,7 @@
   },
   {
     "strName": "BodyhandRB",
-    "strNameFriendly": "Hand: Right",
+    "strNameFriendly": "Кисть: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -415,7 +415,7 @@
   },
   {
     "strName": "BodyhandRC",
-    "strNameFriendly": "Hand: Right",
+    "strNameFriendly": "Кисть: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -433,7 +433,7 @@
   },
   {
     "strName": "BodyarmLowerLA02",
-    "strNameFriendly": "Arm: Lower Left",
+    "strNameFriendly": "Рука: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -451,7 +451,7 @@
   },
   {
     "strName": "BodyarmLowerLB02",
-    "strNameFriendly": "Arm: Lower Left",
+    "strNameFriendly": "Рука: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -469,7 +469,7 @@
   },
   {
     "strName": "BodyarmLowerLC02",
-    "strNameFriendly": "Arm: Lower Left",
+    "strNameFriendly": "Рука: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -487,7 +487,7 @@
   },
   {
     "strName": "BodyarmLowerRA02",
-    "strNameFriendly": "Arm: Lower Right",
+    "strNameFriendly": "Рука: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -505,7 +505,7 @@
   },
   {
     "strName": "BodyarmLowerRB02",
-    "strNameFriendly": "Arm: Lower Right",
+    "strNameFriendly": "Рука: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -523,7 +523,7 @@
   },
   {
     "strName": "BodyarmLowerRC02",
-    "strNameFriendly": "Arm: Lower Right",
+    "strNameFriendly": "Рука: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -541,7 +541,7 @@
   },
   {
     "strName": "BodyarmUpperLA02",
-    "strNameFriendly": "Arm: Upper Left",
+    "strNameFriendly": "Рука: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -559,7 +559,7 @@
   },
   {
     "strName": "BodyarmUpperLB02",
-    "strNameFriendly": "Arm: Upper Left",
+    "strNameFriendly": "Рука: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -577,7 +577,7 @@
   },
   {
     "strName": "BodyarmUpperLC02",
-    "strNameFriendly": "Arm: Upper Left",
+    "strNameFriendly": "Рука: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -595,7 +595,7 @@
   },
   {
     "strName": "BodyarmUpperRA02",
-    "strNameFriendly": "Arm: Upper Right",
+    "strNameFriendly": "Рука: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -613,7 +613,7 @@
   },
   {
     "strName": "BodyarmUpperRB02",
-    "strNameFriendly": "Arm: Upper Right",
+    "strNameFriendly": "Рука: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -631,7 +631,7 @@
   },
   {
     "strName": "BodyarmUpperRC02",
-    "strNameFriendly": "Arm: Upper Right",
+    "strNameFriendly": "Рука: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -649,7 +649,7 @@
   },
   {
     "strName": "BodylegLowerLA02",
-    "strNameFriendly": "Leg: Lower Left",
+    "strNameFriendly": "Нога: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -667,7 +667,7 @@
   },
   {
     "strName": "BodylegLowerLB02",
-    "strNameFriendly": "Leg: Lower Left",
+    "strNameFriendly": "Нога: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -685,7 +685,7 @@
   },
   {
     "strName": "BodylegLowerLC02",
-    "strNameFriendly": "Leg: Lower Left",
+    "strNameFriendly": "Нога: Нижняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -703,7 +703,7 @@
   },
   {
     "strName": "BodylegLowerRA02",
-    "strNameFriendly": "Leg: Lower Right",
+    "strNameFriendly": "Нога: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -721,7 +721,7 @@
   },
   {
     "strName": "BodylegLowerRB02",
-    "strNameFriendly": "Leg: Lower Right",
+    "strNameFriendly": "Нога: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -739,7 +739,7 @@
   },
   {
     "strName": "BodylegLowerRC02",
-    "strNameFriendly": "Leg: Lower Right",
+    "strNameFriendly": "Нога: Нижняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -757,7 +757,7 @@
   },
   {
     "strName": "BodylegUpperLA02",
-    "strNameFriendly": "Leg: Upper Left",
+    "strNameFriendly": "Нога: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -775,7 +775,7 @@
   },
   {
     "strName": "BodylegUpperLB02",
-    "strNameFriendly": "Leg: Upper Left",
+    "strNameFriendly": "Нога: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -793,7 +793,7 @@
   },
   {
     "strName": "BodylegUpperLC02",
-    "strNameFriendly": "Leg: Upper Left",
+    "strNameFriendly": "Нога: Верхняя левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -811,7 +811,7 @@
   },
   {
     "strName": "BodylegUpperRA02",
-    "strNameFriendly": "Leg: Upper Right",
+    "strNameFriendly": "Нога: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -829,7 +829,7 @@
   },
   {
     "strName": "BodylegUpperRB02",
-    "strNameFriendly": "Leg: Upper Right",
+    "strNameFriendly": "Нога: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -847,7 +847,7 @@
   },
   {
     "strName": "BodylegUpperRC02",
-    "strNameFriendly": "Leg: Upper Right",
+    "strNameFriendly": "Нога: Верхняя правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -865,7 +865,7 @@
   },
   {
     "strName": "BodyfootLA02",
-    "strNameFriendly": "Foot: Left",
+    "strNameFriendly": "Ступня: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -883,7 +883,7 @@
   },
   {
     "strName": "BodyfootLB02",
-    "strNameFriendly": "Foot: Left",
+    "strNameFriendly": "Ступня: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -901,7 +901,7 @@
   },
   {
     "strName": "BodyfootLC02",
-    "strNameFriendly": "Foot: Left",
+    "strNameFriendly": "Ступня: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -919,7 +919,7 @@
   },
   {
     "strName": "BodyfootRA02",
-    "strNameFriendly": "Foot: Right",
+    "strNameFriendly": "Ступня: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -937,7 +937,7 @@
   },
   {
     "strName": "BodyfootRB02",
-    "strNameFriendly": "Foot: Right",
+    "strNameFriendly": "Ступня: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -955,7 +955,7 @@
   },
   {
     "strName": "BodyfootRC02",
-    "strNameFriendly": "Foot: Right",
+    "strNameFriendly": "Ступня: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -973,7 +973,7 @@
   },
   {
     "strName": "BodyhandLA02",
-    "strNameFriendly": "Hand: Left",
+    "strNameFriendly": "Кисть: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -991,7 +991,7 @@
   },
   {
     "strName": "BodyhandLB02",
-    "strNameFriendly": "Hand: Left",
+    "strNameFriendly": "Кисть: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -1009,7 +1009,7 @@
   },
   {
     "strName": "BodyhandLC02",
-    "strNameFriendly": "Hand: Left",
+    "strNameFriendly": "Кисть: Левая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -1027,7 +1027,7 @@
   },
   {
     "strName": "BodyhandRA02",
-    "strNameFriendly": "Hand: Right",
+    "strNameFriendly": "Кисть: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -1045,7 +1045,7 @@
   },
   {
     "strName": "BodyhandRB02",
-    "strNameFriendly": "Hand: Right",
+    "strNameFriendly": "Кисть: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",
@@ -1063,7 +1063,7 @@
   },
   {
     "strName": "BodyhandRC02",
-    "strNameFriendly": "Hand: Right",
+    "strNameFriendly": "Кисть: Правая",
     "strImg": "ItmBodyPart01",
     "strImgNorm": "ItmBodyPart01",
     "strPortraitImg": "ItmBodyPart01",

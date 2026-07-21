@@ -1,8 +1,8 @@
 [
   {
     "strName": "ItmKioskCargo01BCER",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (BCER)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (BCER)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -18,8 +18,8 @@
   },
   {
     "strName": "ItmKioskCargo01BCRS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (BCRS)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (BCRS)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -35,8 +35,8 @@
   },
   {
     "strName": "ItmKioskCargo01EJDR",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (EJDR)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (EJDR)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -52,8 +52,8 @@
   },
   {
     "strName": "ItmKioskCargo01HQCH",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (HQCH)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (HQCH)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -69,8 +69,8 @@
   },
   {
     "strName": "ItmKioskCargo01JATL",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (JATL)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (JATL)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -86,8 +86,8 @@
   },
   {
     "strName": "ItmKioskCargo01JFTS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (JFTS)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (JFTS)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -103,8 +103,8 @@
   },
   {
     "strName": "ItmKioskCargo01JPTN",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (JPTN)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (JPTN)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -120,8 +120,8 @@
   },
   {
     "strName": "ItmKioskCargo01MHNG",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (MHNG)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (MHNG)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -137,8 +137,8 @@
   },
   {
     "strName": "ItmKioskCargo01MLAB",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (MLAB)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (MLAB)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -154,8 +154,8 @@
   },
   {
     "strName": "ItmKioskCargo01MSUZ",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (MSUZ)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (MSUZ)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -171,8 +171,8 @@
   },
   {
     "strName": "ItmKioskCargo01MTRS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (MTRS)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (MTRS)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -188,8 +188,8 @@
   },
   {
     "strName": "ItmKioskCargo01MVOL",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (MVOL)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (MVOL)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -205,8 +205,8 @@
   },
   {
     "strName": "ItmKioskCargo01OKLG",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (OKLG)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (OKLG)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -222,8 +222,8 @@
   },
   {
     "strName": "ItmKioskCargo01OFLT",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (OFLT)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (OFLT)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -239,8 +239,8 @@
   },
   {
     "strName": "ItmKioskCargo01SVIR",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (SVIR)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (SVIR)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -256,8 +256,8 @@
   },
   {
     "strName": "ItmKioskCargo01VCBR",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (VCBR)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (VCBR)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -273,8 +273,8 @@
   },
   {
     "strName": "ItmKioskCargo01VENC",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (VENC)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (VENC)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -290,8 +290,8 @@
   },
   {
     "strName": "ItmKioskCargo01VNCA",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (VNCA)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (VNCA)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -307,8 +307,8 @@
   },
   {
     "strName": "ItmKioskCargo01VORB",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Cargo Kiosk (VORB)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Грузовой терминал (VORB)",
     "strCOBase": "ItmKioskCargo01",
     "strCondLoot": "CNDOLKioskCargo01",
     "mapGUIPropMaps": [
@@ -324,8 +324,8 @@
   },
   {
     "strName": "ItmKioskSupplies01BCRS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Supply Kiosk (BCRS)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Терминал снабжения (BCRS)",
     "strCOBase": "ItmKioskSupplies01",
     "mapGUIPropMaps": [
       "Panel A",
@@ -338,8 +338,8 @@
   },
   {
     "strName": "ItmKioskSupplies01BCER",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Supply Kiosk (BCER)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Терминал снабжения (BCER)",
     "strCOBase": "ItmKioskSupplies01",
     "mapGUIPropMaps": [
       "Panel A",
@@ -352,8 +352,8 @@
   },
   {
     "strName": "ItmFactionKiosk01BCER",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Faction Kiosk (GalFed)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Терминал фракции (GalFed)",
     "strCOBase": "ItmKioskGovt01",
     "strCondLoot": "CNDOLKioskGovtGalileanConfederacy",
     "mapGUIPropMaps": [
@@ -367,8 +367,8 @@
   },
   {
     "strName": "ItmFactionKiosk01BCRS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Faction Kiosk (CCRE)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Терминал фракции (CCRE)",
     "strCOBase": "ItmKioskGovt01",
     "strCondLoot": "CNDOLKioskGovtCCRE",
     "mapGUIPropMaps": [
@@ -382,8 +382,8 @@
   },
   {
     "strName": "TraderFurnishingsKioskBCER",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Furnishings Kiosk (BCER)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Киоск мебели (BCER)",
     "strCOBase": "ItmKioskFurnishings01",
     "mapGUIPropMaps": [
       "Panel A",
@@ -396,8 +396,8 @@
   },
   {
     "strName": "TraderFurnishingsKioskBCRS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Furnishings Kiosk (BCRS)",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Киоск мебели (BCRS)",
     "strCOBase": "ItmKioskFurnishings01",
     "mapGUIPropMaps": [
       "Panel A",
@@ -410,9 +410,9 @@
   },
   {
     "strName": "ItmKioskTestudo01BCER",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Testudo Kiosk (BCER)",
-    "strDesc": "A kiosk operated by Testudo Corp. offering a dizzying array of diverse consumer products running the gamut of branded offerings produced by the omnipresent ubercorp.",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Киоск Testudo (BCER)",
+    "strDesc": "Киоск, управляемый Testudo Corp., предлагающий ошеломляющий ассортимент разнообразных потребительских товаров, охватывающий весь спектр брендированных предложений, производимых вездесущей мегакорпорацией.",
     "strImg": "ItmKioskTestudo01",
     "strPortraitImg": "ItmKioskTestudo01",
     "strImgNorm": "ItmKioskHealth01n",
@@ -429,9 +429,9 @@
   },
   {
     "strName": "ItmKioskTestudo01BCRS",
-    "strNameShort": "Kiosk",
-    "strNameFriendly": "Testudo Kiosk (BCRS)",
-    "strDesc": "A kiosk operated by Testudo Corp. offering a dizzying array of diverse consumer products running the gamut of branded offerings produced by the omnipresent ubercorp.",
+    "strNameShort": "Терминал",
+    "strNameFriendly": "Киоск Testudo (BCRS)",
+    "strDesc": "Киоск, управляемый Testudo Corp., предлагающий ошеломляющий ассортимент разнообразных потребительских товаров, охватывающий весь спектр брендированных предложений, производимых вездесущей мегакорпорацией.",
     "strImg": "ItmKioskTestudo01",
     "strPortraitImg": "ItmKioskTestudo01",
     "strImgNorm": "ItmKioskHealth01n",

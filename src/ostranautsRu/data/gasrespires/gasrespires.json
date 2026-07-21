@@ -10,7 +10,7 @@
     "strSignalCTMain": "TIsStatOxygen",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "HumanO2Data",
         "strGasIn": "O2",
@@ -78,7 +78,7 @@
     "strSignalCTMain": "TIsReadyPumpAirEVA",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "HelmetCOData",
         "strGasIn": "CO",
@@ -127,7 +127,7 @@
     "strPtB": "",
     "strCTA": "TIsFitContainerEVABottle",
     "strCTB": "TIsAirtightHuman",
-    "fVol": 5.9e-06,
+    "fVol": 0.0000059,
     "fSignalCheckRate": 1.0,
     "strSignalCTB": "TIsO2PPLow",
     "strSignalCTMain": "TIsSlottedNotOff",
@@ -145,7 +145,7 @@
     "strSignalCTMain": "TIsMeatBlob",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "MeatCO2Data",
         "strGasIn": "CO2",
@@ -167,7 +167,7 @@
     "strSignalCTMain": "TAlways",
     "bAllowExternA": false,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "OxyCandleO2Data",
         "strGasIn": "O2",
@@ -196,12 +196,12 @@
     "strPtB": "",
     "strCTA": "TIsFitContainerEVABottle",
     "strCTB": "TIsAirtightHuman",
-    "fVol": 5e-05,
+    "fVol": 0.00005,
     "fSignalCheckRate": 0.1,
     "strSignalCTMain": "TAlways",
     "bAllowExternA": false,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "ACTRefillHelmetO2Data",
         "strGasIn": "O2",
@@ -211,19 +211,19 @@
         "fStatRate": 0.0
       }
     ]
-  },
+  },  
   {
     "strName": "ACTRefillHelmetO2Inject",
     "strPtA": "",
     "strPtB": "",
     "strCTA": "TIsFitContainerEVABottle",
     "strCTB": "TIsAirtightHuman",
-    "fVol": 1.5e-05,
+    "fVol": 0.000015,
     "fSignalCheckRate": 0.1,
     "strSignalCTMain": "TAlways",
     "bAllowExternA": false,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "ACTRefillHelmetInjectO2Data",
         "strGasIn": "O2",
@@ -273,7 +273,7 @@
     "strSignalCTMain": "TIsCigaretteLit",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "Cigarette01Data",
         "strGasIn": "O2",
@@ -281,7 +281,7 @@
         "fConvRate": 0.3,
         "fGasPressTotalRef": 101.3,
         "fStatRate": -5.0,
-        "strLootConds": "CONDRespireCigarette01"
+        "strLootConds" : "CONDRespireCigarette01"
       }
     ]
   },
@@ -297,7 +297,7 @@
     "strAudioEmitterPump": "AirPumpActive",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "AtmoScrubber01Data",
         "strGasIn": "CO2",
@@ -321,7 +321,7 @@
     "strAudioEmitterPump": "AirPumpActive",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "AtmoScrubber02H2SO4Data",
         "strGasIn": "H2SO4",
@@ -367,7 +367,7 @@
     "strSignalCTMain": "TAlways",
     "bAllowExternA": true,
     "bAllowExternB": true,
-    "aGases": [
+    "aGases" : [
       {
         "strName": "FireCO2Data",
         "strGasIn": "O2",

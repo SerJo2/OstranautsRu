@@ -1,7 +1,7 @@
 [
   {
     "strName": "BottleBismertnayaFull",
-    "strFriendlyName": "a bottle of Bismertnaya Red Label",
+    "strFriendlyName": "компьютер с продвинутым ИИ",
     "strLootPickup": "ItmDrinkVodkaNew",
     "aCTsDeliver": [
       "TIsBismertnayaBottle=1.0x1",
@@ -10,7 +10,7 @@
   },
   {
     "strName": "AIPowerItem",
-    "strFriendlyName": "a computer housing an advanced AI",
+    "strFriendlyName": "взломанный узел Ubiq WISP",
     "strLootPickup": "ItmAICargo01Loose",
     "aCTsDeliver": [
       "TIsAICargo01Uninstalled=1.0x1"
@@ -18,7 +18,7 @@
   },
   {
     "strName": "HackedUbiqWISP",
-    "strFriendlyName": "a hacked Ubiq WISP node",
+    "strFriendlyName": "блок электрического щита стороннего производителя",
     "strLootPickup": "ItmUbiqWISPNode01HackedNew",
     "aCTsDeliver": [
       "TIsUbiqWISPNode01Hacked=1.0x1"
@@ -26,7 +26,7 @@
   },
   {
     "strName": "ElectricalBox01LooseAftermarket",
-    "strFriendlyName": "an aftermarket electrical box unit",
+    "strFriendlyName": "левосторонний лазерный резак",
     "strLootPickup": "ItmElectricalBox01Loose",
     "aCTsDeliver": [
       "TIsElectricalBox01Uninstalled=1.0x1"
@@ -34,7 +34,7 @@
   },
   {
     "strName": "LefthandLaserTorch",
-    "strFriendlyName": "a left handed laser torch",
+    "strFriendlyName": "прототип воздухозаборника RCS",
     "strLootPickup": "ItmToolLaserTorch01",
     "aCTsDeliver": [
       "TIsToolLaserTorch=1.0x1"
@@ -42,7 +42,7 @@
   },
   {
     "strName": "PrototypeRCS",
-    "strFriendlyName": "a prototype RCS intake",
+    "strFriendlyName": "проклятый фиолетовый комбинезон",
     "strLootPickup": "ItmRCSDistro01Loose",
     "aCTsDeliver": [
       "TIsRCSDistro01Uninstalled=1.0x1"
@@ -50,7 +50,7 @@
   },
   {
     "strName": "PurpleJumpsuit",
-    "strFriendlyName": "a cursed purple jumpsuit",
+    "strFriendlyName": "прототип формулы Holden Patch",
     "strLootPickup": "OutfitSuit07",
     "aCTsDeliver": [
       "TIsCursedJumpsuit=1.0x1"
@@ -58,7 +58,7 @@
   },
   {
     "strName": "PrototypeHoldenPatch",
-    "strFriendlyName": "a prototype formula Holden Patch",
+    "strFriendlyName": "прототип формулы Holden Patch",
     "strLootPickup": "ItmHullPatch01x1",
     "aCTsDeliver": [
       "TIsHullPatch=1.0x1"
@@ -66,7 +66,7 @@
   },
   {
     "strName": "PartScreenSpecialOrder",
-    "strFriendlyName": "a special order replacement screen",
+    "strFriendlyName": "экран для замены по специальному заказу",
     "strLootPickup": "ItmPartsScreen01",
     "aCTsDeliver": [
       "TIsScreen=1.0x1"
@@ -74,7 +74,7 @@
   },
   {
     "strName": "ScrapClothCleanBandages",
-    "strFriendlyName": "a shipment of sterile bandages",
+    "strFriendlyName": "партия стерильных бинтов",
     "strLootPickup": "ItmScrapClothCleanx10",
     "aCTsDeliver": [
       "TIsScrapClothClean=1.0x10"
@@ -82,7 +82,7 @@
   },
   {
     "strName": "Switch01LooseYoruba",
-    "strFriendlyName": "a switch with Yoruba labeling",
+    "strFriendlyName": "переключатель с маркировкой на языке йоруба",
     "strLootPickup": "ItmSwitch01Loose",
     "aCTsDeliver": [
       "TIsSwitch01Uninstalled=1.0x1"
@@ -90,7 +90,7 @@
   },
   {
     "strName": "UsedSalvageLicense",
-    "strFriendlyName": "a used scavenger license",
+    "strFriendlyName": "использованная лицензия мусорщика",
     "strLootPickup": "ItmDocumentPermitOKLG01Used",
     "aCTsDeliver": [
       "TIsOKLGPermitUsed=1.0x1"

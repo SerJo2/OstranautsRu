@@ -1,0 +1,508 @@
+[	
+	
+	{
+	
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE",
+		"strTitle" : "Ask about Benjamin Choong and CCRE",
+		"strDesc" : "[us] asks [them] about the whereabouts of Benjamin Choong.",
+		"LootCondsUs" : "CONDPLOT_PLOT_Ceres_The_Scholar_Establish_Contact_CCRE",
+		"CTTestUs" : "CTPlot_PLOT_Ceres_The_Scholar_Establish_Contact_CCRE",
+		"aInverse" : [ "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply" ],
+		"strActionGroup" : "Talk",
+		"strThemType" : "Other",
+		"nLogging" : 1,
+		"bRecheckThisPlot" : true,
+			"ShipTestThem" : "BCER",
+		"fForcedChance" : 0
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply",
+		"strTitle" : "Establish_Contact_CCRE_Reply_Success",
+		"strDesc" : "[us] gives [them] a startled look and says to follow them to somewhere more private and await further contact.",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"strAnim" : "Talk",
+		"fDuration" : 0.0005,
+		"strActionGroup" : "Talk",
+		"strThemType" : "Other",
+		"nLogging" : 1,
+		"aInverse" : [ "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_Shim" ],
+		"fForcedChance" : 1
+	},
+	{
+	
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_Shim",
+		"strTitle" : "Follow to Clandestine Meetup",
+		"strDesc" : "It\'s a big hat he\'s wearing, a white Stetson homage, to go with the blue flannel shirt and jeans. He pumps your hand and the shirt cuff brushes your fingers - perfectly smooth. There\'s no way it\'s real flannel. \"John Wayne, at your service, sir.\" He holds up two fingers. Two shot glasses full to the brim slide down the bar, not spilling a drop.
+
+He’s tall and gaunt, almost cadaverous. Brown skin which could be a tan job or some melanin in his family tree. He downs his shot and waits for you expectantly. It burns your throat. He nods slowly. \"If you can hold your liquor we\'ll have no trouble.\" He\'s already holding up a hand for two more.
+
+\"Now listen to me,\" he says, his hand held up, before you can get a word in edgewise. \"We\'re going to do shots here until we can’t see straight. Then we\'ll go down the street to Palmers. A few more there. Then upspin to The Red Door. Two there, and then I\'m gonna get in a fight. You watch my back. Xinhua sailors are loaded with scrip, we take it, it\'s ours. We hit the Aphrodite. I\'m on a hot streak, I won 5 grand this week. We go big, yeah? Follow my lead. After that, I know a guy, Muhammad or Mustafa or something. He knows guys, girls, whatever you like. We put all that together,\" he says, taking his delivered shot, \"and our night is set.\"
+
+You leave your glass where it is for now. \"Did you kill Benjamin Choong?\"
+
+He grimaces. \"I dunno, maybe. What\'s he look like?\"
+
+\"If you don\'t know, you\'re wasting my time.\"
+
+\"Alright, alright,\" he says, waving a hand. \"Settle down. Cool customer, you. No, I di\'nt kill him. He went missing on Ceres. All kinds\'a people do.\" He pulls up his shirt to show the ivory white revolver at his hip. \"I\'m carrying. You should be too.\"
+
+\"You\'re not even trying to hide what you are. Why?\" You look him up and down, the ridiculous caricature of a man. \"You stick out like a sore thumb.\"
+
+He considers you at length. It\'s a surprisingly canny gaze from someone consuming that much liquor. \"Well, son,\" he says slowly, \"this is a war. You best know that by now. And war has rules.\" He sees your expression. \"Oh, sure, folks break \'em. But they\'re there. Least for a little while. And hell, I\'m alive, ain\'t I?\" He grins. \"\'He clasps the crag with crooked hands, close to the sun in lonely lands, ring\'d with the azure world, he stands.\'\"
+
+\"What was that?\"
+
+His face darkens. \"That\'s poetry, fucknuts. Now,\" he steadies his gaze on you. \"In the words of the late great Mr. Seger--Pete, not Bob mind you. I hate that Night Moves shit--Which side are you on?\"
+",
+		"bIgnoreFeelings" : true,
+		"LootCondsUs" : "CONDPLOT_PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_Shim",
+		"CTTestUs" : "CTPlot_PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_Shim",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fDuration" : 0.0005,
+		"strActionGroup" : "Use",
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"strSubUI" : "Landscape01",
+		"bPause" : true,
+		"aInverse" : [ "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_GalGon_Loyalty", "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_Xinhua_Loyalty", "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_No_Loyalty" ]
+	},
+	{		
+		"strName" : "Plot_Scholar_Flat_Enter",
+		"strTitle" : "Approach Choong's Home",
+		"strColor" : "Dialogue",
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ 
+			"Plot_Scholar_Flat_Corner_Bed", 
+			"Plot_Scholar_Flat_Workbench", 
+			"Plot_Scholar_Flat_Kitchenette", 
+			"Plot_Scholar_Flat_Racks",
+			"ENCFinish" 
+			],
+		"strDesc" : "Isambard's instructions take you to Benjamin Choong's apartment without much difficulty. The residence is a small econo flat nestled among dozens of others in a relatively high rent area of the station. The line of identical doors gives you no reason to pause but Choong's, near the end, is the only one flashing with a green indicator. Clearly, it is unlocked. You step inside.\n\nThe place has been ransacked. What clearly began as a tidy living and work space now shows signs of intense struggle. Every bin and rack in the flat gapes open like a yawning mouth. The floor is covered with the guts of terminals: power sources and leads and motherboards. No drives in near sight. Whoever came here knew what they were looking for.\n\nChoong is nowhere to be found.\n\nPerhaps something here will give you insight into what happened. You fear you might not have much time. Where do you look first?",
+		"CTTestThem" : "CTPLOT_Ceres_Is_ChoongDoor",
+		"strTooltip" : "The door panel reads Benjamin Choong"
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Corner_Bed",
+		"strTitle" : "Search Corner Bed",
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"strDesc" : "The bed is high quality, expensive, but unmade. You wonder if Choong was here when he was spirited away in such a hurry. Must have been a rude awakening.",
+		"aInverse" : [ 
+			"Plot_Scholar_Flat_Workbench", 
+			"Plot_Scholar_Flat_Kitchenette", 
+			"Plot_Scholar_Flat_Racks", 
+			"ENCFinish" 
+			]
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Workbench",
+		"strTitle" : "Search Workbench",
+		"strDesc" : "Of all the spaces in your vision, the workbench is the most ruined. Stripped terminals, shattered labware, and tangles of electronics cover the surface. In the center of the table, a clear lack of debris. Even the light layer of dust around the rest of the apartment does not reach here.\n\nBelow the vacancy you find a matchbook. It is from a bar here on Port Mojave. Inside, a note written in faint ink. A contact number, and initials below it: PT.",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ 
+			"Plot_Scholar_Flat_Corner_Bed", 
+			"Plot_Scholar_Flat_Kitchenette", 
+			"Plot_Scholar_Flat_Racks", 
+			"ENCFinish"  
+			]
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Kitchenette",
+		"strTitle" : "Search Kitchenette",
+		"strDesc" : "You see a half open fridge, a small dining table with a single chair, and various kitchen items clearly thrown to the ground during the haphazard search. ",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ 
+			"Plot_Scholar_Flat_Kitchenette_Fridge", 
+			"Plot_Scholar_Flat_Kitchenette_Table", 
+			"Plot_Scholar_Flat_Kitchenette_Ground", 
+			"ENCFinish"  
+			]
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Kitchenette_Fridge",
+		"strTitle" : "Search The Fridge",
+		"strDesc" : "It remains relatively untouched. Expensive high nutrient foodstuffs are aligned in neat rows. You see about a dozen water bottles, all full, along with a batch of refrigerated supplements, some of which you do not recognize. Choong clearly knew how to take care of himself. Why do you find yourself thinking of him in the past tense?",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "Plot_Scholar_Flat_Kitchenette_Ground", "Plot_Scholar_Flat_Kitchenette_Table", "ENCFinish"  ]
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Kitchenette_Table",
+		"strTitle" : "Search The Table",
+		"strDesc" : "You find an empty coffee cup, a handheld terminal smashed beyond repair and stripped of its drive, and a paperback book. Not cheap, those. Something called The Day of the Triffids by John Wyndham.",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "Plot_Scholar_Flat_Kitchenette_Ground", "Plot_Scholar_Flat_Kitchenette_Fridge", "ENCFinish"  ]
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Kitchenette_Ground",
+		"strTitle" : "Search The Ground",
+		"strDesc" : "Broken dishware, shattered glass, and assorted papers litter the ground here. You rummage through the papers but they present in a language so erudite as to be illegible to you. Mentions of rare mineral compounds standout, as well as their properties when combusted at certain temperatures.\n\nJust as you are about to give up here you glimpse a splash of vibrant color in the wastebasket. You take a closer look. A bouquet of flowers?\n\nYou retrieve the arrangement. You lean down to smell them but find no odor. They feel fragile, cold, crosshatched. Paper, then. An impressive feat, creating all these by hand. Inside, there is a note:\n\nThank you for meeting with me. No need to look me up next time you are on The Ring. I will find you.\n\n-Francisco Ortega",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "Plot_Scholar_Flat_Kitchenette_Fridge", "Plot_Scholar_Flat_Kitchenette_Table", "ENCFinish"  ]
+	},
+	{
+		"strName" : "Plot_Scholar_Flat_Racks",
+		"strTitle" : "Search Racks and Bins",
+		"strDesc" : "About a dozen containers of various sizes line the walls. Some are embedded in the floor. Where to start? ",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ 
+			"Plot_Scholar_Racks_North", 
+			"Plot_Scholar_Racks_East", 
+			"Plot_Scholar_Racks_Floor", 
+			"ENCFinish"  
+			]
+	},
+	{
+		"strName" : "Plot_Scholar_Racks_North",
+		"strTitle" : "Search North Wall Set",
+		"strDesc" : "Nothing here but a collection of research tomes. You are impressed by the range of disciplines covered: mathematics, engineering, art, chemistry, and the histories of ancient Earth civilizations.",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "Plot_Scholar_Racks_East", "Plot_Scholar_Racks_Floor" ]
+	},
+	{
+		"strName" : "Plot_Scholar_Racks_East",
+		"strTitle" : "Search East Wall Set",
+		"strDesc" : "This set, near the workbench, is full of tools and small parts. Some remain neatly organized. Others are knocked to the ground. ",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "Plot_Scholar_Racks_North", "Plot_Scholar_Racks_Floor" ]
+	},
+	{
+		"strName" : "Plot_Scholar_Racks_Floor",
+		"strTitle" : "Search Floor Set",
+		"strDesc" : "These appear meant for large item storage. Rolls of textile, stacks of thin metal sheeting, measured glassware, some larger tools and…something behind soldering iron there? A seam?",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "Plot_Scholar_Racks_Floor_Seam", "Plot_Scholar_Racks_East", "Plot_Scholar_Racks_North" ]
+	},
+	{
+		"strName" : "Plot_Scholar_Racks_Floor_Seam",
+		"strTitle" : "Explore Seam",
+		"strDesc" : "You move the tools aside and press the seam softly. It releases a spring and pops open a tiny hatch, not much larger than the palm of your hand. Inside you find a tiny black notebook. It is a graphed ledger penned in a neat hand. Names, dates, and a final column, unlabeled at the top, but with entries behind each name.
+
+John Wayne (GalCon)
+Francisco Ortega (Xinhua)
+Han Xiaoli (GalCon Double)
+Isambard Cruz (???)
+Joe Bloggs (unaffiliated? Double?)
+Lawrence Masterson (GalCon)
+Pan Tau (Xinhua)
+
+Flipping to the very back page of the notebook, you find two additional lines
+
+cw GalGon: helix
+cw Xinhua: nightshade",
+		"strColor" : "Dialogue",
+		"strRaiseUI" : "SocialCombat",
+		"fForcedChance" : 1,
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"strActionGroup" : "Use",
+		"strThemType" : "Self",
+		"bIgnoreFeelings" : true,
+		"aInverse" : [ "ENCFinish"  ]
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS",
+		"strTitle" : "Ask about Benjamin Choong and GalCon",
+		"strDesc" : "[us] asks [them] about the whereabouts of Benjamin Choong.",
+		"strActionGroup" : "Talk",
+		"strThemType" : "Other",
+		"nLogging" : 1,
+		"bRecheckThisPlot" : true,
+		"ShipTestThem" : "BCRS",
+		"aInverse" : [ "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Reply" ]
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Reply",
+		"strTitle" : "Establish_Contact_CCRE_Reply_Success",
+		"strDesc" : "[us] gives [them] a startled look and says to follow them to The Fountain district and await further contact.",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strAnim" : "Talk",
+		"strActionGroup" : "Talk",
+		"strThemType" : "Other",
+		"nLogging" : 1,
+		"aInverse" : [ "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_Shim" ]
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_Shim",
+		"strTitle" : "Follow to The Fountain District",
+		"strDesc" : "Exposed water pipes from the recycling plant run over your head, humming and sloshing. You laugh, inaudible to anyone but you, such is the power of the noise. This is the ‘Fountain’, a very large section of the ring, and the closest thing to a public space on the station. Benches and standing rocks suggest a landscape garden, along with a few odd planters. The benches are full of couples enjoying discrete conversation. Up the curve of the ring, jogging toward you, there’s a squad of Coalition marines on first shift PT.
+
+Your roving gaze lands on someone staring at you. Red cheongsam, Afro-Asian. They make a gesture - thumb and forefinger in a circle around their eye. You repeat it. Their hand falls gracefully, palm out. An invitation.
+
+You fall into step beside them. Sandalwood scent, you think, and self-consciously you try to remember the last time you’d had such a luxury for yourself. They have enough makeup on that maybe they don’t have any at all. Maybe they just have a lucky complexion.
+
+“-?” you say, your voice lost to the water overhead. “Did you kill Ben Choong?”
+
+They don’t look at you as they reply. “I sincerely hope not,” they say. Their accent is, of all things, American, complete with vocal fry. “That’s answering for my employer, right. I was in bed forty minutes ago.” 
+
+“You hope not?”
+
+“Lower your voice,” they say steadily. “Even here. If you get out of hand, I have to get my security involved, or risk my cover.” A smile plays at the corner of their mouth. “Understood?”
+
+With a glance over your shoulder, you get the sense that someone of far greater mass than either of you is keeping a respectful but fixed distance. 
+
+“Understood, sure,” you reply, trying to match their tone. “And you understand this: you tell me what’s going on or I’m going to act like an unstable space captain who just lost a passenger.”
+
+They stop to admire a particularly interesting rock on a solid white display plinth. You stare at their profile until they nod, acquiescing. Then you look at the rock too.
+
+“We’re clear, Captain. And believe me, I would love to tell you what I know. But first, I have to know where you stand. So?”
+",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_Xinhua_Loyalty", "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_No_Loyalty", "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_GalCon_Loyalty" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_GalGon_Loyalty",
+		"strTitle" : "Express Loyalty to GalCon and Titan",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "ENCFinish" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"strDesc" : "\"Well hell yeah, another soldier for the good guys.\"
+
+Wayne holds up another two fingers.
+
+\"Listen: if you ever need work, pass me a note. You know the embassy on this station? There's a ship and home kiosks next door with a planter in the corner. Ficus or some shit. You leave anything in there I'm bound to find it eventually.\"
+
+The shots arrive and he downs both. 
+
+\"What, you're not drinkin?\" he asks, before walking out without so much as an adios. 
+
+John Wayne, huh? An odd presence, to say the least. And he left you the tab. "
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_Xinhua_Loyalty",
+		"strTitle" : "Express Loyalty to Xinhua",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "ENCFinish" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"strDesc" : "\"Hate to hear it, hombre,\" Wayne says. \"Well if you're in the mood for a change of heart, you can reach me by leaving a note. You know the embassy on this station? There's a ship and home kiosks next door with a planter in the corner. Ficus or some shit. You leave anything in there I'm bound to find it eventually.\" 
+
+He tips his cap and holds up two more fingers. \"Shot for the road? 
+
+He drains the little cup like he's done it a million times before. You eye your own drink with obvious suspicion, given the circumstances. 
+
+\"More for me then, I guess,\" he says, and drinks your glass down before sauntering out of the bar without paying. 
+
+John Wayne, huh? Won't be a hard name to remember, at least. 
+"
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_CCRE_Reply_Encounter_No_Loyalty",
+		"strTitle" : "Express Ambivalence to The Proxy Powers",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "ENCFinish" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"strDesc" : "\"Ah, playing the field I see,\" Wayne says, and winks at you. \"I like someone who keeps their options open. More money in it. Although you might get dead.\"
+
+Wayne holds up another two fingers without asking if you're drinking. 
+
+\"Well listen: if you ever want to work for the good guys, pass me a note. You know the embassy on this station? There's a ship and home kiosks next door with a planter in the corner. Ficus or some shit. You leave anything in there I'm bound to find it eventually.\"
+
+The shots arrive and he downs both before walking out without so much as an adios. 
+
+John Wayne, huh? An odd presence, to say the least. And he left you the tab. "
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_Xinhua_Loyalty",
+		"strTitle" : "Express Loyalty to Xinhua",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "ENCFinish" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"strDesc" : "\"That\'s reassuring, at least,\" they say. \"If not your...aggressive overtures. But loyalty must be proved, you see. So. A test.\"
+
+\"Let\'s hear it,\" you reply.
+
+\"Not here. I\'ll leave a note for you. There\'s a coffee kiosk on the main floor of BCRS. Not much to it. Check beneath the discarded cups, though, and you might find what you\'re looking for.\"
+
+\"And what\'s that?\"
+
+They bend down to inspect the rock more closely. You wonder, briefly, if a stone could hold the answer to all your questions.
+
+\"You know, back on Earth,\" they begin. \"Before the ablation cascade took the whole world from us. Some would say our nation thinks not in decades but in centuries.\"
+
+They turn and look up at you from below. 
+
+\"Such patience might serve you well now, Captain,\" they say before standing, dusting off their hands, and walking back up the pathway the way they came.  "
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_No_Loyalty",
+		"strTitle" : "Express Ambivalence to The Proxy Powers",
+		"strDesc" : "\"Lukewarm,\" they say. \"Never a good sign. You\'ll end up spat from God\'s mouth with an attitude like that.\"
+
+\"Never been a fan of blind loyalty,\" you reply. 
+
+\"It\'s time you saw, then. If you change your mind, leave a note. There\'s a coffee kiosk on the main floor of BCRS. Not much to it. Check beneath the discarded cups, though, and you might be convinced.\"
+
+And with that, they continue their walk up the path.  ",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "ENCFinish" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true
+	},
+	{
+		"strName" : "PLOT_Ceres_The_Scholar_Establish_Contact_BCRS_Encounter_GalCon_Loyalty",
+		"strTitle" : "Express Loyalty to GalCon and Titan",
+		"strTargetPoint" : "Talk",
+		"fTargetPointRange" : 2,
+		"fForcedChance" : 1,
+		"strColor" : "Dialogue",
+		"aInverse" : [ "ENCFinish" ],
+		"strActionGroup" : "Use",
+		"strRaiseUI" : "SocialCombat",
+		"strSubUI" : "Landscape01",
+		"strImage" : "encounters/ENCPlanetSunrise",
+		"bPause" : true,
+		"bIgnoreFeelings" : true,
+		"strDesc" : "\"Ah,\" they say. \"A shame. I had such high hopes for you.\"
+
+\"What is that supposed to mean?\" you ask.
+
+\"The tides are turning, Captain. You'll find it wise not to be swept up in the undertoe,\" they say, and turn to leave. 
+
+\"Wait,\" you say, and to your surpise they do. 
+
+\"Where can I find you?\" you ask. 
+
+\"There's a coffee kiosk on the main floor of BCRS. Not much to it. Check beneath the discarded cups, though. You'll find we're never too far.\"
+
+And with that, they continue their walk up the path."
+	}
+]

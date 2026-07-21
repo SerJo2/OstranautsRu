@@ -1,7 +1,7 @@
 [
   {
     "strName": "AF_BeltPirates",
-    "strTitle": "BeltPirates Faction Test",
+    "strTitle": "Проверка фракции BeltPirates",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -12,7 +12,7 @@
   },
   {
     "strName": "AF_BCERLEO",
-    "strTitle": "CCRE LEO Faction Test",
+    "strTitle": "Проверка фракции CCRE LEO",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -23,7 +23,7 @@
   },
   {
     "strName": "AF_BCRSLEO",
-    "strTitle": "GalileanConfederacy LEO Faction Test",
+    "strTitle": "Проверка фракции GalileanConfederacy LEO",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -34,7 +34,7 @@
   },
   {
     "strName": "AF_OKLGCiv",
-    "strTitle": "OKLGCiv Faction Test",
+    "strTitle": "Проверка фракции OKLGCiv",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -45,7 +45,7 @@
   },
   {
     "strName": "AF_OKLGCorp",
-    "strTitle": "OKLGCorp Faction Test",
+    "strTitle": "Проверка фракции OKLGCorp",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -56,7 +56,7 @@
   },
   {
     "strName": "AF_OKLGCrim",
-    "strTitle": "OKLGCrim Faction Test",
+    "strTitle": "Проверка фракции OKLGCrim",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -67,7 +67,7 @@
   },
   {
     "strName": "AF_OKLGFlotilla",
-    "strTitle": "OKLGFlotilla Faction Test",
+    "strTitle": "Проверка фракции OKLGFlotilla",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -78,7 +78,7 @@
   },
   {
     "strName": "AF_OKLGLEO",
-    "strTitle": "OKLGLEO Faction Test",
+    "strTitle": "Проверка фракции OKLGLEO",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -89,7 +89,7 @@
   },
   {
     "strName": "AF_OKLGPirates",
-    "strTitle": "OKLGPirates Faction Test",
+    "strTitle": "Проверка фракции OKLGPirates",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -100,7 +100,7 @@
   },
   {
     "strName": "AF_OKLGScav",
-    "strTitle": "OKLGScav Faction Test",
+    "strTitle": "Проверка фракции OKLGScav",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -111,7 +111,7 @@
   },
   {
     "strName": "AF_VCBRCiv",
-    "strTitle": "VCBRCiv Faction Test",
+    "strTitle": "Проверка фракции VCBRCiv",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -122,7 +122,7 @@
   },
   {
     "strName": "AF_VCBRLEO",
-    "strTitle": "VCBRLEO Faction Test",
+    "strTitle": "Проверка фракции VCBRLEO",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -133,7 +133,7 @@
   },
   {
     "strName": "AF_VENCCiv",
-    "strTitle": "VENCCiv Faction Test",
+    "strTitle": "Проверка фракции VENCCiv",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -144,7 +144,7 @@
   },
   {
     "strName": "AF_VENCLEO",
-    "strTitle": "VENCLEO Faction Test",
+    "strTitle": "Проверка фракции VENCLEO",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -155,7 +155,7 @@
   },
   {
     "strName": "AF_VenusCrim",
-    "strTitle": "VenusCrim Faction Test",
+    "strTitle": "Проверка фракции VenusCrim",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -166,7 +166,7 @@
   },
   {
     "strName": "AF_VenusPirates",
-    "strTitle": "Venus Pirates Faction Test",
+    "strTitle": "Проверка фракции Venus Pirates",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -177,7 +177,7 @@
   },
   {
     "strName": "AF_VNCACiv",
-    "strTitle": "VNCACiv Faction Test",
+    "strTitle": "Проверка фракции VNCACiv",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,
@@ -188,7 +188,7 @@
   },
   {
     "strName": "AF_VNCALEO",
-    "strTitle": "VNCALEO Faction Test",
+    "strTitle": "Проверка фракции VNCALEO",
     "strColor": "Neutral",
     "aInverse": [],
     "fDuration": 0.0,

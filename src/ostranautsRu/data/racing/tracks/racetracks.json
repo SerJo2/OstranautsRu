@@ -1,7 +1,7 @@
 [
   {
     "strName": "TutorialCircuit",
-    "strNameFriendly": "Track Type: Circuit",
+    "strNameFriendly": "Тип трассы: Кольцо",
     "strDescription": "A small oval shaped circuit. Finish 2 full laps, by crossing the start/finish waypoint to complete the race. Make sure to bring enough fuel if you use RCS thrusters!",
     "strTrackType": "Circuit",
     "nLaps": 2,
@@ -53,7 +53,7 @@
   },
   {
     "strName": "TutorialOrientation",
-    "strNameFriendly": "Track Type: Orientation",
+    "strNameFriendly": "Тип трассы: Ориентирование",
     "strDescription": "Waypoints can be passed in any order that you want. It's up to you to find the quickest route. Finish the race by crossing the start/finish waypoint",
     "strTrackType": "Orientation",
     "nLaps": 1,
@@ -94,7 +94,7 @@
   },
   {
     "strName": "TutorialPointToPoint",
-    "strNameFriendly": "Track Type: Point to Point",
+    "strNameFriendly": "Тип трассы: Из точки в точку",
     "strTrackType": "PointToPoint",
     "strDescription": "A small U shaped point to point track. Reach the last waypoint to finish the track",
     "nLaps": 1,
@@ -398,7 +398,7 @@
   },
   {
     "strName": "RisingStar",
-    "strNameFriendly": "The Rising Star",
+    "strNameFriendly": "Восходящая звезда",
     "strDescription": "A dangerously low orbiting track that will lead you into the high pressure abyss of the lower Venus atmosphere",
     "strTrackType": "Orientation",
     "nLaps": 1,
@@ -463,7 +463,7 @@
   },
   {
     "strName": "ORing",
-    "strNameFriendly": "O-Ring",
+    "strNameFriendly": "O-Кольцо",
     "strDescription": "A tiny ring that requires precision",
     "strTrackType": "Circuit",
     "nLaps": 4,

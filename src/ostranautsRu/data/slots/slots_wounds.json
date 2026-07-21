@@ -1,7 +1,7 @@
 [
   {
     "strName": "WoundArmFractureL",
-    "strNameFriendly": "Left Arm Fracture",
+    "strNameFriendly": "Перелом левой руки",
     "strHitboxImage": "paperdoll/HBarmFractureL",
     "nItems": 1,
     "nDepth": 4,
@@ -16,7 +16,7 @@
   },
   {
     "strName": "WoundItemArmFractureL",
-    "strNameFriendly": "Left Arm Fracture (Item)",
+    "strNameFriendly": "Перелом левой руки (предмет)",
     "strHitboxImage": "paperdoll/HBarmFractureL",
     "nItems": 1,
     "nDepth": 4,
@@ -31,7 +31,7 @@
   },
   {
     "strName": "WoundArmFractureR",
-    "strNameFriendly": "Right Arm Fracture",
+    "strNameFriendly": "Перелом правой руки",
     "strHitboxImage": "paperdoll/HBarmFractureR",
     "nItems": 1,
     "nDepth": 4,
@@ -46,7 +46,7 @@
   },
   {
     "strName": "WoundItemArmFractureR",
-    "strNameFriendly": "Right Arm Fracture (Item)",
+    "strNameFriendly": "Перелом правой руки (Предмет)",
     "strHitboxImage": "paperdoll/HBarmFractureR",
     "nItems": 1,
     "nDepth": 4,
@@ -61,7 +61,7 @@
   },
   {
     "strName": "WoundArmLowerL",
-    "strNameFriendly": "Lower Left Arm Wound",
+    "strNameFriendly": "Рана на нижней части левой руки",
     "strHitboxImage": "paperdoll/HBarmLowerL",
     "nItems": 1,
     "nDepth": 4,
@@ -76,7 +76,7 @@
   },
   {
     "strName": "WoundItemArmLowerL",
-    "strNameFriendly": "Lower Left Arm Wound (Item)",
+    "strNameFriendly": "Рана на нижней части левой руки (Предмет)",
     "strHitboxImage": "paperdoll/HBarmLowerL",
     "nItems": 1,
     "nDepth": 4,
@@ -91,7 +91,7 @@
   },
   {
     "strName": "WoundArmLowerR",
-    "strNameFriendly": "Lower Right Arm Wound",
+    "strNameFriendly": "Рана на нижней части правой руки",
     "strHitboxImage": "paperdoll/HBarmLowerR",
     "nItems": 1,
     "nDepth": 4,
@@ -106,7 +106,7 @@
   },
   {
     "strName": "WoundItemArmLowerR",
-    "strNameFriendly": "Lower Right Arm Wound (Item)",
+    "strNameFriendly": "Рана на нижней части правой руки (Предмет)",
     "strHitboxImage": "paperdoll/HBarmLowerR",
     "nItems": 1,
     "nDepth": 4,
@@ -121,7 +121,7 @@
   },
   {
     "strName": "WoundArmUpperL",
-    "strNameFriendly": "Upper Left Arm Wound",
+    "strNameFriendly": "Рана на верхней части левой руки",
     "strHitboxImage": "paperdoll/HBarmUpperL",
     "nItems": 1,
     "nDepth": 4,
@@ -136,7 +136,7 @@
   },
   {
     "strName": "WoundItemArmUpperL",
-    "strNameFriendly": "Upper Left Arm Wound (Item)",
+    "strNameFriendly": "Рана на верхней части левой руки (Предмет)",
     "strHitboxImage": "paperdoll/HBarmUpperL",
     "nItems": 1,
     "nDepth": 4,
@@ -151,7 +151,7 @@
   },
   {
     "strName": "WoundArmUpperR",
-    "strNameFriendly": "Upper Right Arm Wound",
+    "strNameFriendly": "Рана на верхней части правой руки",
     "strHitboxImage": "paperdoll/HBarmUpperR",
     "nItems": 1,
     "nDepth": 4,
@@ -166,7 +166,7 @@
   },
   {
     "strName": "WoundItemArmUpperR",
-    "strNameFriendly": "Upper Right Arm Wound (Item)",
+    "strNameFriendly": "Рана на верхней части правой руки (Предмет)",
     "strHitboxImage": "paperdoll/HBarmUpperR",
     "nItems": 1,
     "nDepth": 4,
@@ -181,7 +181,7 @@
   },
   {
     "strName": "WoundAbdomenLower",
-    "strNameFriendly": "Lower Abdomen Wound",
+    "strNameFriendly": "Рана в нижней части живота",
     "strHitboxImage": "paperdoll/HBAbdomenLower",
     "nItems": 1,
     "nDepth": 4,
@@ -196,7 +196,7 @@
   },
   {
     "strName": "WoundItemAbdomenLower",
-    "strNameFriendly": "Lower Abdomen Wound (Item)",
+    "strNameFriendly": "Рана в нижней части живота (Предмет)",
     "strHitboxImage": "paperdoll/HBAbdomenLower",
     "nItems": 1,
     "nDepth": 4,
@@ -211,7 +211,7 @@
   },
   {
     "strName": "WoundAbdomenUpper",
-    "strNameFriendly": "Upper Abdomen Wound",
+    "strNameFriendly": "Рана в верхней части живота",
     "strHitboxImage": "paperdoll/HBAbdomenUpper",
     "nItems": 1,
     "nDepth": 4,
@@ -226,7 +226,7 @@
   },
   {
     "strName": "WoundItemAbdomenUpper",
-    "strNameFriendly": "Upper Abdomen Wound (Item)",
+    "strNameFriendly": "Рана в верхней части живота (Предмет)",
     "strHitboxImage": "paperdoll/HBAbdomenUpper",
     "nItems": 1,
     "nDepth": 4,
@@ -241,7 +241,7 @@
   },
   {
     "strName": "WoundChestLower",
-    "strNameFriendly": "Lower Chest Wound",
+    "strNameFriendly": "Рана в нижней части груди",
     "strHitboxImage": "paperdoll/HBChestLower",
     "nItems": 1,
     "nDepth": 4,
@@ -256,7 +256,7 @@
   },
   {
     "strName": "WoundItemChestLower",
-    "strNameFriendly": "Lower Chest Wound (Item)",
+    "strNameFriendly": "Рана в нижней части груди (Предмет)",
     "strHitboxImage": "paperdoll/HBChestLower",
     "nItems": 1,
     "nDepth": 4,
@@ -271,7 +271,7 @@
   },
   {
     "strName": "WoundChestUpper",
-    "strNameFriendly": "Upper Chest Wound",
+    "strNameFriendly": "Рана в верхней части груди",
     "strHitboxImage": "paperdoll/HBChestUpper",
     "nItems": 1,
     "nDepth": 4,
@@ -286,7 +286,7 @@
   },
   {
     "strName": "WoundItemChestUpper",
-    "strNameFriendly": "Upper Chest Wound (Item)",
+    "strNameFriendly": "Рана в верхней части груди (Предмет)",
     "strHitboxImage": "paperdoll/HBChestUpper",
     "nItems": 1,
     "nDepth": 4,
@@ -301,7 +301,7 @@
   },
   {
     "strName": "WoundHead",
-    "strNameFriendly": "Head Wound",
+    "strNameFriendly": "Рана на голове",
     "strHitboxImage": "paperdoll/HBhelmet",
     "nItems": 1,
     "nDepth": 4,
@@ -316,7 +316,7 @@
   },
   {
     "strName": "WoundItemHead",
-    "strNameFriendly": "Head Wound (Item)",
+    "strNameFriendly": "Рана на голове (Предмет)",
     "strHitboxImage": "paperdoll/HBhelmet",
     "nItems": 1,
     "nDepth": 4,
@@ -331,7 +331,7 @@
   },
   {
     "strName": "WoundLegFractureL",
-    "strNameFriendly": "Left Leg Fracture",
+    "strNameFriendly": "Перелом левой ноги",
     "strHitboxImage": "paperdoll/HBLegFractureL",
     "nItems": 1,
     "nDepth": 4,
@@ -346,7 +346,7 @@
   },
   {
     "strName": "WoundItemLegFractureL",
-    "strNameFriendly": "Left Leg Fracture (Item)",
+    "strNameFriendly": "Перелом левой ноги (Предмет)",
     "strHitboxImage": "paperdoll/HBLegFractureL",
     "nItems": 1,
     "nDepth": 4,
@@ -361,7 +361,7 @@
   },
   {
     "strName": "WoundLegFractureR",
-    "strNameFriendly": "Right Leg Fracture",
+    "strNameFriendly": "Перелом правой ноги",
     "strHitboxImage": "paperdoll/HBLegFractureR",
     "nItems": 1,
     "nDepth": 4,
@@ -376,7 +376,7 @@
   },
   {
     "strName": "WoundItemLegFractureR",
-    "strNameFriendly": "Right Leg Fracture (Item)",
+    "strNameFriendly": "Перелом правой ноги (Предмет)",
     "strHitboxImage": "paperdoll/HBLegFractureR",
     "nItems": 1,
     "nDepth": 4,
@@ -391,7 +391,7 @@
   },
   {
     "strName": "WoundLegLowerL",
-    "strNameFriendly": "Lower Left Leg Wound",
+    "strNameFriendly": "Рана на нижней части левой ноги",
     "strHitboxImage": "paperdoll/HBLegLowerL",
     "nItems": 1,
     "nDepth": 4,
@@ -406,7 +406,7 @@
   },
   {
     "strName": "WoundItemLegLowerL",
-    "strNameFriendly": "Lower Left Leg Wound (Item)",
+    "strNameFriendly": "Рана на нижней части левой ноги (Предмет)",
     "strHitboxImage": "paperdoll/HBLegLowerL",
     "nItems": 1,
     "nDepth": 4,
@@ -421,7 +421,7 @@
   },
   {
     "strName": "WoundLegLowerR",
-    "strNameFriendly": "Lower Right Leg Wound",
+    "strNameFriendly": "Рана на нижней части правой ноги",
     "strHitboxImage": "paperdoll/HBLegLowerR",
     "nItems": 1,
     "nDepth": 4,
@@ -436,7 +436,7 @@
   },
   {
     "strName": "WoundItemLegLowerR",
-    "strNameFriendly": "Lower Right Leg Wound (Item)",
+    "strNameFriendly": "Рана на нижней части правой ноги (Предмет)",
     "strHitboxImage": "paperdoll/HBLegLowerR",
     "nItems": 1,
     "nDepth": 4,
@@ -451,7 +451,7 @@
   },
   {
     "strName": "WoundRobotMovementUnit",
-    "strNameFriendly": "Robot Movement Unit Wound",
+    "strNameFriendly": "Повреждение блока передвижения робота",
     "strHitboxImage": "paperdoll/HBLegUpperR",
     "nItems": 1,
     "nDepth": 4,
@@ -466,7 +466,7 @@
   },
   {
     "strName": "WoundItemRobotMovementUnit",
-    "strNameFriendly": "Robot Movement Wound (Item)",
+    "strNameFriendly": "Повреждение передвижения робота (Предмет)",
     "strHitboxImage": "paperdoll/HBLegUpperR",
     "nItems": 1,
     "nDepth": 4,
@@ -481,7 +481,7 @@
   },
   {
     "strName": "WoundRobotTorso",
-    "strNameFriendly": "Robot Torso Damage",
+    "strNameFriendly": "Повреждение торса робота",
     "strHitboxImage": "paperdoll/HBChestLower",
     "nItems": 1,
     "nDepth": 4,
@@ -496,7 +496,7 @@
   },
   {
     "strName": "WoundItemRobotTorso",
-    "strNameFriendly": "Robot Torso Damage (Item)",
+    "strNameFriendly": "Повреждение торса робота (Предмет)",
     "strHitboxImage": "paperdoll/HBChestLower",
     "nItems": 1,
     "nDepth": 4,
@@ -511,7 +511,7 @@
   },
   {
     "strName": "WoundRobotHead",
-    "strNameFriendly": "Robot Head Damage",
+    "strNameFriendly": "Повреждение головы робота",
     "strHitboxImage": "paperdoll/HBhelmet",
     "nItems": 1,
     "nDepth": 4,
@@ -526,7 +526,7 @@
   },
   {
     "strName": "WoundItemRobotHead",
-    "strNameFriendly": "Robot Head Damage (Item)",
+    "strNameFriendly": "Повреждение головы робота (Предмет)",
     "strHitboxImage": "paperdoll/HBhelmet",
     "nItems": 1,
     "nDepth": 4,
@@ -541,7 +541,7 @@
   },
   {
     "strName": "WoundLegUpperL",
-    "strNameFriendly": "Upper Left Leg Wound",
+    "strNameFriendly": "Рана на верхней части левой ноги",
     "strHitboxImage": "paperdoll/HBLegUpperL",
     "nItems": 1,
     "nDepth": 4,
@@ -556,7 +556,7 @@
   },
   {
     "strName": "WoundItemLegUpperL",
-    "strNameFriendly": "Upper Left Leg Wound (Item)",
+    "strNameFriendly": "Рана на верхней части левой ноги (Предмет)",
     "strHitboxImage": "paperdoll/HBLegUpperL",
     "nItems": 1,
     "nDepth": 4,
@@ -571,7 +571,7 @@
   },
   {
     "strName": "WoundLegUpperR",
-    "strNameFriendly": "Upper Right Leg Wound",
+    "strNameFriendly": "Рана на верхней части правой ноги",
     "strHitboxImage": "paperdoll/HBLegUpperR",
     "nItems": 1,
     "nDepth": 4,
@@ -586,7 +586,7 @@
   },
   {
     "strName": "WoundItemLegUpperR",
-    "strNameFriendly": "Upper Left Leg Wound (Item)",
+    "strNameFriendly": "Рана на верхней части левой ноги (Предмет)",
     "strHitboxImage": "paperdoll/HBLegUpperR",
     "nItems": 1,
     "nDepth": 4,

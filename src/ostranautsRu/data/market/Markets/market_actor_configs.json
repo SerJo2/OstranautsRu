@@ -1,45 +1,45 @@
 [
   {
-    "strName": "CargoPodDefault",
-    "aCargoPodSpecs": [
+    "strName" : "CargoPodDefault",
+    "aCargoPodSpecs" : [
       "DefaultCargoPod"
     ],
-    "aSupplyDemandMaps": [],
-    "aVirtualInventorySize": [],
-    "aStock": []
+    "aSupplyDemandMaps" : [],
+    "aVirtualInventorySize" : [],
+    "aStock" : []
   },
   {
-    "strName": "CargoPodClimate",
-    "aCargoPodSpecs": [
+    "strName" : "CargoPodClimate",
+    "aCargoPodSpecs" : [
       "ClimateControlled"
     ],
-    "aSupplyDemandMaps": [],
-    "aVirtualInventorySize": [],
-    "aStock": []
+    "aSupplyDemandMaps" : [],
+    "aVirtualInventorySize" : [],
+    "aStock" : []
   },
   {
-    "strName": "CargoPodRad",
-    "aCargoPodSpecs": [
+    "strName" : "CargoPodRad",
+    "aCargoPodSpecs" : [
       "RadShielded"
     ],
-    "aSupplyDemandMaps": [],
-    "aVirtualInventorySize": [],
-    "aStock": []
+    "aSupplyDemandMaps" : [],
+    "aVirtualInventorySize" : [],
+    "aStock" : []
   },
   {
-    "strName": "CargoPodSpec",
-    "aCargoPodSpecs": [
+    "strName" : "CargoPodSpec",
+    "aCargoPodSpecs" : [
       "ClimateControlled",
       "RadShielded",
       "Special"
     ],
-    "aSupplyDemandMaps": [],
-    "aVirtualInventorySize": [],
-    "aStock": []
+    "aSupplyDemandMaps" : [],
+    "aVirtualInventorySize" : [],
+    "aStock" : []
   },
-  {
-    "strName": "BCERCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "BCERCargoKiosk",
+    "aSupplyDemandMaps" : [
       "BCERTextilesAndElectronicsToSpaceSuitsConverter",
       "BCERVolatilesToWaterConverter",
       "BCERElectronicsToMediaConverter",
@@ -47,10 +47,11 @@
       "BCERLifeSupportConsumer",
       "BCERIntoxicantsConsumer",
       "BCERWeaponsConsumer",
+
       "MediaProducer",
       "VolatilesProducerx3"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=110",
       "AnyElectronics=110",
       "AnyIntoxicants=110",
@@ -62,7 +63,7 @@
       "AnyWater=110",
       "AnyWeapons=110"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-110",
       "AnyElectronics=0-110",
       "AnyIntoxicants=0-110",
@@ -75,15 +76,16 @@
       "AnyWeapons=0-110"
     ]
   },
-  {
-    "strName": "BCRSCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "BCRSCargoKiosk",
+    "aSupplyDemandMaps" : [
       "BCRSOreToMetal",
       "BCRSIndustrialProductsToOre",
       "BCRSFoodToTrash",
       "BCRSIntoxicantsToTrash",
       "BCRSMediaToTrash",
       "BCRSConsumerGoodsToTrash",
+
       "ConsumerGoodsConsumer",
       "D2OConsumer",
       "FoodConsumer",
@@ -96,13 +98,15 @@
       "MedicalConsumer",
       "WaterConsumer",
       "WeaponsConsumer",
+
       "TrashProducer",
       "OreProducer",
       "VolatilesProducer",
+
       "IndustrialProductsConsumer",
       "MetalProducer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=660",
       "AnyD2O=660",
       "AnyFood=660",
@@ -121,7 +125,7 @@
       "AnyWater=660",
       "AnyWeapons=660"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-660",
       "AnyD2O=0-660",
       "AnyFood=0-660",
@@ -141,22 +145,24 @@
       "AnyWeapons=0-660"
     ]
   },
-  {
-    "strName": "EJDRCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "EJDRCargoKiosk",
+    "aSupplyDemandMaps" : [
       "HullConsumer",
       "LifeSupportConsumer",
       "LuxuryGoodsConsumer",
       "MediaConsumer",
       "WaterConsumer",
+
       "He3Producer",
+
       "EJDRFoodAndIndustrialGoodsToHe3Converter",
       "EJDRMediaToLuxuryGoodsConverter",
       "EJDRLuxuryGoodsToTrashConverter",
       "EJDRIntoxicantsToTrashConverter",
       "EJDRConsumerGoodsToTrashConverter"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [      
       "AnyConsumerGoods=880",
       "AnyFood=880",
       "AnyHe3=1760",
@@ -169,7 +175,7 @@
       "AnyTrash=880",
       "AnyWater=880"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-440",
       "AnyFood=0-440",
       "AnyHe3=0-440",
@@ -183,21 +189,23 @@
       "AnyWater=0-440"
     ]
   },
-  {
-    "strName": "HQCHCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "HQCHCargoKiosk",
+    "aSupplyDemandMaps" : [
       "HQCHTrashToConsumerGoodsConverter",
       "HQCHTrashToMetalConverter",
       "HQCHMedicalToScienceConverter",
       "HQCHWeaponsToScienceConverter",
       "HQCHToolsToOresConverter",
       "HQCHIndustrialProductsToOresConverter",
+
       "HQCHFoodConsumer",
       "HQCHLifeSupportConsumer",
       "IntoxicantsConsumer",
+      
       "OreProducerx3"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=180",
       "AnyFood=180",
       "AnyIndustrialProducts=360",
@@ -211,7 +219,7 @@
       "AnyTools=360",
       "AnyWeapons=180"
     ],
-    "aStock": [
+    "aStock" : [      
       "AnyConsumerGoods=0-90",
       "AnyFood=0-90",
       "AnyIndustrialProducts=0-180",
@@ -226,18 +234,19 @@
       "AnyWeapons=90"
     ]
   },
-  {
-    "strName": "JATLCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "JATLCargoKiosk",
+    "aSupplyDemandMaps" : [
       "JATLWaterProducer",
       "JATLWaterToScienceConverter",
       "JATLMedicalToScienceConverter",
       "JATLWaterToLifeSupportConverter",
       "JATLElectronicsToSensorsConverter",
       "JATLElectronicsHVACMetalAndIndustrialProductsToFusionPartsConverter",
+
       "D2OProducerx3"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyD2O=220",
       "AnyElectronics=220",
       "AnyFusionParts=220",
@@ -250,7 +259,7 @@
       "AnySensors=220",
       "AnyWater=880"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyD2O=0-220",
       "AnyElectronics=0-110",
       "AnyFusionParts=0-110",
@@ -264,24 +273,26 @@
       "AnyWater=0-300"
     ]
   },
-  {
-    "strName": "JFTSCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "JFTSCargoKiosk",
+    "aSupplyDemandMaps" : [
       "JFTSPlasticsAndMetalToFurnitureConverter",
       "JFTSTextilesAndElectronicsToSpaceSuitsConverter",
       "JFTSIndustrialProductsToToolsConverter",
       "JFTSOreProducer",
       "JFTSMetalToWeaponsConverter",
+
       "ConsumerGoodsConsumer",
       "MediaConsumer",
       "MedicalConsumerx3",
       "WaterConsumer",
+
       "OreProducer",
       "VolatilesProducer",
       "TrashProducer",
       "WeaponsProducer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=1320",
       "AnyElectronics=1320",
       "AnyFurniture=1320",
@@ -299,7 +310,7 @@
       "AnyWater=1320",
       "AnyWeapons=1320"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-660",
       "AnyElectronics=0-660",
       "AnyFurniture=0-660",
@@ -318,18 +329,21 @@
       "AnyWeapons=0-1320"
     ]
   },
-  {
-    "strName": "JPTNCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "JPTNCargoKiosk",
+    "aSupplyDemandMaps" : [
       "JPTNMetalToFurniture",
       "JPTNTextilesAndElectronicsToSpaceSuits",
       "JPTNHVACAndIndustrialProductsToScience",
+
       "MediaConsumer",
+
       "D2OProducer",
+      
       "VolatilesProducer",
       "ToolsProducer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyD2O=500",
       "AnyElectronics=500",
       "AnyFurniture=500",
@@ -343,7 +357,7 @@
       "AnyTools=500",
       "AnyVolatiles=500"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyD2O=0-500",
       "AnyElectronics=0-250",
       "AnyFurniture=0-250",
@@ -358,19 +372,21 @@
       "AnyVolatiles=0-500"
     ]
   },
-  {
-    "strName": "MHNGCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "MHNGCargoKiosk",
+    "aSupplyDemandMaps" : [ 
       "MediaConsumer",
       "MedicalConsumerx3",
       "TextilesConsumer",
       "LuxuryGoodsConsumerx3",
+
       "FoodProducer",
       "ScienceProducer",
       "TrashProducer",
       "ConsumerGoodsProducer",
       "ElectronicsProducer",
       "IntoxicantsProducer",
+
       "MHNGWaterToFoodConverter",
       "MHNGVolatilesToLifeSupportConverter",
       "MHNGLuxuryGoodsToTrashConverter",
@@ -378,7 +394,7 @@
       "MHNGTextilesToConsumerGoodsConverter",
       "MHNGMedicalToTrashConverter"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=3300",
       "AnyElectronics=3300",
       "AnyFood=3300",
@@ -393,7 +409,7 @@
       "AnyVolatiles=3300",
       "AnyWater=3300"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-3300",
       "AnyElectronics=0-3300",
       "AnyFood=0-3300",
@@ -409,17 +425,20 @@
       "AnyWater=0-1650"
     ]
   },
-  {
-    "strName": "MLABCargoKiosk",
-    "aSupplyDemandMaps": [
-      "FoodConsumerx3",
+  { 
+    "strName" : "MLABCargoKiosk",
+    "aSupplyDemandMaps" : [     
+      "FoodConsumerx3", 
       "IndustrialProductsConsumer",
       "MediaProducer",
       "MedicalConsumer",
+
       "ConsumerGoodsProducer",
       "ElectronicsProducerx3",
       "TextilesProducerx3",
+      
       "TrashProducerx3",
+
       "MLABFoodToTextilesConverter",
       "MLABFoodToConsumerGoodsConverter",
       "MLABIndustrialProductsToElectronicsConverter",
@@ -428,7 +447,7 @@
       "MLABFoodToTrashConverter",
       "MLABConsumeMedia"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=2200",
       "AnyElectronics=2200",
       "AnyFood=2200",
@@ -439,7 +458,7 @@
       "AnyTextiles=2200",
       "AnyTrash=2200"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-2200",
       "AnyElectronics=0-2200",
       "AnyFood=0-1100",
@@ -451,19 +470,21 @@
       "AnyTrash=0-2200"
     ]
   },
-  {
-    "strName": "MSUZCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "MSUZCargoKiosk",
+    "aSupplyDemandMaps" : [
       "FoodProducer",
+
       "ScienceProducer",
       "ElectronicsProducer",
       "SpaceSuitsProducer",
+
       "MSUZWaterToFoodConverter",
       "MSUZPlasticsAndMetalsToElectronicsConverter",
       "MSUZIndustrialProductsToFurnitureConverter",
       "MSUZIndustrialProductsToToolsConverter"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyElectronics=500",
       "AnyFood=500",
       "AnyFurniture=500",
@@ -475,7 +496,7 @@
       "AnyTools=500",
       "AnyWater=500"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyElectronics=0-500",
       "AnyFood=0-500",
       "AnyFurniture=0-500",
@@ -488,9 +509,9 @@
       "AnyWater=0-250"
     ]
   },
-  {
-    "strName": "MTRSCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "MTRSCargoKiosk",
+    "aSupplyDemandMaps" : [
       "ElectronicsProducer",
       "LuxuryGoodsProducer",
       "IntoxicantsProducer",
@@ -498,13 +519,16 @@
       "MediaProducerx5",
       "MedicalProducer",
       "ConsumerGoodsProducerx5",
+
       "TextilesProducer",
       "IndustrialProductsProducer",
       "SensorsProducer",
+      
       "WaterConsumer",
       "WeaponsConsumer",
       "He3Consumer",
       "D2OConsumer",
+      
       "MTRSElectronicsToConsumerGoodsConverter",
       "MTRSIntoxicantsToMedicalConverter",
       "MTRSMetalsAndIndustrialProductsAndToolsToFusionPartsConverter",
@@ -517,7 +541,7 @@
       "MTRSWaterToIntoxicantsConverter",
       "MTRSWaterToFoodConverter"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=13200",
       "AnyD2O=13200",
       "AnyElectronics=13200",
@@ -539,7 +563,7 @@
       "AnyWater=13200",
       "AnyWeapons=13200"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-6600",
       "AnyD2O=0-6600",
       "AnyElectronics=0-6600",
@@ -562,11 +586,12 @@
       "AnyWeapons=0-6600"
     ]
   },
-  {
-    "strName": "MVOLCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "MVOLCargoKiosk",
+    "aSupplyDemandMaps" : [
       "HullConsumer",
       "IndustrialProductsProducer",
+
       "MVOLScienceToMedicalConverter",
       "MVOLScienceToIndustrialProductsConverter",
       "MVOLScienceToControlSystemsConverter",
@@ -577,7 +602,7 @@
       "MVOLVolatilesToLifeSupportConverter",
       "MVOLScienceAndIndustrialProductsToFusionPartsConverter"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyControlSystems=330",
       "AnyElectronics=330",
       "AnyFusionParts=330",
@@ -593,7 +618,7 @@
       "AnyVolatiles=330",
       "AnyWeapons=330"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyControlSystems=0-115",
       "AnyElectronics=0-115",
       "AnyFusionParts=0-115",
@@ -610,20 +635,22 @@
       "AnyWeapons=0-115"
     ]
   },
-  {
-    "strName": "OFLTCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "OFLTCargoKiosk",
+    "aSupplyDemandMaps" : [
       "OFLTWaterToIntoxicantsConverter",
       "OFLTTrashToIntoxicantsConverter",
       "OFLTTrashToFurnitureConverter",
       "OFLTTrashToWeaponsConverter",
+
       "FoodConsumer",
       "LifeSupportConsumer",
       "WaterConsumer",
       "HullConsumer",
+      
       "TrashProducer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyFood=100",
       "AnyFurniture=100",
       "AnyHull=100",
@@ -633,7 +660,7 @@
       "AnyWater=100",
       "AnyWeapons=100"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyFood=0-50",
       "AnyFurniture=0-50",
       "AnyHull=0-50",
@@ -644,22 +671,24 @@
       "AnyWeapons=0-50"
     ]
   },
-  {
-    "strName": "OKLGCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "OKLGCargoKiosk",
+    "aSupplyDemandMaps" : [
       "OKLGToolsToHullsConverter",
       "OKLGToolsToSensorsConverter",
       "OKLGIndustrialProductsToControlSystemsConverter",
       "OKLGIndustrialProductsToFurnitureConverter",
       "OKLGIndustrialProductsToHVACConverter",
+
       "FoodConsumer",
       "LifeSupportConsumer",
       "MediaConsumer",
       "ConsumerGoodsConsumer",
+      
       "HullProducer",
       "OKLGOreProducer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=500",
       "AnyControlSystems=500",
       "AnyFood=500",
@@ -672,7 +701,7 @@
       "AnySensors=500",
       "AnyTools=500"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-500",
       "AnyControlSystems=250",
       "AnyFood=250",
@@ -686,9 +715,9 @@
       "AnyTools=0-100"
     ]
   },
-  {
-    "strName": "SVIRCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "SVIRCargoKiosk",
+    "aSupplyDemandMaps" : [
       "SVIRMetalToIndustrialProductsConverter",
       "SVIRScienceToLuxuryGoodsConverter",
       "SVIRTextilesToLuxuryGoodsConverter",
@@ -702,16 +731,18 @@
       "SVIRWeaponConsumer",
       "SVIRHullConsumer",
       "SVIRShipbuildingConsumer",
-      "He3Producer",
+      
+      "He3Producer", 
       "D2OProducer",
       "TrashProducerx5",
       "SpaceSuitsProducerx3",
+      
       "HullConsumerx3",
       "ControlSystemsConsumerx3",
       "WeaponsConsumerx3",
       "FusionPartsConsumer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyControlSystems=8800",
       "AnyD2O=8800",
       "AnyFurniture=8800",
@@ -734,7 +765,7 @@
       "AnyWater=8800",
       "AnyWeapons=8800"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyControlSystems=0-4400",
       "AnyD2O=0-4400",
       "AnyFurniture=0-4400",
@@ -758,10 +789,10 @@
       "AnyWeapons=0-4400"
     ]
   },
-  {
-    "strName": "VCBRCargoKiosk",
-    "strHubRegId": "VORB",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "VCBRCargoKiosk",
+    "strHubRegId" : "VORB",
+    "aSupplyDemandMaps" : [
       "VCBRSensorsToScienceConverter",
       "VCBRIndustrialProductsToHVACConverter",
       "VCBRPlasticsToScienceConverter",
@@ -769,7 +800,7 @@
       "VCBRHullsConsumer",
       "VCBRControlSystemsConsumer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyControlSystems=130",
       "AnyElectronics=130",
       "AnyHull=130",
@@ -779,7 +810,7 @@
       "AnyScience=390",
       "AnySensors=130"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyControlSystems=0-130",
       "AnyElectronics=0-65",
       "AnyHull=0-130",
@@ -790,14 +821,15 @@
       "AnySensors=0-65"
     ]
   },
-  {
-    "strName": "VENCCargoKiosk",
-    "strHubRegId": "VORB",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "VENCCargoKiosk",
+    "strHubRegId" : "VORB",
+    "aSupplyDemandMaps" : [
       "VENCConsumerGoodsToMediaConverter",
       "VENCFoodToLuxuryGoodsConverter",
       "VENCTextilesToLuxuryGoodsConverter",
       "VENCScienceAndHullsToHVACConverter",
+      
       "FoodConsumer",
       "WaterConsumer",
       "TextilesConsumer",
@@ -807,7 +839,7 @@
       "TrashProducer",
       "MediaProducer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=1100",
       "AnyControlSystems=1100",
       "AnyFood=1100",
@@ -821,7 +853,7 @@
       "AnyTrash=1100",
       "AnyWater=1100"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-550",
       "AnyControlSystems=0-550",
       "AnyFood=0-550",
@@ -836,21 +868,23 @@
       "AnyWater=0-550"
     ]
   },
-  {
-    "strName": "VNCACargoKiosk",
-    "strHubRegId": "VORB",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "VNCACargoKiosk",
+    "strHubRegId" : "VORB",
+    "aSupplyDemandMaps" : [
       "VNCAIndustrialProductsToPlasticsConverter",
       "VNCALuxuryGoodsToMediaConverter",
       "VNCAPlasticsToTextilesConverter",
       "VNCAVolatilesToLifeSupportConverter",
       "VNCAMetalToConsumerGoodsConverter",
       "VNCAMetalToIndustrialProductsConverter",
+
       "WaterConsumer",
       "LuxuryGoodsConsumer",
       "ControlSystemsConsumer",
       "HullConsumer",
       "SensorsConsumer",
+      
       "IntoxicantsProducer",
       "HVACProducer",
       "TrashProducer",
@@ -858,7 +892,7 @@
       "PlasticsProducerx3",
       "TextilesProducerx3"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=3300",
       "AnyControlSystems=3300",
       "AnyHull=3300",
@@ -876,7 +910,7 @@
       "AnyVolatiles=3300",
       "AnyWater=3300"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyConsumerGoods=0-3300",
       "AnyControlSystems=0-1650",
       "AnyHull=0-1650",
@@ -895,10 +929,11 @@
       "AnyWater=0-1650"
     ]
   },
-  {
-    "strName": "VORBCargoKiosk",
-    "aSupplyDemandMaps": [
+  { 
+    "strName" : "VORBCargoKiosk",
+    "aSupplyDemandMaps" : [
       "VORBMetalToIndustrialProductsConverter",
+
       "WaterConsumer",
       "LuxuryGoodsConsumer",
       "ControlSystemsConsumer",
@@ -908,7 +943,7 @@
       "He3Consumer",
       "D2OConsumer"
     ],
-    "aVirtualInventorySize": [
+    "aVirtualInventorySize" : [
       "AnyConsumerGoods=3300",
       "AnyControlSystems=3300",
       "AnyD2O=2000",
@@ -933,7 +968,7 @@
       "AnyVolatiles=3300",
       "AnyWater=3300"
     ],
-    "aStock": [
+    "aStock" : [
       "AnyControlSystems=0-1000",
       "AnyD2O=0-1000",
       "AnyFusionParts=0-1000",

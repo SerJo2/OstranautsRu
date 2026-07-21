@@ -1156,16 +1156,23 @@
   },
   {
     "strName": "SunVenusBlue",
-    "nR": 108,
-    "nG": 163,
-    "nB": 199,
+    "nR": 45,
+    "nG": 55,
+    "nB": 65,
     "nA": 255
   },
   {
     "strName": "SunVenusYellow",
-    "nR": 255,
-    "nG": 255,
-    "nB": 155,
+    "nR": 100,
+    "nG": 100,
+    "nB": 50,
+    "nA": 255
+  },
+  {
+    "strName": "SunVenusYellowHalf",
+    "nR": 50,
+    "nG": 50,
+    "nB": 25,
     "nA": 255
   },
   {

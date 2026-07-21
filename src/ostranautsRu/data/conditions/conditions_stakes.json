@@ -1,9 +1,9 @@
 [
   {
     "strName": "IsSTKTemplate_Fail_Cooldown",
-    "strNameFriendly": "STKTemplate Fail Cooldown",
+    "strNameFriendly": "STKTemplate Перезарядка после сбоя",
     "strColor": "Neutral",
-    "strDesc": "[us] tried to STKTemplate and can't try it again yet.",
+    "strDesc": "[us] попытался выполнить STKTemplate и пока не может повторить попытку.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -11,9 +11,9 @@
   },
   {
     "strName": "IsSTKTemplate_Fail_Avoid",
-    "strNameFriendly": "STKTemplate Fail Soft",
+    "strNameFriendly": "STKTemplate Мягкий сбой",
     "strColor": "Neutral",
-    "strDesc": "[us] used a soft fail in STKTemplate to avoid a hard fail and can't use it again yet.",
+    "strDesc": "[us] использовал мягкий сбой в STKTemplate, чтобы избежать жесткого сбоя, и пока не может использовать его снова.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -21,9 +21,9 @@
   },
   {
     "strName": "IsSTKTemplate_Chitchat_Trait_Used",
-    "strNameFriendly": "STKTemplate Chitchat Trait Used",
+    "strNameFriendly": "STKTemplate Особенность светской беседы использована",
     "strColor": "Neutral",
-    "strDesc": "[us] used a trait chitchat move in STKTemplate and can't use it again yet.",
+    "strDesc": "[us] использовал особенность светской беседы в STKTemplate и пока не может использовать ее снова.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,

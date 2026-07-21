@@ -1,0 +1,27 @@
+MAGIC PREFIX: MedHeistDissuade	Optional cloned name.  If blank, name from column A will be used. (Typical case.)  If not blank, a new interaction will be cloned from column A, using this new name.			Clones template interaction's aInverse, but if there is ANYTHING in this cell, overwrites template aInverse with cell (and adds magic prefix).  eg. Intro_Allow_Friendly, Intro_Allow_Criminal -> PREFIX_Intro_Allow_Friendly, PREFIX_Intro_Allow_Criminal	S			Clones loot_stk_template, then adds aCOs or aLoots:  aCOs,TestCond=1.0x1,aLoots,TestLoot=0.5x1		Clones contrigs_stk_template, then adds aReqs or aForbids:  aReqs,string,string aForbids,string,string		Common overrides: fForcedChance, 1 PSpecTestThem, YOUR_TEST_HERE, bHumanOnly, true, bRandomInverse, false etc	
+INTERACTIONS													
+(PREFIX)Name	Clone To	Title	Desc	Inverse	Stage	nMove Type	Required	Loot for Us	Loot for Them	CT Test Us	CT Test Them	Other	Notes
+Intro		Convince to Abandon Plan	[us] asks [them] to hear them out before going through with such a risky plan. 		Intro	5	Y			aReqs,IsSocialGreeted	aReqs,IsSocialGreeted		Generic begin social combat convo.
+Intro_Allow		Agree to Hear Reason	[us] says they are willing to listen, but the plan is already in motion.		Intro		Y						NPC agrees to do social combat.
+Fail_Hard_DcAutonomyBad		Assert Intention to Heist	[us] has heard enough, and has decided to move forward with the plan.		Exit	2	Y						Hard fail out of social combat. Triggered by DC in fail zone. NPC must choose this move anytime it triggers. Multiple possible
+Gambit_Family		Remind Them of Loved Ones	[us] implores [them] to consider how many lives will be disrupted by their rash decision.		Gambit	1	Y						Player asks NPC to do or not do something. Success likely if in green DC zone(s). Multiple possible
+Gambit_Family_Allow		Abandon Heist	[us]'s face softens as they realize how much love is in their life. They agree to abandon the heist plan.		Success	3	Y						NPC agrees to request. Convo over.
+Gambit_Family_Fail_Soft		Ignore Plea	[us] is not entirely convinced that family has anything to do with it.		Combat		Y						NPC refuses request, but convo continues. Makes hard fail more likely (positive feedback loop)
+Gambit_Family_Fail_Hard		Assert Intention to Heist	[us] insists that the plan to secure medicine for the region is more important than their own family.		Exit	2							NPC refuses request, and convo ends. Preempts a general failzone reply, if a specific reply makes more sense.
+Exit		Exit	Never mind, get heisting.		Exit	2							Player voluntarily chooses to fail, exiting. Avoids endless loop.
+CONDITIONS	Defaults: bResetTimer: true, nDisplaySelf: 0, nDisplayOther: 0, fDuration: 0.1, strColor : Neutral												
+Name	strNameFriendly	strDesc									Other		
+IsSTKMedHeist_Fail_Cooldown	Fail Cooldown	[us] tried to STKMedHeist and can't try it again yet.											
+IsSTKMedHeist_Fail_Avoid	Fail Soft	[us] used a soft fail in STKMedHeist to avoid a hard fail and can't use it again yet.											
+IsSTKMedHeist_Chitchat_Trait_Used	Chitchat Trait Used	[us] used a trait chitchat move in STKMedHeist and can't use it again yet.											
+MedHeistPlan	Plan to Steal Medicine	[us] has a plan in motion to steal valuable medicine.											
+CONDITION TRIGGERS													
+Name													
+													
+LOOT													
+Name													
+													
+CONTEXTS													
+Name (strName)	strTitle	strMainText											
+ACTSTKMedHeistDissuadeUs	Convince Friend	Convince them to abandon their course of action.											
+ACTSTKMedHeistDissuadeThem	Convince Friend	Convince them to abandon their course of action.											

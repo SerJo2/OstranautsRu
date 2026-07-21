@@ -1,0 +1,87 @@
+MAGIC PREFIX: StrangerMeet	Optional cloned name.  If blank, name from column A will be used. (Typical case.)  If not blank, a new interaction will be cloned from column A, using this new name.			Clones template interaction's aInverse, but if there is ANYTHING in this cell, overwrites template aInverse with cell (and replaces magic prefix).  Entries use pipe | as separator. (Commas optionally used in each entry e.g. Name,[us],them].)  eg. STKTemplate_Intro_Allow_Friendly, STKTemplate_Intro_Allow_Criminal -> PREFIX_Intro_Allow_Friendly, PREFIX_Intro_Allow_Criminal	S			Clones loot_stk_template, then adds aCOs or aLoots:  aCOs,TestCond=1.0x1,aLoots,TestLoot=0.5x1		Clones contrigs_stk_template, then adds aReqs or aForbids:  aReqs,string,string aForbids,string,string		Common overrides: fForcedChance, 1 PSpecTestThem, YOUR_TEST_HERE, bHumanOnly, true, bRandomInverse, false etc	
+INTERACTIONS													
+(PREFIX)Name	Clone To	Title	Desc	Inverse	Stage	nMove Type	Required	Loot for Us	Loot for Them	CT Test Us	CT Test Them	Other	Notes
+Intro		Start Conversation	[us] [approaches] [them] to talk.		Intro	5	Y			aForbids,IsSocialGreeted	aForbids,IsSocialGreeted		Generic begin social combat convo.
+Intro_Allow		Listen Briefly	[us] [pauses] briefly but [seems] eager to leave.		Intro		Y						NPC agrees to do social combat.
+Intro_Allow_Enemy		Greet Enemy	[us] [rolls] [us-pos] eyes as [them] approaches.		Intro								
+Intro_Allow_Friendly		Greet Friend	[us-pos] face flashes with recognition as [them] [approaches].	SocialCombatExitSilent,[us],[them]	Intro			aCOs,IsSocialGreeted=1.0x1	aCOs,IsSocialGreeted=1.0x1				
+Intro_Allow_Drunk		Greet Drunkenly	[us] [peers] at [them] drunklenly as [them-subj] [approaches].		Intro								
+Intro_Allow_HygieneBad		Greet Stinky	[us] [recoils] from [them-pos] filth as [them-subj] [approaches].		Intro								
+Intro_Allow_PhysioBad		Greet Hurt	[us] [winces] in pain as [them-subj] [approaches], and says to make it quick.		Intro								
+Intro_Deny_Cooldown		Cooldown Deny	[us] [says] to get lost, [us-subj] already said [us-subj] [us-doesn't] want to talk!	SocialCombatExitSilent,[us],[them]	Exit								
+Fail_Hard_DcAutonomyBad		Insist on Getting Space	[us] [tells] [them] to back off, [us-subj] [doesn't] want to talk.		Exit	2	Y						Hard fail out of social combat. Triggered by DC in fail zone. NPC must choose this move anytime it triggers. Multiple possible
+Gambit_SharedHomeworld		Shared Homeworld	[us] [tries] to bond over having a shared homeworld.		Gambit	1	Y						
+Gambit_SharedHomeworld_Fail_Soft		Soft Refuse Shared Homeworld	[us] [says] a lot of people are from there, and [looks] ready to leave.										
+Gambit_SharedHomeworld_Fail_Hard		Refuse Shared Homeworld	[us] [tells] [them] to get lost.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_SharedHomeworld_Allow		Continue Conversation Based on Homeworld	[us] [softens] [us-pos] stance a bit.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_SharedCrew		Fellow Crew	[us] [starts] talking about work.		Gambit								
+Gambit_SharedCrew_Fail_Soft		Soft Refuse Talk Work	[us] [doesn't] feel like talking work.										
+Gambit_SharedCrew_Fail_Hard		Refuse Talk Work	[us] [shoots] down any more talk of work with [them].	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_SharedCrew_Allow		Continue Conversation about Work	[us] [seems] happy to talk with a fellow crewmate.	SocialCombatExitSilent,[us],[them]									
+Gambit_SharedScar		Compare Scars	[us] [tries] to compare [us-pos] scar to [them-pos] scar.		Gambit	1	Y						
+Gambit_SharedScar_Fail_Soft		Soft Refuse Shared Scar Connection	[us] [doesn't] feel like talking about scars.										
+Gambit_SharedScar_Fail_Hard		Refuse Shared Scar Connection	[us] [hides] [us-pos] scar and [refuses] to continue the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_SharedScar_Allow		Continue Conversation Based on Shared Scar	[us] [opens] up a bit to a fellow victim.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_SharedCareer		Talk Shop (Career)	[us] [attempts] to talk shop.										
+Gambit_SharedCareer_Fail_Soft		Soft Refuse Shop Talk (Shipbreaker)	[us] [doesn't] jump at the opportunity to talk about work.										
+Gambit_SharedCareer_Fail_Hard		Refuse Shop Talk (Shipbreaker)	[us] [shoots] down any more talk of work with [them].		Exit								
+Gambit_SharedCareer_Allow		Continue Conversation Based on Shop Talk (Shipbreaker)	[us] [seems] happy to talk shop with someone in the same field.	SocialCombatExitSilent,[us],[them]									
+Gambit_BeautifulSelf		Charm (Beautiful)	[us] [attempts] to charm [them] with [us-pos] looks.		Gambit	1	Y						
+Gambit_BeautifulSelf_Fail_Soft		Soft Refuse Charm (Beautiful)	[us] [glances] away and seems eager to leave.										
+Gambit_BeautifulSelf_Fail_Hard		Refuse Charm (Beautiful)	[us] [is] unimpressed with [them] and [them-pos] vain attempts at talking.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_BeautifulSelf_Allow		Succumb to Beauty	[us] [swoons] at [them].	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_RecentlyInstalledSelf		Discuss Recent Activity (Installation)	[us] [attempts] to discuss the recent installation job by [them].		Gambit	1	Y						
+Gambit_RecentlyInstalledSelf_Fail_Soft		Soft Refuse Recent Activity (Installation)	[us] [gives] a terse response and seems eager to leave.										
+Gambit_RecentlyInstalledSelf_Fail_Hard		Refuse Recent Activity (Installation)	[us] [is] unimpressed with [them-pos] engineering chatter and ends the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_RecentlyInstalledSelf_Allow		Continue Conversation Based on Recent Activity (Installation)	[us] [is] impressed with [them-pos] engineering knowledge and continues the conversation.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_RecentlyUninstalledSelf		Discuss Recent Activity (Uninstallation)	[us] [attempts] to discuss the recent uninstallation job by [them].		Gambit	1	Y						
+Gambit_RecentlyUninstalledSelf_Fail_Soft		Soft Refuse Recent Activity (Uninstallation)	[us] [gives] a terse response and seems eager to leave.										
+Gambit_RecentlyUninstalledSelf_Fail_Hard		Refuse Recent Activity (Unistallation)	[us] [is] unimpressed with [them-pos] engineering chatter and ends the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_RecentlyUninstalledSelf_Allow		Continue Conversation Based on Recent Activity (Uninstallation)	[us] [is] impressed with [them-pos] engineering knowledge and continues the conversation.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_RecentlyRepairedSelf		Discuss Recent Activity (Repair)	[us] [attempts] to discuss the recent repair job by [them].		Gambit	1	Y						
+Gambit_RecentlyRepairedSelf_Fail_Soft		Soft Refuse Recent Activity (Repair)	[us] [gives] a terse response and seems eager to leave.										
+Gambit_RecentlyRepairedSelf_Fail_Hard		Refuse Recent Activity (Repair)	[us] [is] unimpressed with [them-pos] engineering chatter and ends the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_RecentlyRepairedSelf_Allow		Continue Conversation Based on Recent Activity (Repair)	[us] [is] impressed with [them-pos] engineering knowledge and continues the conversation.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_RecentlyRestoredSelf		Discuss Recent Activity (Restore)	[us] [attempts] to discuss the recent restore job by [them].		Gambit	1	Y						
+Gambit_RecentlyRestoredSelf_Fail_Soft		Soft Refuse Recent Activity (Restore)	[us] [gives] a terse response and seems eager to leave.										
+Gambit_RecentlyRestoredSelf_Fail_Hard		Refuse Recent Activity (Restore)	[us] [is] unimpressed with [them-pos] engineering chatter and ends the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_RecentlyRestoredSelf_Allow		Continue Conversation Based on Recent Activity (Restore)	[us] [is] impressed with [them-pos] engineering knowledge and continues the conversation.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_RecentlyWatchNewsSelf		Discuss News on Screen	[us] [attempts] to discuss the news that [them] is watching.		Gambit	1	Y						
+Gambit_RecentlyWatchNewsSelf_Fail_Soft		Soft Refuse Recent Activity (Watch News)	[us] [gives] a terse response and seems eager to leave.										
+Gambit_RecentlyWatchNewsSelf_Fail_Hard		Refuse Recent Activity (Watch News)	[us] [is] unimpressed with [them-pos] grasp of current events and ends the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_RecentlyWatchNewsSelf_Allow		Continue Conversation Based on Recent Activity (Watch News)	[us] [is] impressed with [them-pos] grasp of current events and opens up for more conversation.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_RecentlyAdmireSelf		Discuss Recent Activity (Restore)	[us] [attempts] to discuss the object of [them-pos] admiration.		Gambit	1	Y						
+Gambit_RecentlyAdmireSelf_Fail_Soft		Soft Refuse Recent Activity (Admire)	[us] [gives] a terse response and seems eager to leave.										
+Gambit_RecentlyAdmireSelf_Fail_Hard		Refuse Recent Activity (Admire)	[us] [is] uninterested in [them-pos] commentary and ends the conversation.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_RecentlyAdmireSelf_Allow		Continue Conversation Based on Recent Activity (Admire)	[us] [is] interested in [them-pos] commentary and continues the conversation.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_CruelSelf		Stomp Toe (Cruel)	[us] [stomps] on [them-pos] toe and [pretends] it's an accident.		Gambit	1	Y						
+Gambit_CruelSelf_Fail_Soft		Soft Refuse Stomp Toe (Cruel)	[us] [pulls] [us-pos] foot back quickly, and [seems] ready to leave.										
+Gambit_CruelSelf_Fail_Hard		Refuse Stomp Toe (Cruel)	[us] [tells] [them] to fuck off.	SocialCombatExitSilent,[us],[them]	Exit								
+Gambit_CruelSelf_Allow		Succomb to Cruelty	[us] [apologizes] awkwardly and [seems] willing to keep talking.	SocialCombatExitSilent,[us],[them]	Success	3	Y						
+Gambit_ContactVPrivacy		Cold Start	[us] just [starts] talking about whatever comes to mind.		Gambit	1	Y						Player asks NPC to do or not do something. Success likely if in green DC zone(s). Multiple possible
+Gambit_ContactVPrivacy_Allow		Continue Conversation	[us] [seems] ready to chat.	SocialCombatExitSilent,[us],[them]	Success	3	Y						NPC agrees to request. Convo over.
+Gambit_ContactVPrivacy_Fail_Soft		Continue Conversation with Skepticism	[us] [doesn't] bite, but [doesn't] leave, either.		Combat		Y						NPC refuses request, but convo continues. Makes hard fail more likely (positive feedback loop)
+Gambit_ContactVPrivacy_Fail_Hard		Brush off Conversation	[us] [brushes] [them] off.	SocialCombatExitSilent,[us],[them]	Exit	2							NPC refuses request, and convo ends. Preempts a general failzone reply, if a specific reply makes more sense.
+Exit		Exit			Exit	2							Player voluntarily chooses to fail, exiting. Avoids endless loop.
+CONDITIONS	Defaults: bResetTimer: true, nDisplaySelf: 0, nDisplayOther: 0, fDuration: 0.1, strColor : Neutral												
+Name	strNameFriendly	strDesc									Other		
+IsSTKStrangerMeet_Fail_Cooldown	Fail Cooldown	[us] tried to STKStrangerMeet and can't try it again yet.									bRELOnly, true		
+IsSTKStrangerMeet_Fail_Avoid	Fail Soft	[us] used a soft fail in STKStrangerMeet to avoid a hard fail and can't use it again yet.									bRELOnly, true		
+IsSTKStrangerMeet_Chitchat_Trait_Used	Chitchat Trait Used	[us] used a trait chitchat move in STKStrangerMeet and can't use it again yet.									bRELOnly, true		
+													
+CONDITION TRIGGERS													
+Name													
+													
+LOOT													
+Name													
+													
+CONTEXTS													
+Name (strName)	strTitle	strMainText											
+ACTSTKStrangerMeetUs													
+ACTSTKStrangerMeetThem													
+CONTEXT LOOT													
+Loot + Source	Interactions												
+Us - from this spreadsheet	Fail_Hard_DcAutonomyBad												
+Us - from elsewhere													
+Them - from this spreadsheet	Gambit_ContactVPrivacy,Gambit_SharedHomeworld,Gambit_SharedScar,Gambit_BeautifulSelf,Gambit_CruelSelf,Gambit_SharedCareer,Gambit_SharedCrew,Gambit_RecentlyInstalledSelf,Gambit_RecentlyUninstalledSelf,Gambit_RecentlyRepairedSelf,Gambit_RecentlyRestoredSelf,Gambit_RecentlyWatchNewsSelf,Gambit_RecentlyAdmireSelf												
+Them - from elsewhere													

@@ -1,79 +1,79 @@
 [
   {
-    "strName": "CTSOCDebugTankACHThem",
-    "aCOs": [
-      "TUpAchievement=1.0x500"
+    "strName" : "CTSOCDebugTankACHThem",
+    "aCOs"    : [
+    "TUpAchievement=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankALTThem",
-    "aCOs": [
-      "TUpAltruism=1.0x500"
+    "strName" : "CTSOCDebugTankALTThem",
+    "aCOs"    : [
+    "TUpAltruism=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankAUTThem",
-    "aCOs": [
-      "TUpAutonomy=1.0x500"
+    "strName" : "CTSOCDebugTankAUTThem",
+    "aCOs"    : [
+    "TUpAutonomy=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankCONThem",
-    "aCOs": [
-      "TUpContact=1.0x500"
+    "strName" : "CTSOCDebugTankCONThem",
+    "aCOs"    : [
+    "TUpContact=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankESTThem",
-    "aCOs": [
-      "TUpEsteem=1.0x500"
+    "strName" : "CTSOCDebugTankESTThem",
+    "aCOs"    : [
+    "TUpEsteem=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankFAMThem",
-    "aCOs": [
-      "TUpFamily=1.0x500"
+    "strName" : "CTSOCDebugTankFAMThem",
+    "aCOs"    : [
+    "TUpFamily=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankINTThem",
-    "aCOs": [
-      "TUpIntimacy=1.0x500"
+    "strName" : "CTSOCDebugTankINTThem",
+    "aCOs"    : [
+    "TUpIntimacy=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankMEAThem",
-    "aCOs": [
-      "TUpMeaning=1.0x500"
+    "strName" : "CTSOCDebugTankMEAThem",
+    "aCOs"    : [
+    "TUpMeaning=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankPRIThem",
-    "aCOs": [
-      "TUpPrivacy=1.0x500"
+    "strName" : "CTSOCDebugTankPRIThem",
+    "aCOs"    : [
+    "TUpPrivacy=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankSECThem",
-    "aCOs": [
-      "TUpSecurity=1.0x500"
+    "strName" : "CTSOCDebugTankSECThem",
+    "aCOs"    : [
+    "TUpSecurity=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   },
   {
-    "strName": "CTSOCDebugTankSELThem",
-    "aCOs": [
-      "TUpSelfRespect=1.0x500"
+    "strName" : "CTSOCDebugTankSELThem",
+    "aCOs"    : [
+    "TUpSelfRespect=1.0x500"
     ],
-    "strType": "trigger"
+    "strType" : "trigger"
   }
 ]

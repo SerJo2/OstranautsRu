@@ -1,9 +1,9 @@
 [
   {
     "strName": "Plot_Whodunnit_VictimLiquidBlood",
-    "strNameFriendly": "Blood from Victim",
-    "strNameShort": "Victim's Blood",
-    "strDesc": "Collected blood from a victim's body.",
+    "strNameFriendly": "Кровь жертвы",
+    "strNameShort": "Кровь жертвы",
+    "strDesc": "Собранная с тела жертвы кровь.",
     "strImg": "ItmLiquidRed",
     "strImgNorm": "ItmLiquidRedn",
     "strPortraitImg": "ItmLiquidRed",
@@ -12,7 +12,7 @@
   },
   {
     "strName": "Plot_Merga_BarStainCOO",
-    "strNameFriendly": "Bartop With Strange Stain",
+    "strNameFriendly": "Барная стойка со странным пятном",
     "strImg": "ItmBartop03",
     "strImgNorm": "ItmBartop03n",
     "strPortraitImg": "ItmBartop03",

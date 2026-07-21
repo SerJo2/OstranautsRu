@@ -30,7 +30,7 @@
   },
   {
     "strName": "AAUnderwater",
-    "strNameShort": "Sink",
+    "strNameShort": "Раковина",
     "strItemDef": "Blank",
     "strType": "Item",
     "aStartingConds": [
@@ -66,8 +66,8 @@
   },
   {
     "strName": "RegolithEuropa",
-    "strNameShort": "Regolith",
-    "strNameFriendly": "Regolith",
+    "strNameShort": "Реголит",
+    "strNameFriendly": "Реголит",
     "strItemDef": "ItmBGFloorRegolithEuropa01",
     "strType": "Item",
     "aStartingConds": [
@@ -78,8 +78,8 @@
   },
   {
     "strName": "RegolithEuropa02",
-    "strNameShort": "Regolith",
-    "strNameFriendly": "Regolith",
+    "strNameShort": "Реголит",
+    "strNameFriendly": "Реголит",
     "strItemDef": "ItmBGFloorRegolithEuropa02",
     "strType": "Item",
     "aStartingConds": [
@@ -90,7 +90,7 @@
   },
   {
     "strName": "RegolithVoid",
-    "strNameShort": "Void",
+    "strNameShort": "Вакуум",
     "strItemDef": "ItmBGFloorRegolithVoid01",
     "strType": "Item",
     "aStartingConds": [
@@ -101,7 +101,7 @@
   },
   {
     "strName": "RegolithVoidBig",
-    "strNameShort": "Void",
+    "strNameShort": "Вакуум",
     "strItemDef": "ItmBGFloorRegolithVoid02",
     "strType": "Item",
     "aStartingConds": [
@@ -666,7 +666,7 @@
       "IsSolid=1.0x1.0",
       "IsCumbersome=1.0x1.0",
       "IsSharpHearing=1.0x1",
-      "StatAge=1.0x18-28",
+      "StatAge=1.0x18",
       "StatAttDmgMult=1.0x0.5",
       "StatDefense=1.0x49",
       "StatGasPressure=1.0x101.3",
@@ -722,7 +722,7 @@
   {
     "strName": "BodyfootLA",
     "strNameShort": "Лев. Стопа",
-    "strNameFriendly": "Левая Стопа",
+    "strNameFriendly": "Левая стопа",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Левая стопа человека. Обычно это нехороший знак, если она найдена отдельно тела.",
     "strType": "Item",
@@ -748,7 +748,7 @@
   {
     "strName": "BodyfootRA",
     "strNameShort": "Прав. Стопа",
-    "strNameFriendly": "Правая Стопа",
+    "strNameFriendly": "Правая стопа",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Правая стопа человека. Обычно это нехороший знак, если она найдена отдельно.",
     "strType": "Item",
@@ -878,7 +878,7 @@
   {
     "strName": "BodyarmLowerLA",
     "strNameShort": "Нижн. Лев. Рука",
-    "strNameFriendly": "Левое Предплечье",
+    "strNameFriendly": "Левое предплечье",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Левое предплечье человека. Обычно это нехороший знак, если оно найдено отдельно.",
     "strType": "Item",
@@ -905,7 +905,7 @@
   {
     "strName": "BodyarmLowerRA",
     "strNameShort": "Нижн. Прав. Рука",
-    "strNameFriendly": "Правое Предплечье",
+    "strNameFriendly": "Правое предплечье",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Правое предплечье человека. Обычно это нехороший знак, если оно найдено отдельно.",
     "strType": "Item",
@@ -931,7 +931,7 @@
   {
     "strName": "BodyarmUpperLA",
     "strNameShort": "Верхн. Лев. Рука",
-    "strNameFriendly": "Левое Плечо",
+    "strNameFriendly": "Левое плечо",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Левое плечо человека. Обычно это нехороший знак, если оно найдено отдельно.",
     "strType": "Item",
@@ -958,7 +958,7 @@
   {
     "strName": "BodyarmUpperRA",
     "strNameShort": "Верхн. Прав. Рука",
-    "strNameFriendly": "Правое Плечо",
+    "strNameFriendly": "Правое плечо",
     "strItemDef": "ItmBodyPart01",
     "strType": "Item",
     "strDesc": "Правое плечо человека. Обычно это нехороший знак, если оно найдено отдельно.",
@@ -985,7 +985,7 @@
   {
     "strName": "BodylegLowerLA",
     "strNameShort": "Нижн. Лев. Нога",
-    "strNameFriendly": "Левая Голень",
+    "strNameFriendly": "Нижняя часть левой ноги",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Левая голень человека. Обычно это нехороший знак, если она найдена отдельно.",
     "strType": "Item",
@@ -1011,7 +1011,7 @@
   {
     "strName": "BodylegLowerRA",
     "strNameShort": "Нижн. Прав. Нога",
-    "strNameFriendly": "Правая Голень",
+    "strNameFriendly": "Нижняя часть правой ноги",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Правая голень человека. Обычно это нехороший знак, если она найдена отдельно.",
     "strType": "Item",
@@ -1037,7 +1037,7 @@
   {
     "strName": "BodylegUpperLA",
     "strNameShort": "Верхн. Лев. Нога",
-    "strNameFriendly": "Левое Бедро",
+    "strNameFriendly": "Верхняя часть левой ноги",
     "strItemDef": "ItmBodyPart01",
     "strDesc": "Левое бедро человека. Обычно это нехороший знак, если оно найдено отдельно.",
     "strType": "Item",
@@ -1089,7 +1089,7 @@
   {
     "strName": "BodylegUpperRA",
     "strNameShort": "Верхн. Прав. Бедро",
-    "strNameFriendly": "Правое Бедро",
+    "strNameFriendly": "Верхняя часть правой ноги",
     "strItemDef": "ItmBodyPart01",
     "strType": "Item",
     "strDesc": "Правое бедро человека. Обычно это нехороший знак, если оно найдено отдельно.",
@@ -1546,7 +1546,7 @@
   {
     "strName": "ItmAirPump02Dmg",
     "strNameShort": "Насос",
-    "strNameFriendly": "Воздушный насос (поврежден)",
+    "strNameFriendly": "Насос воздухообмена (Поврежден)",
     "strDesc": "Газовый насос серии Kang UT, обычно используемый на кораблях в составе системы жизнеобеспечения. Засасывает газ из любого закрытого контейнера или помещения и перекачивает его в целевую зону. Может подключаться к соответствующим сигнализациям для поддержания безопасного давления в кабине.",
     "strItemDef": "ItmAirPump02Dmg",
     "strType": "Item",
@@ -1598,7 +1598,7 @@
   {
     "strName": "ItmAirPump02DmgLoose",
     "strNameShort": "Насос",
-    "strNameFriendly": "Воздушный насос (поврежден, не закреплен)",
+    "strNameFriendly": "Насос воздухообмена (Поврежден, Откреплен)",
     "strDesc": "Газовый насос серии Kang UT, обычно используемый на кораблях в составе системы жизнеобеспечения. Засасывает газ из любого закрытого контейнера или помещения и перекачивает его в целевую зону. Может подключаться к соответствующим сигнализациям для поддержания безопасного давления в кабине.",
     "strItemDef": "ItmAirPump02DmgLoose",
     "strType": "Item",
@@ -1644,7 +1644,7 @@
   {
     "strName": "ItmAirPump02Off",
     "strNameShort": "Насос",
-    "strNameFriendly": "Воздушный насос (выключен)",
+    "strNameFriendly": "Насос воздухообмена (Выключен)",
     "strDesc": "Газовый насос серии Kang UT, обычно используемый на кораблях в составе системы жизнеобеспечения. Засасывает газ из любого закрытого контейнера или помещения и перекачивает его в целевую зону. Может подключаться к соответствующим сигнализациям для поддержания безопасного давления в кабине.",
     "strItemDef": "ItmAirPump02Off",
     "strType": "Item",
@@ -1698,7 +1698,7 @@
   {
     "strName": "ItmAirPump02OffLoose",
     "strNameShort": "Насос",
-    "strNameFriendly": "Воздушный насос (не закреплен, выключен)",
+    "strNameFriendly": "Насос воздухообмена (Откреплен)",
     "strDesc": "Газовый насос серии Kang UT, обычно используемый на кораблях в составе системы жизнеобеспечения. Засасывает газ из любого закрытого контейнера или помещения и перекачивает его в целевую зону. Может подключаться к соответствующим сигнализациям для поддержания безопасного давления в кабине.",
     "strItemDef": "ItmAirPump02OffLoose",
     "strType": "Item",
@@ -3057,9 +3057,9 @@
   },
   {
     "strName": "ItmAlarmSmokeOff",
-    "strNameShort": "Smoke Alarm",
-    "strNameFriendly": "Smoke Alarm (Off)",
-    "strDesc": "A mass market Halvorson smoke detector and alarm. An luxury for spacers who prefer their environments breathable and untoasted. Just be sure to deactivate manually before smoke breaks.",
+    "strNameShort": "Дымовой извещатель",
+    "strNameFriendly": "Дымовой извещатель (выключен)",
+    "strDesc": "Массовый дымовой извещатель и сигнализация Halvorson. Роскошь для космонавтов, которые предпочитают, чтобы их окружение оставалось пригодным для дыхания и не подгоревшим. Просто не забудьте отключить вручную перед перекуром.",
     "strItemDef": "ItmAlarmSmokeOff",
     "strType": "Item",
     "strLoot": null,
@@ -3107,9 +3107,9 @@
   },
   {
     "strName": "ItmAlarmSmokeOffLoose",
-    "strNameShort": "Smoke Alarm",
-    "strNameFriendly": "Smoke Alarm (Loose)",
-    "strDesc": "A mass market Halvorson smoke detector and alarm. An luxury for spacers who prefer their environments breathable and untoasted. Just be sure to deactivate manually before smoke breaks.",
+    "strNameShort": "Дымовой извещатель",
+    "strNameFriendly": "Дымовой извещатель (демонтирован)",
+    "strDesc": "Массовый дымовой извещатель и сигнализация Halvorson. Роскошь для космонавтов, которые предпочитают, чтобы их окружение оставалось пригодным для дыхания и не подгоревшим. Просто не забудьте отключить вручную перед перекуром.",
     "strItemDef": "ItmAlarmSmokeOffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -3152,9 +3152,9 @@
   },
   {
     "strName": "ItmAlarmSmokeDmg",
-    "strNameShort": "Smoke Alarm",
-    "strNameFriendly": "Smoke Alarm (Damaged)",
-    "strDesc": "A mass market Halvorson smoke detector and alarm. An luxury for spacers who prefer their environments breathable and untoasted. Just be sure to deactivate manually before smoke breaks.",
+    "strNameShort": "Дымовой извещатель",
+    "strNameFriendly": "Дымовой извещатель (поврежден)",
+    "strDesc": "Массовый дымовой извещатель и сигнализация Halvorson. Роскошь для космонавтов, которые предпочитают, чтобы их окружение оставалось пригодным для дыхания и не подгоревшим. Просто не забудьте отключить вручную перед перекуром.",
     "strItemDef": "ItmAlarmSmokeDmg",
     "strType": "Item",
     "strLoot": null,
@@ -3197,9 +3197,9 @@
   },
   {
     "strName": "ItmAlarmSmokeDmgLoose",
-    "strNameShort": "Smoke Alarm",
-    "strNameFriendly": "Smoke Alarm (Damaged, Loose)",
-    "strDesc": "A mass market Halvorson smoke detector and alarm. An luxury for spacers who prefer their environments breathable and untoasted. Just be sure to deactivate manually before smoke breaks.",
+    "strNameShort": "Дымовой извещатель",
+    "strNameFriendly": "Дымовой извещатель (поврежден, демонтирован)",
+    "strDesc": "Массовый дымовой извещатель и сигнализация Halvorson. Роскошь для космонавтов, которые предпочитают, чтобы их окружение оставалось пригодным для дыхания и не подгоревшим. Просто не забудьте отключить вручную перед перекуром.",
     "strItemDef": "ItmAlarmSmokeDmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -3244,9 +3244,9 @@
   },
   {
     "strName": "ItmAlarmSmokeOnG",
-    "strNameShort": "Smoke Alarm",
-    "strNameFriendly": "Smoke Alarm",
-    "strDesc": "A mass market Halvorson smoke detector and alarm. An luxury for spacers who prefer their environments breathable and untoasted. Just be sure to deactivate manually before smoke breaks.",
+    "strNameShort": "Дымовой извещатель",
+    "strNameFriendly": "Дымовой извещатель",
+    "strDesc": "Массовый дымовой извещатель и сигнализация Halvorson. Роскошь для космонавтов, которые предпочитают, чтобы их окружение оставалось пригодным для дыхания и не подгоревшим. Просто не забудьте отключить вручную перед перекуром.",
     "strItemDef": "ItmAlarmSmokeOnG",
     "strType": "Item",
     "strLoot": null,
@@ -3298,9 +3298,9 @@
   },
   {
     "strName": "ItmAlarmSmokeOnR",
-    "strNameShort": "Smoke Alarm",
-    "strNameFriendly": "Smoke Alarm (Alert)",
-    "strDesc": "A mass market Halvorson smoke detector and alarm. An luxury for spacers who prefer their environments breathable and untoasted. Just be sure to deactivate manually before smoke breaks.",
+    "strNameShort": "Дымовой извещатель",
+    "strNameFriendly": "Дымовой извещатель (тревога)",
+    "strDesc": "Массовый дымовой извещатель и сигнализация Halvorson. Роскошь для космонавтов, которые предпочитают, чтобы их окружение оставалось пригодным для дыхания и не подгоревшим. Просто не забудьте отключить вручную перед перекуром.",
     "strItemDef": "ItmAlarmSmokeOnR",
     "strType": "Item",
     "strLoot": null,
@@ -4235,10 +4235,10 @@
   },
   {
     "strName": "ItmAntiHypoVPen01",
-    "strNameShort": "AntiHypo-V Pen",
+    "strNameShort": "Перьевой инъектор AntiHypo-V",
     "strItemDef": "ItmAntiHypoVPen01",
-    "strDesc": "This Brave New World-engineered experimental injection is intended to reduce the symptoms of micro-G hypovolemia for about 72 hours, and permanently after 5 doses, delivered through a single-use subcutaneous injector pen that works through clothes and thin spacesuits. Improves circulatory capacity and kidney and spleen function by encouraging cell growth in blood vessels and organs.",
-    "strNameFriendly": "AntiHypo-V Pen Injector: Sanguifil",
+    "strDesc": "Этот экспериментальный инъекционный раствор, разработанный Brave New World, предназначен для облегчения симптомов микро-G гиповолемии примерно на 72 часа, а после 5 доз — навсегда. Вводится с помощью одноразовой подкожной инъекционной ручки, способной работать сквозь одежду и тонкие скафандры. Улучшает пропускную способность кровеносной системы, а также функции почек и селезенки за счет стимуляции клеточного роста в кровеносных сосудах и органах.",
+    "strNameFriendly": "Перьевой инъектор AntiHypo-V: Sanguifil",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 5,
@@ -4921,7 +4921,7 @@
     ],
     "mapCondTolerance": [],
     "mapPoints": [
-      "use,0,0",
+      "use,-8,0",
       "PowerA,8,-16"
     ],
     "mapGUIPropMaps": [
@@ -4969,7 +4969,7 @@
       "IsCategoryHVAC=1.0x1"
     ],
     "mapPoints": [
-      "use,0,0"
+      "use,-8,0"
     ],
     "mapGUIPropMaps": [
       "Panel A",
@@ -5027,7 +5027,7 @@
       "Electrical,Electrical"
     ],
     "mapPoints": [
-      "use,0,0",
+      "use,-8,0",
       "GasInput,-8,0",
       "GasOutput,8,0",
       "PowerA,8,-16"
@@ -5080,7 +5080,7 @@
     ],
     "mapCondTolerance": [],
     "mapPoints": [
-      "use,0,0",
+      "use,-8,0",
       "PowerA,8,-16"
     ],
     "mapGUIPropMaps": [
@@ -5124,7 +5124,7 @@
       "IsCategoryHVAC=1.0x1"
     ],
     "mapPoints": [
-      "use,0,0"
+      "use,-8,0"
     ],
     "mapGUIPropMaps": [
       "Panel A",
@@ -6156,6 +6156,7 @@
       "IsBatteryEVA=1.0x1",
       "IsBingham=1.0x1",
       "IsPowerStorage=1.0x1",
+      "IsPocketable=1.0x1",
       "IsSolid=1.0x1.0",
       "StatPower=1.0x0.82",
       "StatPowerMax=1.0x0.82",
@@ -6203,6 +6204,7 @@
       "IsBatteryEVA=1.0x1",
       "IsBingham=1.0x1",
       "IsDamaged=1.0x1",
+      "IsPocketable=1.0x1",
       "IsPowerStorage=1.0x1",
       "IsSolid=1.0x1.0",
       "StatMass=1.0x11.5",
@@ -9321,8 +9323,8 @@
   },
   {
     "strName": "ItmChair02",
-    "strNameShort": "Стул",
-    "strNameFriendly": "Стул",
+    "strNameShort": "Кресло",
+    "strNameFriendly": "Кресло",
     "strItemDef": "ItmChair02",
     "strDesc": "Изготовленные из машинной резки щеточного алюминия, эти стулья отлично подходят для сидения и мало для чего еще.",
     "strType": "Item",
@@ -9360,7 +9362,7 @@
   },
   {
     "strName": "ItmChair02Loose",
-    "strNameShort": "Стул",
+    "strNameShort": "Кресло",
     "strNameFriendly": "Стул (не закреплен)",
     "strDesc": "Изготовленные из машинной резки щеточного алюминия, эти стулья отлично подходят для сидения и мало для чего еще.",
     "strItemDef": "ItmChair02Loose",
@@ -9401,7 +9403,7 @@
   },
   {
     "strName": "ItmChair02Dmg",
-    "strNameShort": "Стул",
+    "strNameShort": "Кресло",
     "strNameFriendly": "Стул (поврежден)",
     "strItemDef": "ItmChair02Dmg",
     "strDesc": "Изготовленные из машинной резки щеточного алюминия, эти стулья отлично подходят для сидения и мало для чего еще.",
@@ -9438,7 +9440,7 @@
   },
   {
     "strName": "ItmChair02DmgLoose",
-    "strNameShort": "Стул",
+    "strNameShort": "Кресло",
     "strNameFriendly": "Стул (поврежден, не закреплен)",
     "strDesc": "Изготовленные из машинной резки щеточного алюминия, эти стулья отлично подходят для сидения и мало для чего еще.",
     "strItemDef": "ItmChair02DmgLoose",
@@ -9481,9 +9483,9 @@
   },
   {
     "strName": "ItmChairCube01b",
-    "strNameShort": "Chair",
-    "strNameFriendly": "Seat: Testudo \"Concourse Series 1-B\"",
-    "strDesc": "Designed for CCRE's second Ring Station, in collaboration with architect Gideon Pruitt himself, this splendidly modular mainstay for corporate lobby seating helped Testudo make a mint.",
+    "strNameShort": "Кресло",
+    "strNameFriendly": "Кресло: Testudo \"Concourse Series 1-B\"",
+    "strDesc": "Разработанный для второй кольцевой станции CCRE в сотрудничестве с самим архитектором Гидеоном Пруиттом, этот великолепно модульный элемент корпоративных сидений в холлах помог Testudo заработать целое состояние.",
     "strItemDef": "ItmChairCube01b",
     "strType": "Item",
     "strLoot": null,
@@ -9524,9 +9526,9 @@
   },
   {
     "strName": "ItmChairCube01bLoose",
-    "strNameShort": "Chair",
-    "strNameFriendly": "Seat: Testudo \"Concourse Series 1-B\" (Loose)",
-    "strDesc": "Designed for CCRE's second Ring Station, in collaboration with architect Gideon Pruitt himself, this splendidly modular mainstay for corporate lobby seating helped Testudo make a mint.",
+    "strNameShort": "Кресло",
+    "strNameFriendly": "Кресло: Testudo \"Concourse Series 1-B\" (демонтировано)",
+    "strDesc": "Разработанный для второй кольцевой станции CCRE в сотрудничестве с самим архитектором Гидеоном Пруиттом, этот великолепно модульный элемент корпоративных сидений в холлах помог Testudo заработать целое состояние.",
     "strItemDef": "ItmChairCube01bLoose",
     "strType": "Item",
     "strLoot": null,
@@ -9569,10 +9571,10 @@
   },
   {
     "strName": "ItmChairCube01bDmg",
-    "strNameShort": "Chair",
-    "strNameFriendly": "Seat: Testudo \"Concourse Series 1-B\" (Damaged)",
+    "strNameShort": "Кресло",
+    "strNameFriendly": "Кресло: Testudo \"Concourse Series 1-B\" (повреждено)",
     "strItemDef": "ItmChairCube01bDmg",
-    "strDesc": "Designed for CCRE's second Ring Station, in collaboration with architect Gideon Pruitt himself, this splendidly modular mainstay for corporate lobby seating helped Testudo make a mint.",
+    "strDesc": "Разработанный для второй кольцевой станции CCRE в сотрудничестве с самим архитектором Гидеоном Пруиттом, этот великолепно модульный элемент корпоративных сидений в холлах помог Testudo заработать целое состояние.",
     "strType": "Item",
     "strLoot": null,
     "aInteractions": [],
@@ -9610,9 +9612,9 @@
   },
   {
     "strName": "ItmChairCube01bDmgLoose",
-    "strNameShort": "Chair",
-    "strNameFriendly": "Seat: Testudo \"Concourse Series 1-B\" (Damaged Loose)",
-    "strDesc": "Designed for CCRE's second Ring Station, in collaboration with architect Gideon Pruitt himself, this splendidly modular mainstay for corporate lobby seating helped Testudo make a mint.",
+    "strNameShort": "Кресло",
+    "strNameFriendly": "Кресло: Testudo \"Concourse Series 1-B\" (повреждено, демонтировано)",
+    "strDesc": "Разработанный для второй кольцевой станции CCRE в сотрудничестве с самим архитектором Гидеоном Пруиттом, этот великолепно модульный элемент корпоративных сидений в холлах помог Testudo заработать целое состояние.",
     "strItemDef": "ItmChairCube01bDmgLoose",
     "strType": "Item",
     "strLoot": null,
@@ -11444,9 +11446,9 @@
   },
   {
     "strName": "ItmDockSys03Closed",
-    "strNameShort": "Secondary Airlock",
-    "strNameFriendly": "Secondary Exterior Airlock (Closed)",
-    "strDesc": "Precision engineered by Bieler, this airlock is hermetically sealed to hold gasses against the vacuum of hard space.\n\nWarning: Gas pressures and temperatures can vary significantly on either side of the airlock.",
+    "strNameShort": "Дополнительный шлюз",
+    "strNameFriendly": "Вторичный внешний шлюз (закрыт)",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys03Closed",
     "strType": "Item",
     "strLoot": null,
@@ -11489,9 +11491,9 @@
   },
   {
     "strName": "ItmDockSys03Open",
-    "strNameShort": "Secondary Airlock",
-    "strNameFriendly": "Secondary Exterior Airlock (Opened)",
-    "strDesc": "Precision engineered by Bieler, this airlock is hermetically sealed to hold gasses against the vacuum of hard space.\n\nWarning: Gas pressures and temperatures can vary significantly on either side of the airlock.",
+    "strNameShort": "Дополнительный шлюз",
+    "strNameFriendly": "Дополнительный внешний шлюз (Открыт)",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys03Open",
     "strType": "Item",
     "strLoot": null,
@@ -11541,9 +11543,9 @@
   },
   {
     "strName": "ItmDockSys03ClosedLoose",
-    "strNameShort": "Secondary Airlock",
-    "strNameFriendly": "Secondary Exterior Airlock (Loose)",
-    "strDesc": "Precision engineered by Bieler, this airlock is hermetically sealed to hold gasses against the vacuum of hard space.\n\nWarning: Gas pressures and temperatures can vary significantly on either side of the airlock.",
+    "strNameShort": "Дополнительный шлюз",
+    "strNameFriendly": "Дополнительный внешний шлюз (Не закреплен)",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys03ClosedLoose",
     "strType": "Item",
     "strLoot": null,
@@ -11580,9 +11582,9 @@
   },
   {
     "strName": "ItmDockSys03ClosedDmg",
-    "strNameShort": "Secondary Airlock",
-    "strNameFriendly": "Secondary Exterior Airlock (Damaged)",
-    "strDesc": "Precision engineered by Bieler, this airlock is hermetically sealed to hold gasses against the vacuum of hard space.\n\nWarning: Gas pressures and temperatures can vary significantly on either side of the airlock.",
+    "strNameShort": "Дополнительный шлюз",
+    "strNameFriendly": "Дополнительный внешний шлюз (Поврежден)",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys03ClosedDmg",
     "strType": "Item",
     "strLoot": null,
@@ -11624,9 +11626,9 @@
   },
   {
     "strName": "ItmDockSys03ClosedDmgLoose",
-    "strNameShort": "Secondary Airlock",
-    "strNameFriendly": "Secondary Exterior Airlock (Damaged, Loose)",
-    "strDesc": "Precision engineered by Bieler, this airlock is hermetically sealed to hold gasses against the vacuum of hard space.\n\nWarning: Gas pressures and temperatures can vary significantly on either side of the airlock.",
+    "strNameShort": "Дополнительный шлюз",
+    "strNameFriendly": "Дополнительный внешний шлюз (Поврежден, Не закреплен)",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys03ClosedDmgLoose",
     "strType": "Item",
     "strLoot": null,
@@ -11667,7 +11669,7 @@
     "strName": "ItmDockSys02Closed",
     "strNameShort": "Шлюз",
     "strNameFriendly": "Внешний шлюз (закрыт)",
-    "strDesc": "Этот шлюз, с высокой точностью изготовленный компанией Бейлер, находится в герметичном состоянии и удерживает атмосферу, не допуская её утечки в открытый космос.\n\nПредупреждение: давление и температура газов по разные стороны шлюза могут значительно различаться.",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys02Closed",
     "strType": "Item",
     "strLoot": null,
@@ -11705,7 +11707,7 @@
     "strName": "ItmDockSys02Open",
     "strNameShort": "Шлюз",
     "strNameFriendly": "Внешний шлюз (открыт)",
-    "strDesc": "Этот шлюз, с высокой точностью изготовленный компанией Бейлер, герметичен и предназначен для изоляции атмосферы от вакуума открытого космоса.\n\nПредупреждение: давление и температура газов по обе его стороны уже выравниваются.",
+    "strDesc": "Спроектированный с высокой точностью компанией Bieler, этот шлюз герметично закрыт для удержания газов против вакуума открытого космоса.\n\nВнимание: Давление и температура газов могут значительно различаться по обе стороны шлюза.",
     "strItemDef": "ItmDockSys02Open",
     "strType": "Item",
     "strLoot": null,
@@ -11845,7 +11847,7 @@
   {
     "strName": "ItmDocumentPermitOKLG01",
     "strNameShort": "Лицензия",
-    "strNameFriendly": "Лицензия: Жёлтая лицензия на утилизацию Ayotimiwa",
+    "strNameFriendly": "Разрешение: Желтое разрешение на сбор лома Ayotimiwa",
     "strDesc": "Суточная лицензия на утилизацию нижнего уровня от Ayotimiwa Ship Breaking Co. Непросроченные лицензии позволяют сборщикам утилизировать брошенные суда на кладбище OKLG без вмешательства службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02Loose",
     "strType": "Item",
@@ -11901,7 +11903,7 @@
   {
     "strName": "ItmDocumentPermitOKLG01b",
     "strNameShort": "Лицензия",
-    "strNameFriendly": "Лицензия: Красная лицензия на утилизацию Ayotimiwa",
+    "strNameFriendly": "Разрешение: Красное разрешение на сбор лома Ayotimiwa",
     "strDesc": "72-часовая лицензия на утилизацию низкого уровня от Ayotimiwa Ship Breaking Co. Непросроченные лицензии позволяют сборщикам утилизировать брошенные суда на кладбище OKLG без вмешательства службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02bLoose",
     "strType": "Item",
@@ -11957,7 +11959,7 @@
   {
     "strName": "ItmDocumentPermitOKLG01c",
     "strNameShort": "Лицензия",
-    "strNameFriendly": "Лицензия: Синяя лицензия на утилизацию Ayotimiwa",
+    "strNameFriendly": "Разрешение: Синее разрешение на сбор лома Ayotimiwa",
     "strDesc": "7-дневная лицензия на утилизацию среднего уровня от Ayotimiwa Ship Breaking Co. Непросроченные лицензии позволяют сборщикам утилизировать брошенные суда на кладбище OKLG без вмешательства службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02cLoose",
     "strType": "Item",
@@ -12013,7 +12015,7 @@
   {
     "strName": "ItmDocumentPermitOKLG01d",
     "strNameShort": "Лицензия",
-    "strNameFriendly": "Лицензия: Серебряная лицензия на утилизацию Ayotimiwa",
+    "strNameFriendly": "Разрешение: Серебряное разрешение на сбор лома Ayotimiwa",
     "strDesc": "30-дневная лицензия на утилизацию высокого уровня от Ayotimiwa Ship Breaking Co. Непросроченные лицензии позволяют сборщикам утилизировать брошенные суда на кладбище OKLG без вмешательства службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02dLoose",
     "strType": "Item",
@@ -12069,7 +12071,7 @@
   {
     "strName": "ItmDocumentPermitOKLG01e",
     "strNameShort": "Лицензия",
-    "strNameFriendly": "Лицензия: Чёрная лицензия на утилизацию Ayotimiwa",
+    "strNameFriendly": "Разрешение: Черное разрешение на сбор лома Ayotimiwa",
     "strDesc": "300-дневная лицензия на утилизацию премиум-уровня от Ayotimiwa Ship Breaking Co. Непросроченные лицензии позволяют сборщикам утилизировать брошенные суда на кладбище OKLG без вмешательства службы безопасности Ayotimiwa.",
     "strItemDef": "ItmPaper02eLoose",
     "strType": "Item",
@@ -12374,7 +12376,7 @@
   {
     "strName": "ItmDoor01Closed",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (закрыта, выкл.)",
+    "strNameFriendly": "Дверь (Закрыта, Выключена)",
     "strItemDef": "ItmDoor01Closed",
     "strType": "Item",
     "strLoot": null,
@@ -12434,7 +12436,7 @@
   {
     "strName": "ItmDoor01ClosedLocked",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (закрыта, выкл., заблокирована)",
+    "strNameFriendly": "Дверь (Закрыта, Выключена, Заблокирована)",
     "strItemDef": "ItmDoor01Closed",
     "strType": "Item",
     "strLoot": null,
@@ -12494,7 +12496,7 @@
   {
     "strName": "ItmDoor01ClosedOn",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (закрыта)",
+    "strNameFriendly": "Дверь (Закрыта)",
     "strItemDef": "ItmDoor01ClosedOn",
     "strType": "Item",
     "strLoot": null,
@@ -12554,7 +12556,7 @@
   {
     "strName": "ItmDoor01ClosedOnLocked",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (закрыта, заблокирована)",
+    "strNameFriendly": "Дверь (Закрыта, Заблокирована)",
     "strItemDef": "ItmDoor01ClosedOnLocked",
     "strType": "Item",
     "strLoot": null,
@@ -12615,7 +12617,7 @@
   {
     "strName": "ItmDoor01ClosedLoose",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (закрыта, не установлена)",
+    "strNameFriendly": "Дверь (Закрыта, Не закреплена)",
     "strItemDef": "ItmDoor01ClosedLoose",
     "strType": "Item",
     "aInteractions": [
@@ -12656,7 +12658,7 @@
   {
     "strName": "ItmDoor01Open",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (открыта, выкл.)",
+    "strNameFriendly": "Дверь (Открыта, Выключена)",
     "strItemDef": "ItmDoor01Open",
     "strType": "Item",
     "strLoot": null,
@@ -12716,7 +12718,7 @@
   {
     "strName": "ItmDoor01OpenLocked",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (открыта, заблокирована, выкл.)",
+    "strNameFriendly": "Дверь (Открыта, Заблокирована, Выключена)",
     "strItemDef": "ItmDoor01Open",
     "strType": "Item",
     "strLoot": null,
@@ -12779,7 +12781,7 @@
   {
     "strName": "ItmDoor01OpenOn",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (открыта)",
+    "strNameFriendly": "Дверь (Открыта)",
     "strItemDef": "ItmDoor01OpenOn",
     "strType": "Item",
     "strLoot": null,
@@ -12844,7 +12846,7 @@
   {
     "strName": "ItmDoor01OpenOnLocked",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (открыта, заблокирована)",
+    "strNameFriendly": "Дверь (Открыта, Заблокирована)",
     "strItemDef": "ItmDoor01OpenOnLocked",
     "strType": "Item",
     "strLoot": null,
@@ -12906,7 +12908,7 @@
   {
     "strName": "ItmDoor01ClosedDmg",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (закрыта, повреждена)",
+    "strNameFriendly": "Дверь (Закрыта, Повреждена)",
     "strItemDef": "ItmDoor01ClosedDmg",
     "strType": "Item",
     "strLoot": null,
@@ -12957,7 +12959,7 @@
   {
     "strName": "ItmDoor01ClosedDmgLoose",
     "strNameShort": "Дверь",
-    "strNameFriendly": "Дверь (не установлена, повреждена)",
+    "strNameFriendly": "Дверь (Не закреплена, Повреждена)",
     "strItemDef": "ItmDoor01ClosedDmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -13681,10 +13683,10 @@
   },
   {
     "strName": "ItmSignalBeacon01",
-    "strNameShort": "Beacon",
-    "strNameFriendly": "ASC \"SB-03a\" Microsatellite Beacon",
+    "strNameShort": "Маяк",
+    "strNameFriendly": "Микроспутниковый маяк ASC \"SB-03a\"",
     "strItemDef": "ItmSignalBeacon01",
-    "strDesc": "The SB-03a Microsatellite Beacon is the third generation of Aphrodite Satellite Corp.'s fixed buoy line, used for broadcasting perimeter and navigation data in microgravity environments. The beacon is based on two modules, namely the power module and the broadcast module, that contain all necessary components for long-term autonomy.\n\nIn order to increase the overall system reliability, redundancy is implemented for both primary subsystems.",
+    "strDesc": "Микроспутниковый маяк SB-03a — это третье поколение стационарных буев от Aphrodite Satellite Corp., используемых для трансляции данных по периметру и навигационных данных в средах с микрогравитацией. Маяк состоит из двух модулей: силового модуля и вещательного модуля, которые содержат все необходимые компоненты для длительной автономной работы.\n\nДля повышения общей надежности системы для обоих основных подсистем предусмотрено резервирование.",
     "strType": "Item",
     "aStartingConds": [
       "IsHiddenInv=1.0x1",
@@ -13715,9 +13717,9 @@
   },
   {
     "strName": "ItmSignalBeacon01Dmg",
-    "strNameShort": "Beacon",
-    "strNameFriendly": "ASC \"SB-03a\" Microsatellite Beacon (Damaged)",
-    "strDesc": "The SB-03a Microsatellite Beacon is the third generation of Aphrodite Satellite Corp.'s fixed buoy line, used for broadcasting perimeter and navigation data in microgravity environments. The beacon is based on two modules, namely the power module and the broadcast module, that contain all necessary components for long-term autonomy.\n\nIn order to increase the overall system reliability, redundancy is implemented for both primary subsystems.",
+    "strNameShort": "Маяк",
+    "strNameFriendly": "Микроспутниковый маяк ASC \"SB-03a\" (Поврежден)",
+    "strDesc": "Микроспутниковый маяк SB-03a — это третье поколение стационарных буев от Aphrodite Satellite Corp., используемых для трансляции данных по периметру и навигационных данных в средах с микрогравитацией. Маяк состоит из двух модулей: силового модуля и вещательного модуля, которые содержат все необходимые компоненты для длительной автономной работы.\n\nДля повышения общей надежности системы для обоих основных подсистем предусмотрено резервирование.",
     "strItemDef": "ItmSignalBeacon01Dmg",
     "strType": "Item",
     "aStartingConds": [
@@ -13745,9 +13747,9 @@
   },
   {
     "strName": "ItmSignalBeacon01Loose",
-    "strNameShort": "Beacon",
-    "strNameFriendly": "ASC \"SB-03a\" Microsatellite Beacon (Loose)",
-    "strDesc": "The SB-03a Microsatellite Beacon is the third generation of Aphrodite Satellite Corp.'s fixed buoy line, used for broadcasting perimeter and navigation data in microgravity environments. The beacon is based on two modules, namely the power module and the broadcast module, that contain all necessary components for long-term autonomy.\n\nIn order to increase the overall system reliability, redundancy is implemented for both primary subsystems.",
+    "strNameShort": "Маяк",
+    "strNameFriendly": "Микроспутниковый маяк ASC \"SB-03a\" (Не закреплен)",
+    "strDesc": "Микроспутниковый маяк SB-03a — это третье поколение стационарных буев от Aphrodite Satellite Corp., используемых для трансляции данных по периметру и навигационных данных в средах с микрогравитацией. Маяк состоит из двух модулей: силового модуля и вещательного модуля, которые содержат все необходимые компоненты для длительной автономной работы.\n\nДля повышения общей надежности системы для обоих основных подсистем предусмотрено резервирование.",
     "strItemDef": "ItmSignalBeacon01Loose",
     "strType": "Item",
     "aInteractions": [
@@ -13784,10 +13786,10 @@
   },
   {
     "strName": "ItmSignalBeacon01DmgLoose",
-    "strNameShort": "Beacon",
-    "strNameFriendly": "ASC \"SB-03a\" Microsatellite Beacon (Damaged, Loose)",
+    "strNameShort": "Маяк",
+    "strNameFriendly": "Микроспутниковый маяк ASC \"SB-03a\" (Поврежден, Не закреплен)",
     "strItemDef": "ItmSignalBeacon01DmgLoose",
-    "strDesc": "The SB-03a Microsatellite Beacon is the third generation of Aphrodite Satellite Corp.'s fixed buoy line, used for broadcasting perimeter and navigation data in microgravity environments. The beacon is based on two modules, namely the power module and the broadcast module, that contain all necessary components for long-term autonomy.\n\nIn order to increase the overall system reliability, redundancy is implemented for both primary subsystems.",
+    "strDesc": "Микроспутниковый маяк SB-03a — это третье поколение стационарных буев от Aphrodite Satellite Corp., используемых для трансляции данных по периметру и навигационных данных в средах с микрогравитацией. Маяк состоит из двух модулей: силового модуля и вещательного модуля, которые содержат все необходимые компоненты для длительной автономной работы.\n\nДля повышения общей надежности системы для обоих основных подсистем предусмотрено резервирование.",
     "strType": "Item",
     "aInteractions": [
       "DropItem",
@@ -14203,8 +14205,8 @@
   },
   {
     "strName": "ItmFloorLabelBloom",
-    "strNameShort": "Emblem",
-    "strNameFriendly": "Emblem: Bloom",
+    "strNameShort": "Эмблема",
+    "strNameFriendly": "Эмблема: Bloom",
     "strItemDef": "ItmFloorLabelBloom",
     "strType": "Item",
     "strLoot": null,
@@ -14228,8 +14230,8 @@
   },
   {
     "strName": "ItmFloorLabelDynastyCoin",
-    "strNameShort": "Emblem",
-    "strNameFriendly": "Emblem: Dynasty Coin",
+    "strNameShort": "Эмблема",
+    "strNameFriendly": "Эмблема: Монета династии",
     "strItemDef": "ItmFloorLabelDynastyCoin",
     "strType": "Item",
     "strLoot": null,
@@ -14253,8 +14255,8 @@
   },
   {
     "strName": "ItmFloorLabelEagle",
-    "strNameShort": "Emblem",
-    "strNameFriendly": "Emblem: Eagle",
+    "strNameShort": "Эмблема",
+    "strNameFriendly": "Эмблема: Орел",
     "strItemDef": "ItmFloorLabelEagle",
     "strType": "Item",
     "strLoot": null,
@@ -14278,8 +14280,8 @@
   },
   {
     "strName": "ItmFloorLabelStarsAndStripes",
-    "strNameShort": "Emblem",
-    "strNameFriendly": "Emblem: Stars And Stripes",
+    "strNameShort": "Эмблема",
+    "strNameFriendly": "Эмблема: Звезды и полосы",
     "strItemDef": "ItmFloorLabelStarsAndStripes",
     "strType": "Item",
     "strLoot": null,
@@ -16474,7 +16476,7 @@
   },
   {
     "strName": "ItmKioskComms01",
-    "strNameShort": "Киоск",
+    "strNameShort": "Терминал",
     "strItemDef": "ItmKioskComms01",
     "strType": "Item",
     "strLoot": null,
@@ -16728,7 +16730,7 @@
   },
   {
     "strName": "ItmKioskJobs01",
-    "strNameShort": "Киоск",
+    "strNameShort": "Терминал",
     "strNameFriendly": "Карьерный киоск",
     "strItemDef": "ItmKioskJobs01",
     "strType": "Item",
@@ -17240,9 +17242,9 @@
   },
   {
     "strName": "ItmKioskGovt01",
-    "strNameShort": "Kiosk: Faction",
-    "strNameFriendly": "Faction Supplies Kiosk",
-    "strDesc": "A kiosk operated by local corporations offering an array of small-scale essentials to bolster the productivity of laborers, spacers, and visiting traders. On offer are maintenance tools, provisions, cargo dollies, replacement spacesuits, hull patches, clothing, and other basics of work and survival.",
+    "strNameShort": "Киоск: Фракция",
+    "strNameFriendly": "Киоск принадлежностей фракции",
+    "strDesc": "Киоск, управляемый местными корпорациями, предлагающий ряд мелкомасштабных предметов первой необходимости для повышения производительности труда рабочих, космонавтов и заезжих торговцев. В продаже имеются технические инструменты для обслуживания, провизия, грузовые тележки, сменные скафандры, заплатки для корпуса, одежда и другие базовые предметы для работы и выживания.",
     "strItemDef": "ItmKioskSupplies01",
     "strType": "Item",
     "strLoot": null,
@@ -17482,7 +17484,7 @@
   },
   {
     "strName": "ItmKioskVote01",
-    "strNameShort": "Киоск",
+    "strNameShort": "Терминал",
     "strNameFriendly": "Киоск голосования за функции",
     "strItemDef": "ItmKioskVote01",
     "strType": "Item",
@@ -17559,14 +17561,16 @@
     "strNameShort": "Леггинсы",
     "strItemDef": "ItmLeggings01",
     "strDesc": "Лёгкие, облегающие компрессионные штаны, которые можно носить под скафандром.\n\nОсновной предмет гардероба для тех, кто ожидает манёвры с высокими перегрузками. Эта конструкция обеспечивает небольшое сопротивление G-LOC и нагрузкам, предотвращая скопление крови в нижних конечностях при высоких перегрузках.",
-    "strNameFriendly": "Компрессионные леггинсы: жёлтые",
+    "strNameFriendly": "Компрессионные леггинсы: Желтые",
     "strType": "Item",
     "strLoot": null,
     "aInteractions": [
       "EquipItem",
       "DropItem",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -17622,7 +17626,9 @@
       "EquipItem",
       "DropItem",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -17676,8 +17682,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1White",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: White",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Белый",
     "strItemDef": "ItmLitCeiling1x1White",
     "strType": "Item",
     "strLoot": null,
@@ -17721,8 +17727,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1WhiteOff",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: White (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Белый (Выключен)",
     "strItemDef": "ItmLitCeiling1x1WhiteOff",
     "strType": "Item",
     "strLoot": null,
@@ -17766,8 +17772,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1WhiteOffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: White (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Белый (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -17808,8 +17814,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Blue",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Синий",
     "strItemDef": "ItmLitCeiling1x1",
     "strType": "Item",
     "strLoot": null,
@@ -17853,8 +17859,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1Off",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Blue (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Синий (Выключен)",
     "strItemDef": "ItmLitCeiling1x1Off",
     "strType": "Item",
     "strLoot": null,
@@ -17898,8 +17904,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Blue (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Синий (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -17940,8 +17946,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1Orange",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Orange",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Оранжевый",
     "strItemDef": "ItmLitCeiling1x1Orange",
     "strType": "Item",
     "strLoot": null,
@@ -17985,8 +17991,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OrangeOff",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Orange (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Оранжевый (Выключен)",
     "strItemDef": "ItmLitCeiling1x1OrangeOff",
     "strType": "Item",
     "strLoot": null,
@@ -18030,8 +18036,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OrangeOffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Orange (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Оранжевый (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -18072,8 +18078,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantGreen",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Green",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Зеленый",
     "strItemDef": "ItmLitCeiling1x1VibrantGreen",
     "strType": "Item",
     "strLoot": null,
@@ -18117,8 +18123,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantGreenOff",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Green (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Зеленый (Выключен)",
     "strItemDef": "ItmLitCeiling1x1VibrantGreenOff",
     "strType": "Item",
     "strLoot": null,
@@ -18162,8 +18168,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantGreenOffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Green (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Зеленый (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -18204,8 +18210,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantPurple",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Purple",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Фиолетовый",
     "strItemDef": "ItmLitCeiling1x1VibrantPurple",
     "strType": "Item",
     "strLoot": null,
@@ -18249,8 +18255,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantPurpleOff",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Purple (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Фиолетовый (Выключен)",
     "strItemDef": "ItmLitCeiling1x1VibrantPurpleOff",
     "strType": "Item",
     "strLoot": null,
@@ -18294,8 +18300,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantPurpleOffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Plurple (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Фиолетовый (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -18336,8 +18342,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantRed",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Red",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Красный",
     "strItemDef": "ItmLitCeiling1x1VibrantRed",
     "strType": "Item",
     "strLoot": null,
@@ -18381,8 +18387,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantRedOff",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Red (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Красный (Выключен)",
     "strItemDef": "ItmLitCeiling1x1VibrantRedOff",
     "strType": "Item",
     "strLoot": null,
@@ -18426,8 +18432,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantRedOffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Red (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Красный (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -18468,8 +18474,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1Custom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Blue Setting",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Синий режим",
     "strItemDef": "ItmLitCeiling1x1Custom",
     "strType": "Item",
     "strLoot": null,
@@ -18520,8 +18526,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Blue Setting (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Синий режим (Выключен)",
     "strItemDef": "ItmLitCeiling1x1Off",
     "strType": "Item",
     "strLoot": null,
@@ -18566,8 +18572,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Blue Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Синий режим (Не закреплен)",
     "strItemDef": "ItmLitCeiling1x1OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -18607,8 +18613,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OrangeCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Orange Setting",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Оранжевый режим",
     "strItemDef": "ItmLitCeiling1x1OrangeCustom",
     "strType": "Item",
     "strLoot": null,
@@ -18659,8 +18665,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OrangeOffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Orange Setting (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Оранжевый режим (Выкл.)",
     "strItemDef": "ItmLitCeiling1x1OrangeOff",
     "strType": "Item",
     "strLoot": null,
@@ -18705,8 +18711,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1OrangeOffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Orange Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Оранжевый режим (Не закреплено)",
     "strItemDef": "ItmLitCeiling1x1OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -18747,8 +18753,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantRedCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Red Setting",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Красный режим",
     "strItemDef": "ItmLitCeiling1x1VibrantRedCustom",
     "strType": "Item",
     "strLoot": null,
@@ -18799,8 +18805,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantRedOffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Red Setting (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Красный режим (Выкл.)",
     "strItemDef": "ItmLitCeiling1x1VibrantRedOff",
     "strType": "Item",
     "strLoot": null,
@@ -18845,8 +18851,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantRedOffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Red Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Красный режим (Не закреплено)",
     "strItemDef": "ItmLitCeiling1x1OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -18887,8 +18893,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantPurpleCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Purple Setting",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Фиолетовый режим",
     "strItemDef": "ItmLitCeiling1x1VibrantPurpleCustom",
     "strType": "Item",
     "strLoot": null,
@@ -18939,8 +18945,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantPurpleOffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Purple Setting (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Фиолетовый режим (Выкл.)",
     "strItemDef": "ItmLitCeiling1x1VibrantPurpleOff",
     "strType": "Item",
     "strLoot": null,
@@ -18985,8 +18991,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantPurpleOffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Purple Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Фиолетовый режим (Не закреплено)",
     "strItemDef": "ItmLitCeiling1x1OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -19027,8 +19033,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantGreenCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Green Setting",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Зеленый режим",
     "strItemDef": "ItmLitCeiling1x1VibrantGreenCustom",
     "strType": "Item",
     "strLoot": null,
@@ -19079,8 +19085,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantGreenOffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Green Setting (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Зеленый режим (Выкл.)",
     "strItemDef": "ItmLitCeiling1x1VibrantGreenOff",
     "strType": "Item",
     "strLoot": null,
@@ -19125,8 +19131,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1VibrantGreenOffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: Green Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Зеленый режим (Не закреплено)",
     "strItemDef": "ItmLitCeiling1x1OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -19167,8 +19173,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1WhiteCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: White Setting",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Белый режим",
     "strItemDef": "ItmLitCeiling1x1WhiteCustom",
     "strType": "Item",
     "strLoot": null,
@@ -19219,8 +19225,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1WhiteOffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: White Setting (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Белый режим (Выкл.)",
     "strItemDef": "ItmLitCeiling1x1Off",
     "strType": "Item",
     "strLoot": null,
@@ -19265,8 +19271,8 @@
   },
   {
     "strName": "ItmLitCeiling1x1WhiteOffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Overhead Light: White Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Потолочный светильник: Белый режим (Не закреплено)",
     "strItemDef": "ItmLitCeiling1x1OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -19951,8 +19957,8 @@
   },
   {
     "strName": "ItmLitWall1x0White",
-    "strNameShort": "Light",
-    "strNameFriendly": "Wall Light: White",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Настенный светильник: Белый",
     "strItemDef": "ItmLitWall1x0White",
     "strType": "Item",
     "strLoot": null,
@@ -19995,8 +20001,8 @@
   },
   {
     "strName": "ItmLitWall1x0WhiteOff",
-    "strNameShort": "Light",
-    "strNameFriendly": "Wall Light: White (Off)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Настенный светильник: Белый (Выкл.)",
     "strItemDef": "ItmLitWall1x0WhiteOff",
     "strType": "Item",
     "strLoot": null,
@@ -20039,8 +20045,8 @@
   },
   {
     "strName": "ItmLitWall1x0WhiteOffLoose",
-    "strNameShort": "Light",
-    "strNameFriendly": "Wall Light: White (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Настенный светильник: Белый (Не закреплено)",
     "strItemDef": "ItmLitWall1x0OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -20779,9 +20785,9 @@
   },
   {
     "strName": "ItmLitWall1x0WhiteCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Wall Light: White Setting",
-    "strItemDef": "ItmLitWall1x0Custom",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Настенный светильник: Белый режим",
+    "strItemDef": "ItmLitWall1x0WhiteCustom",
     "strType": "Item",
     "strLoot": null,
     "aInteractions": [
@@ -20831,9 +20837,9 @@
   },
   {
     "strName": "ItmLitWall1x0WhiteOffCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Wall Light: White Setting (Off)",
-    "strItemDef": "ItmLitWall1x0Off",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Настенный светильник: Белый режим (Выкл.)",
+    "strItemDef": "ItmLitWall1x0WhiteOff",
     "strType": "Item",
     "strLoot": null,
     "aInteractions": [],
@@ -20877,8 +20883,8 @@
   },
   {
     "strName": "ItmLitWall1x0WhiteOffLooseCustom",
-    "strNameShort": "Light",
-    "strNameFriendly": "Wall Light: White Setting (Loose)",
+    "strNameShort": "Светильник",
+    "strNameFriendly": "Настенный светильник: Белый режим (Не закреплено)",
     "strItemDef": "ItmLitWall1x0OffLooseCustom",
     "strType": "Item",
     "aInteractions": [
@@ -21212,7 +21218,7 @@
   },
   {
     "strName": "ItmOssifexPen01",
-    "strNameShort": "Шприц Ossifex",
+    "strNameShort": "Ручка Ossifex",
     "strItemDef": "ItmOssifexPen01",
     "strDesc": "\"Остеокласты в прошлом!\" Этот разработанный Van Buren коктейль из биоактивных пептидов, факторов роста и специально разработанных наночастиц стимулирует как активность остеобластов, так и синтез белка и функцию митохондрий (для противодействия атрофии от жизни в невесомости). Доставляется с помощью одноразового подкожного инъектора, который работает через одежду и тонкие скафандры.\n\nОдного использования в день достаточно, чтобы предотвратить атрофию, заменяя необходимость в ежедневных целенаправленных упражнениях.",
     "strNameFriendly": "Инъектор против атрофии: Ossifex",
@@ -21418,7 +21424,9 @@
       "EquipItem",
       "DropItem",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsCurio=1.0x1.0",
@@ -21481,8 +21489,8 @@
     "strName": "ItmPantsCargo01",
     "strNameShort": "Штаны",
     "strItemDef": "ItmPantsCargo01",
-    "strDesc": "Просторные штаны с дополнительными карманами.",
-    "strNameFriendly": "Карго: Тёмно-синие",
+    "strDesc": "Просторные брюки с дополнительными карманами.",
+    "strNameFriendly": "Брюки-карго: Темно-синие",
     "strType": "Item",
     "strLoot": "ItmPocketsPantsCargox2Hipx2",
     "aInteractions": [
@@ -21490,7 +21498,9 @@
       "EquipItem",
       "DropItem",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -21564,7 +21574,7 @@
     "strNameShort": "Штаны",
     "strItemDef": "ItmPantsCargoStrapped01",
     "strDesc": "Просторные штаны с дополнительными карманами и крепёжными лямками.",
-    "strNameFriendly": "Штаны с лямками: Жёлтые",
+    "strNameFriendly": "Штаны с обвесом: Подсолнечные",
     "strType": "Item",
     "strLoot": "ItmPocketsPantsClipx1Cargox2Hipx2",
     "nStackLimit": 1,
@@ -21572,7 +21582,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -22166,8 +22178,8 @@
   },
   {
     "strName": "ItmPlanter1x101",
-    "strNameShort": "Planter",
-    "strNameFriendly": "Succulent Planter",
+    "strNameShort": "Кашпо",
+    "strNameFriendly": "Кашпо с суккулентом",
     "strItemDef": "ItmPlanter1x101",
     "strType": "Item",
     "strLoot": null,
@@ -22202,8 +22214,8 @@
   },
   {
     "strName": "ItmPlanter2x101",
-    "strNameShort": "Planter",
-    "strNameFriendly": "Bonsai Planter",
+    "strNameShort": "Кашпо",
+    "strNameFriendly": "Кашпо с бонсаем",
     "strItemDef": "ItmPlanter2x101",
     "strType": "Item",
     "strLoot": null,
@@ -22238,8 +22250,8 @@
   },
   {
     "strName": "ItmPlanter2x201",
-    "strNameShort": "Planter",
-    "strNameFriendly": "Agave Planter",
+    "strNameShort": "Кашпо",
+    "strNameFriendly": "Кашпо с агавой",
     "strItemDef": "ItmPlanter2x201",
     "strType": "Item",
     "strLoot": null,
@@ -22274,8 +22286,8 @@
   },
   {
     "strName": "ItmPlanter2x202",
-    "strNameShort": "Planter",
-    "strNameFriendly": "Monstera Planter",
+    "strNameShort": "Кашпо",
+    "strNameFriendly": "Кашпо с монстерой",
     "strItemDef": "ItmPlanter2x202",
     "strType": "Item",
     "strLoot": null,
@@ -22310,8 +22322,8 @@
   },
   {
     "strName": "ItmPlanter3x101",
-    "strNameShort": "Planter",
-    "strNameFriendly": "Hedge Planter",
+    "strNameShort": "Кашпо",
+    "strNameFriendly": "Кашпо с живой изгородью",
     "strItemDef": "ItmPlanter3x101",
     "strType": "Item",
     "strLoot": null,
@@ -23622,7 +23634,7 @@
     "strName": "ItmStorageBin1x101",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin1x101",
-    "strNameFriendly": "Ящик в переборку",
+    "strNameFriendly": "Контейнер переборки",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23664,7 +23676,7 @@
     "strName": "ItmStorageBin1x101Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin1x101Loose",
-    "strNameFriendly": "Ящик в переборку (не закреплён)",
+    "strNameFriendly": "Контейнер переборки (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23706,7 +23718,7 @@
     "strName": "ItmStorageBin1x101Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin1x101Dmg",
-    "strNameFriendly": "Ящик в переборку (повреждён)",
+    "strNameFriendly": "Контейнер переборки (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23751,7 +23763,7 @@
     "strName": "ItmStorageBin1x101DmgLoose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin1x101DmgLoose",
-    "strNameFriendly": "Ящик в переборку (повреждён, не закреплён)",
+    "strNameFriendly": "Контейнер переборки (Не закреплен, Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23795,7 +23807,7 @@
     "strName": "ItmStorageBin2x101",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x101",
-    "strNameFriendly": "Ящик в переборку 2x",
+    "strNameFriendly": "Контейнер переборки 2x",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23837,7 +23849,7 @@
     "strName": "ItmStorageBin2x101Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x101Loose",
-    "strNameFriendly": "Ящик в переборку 2x (не закреплён)",
+    "strNameFriendly": "Контейнер переборки 2x (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23879,7 +23891,7 @@
     "strName": "ItmStorageBin2x101Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x101Dmg",
-    "strNameFriendly": "Ящик в переборку 2x (повреждён)",
+    "strNameFriendly": "Контейнер переборки 2x (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23924,7 +23936,7 @@
     "strName": "ItmStorageBin2x101DmgLoose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x101DmgLoose",
-    "strNameFriendly": "Ящик в переборку 2x (повреждён, не закреплён)",
+    "strNameFriendly": "Контейнер переборки 2x (Не закреплен, Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -23968,7 +23980,7 @@
     "strName": "ItmStorageBin2x104",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x104",
-    "strNameFriendly": "Ящик в переборку 2x",
+    "strNameFriendly": "Контейнер переборки 2x",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24012,7 +24024,7 @@
     "strName": "ItmStorageBin2x104Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x104Loose",
-    "strNameFriendly": "Ящик в переборку 2x (не закреплён)",
+    "strNameFriendly": "Контейнер переборки 2x (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24057,7 +24069,7 @@
     "strName": "ItmStorageBin2x104Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x104Dmg",
-    "strNameFriendly": "Ящик в переборку 2x (повреждён)",
+    "strNameFriendly": "Контейнер переборки 2x (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24104,7 +24116,7 @@
     "strName": "ItmStorageBin2x104DmgLoose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x104DmgLoose",
-    "strNameFriendly": "Ящик в переборку 2x (повреждён, не закреплён)",
+    "strNameFriendly": "Контейнер переборки 2x (Не закреплен, Поврежден)",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24151,7 +24163,7 @@
     "strName": "ItmStorageBin3x101",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin3x101",
-    "strNameFriendly": "Ящик в переборку 3x",
+    "strNameFriendly": "Контейнер переборки 3x",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24194,7 +24206,7 @@
     "strName": "ItmStorageBin3x101Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin3x101Loose",
-    "strNameFriendly": "Ящик в переборку 3x (не закреплён)",
+    "strNameFriendly": "Контейнер переборки 3x (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24237,7 +24249,7 @@
     "strName": "ItmStorageBin3x101Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin3x101Dmg",
-    "strNameFriendly": "Ящик в переборку 3x (повреждён)",
+    "strNameFriendly": "Контейнер переборки 3x (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24283,7 +24295,7 @@
     "strName": "ItmStorageBin3x101DmgLoose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin3x101DmgLoose",
-    "strNameFriendly": "Ящик в переборку 3x (повреждён, не закреплён)",
+    "strNameFriendly": "Контейнер переборки 3x (Не закреплен, Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24328,7 +24340,7 @@
     "strName": "ItmStorageBin2x2C01",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C01",
-    "strNameFriendly": "Ящик в переборку: Угловой",
+    "strNameFriendly": "Контейнер переборки: Угловой",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24371,7 +24383,7 @@
     "strName": "ItmStorageBin2x2C01Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C01Loose",
-    "strNameFriendly": "Ящик в переборку: Угловой (не закреплён)",
+    "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24414,7 +24426,7 @@
     "strName": "ItmStorageBin2x2C01Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C01Dmg",
-    "strNameFriendly": "Ящик в переборку: Угловой (повреждён)",
+    "strNameFriendly": "Контейнер переборки: Угловой (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24460,7 +24472,7 @@
     "strName": "ItmStorageBin2x2C01DmgLoose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C01DmgLoose",
-    "strNameFriendly": "Ящик в переборку: Угловой (повреждён, не закреплён)",
+    "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен, Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24505,7 +24517,7 @@
     "strName": "ItmStorageBin2x2C04",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C04",
-    "strNameFriendly": "Ящик в переборку: Угловой",
+    "strNameFriendly": "Контейнер переборки: Угловой",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24550,7 +24562,7 @@
     "strName": "ItmStorageBin2x2C04Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C04Loose",
-    "strNameFriendly": "Ящик в переборку: Угловой (не закреплён)",
+    "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24595,7 +24607,7 @@
     "strName": "ItmStorageBin2x2C04Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C04Dmg",
-    "strNameFriendly": "Ящик в переборку: Угловой (повреждён)",
+    "strNameFriendly": "Контейнер переборки: Угловой (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24643,7 +24655,7 @@
     "strName": "ItmStorageBin2x2C04DmgLoose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBin2x2C04DmgLoose",
-    "strNameFriendly": "Ящик в переборку: Угловой (повреждён, не закреплён)",
+    "strNameFriendly": "Контейнер переборки: Угловой (Не закреплен, Поврежден)",
     "strDesc": "Ящики для хранения серии \"Reserve\" от Rakow, встраиваемые в переборку, не такие вместительные, как отдельно стоящие варианты, но они не занимают место, что очень ценно на переполненных судах.",
     "strType": "Item",
     "aInteractions": [
@@ -24690,8 +24702,8 @@
     "strName": "ItmStorageBinFloor1x101",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBinFloor1x101",
-    "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, расположенные под полом, расширяют пространство для хранения.\n\nПРЕДУПРЕЖДЕНИЕ: Ящики под полом действуют как герметичный пол, поэтому их демонтаж открывает внутреннее пространство корабля вакууму.",
-    "strNameFriendly": "Ящик под полом",
+    "strDesc": "Серия подпольных накопителей \"Vanilla\" от Rakow расширяет пространство для хранения под полом.\n\nВНИМАНИЕ: Подпольные накопители выполняют функцию герметичного настила, поэтому их демонтаж подвергает внутреннее пространство судна воздействию вакуума.",
+    "strNameFriendly": "Контейнер межэтажного перекрытия",
     "strType": "Item",
     "aInteractions": [
       "Inventory"
@@ -24732,7 +24744,7 @@
     "strName": "ItmStorageBinFloor1x101Loose",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBinFloor1x101Loose",
-    "strNameFriendly": "Ящик под полом (не закреплён)",
+    "strNameFriendly": "Контейнер межэтажного перекрытия (Не закреплен)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, расположенные под полом, расширяют пространство для хранения.\n\nПРЕДУПРЕЖДЕНИЕ: Ящики под полом действуют как герметичный пол, поэтому их демонтаж открывает внутреннее пространство корабля вакууму.",
     "strType": "Item",
     "aInteractions": [
@@ -24775,7 +24787,7 @@
     "strName": "ItmStorageBinFloor1x101Dmg",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBinFloor1x101Dmg",
-    "strNameFriendly": "Ящик под полом (повреждён)",
+    "strNameFriendly": "Контейнер межэтажного перекрытия (Поврежден)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, расположенные под полом, расширяют пространство для хранения.\n\nПРЕДУПРЕЖДЕНИЕ: Ящики под полом действуют как герметичный пол, поэтому их повреждение открывает внутреннее пространство корабля вакууму.",
     "strType": "Item",
     "aInteractions": [
@@ -24824,7 +24836,7 @@
     "strName": "ItmStorageBinFloor1x101Patch",
     "strNameShort": "Ящик",
     "strItemDef": "ItmStorageBinFloor1x101Patch",
-    "strNameFriendly": "Ящик под полом (с заплаткой)",
+    "strNameFriendly": "Контейнер межэтажного перекрытия (Заплачен)",
     "strDesc": "Ящики для хранения серии \"Vanilla\" от Rakow, расположенные под полом, расширяют пространство для хранения.\n\nПРЕДУПРЕЖДЕНИЕ: Ящики под полом действуют как герметичный пол, поэтому их демонтаж открывает внутреннее пространство корабля вакууму.",
     "strType": "Item",
     "aInteractions": [],
@@ -25605,8 +25617,8 @@
   },
   {
     "strName": "ItmReactorIC02IgnitionMini",
-    "strNameShort": "Power Uplink",
-    "strNameFriendly": "Power Uplink: Station",
+    "strNameShort": "Энергоканал",
+    "strNameFriendly": "Энергоканал: Станция",
     "strItemDef": "ItmPowerUplinkStation",
     "strType": "Item",
     "aInteractions": [],
@@ -25730,7 +25742,7 @@
     "strName": "ItmReactorIC03Batt",
     "strNameShort": "Реактор",
     "strNameFriendly": "Инерционный термоядерный реактор (режим батареи)",
-    "strDesc": "Инерционный термоядерный реактор. Использует топливо в форме He3 и D2O. Работающий реактор способен производить огромное количество энергии и может использоваться как часть \"маршевого двигателя\" для межпланетных путешествий.",
+    "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03On",
     "strType": "Item",
     "aInteractions": [
@@ -25777,7 +25789,7 @@
     "strName": "ItmReactorIC03Ignition",
     "strNameShort": "Реактор",
     "strNameFriendly": "Инерционный термоядерный реактор (работает)",
-    "strDesc": "Инерционный термоядерный реактор. Использует топливо в форме He3 и D2O. Работающий реактор способен производить огромное количество энергии и может использоваться как часть \"маршевого двигателя\" для межпланетных путешествий.",
+    "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03On",
     "strType": "Item",
     "aInteractions": [
@@ -25824,7 +25836,7 @@
     "strName": "ItmReactorIC03Off",
     "strNameShort": "Реактор",
     "strNameFriendly": "Инерционный термоядерный реактор (выключен)",
-    "strDesc": "Инерционный термоядерный реактор. Использует топливо в форме He3 и D2O. Работающий реактор способен производить огромное количество энергии и может использоваться как часть \"маршевого двигателя\" для межпланетных путешествий.",
+    "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03Off",
     "strType": "Item",
     "aInteractions": [
@@ -25870,7 +25882,7 @@
     "strName": "ItmReactorIC03OffLoose",
     "strNameShort": "Реактор",
     "strNameFriendly": "Инерционный термоядерный реактор (не закреплён)",
-    "strDesc": "Инерционный термоядерный реактор. Использует топливо в форме He3 и D2O. Работающий реактор способен производить огромное количество энергии и может использоваться как часть \"маршевого двигателя\" для межпланетных путешествий.",
+    "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03OffLoose",
     "strType": "Item",
     "aInteractions": [
@@ -25914,7 +25926,7 @@
     "strName": "ItmReactorIC03Dmg",
     "strNameShort": "Реактор",
     "strNameFriendly": "Инерционный термоядерный реактор (повреждён)",
-    "strDesc": "Инерционный термоядерный реактор. Использует топливо в форме He3 и D2O. Работающий реактор способен производить огромное количество энергии и может использоваться как часть \"маршевого двигателя\" для межпланетных путешествий.",
+    "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03Dmg",
     "strType": "Item",
     "aInteractions": [
@@ -25957,7 +25969,7 @@
     "strName": "ItmReactorIC03DmgLoose",
     "strNameShort": "Реактор",
     "strNameFriendly": "Инерционный термоядерный реактор (повреждён, не закреплён)",
-    "strDesc": "Инерционный термоядерный реактор. Использует топливо в форме He3 и D2O. Работающий реактор способен производить огромное количество энергии и может использоваться как часть \"маршевого двигателя\" для межпланетных путешествий.",
+    "strDesc": "Реактор инерциального удержания. Принимает топливо в виде He3 и D2O. Работающий реактор способен вырабатывать огромное количество энергии и может использоваться в составе «факельного двигателя» для межпланетных перелетов.",
     "strItemDef": "ItmReactorIC03DmgLoose",
     "strType": "Item",
     "aInteractions": [
@@ -26491,7 +26503,9 @@
       "DropItem",
       "DropItemStack",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -26546,7 +26560,9 @@
       "EquipItem",
       "DropItem",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -30599,7 +30615,9 @@
       "DropItem",
       "DropItemStack",
       "PickupItem",
-      "PickupItemStack"
+      "PickupItemStack",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAbsorbent=1.0x1.0",
@@ -30644,7 +30662,7 @@
   {
     "strName": "ItmTV01",
     "strNameShort": "Телевизор",
-    "strNameFriendly": "Renbao \"Smart\" TV",
+    "strNameFriendly": "Renbao \"Smart\" ТВ",
     "strItemDef": "ItmTV01",
     "strType": "Item",
     "strLoot": null,
@@ -31437,7 +31455,7 @@
     "strName": "ItmWallAero1x1",
     "strNameShort": "Аэродин. стена",
     "strNameFriendly": "Аэродинамическая наклонная стена",
-    "strDesc": "Aerodynamic fuselage including shapes that minimize drag and offer lift and directionality in atmosphere. May employ wing, fin, elevator, or rudder forms.",
+    "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1",
     "strType": "Item",
     "strLoot": null,
@@ -31476,7 +31494,7 @@
     "strName": "ItmWallAero1x1Loose",
     "strNameShort": "Аэродин. стена",
     "strNameFriendly": "Аэродинамическая наклонная стена (не закреплена)",
-    "strDesc": "Aerodynamic fuselage including shapes that minimize drag and offer lift and directionality in atmosphere. May employ wing, fin, elevator, or rudder forms.",
+    "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1Loose",
     "strType": "Item",
     "aInteractions": [
@@ -31512,7 +31530,7 @@
     "strName": "ItmWallAero1x1Sq",
     "strNameShort": "Аэродин. стена",
     "strNameFriendly": "Аэродинамическая стена",
-    "strDesc": "Aerodynamic fuselage including shapes that minimize drag and offer lift and directionality in atmosphere. May employ wing, fin, elevator, or rudder forms.",
+    "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1Sq",
     "strType": "Item",
     "strLoot": null,
@@ -31552,7 +31570,7 @@
     "strName": "ItmWallAero1x1SqLoose",
     "strNameShort": "Аэродин. стена",
     "strNameFriendly": "Аэродинамическая стена (не закреплена)",
-    "strDesc": "Aerodynamic fuselage including shapes that minimize drag and offer lift and directionality in atmosphere. May employ wing, fin, elevator, or rudder forms.",
+    "strDesc": "Аэродинамический фюзеляж, включающий формы, минимизирующие сопротивление и обеспечивающие подъемную силу и управляемость в атмосфере. Может использовать формы крыла, стабилизатора, руля высоты или руля направления.",
     "strItemDef": "ItmWallAero1x1SqLoose",
     "strType": "Item",
     "aInteractions": [
@@ -32132,7 +32150,7 @@
     "strName": "ItmWallWindow1x1",
     "strNameShort": "Окно",
     "strNameFriendly": "Угловая стена с окном",
-    "strDesc": "Transparent aluminum panel wall. Aluminium oxynitride (ALON) is a polycrystalline ceramic made from pressurized, heat-treated powder, polished to an optical finish for a robust material resistant to oxidation, corrosion, and radiation.",
+    "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1",
     "strType": "Item",
     "strLoot": null,
@@ -32169,7 +32187,7 @@
     "strName": "ItmWallWindow1x1Loose",
     "strNameShort": "Окно",
     "strNameFriendly": "Угловая стена с окном (не закреплена)",
-    "strDesc": "Transparent aluminum panel wall. Aluminium oxynitride is a polycrystalline ceramic made from pressurized, heat-treated powder polished to an optical finish for decently sturdy material resistant to oxidation and radiation.",
+    "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения достаточно прочного материала, устойчивого к окислению и радиации.",
     "strItemDef": "ItmWallWindow1x1Loose",
     "strType": "Item",
     "aInteractions": [
@@ -32204,7 +32222,7 @@
     "strName": "ItmWallWindow1x1Dmg",
     "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (повреждена)",
-    "strDesc": "Transparent aluminum panel wall. Aluminium oxynitride (ALON) is a polycrystalline ceramic made from pressurized, heat-treated powder, polished to an optical finish for a robust material resistant to oxidation, corrosion, and radiation.",
+    "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -32288,7 +32306,7 @@
     "strName": "ItmWallWindow1x1Sq",
     "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном",
-    "strDesc": "Transparent aluminum panel wall. Aluminium oxynitride (ALON) is a polycrystalline ceramic made from pressurized, heat-treated powder, polished to an optical finish for a robust material resistant to oxidation, corrosion, and radiation.",
+    "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1Sq",
     "strType": "Item",
     "strLoot": null,
@@ -32326,7 +32344,7 @@
     "strName": "ItmWallWindow1x1SqLoose",
     "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (не закреплена)",
-    "strDesc": "Transparent aluminum panel wall. Aluminium oxynitride (ALON) is a polycrystalline ceramic made from pressurized, heat-treated powder, polished to an optical finish for a robust material resistant to oxidation, corrosion, and radiation.",
+    "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1SqLoose",
     "strType": "Item",
     "aInteractions": [
@@ -32362,7 +32380,7 @@
     "strName": "ItmWallWindow1x1SqDmg",
     "strNameShort": "Окно",
     "strNameFriendly": "Стена с окном (повреждена)",
-    "strDesc": "Transparent aluminum panel wall. Aluminium oxynitride (ALON) is a polycrystalline ceramic made from pressurized, heat-treated powder, polished to an optical finish for a robust material resistant to oxidation, corrosion, and radiation.",
+    "strDesc": "Стена из прозрачной алюминиевой панели. Оксинитрид алюминия (ALON) — это поликристаллическая керамика, изготовленная из находящегося под давлением термообработанного порошка, отполированная до оптического состояния для получения прочного материала, устойчивого к окислению, коррозии и радиации.",
     "strItemDef": "ItmWallWindow1x1Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -32973,7 +32991,7 @@
     "strName": "OutfitEVA01",
     "strNameShort": "Костюм EVA",
     "strNameFriendly": "Костюм EVA Bingham-12",
-    "strDesc": "Герметичный костюм, способный защитить пользователя от жёсткого вакуума с помощью собственного ребризера и баллона с кислородом. Даже без питания он лучше, чем ничего, примерно на четыре слоя изоляции.",
+    "strDesc": "Герметичный скафандр, способный защитить пользователя от открытого вакуума благодаря встроенной системе регенерации воздуха и баллону O2. Даже без питания он лучше, чем ничего, так как имеет четыре слоя теплоизоляции.",
     "strItemDef": "OutfitEVA01",
     "strType": "Item",
     "strLoot": "ItmPocketsEVA01",
@@ -33062,7 +33080,7 @@
     "strName": "OutfitEVA01Off",
     "strNameShort": "Костюм EVA",
     "strNameFriendly": "Костюм EVA Bingham-12 (выключен)",
-    "strDesc": "Герметичный костюм, способный защитить пользователя от жёсткого вакуума с помощью собственного ребризера и баллона с кислородом. Даже без питания он лучше, чем ничего, примерно на четыре слоя изоляции.",
+    "strDesc": "Герметичный скафандр, способный защитить пользователя от открытого вакуума благодаря встроенной системе регенерации воздуха и баллону O2. Даже без питания он лучше, чем ничего, так как имеет четыре слоя теплоизоляции.",
     "strItemDef": "OutfitEVA01",
     "strType": "Item",
     "strLoot": "ItmPocketsEVA01",
@@ -33334,7 +33352,7 @@
     "strName": "OutfitHelmet03",
     "strNameShort": "Шлем EVA",
     "strNameFriendly": "Шлем EVA Bingham-12",
-    "strDesc": "Само собой разумеется, что герметичный скафандр EVA значительно менее полезен без шлема. И всё же, по данным ISSB, за 55 лет истории освоения космоса 37 пользователей вышли в открытый космос без шлема, и все они погибли.",
+    "strDesc": "Само собой разумеется, что герметичный скафандр для внекорабельной активности (EVA) значительно менее полезен без шлема. Тем не менее, по данным ISSB, за 55 лет документированной космической колонизации 37 пользователей выходили в вакуум без шлема, и во всех случаях это привело к летальному исходу.",
     "strItemDef": "OutfitHelmet03",
     "strType": "Item",
     "strLoot": null,
@@ -33385,7 +33403,7 @@
     "strName": "OutfitHelmet03Dmg",
     "strNameShort": "Шлем EVA",
     "strNameFriendly": "Шлем EVA Bingham-12 (повреждён)",
-    "strDesc": "Само собой разумеется, что герметичный скафандр EVA значительно менее полезен без шлема. И всё же, по данным ISSB, за 55 лет истории освоения космоса 37 пользователей вышли в открытый космос без шлема, и во всех случаях это закончилось смертельным исходом.",
+    "strDesc": "Само собой разумеется, что герметичный скафандр для внекорабельной активности (EVA) значительно менее полезен без шлема. Тем не менее, по данным ISSB, за 55 лет документированной космической колонизации 37 пользователей выходили в вакуум без шлема, и во всех случаях это привело к летальному исходу.",
     "strItemDef": "OutfitHelmet03Dmg",
     "strType": "Item",
     "strLoot": null,
@@ -33435,9 +33453,9 @@
   },
   {
     "strName": "OutfitPS01",
-    "strNameShort": "Скафандр",
-    "strNameFriendly": "Скафандр \"Первопроходец\"",
-    "strDesc": "Защитный костюм \"Первопроходец\", который защитит носителя от жёсткого вакуума — и больше практически ни от чего. Внимание: запас воздуха ограничен тем, что остаётся внутри после герметизации, чего обычно хватает всего на несколько минут.",
+    "strNameShort": "Скафандр повышенного давления",
+    "strNameFriendly": "Скафандр повышенного давления",
+    "strDesc": "Защитный скафандр от Pathfinder, который изолирует владельца от открытого вакуума, но мало что может предложить сверх этого. Предупреждение: запас воздуха ограничен объемом, оставшимся внутри после герметизации, чего обычно хватает всего на несколько минут.",
     "strItemDef": "OutfitPS01",
     "strType": "Item",
     "strLoot": "ItmPocketsSpaceSuitx1",
@@ -33501,8 +33519,8 @@
   },
   {
     "strName": "OutfitPS01Dmg",
-    "strNameShort": "Скафандр",
-    "strNameFriendly": "Скафандр \"Первопроходец\" (повреждён)",
+    "strNameShort": "Скафандр повышенного давления",
+    "strNameFriendly": "Скафандр повышенного давления (Поврежден)",
     "strDesc": "Повреждённый защитный костюм \"Первопроходец\", который защитит носителя от жёсткого вакуума — и больше практически ни от чего. Внимание: запас воздуха ограничен тем, что остаётся внутри после герметизации, чего обычно хватает всего на несколько минут.",
     "strItemDef": "OutfitPS01Dmg",
     "strType": "Item",
@@ -33578,7 +33596,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsCurio=1.0x1",
@@ -33660,7 +33680,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsAyotimiwa=1.0x1",
@@ -33731,7 +33753,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsVNCA=1.0x1",
@@ -33814,7 +33838,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsUbiq=1.0x1.0",
@@ -33897,7 +33923,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsJATL=1.0x1.0",
@@ -33980,7 +34008,9 @@
       "Inventory",
       "EquipItem",
       "DropItem",
-      "PickupItem"
+      "PickupItem",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsMTRS=1.0x1.0",
@@ -34052,7 +34082,9 @@
       "EquipItem",
       "DropItem",
       "PickupItem",
-      "ENCPurpleSuit"
+      "ENCPurpleSuit",
+      "MarkAsScrap",
+      "MarkAsNotScrap"
     ],
     "aStartingConds": [
       "IsGEC=1.0x1.0",
@@ -34225,7 +34257,7 @@
   },
   {
     "strName": "PocketPDACarts01",
-    "strNameShort": "Отсек для картриджей",
+    "strNameShort": "Картриджи КПК",
     "strItemDef": "Blank",
     "strDesc": "Контейнер для картриджей.",
     "strNameFriendly": "Отсек для картриджей КПК Renbao \"Portal\"",
@@ -34368,7 +34400,7 @@
     "strNameShort": "Мешочек",
     "strItemDef": "Blank",
     "strDesc": "Небольшой мешочек.",
-    "strNameFriendly": "Небольшой мешочек",
+    "strNameFriendly": "Малый подсумок",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 1,
@@ -34431,10 +34463,10 @@
   },
   {
     "strName": "PocketHoodie01",
-    "strNameShort": "Карман худи",
+    "strNameShort": "Карманы толстовки",
     "strItemDef": "Blank",
     "strDesc": "Просторный карман на худи или куртках.",
-    "strNameFriendly": "Карман худи",
+    "strNameFriendly": "Карманы толстовки",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 1,
@@ -34555,7 +34587,7 @@
     "strName": "Compartment",
     "strNameShort": "Отсек",
     "strNameFriendly": "Отсек",
-    "strDesc": "Any room or exterior space in the world counts as a Compartment, and each will have their own tracked gas pressures and temperatures.\n\nAny Compartment with an opening to the exterior of the ship will gradually match the temperature and pressure outside.",
+    "strDesc": "Любое помещение или внешнее пространство в мире считается Отсеком, и каждый из них будет иметь собственные отслеживаемые значения давления газов и температуры.\n\nЛюбой Отсек с проемом, ведущим наружу корабля, будет постепенно выравнивать температуру и давление в соответствии с внешней средой.",
     "strItemDef": "Blank",
     "strType": "Item",
     "aInteractions": [
@@ -34588,7 +34620,7 @@
   },
   {
     "strName": "SOCBanterBreakout",
-    "strNameFriendly": "Болтовня: Прорыв",
+    "strNameFriendly": "Шутка: Побег",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,
@@ -34678,7 +34710,7 @@
   },
   {
     "strName": "SOCDefy",
-    "strNameFriendly": "Бросить вызов",
+    "strNameFriendly": "Вызов",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,
@@ -34743,7 +34775,7 @@
   },
   {
     "strName": "SOCInviteDrink",
-    "strNameFriendly": "Предложить напиток",
+    "strNameFriendly": "Пригласить на выпивку",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,
@@ -34941,9 +34973,9 @@
   },
   {
     "strName": "SysFire",
-    "strNameShort": "Fire",
-    "strNameFriendly": "Fire",
-    "strDesc": "Fire.\n\nOne of mankind's oldest, and most powerful, tools.\n\nGenerally, you don't want to see this sort of thing on a spacecraft.",
+    "strNameShort": "Огонь",
+    "strNameFriendly": "Огонь",
+    "strDesc": "Огонь.\n\nОдин из старейших и самых мощных инструментов человечества.\n\nКак правило, вы не хотите видеть подобное на космическом корабле.",
     "strItemDef": "SysFire",
     "strType": "Item",
     "aInteractions": [

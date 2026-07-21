@@ -1,0 +1,67 @@
+[
+  {
+    "strName": "StatCrimeGalConArrestWarning",
+    "strNameFriendly": "Счетчик предупреждений об аресте GalCon",
+    "strColor": "Bad",
+    "strDesc": "[us] [has] получил предупреждение об аресте данное количество раз.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0,
+    "fDuration": 0.0,
+    "bRemoveAll": true
+  },
+  {
+    "strName": "CrimeGalConArrest",
+    "strNameFriendly": "Ордер на арест GalCon",
+    "strColor": "Bad",
+    "strDesc": "У [us] [has] неопровержимый ордер на арест в Галлилейской Конфедерации.",
+    "nDisplaySelf": 2,
+    "nDisplayOther": 2,
+    "fDuration": 0.0,
+    "bRemoveAll": true,
+    "bInvert": true
+  },
+  {
+    "strName": "CrimeGalConThreat",
+    "strNameFriendly": "Враг государства GalCon",
+    "strColor": "Bad",
+    "strDesc": "[us] [is] разыскивается живым или мертвым правоохранительными органами Galilean Confederacy и [is] считается Врагом Общества.",
+    "nDisplaySelf": 2,
+    "nDisplayOther": 2,
+    "fDuration": 0.0,
+    "bRemoveAll": true,
+    "bInvert": true
+  },
+  {
+    "strName": "CrimeGalConTrespass",
+    "strNameFriendly": "Ордер GalCon за незаконное проникновение",
+    "strColor": "Bad",
+    "strDesc": "У [us] [has] неопровержимый ордер за незаконное проникновение в Галлилейской Конфедерации.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0,
+    "fDuration": 1e-05,
+    "bRemoveAll": true,
+    "aNext": [
+      "TUpCrimeGalConTrespassNext"
+    ]
+  },
+  {
+    "strName": "CrimeGalConStolenShip",
+    "strNameFriendly": "Ордер на арест GalCon за угон корабля",
+    "strColor": "Bad",
+    "strDesc": "[us] [has] действующий ордер на арест в Galilean Confederacy за угон корабля",
+    "nDisplaySelf": 2,
+    "nDisplayOther": 2,
+    "fDuration": 0.0,
+    "bRemoveAll": true
+  },
+  {
+    "strName": "CrimeGalConNoUndock",
+    "strNameFriendly": "Ордер на арест GalCon за невыполнение отстыковки",
+    "strColor": "Bad",
+    "strDesc": "[us] [has] действующий ордер на арест в Galilean Confederacy за невыполнение отшвартовки во время инспекции должностным лицом",
+    "nDisplaySelf": 2,
+    "nDisplayOther": 2,
+    "fDuration": 0.0,
+    "bRemoveAll": true
+  }
+]

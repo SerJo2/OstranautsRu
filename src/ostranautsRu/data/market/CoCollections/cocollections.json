@@ -1,7 +1,7 @@
 [
   {
     "strName": "AnyConsumerGoods",
-    "strFriendlyName": "Consumer Goods",
+    "strFriendlyName": "Потребительские товары",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -18,7 +18,7 @@
   },
   {
     "strName": "AnyControlSystems",
-    "strFriendlyName": "Control Systems",
+    "strFriendlyName": "Системы управления",
     "aCondReqs": [
       "IsCategoryControlSystems"
     ],
@@ -31,7 +31,7 @@
   },
   {
     "strName": "AnyD2O",
-    "strFriendlyName": "D2O",
+    "strFriendlyName": "Тяжелая вода (D2O)",
     "aReqPodTypes": [
       "ClimateControlled"
     ],
@@ -47,7 +47,7 @@
   },
   {
     "strName": "AnyElectronics",
-    "strFriendlyName": "Electronics",
+    "strFriendlyName": "Электроника",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -62,7 +62,7 @@
   },
   {
     "strName": "AnyFood",
-    "strFriendlyName": "Food",
+    "strFriendlyName": "Еда",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -78,7 +78,7 @@
   },
   {
     "strName": "AnyFurniture",
-    "strFriendlyName": "Furniture",
+    "strFriendlyName": "Мебель",
     "aCondReqs": [
       "IsCategoryFurniture"
     ],
@@ -90,7 +90,7 @@
   },
   {
     "strName": "AnyFusionParts",
-    "strFriendlyName": "Fusion Parts",
+    "strFriendlyName": "Запчасти для термоядерных реакторов",
     "aReqPodTypes": [
       "ClimateControlled"
     ],
@@ -105,7 +105,7 @@
   },
   {
     "strName": "AnyHe3",
-    "strFriendlyName": "He3",
+    "strFriendlyName": "Гелий-3",
     "aReqPodTypes": [
       "ClimateControlled"
     ],
@@ -120,7 +120,7 @@
   },
   {
     "strName": "AnyHull",
-    "strFriendlyName": "Hull Parts",
+    "strFriendlyName": "Корпусные детали",
     "aCondReqs": [
       "IsCategoryHull"
     ],
@@ -132,7 +132,7 @@
   },
   {
     "strName": "AnyHVAC",
-    "strFriendlyName": "HVAC",
+    "strFriendlyName": "ОВиКВ",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -147,7 +147,7 @@
   },
   {
     "strName": "AnyIndustrialProducts",
-    "strFriendlyName": "Industrial Products",
+    "strFriendlyName": "Промышленная продукция",
     "aCondReqs": [
       "IsCategoryIndustrialProducts"
     ],
@@ -159,7 +159,7 @@
   },
   {
     "strName": "AnyIntoxicants",
-    "strFriendlyName": "Intoxicants",
+    "strFriendlyName": "Одурманивающие вещества",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -175,7 +175,7 @@
   },
   {
     "strName": "AnyLifeSupport",
-    "strFriendlyName": "Life Support Goods",
+    "strFriendlyName": "Товары для жизнеобеспечения",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -191,7 +191,7 @@
   },
   {
     "strName": "AnyLuxuryGoods",
-    "strFriendlyName": "Luxury Goods",
+    "strFriendlyName": "Предметы роскоши",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -207,7 +207,7 @@
   },
   {
     "strName": "AnyMedia",
-    "strFriendlyName": "Media",
+    "strFriendlyName": "Медиа",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -222,7 +222,7 @@
   },
   {
     "strName": "AnyMedical",
-    "strFriendlyName": "Medical Items",
+    "strFriendlyName": "Медицинские товары",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -238,7 +238,7 @@
   },
   {
     "strName": "AnyMetal",
-    "strFriendlyName": "Metals",
+    "strFriendlyName": "Металлы",
     "aCondReqs": [
       "IsCategoryMetals"
     ],
@@ -250,7 +250,7 @@
   },
   {
     "strName": "AnyOres",
-    "strFriendlyName": "Ores",
+    "strFriendlyName": "Руды",
     "aCondReqs": [
       "IsCategoryOre"
     ],
@@ -262,7 +262,7 @@
   },
   {
     "strName": "AnyPlastics",
-    "strFriendlyName": "Plastics",
+    "strFriendlyName": "Пластмассы",
     "aReqPodTypes": [
       "ClimateControlled"
     ],
@@ -277,7 +277,7 @@
   },
   {
     "strName": "AnyScience",
-    "strFriendlyName": "Science",
+    "strFriendlyName": "Научное оборудование",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -293,7 +293,7 @@
   },
   {
     "strName": "AnySensors",
-    "strFriendlyName": "Sensor Components",
+    "strFriendlyName": "Компоненты датчиков",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -308,7 +308,7 @@
   },
   {
     "strName": "AnySpaceSuits",
-    "strFriendlyName": "Space Suits",
+    "strFriendlyName": "Скафандры",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -323,7 +323,7 @@
   },
   {
     "strName": "AnyTextiles",
-    "strFriendlyName": "Textiles",
+    "strFriendlyName": "Текстиль",
     "aReqPodTypes": [
       "RadShielded"
     ],
@@ -338,7 +338,7 @@
   },
   {
     "strName": "AnyTrash",
-    "strFriendlyName": "Trash",
+    "strFriendlyName": "Мусор",
     "aCondReqs": [
       "IsCategoryTrash"
     ],
@@ -350,7 +350,7 @@
   },
   {
     "strName": "AnyTools",
-    "strFriendlyName": "Tools",
+    "strFriendlyName": "Инструменты",
     "aCondReqs": [
       "IsCategoryTools"
     ],
@@ -362,7 +362,7 @@
   },
   {
     "strName": "AnyVolatiles",
-    "strFriendlyName": "Volatiles",
+    "strFriendlyName": "Летучие вещества",
     "aReqPodTypes": [
       "ClimateControlled"
     ],
@@ -377,7 +377,7 @@
   },
   {
     "strName": "AnyWater",
-    "strFriendlyName": "Water",
+    "strFriendlyName": "Вода",
     "aReqPodTypes": [
       "ClimateControlled",
       "RadShielded"
@@ -393,7 +393,7 @@
   },
   {
     "strName": "AnyWeapons",
-    "strFriendlyName": "Weapons",
+    "strFriendlyName": "Оружие",
     "aReqPodTypes": [
       "RadShielded"
     ],

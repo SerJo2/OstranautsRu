@@ -1,7 +1,7 @@
 [
   {
     "strName": "ItmWallAERO01",
-    "strNameFriendly": "Wall: Testudo \"Aero Series\"",
+    "strNameFriendly": "Стена: Testudo \"Aero Series\"",
     "strImg": "tiles/ItmWallBlueCaution01Sheet",
     "strImgNorm": "tiles/ItmWallBlueCaution01Sheetn",
     "strPortraitImg": "tiles/ItmWallBlueCaution01",
@@ -20,7 +20,7 @@
   },
   {
     "strName": "ItmWallAERO01Dmg",
-    "strNameFriendly": "Wall (Damaged): Testudo \"Aero Series\"",
+    "strNameFriendly": "Стена (Повреждена): Testudo \"Aero Series\"",
     "strImg": "tiles/ItmWallBlueCaution01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallBlueCaution01Dmg",
@@ -39,7 +39,7 @@
   },
   {
     "strName": "ItmWallAERO01Loose",
-    "strNameFriendly": "Wall (Loose): Testudo \"Aero Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Testudo \"Aero Series\"",
     "strImg": "tiles/ItmWallBlueCaution01Loose",
     "strImgNorm": "tiles/ItmWallBlueCaution01Loosen",
     "strPortraitImg": "tiles/ItmWallBlueCaution01Loose",
@@ -62,7 +62,7 @@
   },
   {
     "strName": "ItmWallAERO01Patch",
-    "strNameFriendly": "Wall (Patched): Testudo \"Aero Series\"",
+    "strNameFriendly": "Стена (Заплатка): Testudo \"Aero Series\"",
     "strImg": "tiles/ItmWallBlueCaution01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallBlueCaution01Patch",
@@ -81,7 +81,7 @@
   },
   {
     "strName": "ItmWallAERO01b",
-    "strNameFriendly": "Wall: Testudo \"Aero II Series\"",
+    "strNameFriendly": "Стена: Testudo \"Aero II Series\"",
     "strImg": "tiles/ItmWallYellowCaution01Sheet",
     "strImgNorm": "tiles/ItmWallBlueCaution01Sheetn",
     "strPortraitImg": "tiles/ItmWallYellowCaution01",
@@ -100,7 +100,7 @@
   },
   {
     "strName": "ItmWallAERO01bDmg",
-    "strNameFriendly": "Wall (Damaged): Testudo \"Aero II Series\"",
+    "strNameFriendly": "Стена (Повреждена): Testudo \"Aero II Series\"",
     "strImg": "tiles/ItmWallYellowCaution01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallYellowCaution01Dmg",
@@ -119,7 +119,7 @@
   },
   {
     "strName": "ItmWallAERO01bLoose",
-    "strNameFriendly": "Wall (Loose): Testudo \"Aero II Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Testudo \"Aero II Series\"",
     "strImg": "tiles/ItmWallYellowCaution01Loose",
     "strImgNorm": "tiles/ItmWallBlueCaution01Loosen",
     "strPortraitImg": "tiles/ItmWallYellowCaution01Loose",
@@ -142,7 +142,7 @@
   },
   {
     "strName": "ItmWallAERO01bPatch",
-    "strNameFriendly": "Wall (Patched): Testudo \"Aero II Series\"",
+    "strNameFriendly": "Стена (Заплатка): Testudo \"Aero II Series\"",
     "strImg": "tiles/ItmWallYellowCaution01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallYellowCaution01Patch",
@@ -161,7 +161,7 @@
   },
   {
     "strName": "ItmWallAERO02",
-    "strNameFriendly": "Wall: Testudo \"LA Series\"",
+    "strNameFriendly": "Стена: Testudo \"LA Series\"",
     "strImg": "tiles/ItmWallGrayCaution01Sheet",
     "strImgNorm": "tiles/ItmWallGrayCaution01Sheetn",
     "strPortraitImg": "tiles/ItmWallGrayCaution01",
@@ -180,7 +180,7 @@
   },
   {
     "strName": "ItmWallAERO02Dmg",
-    "strNameFriendly": "Wall (Damaged): Testudo \"LA Series\"",
+    "strNameFriendly": "Стена (Повреждена): Testudo \"LA Series\"",
     "strImg": "tiles/ItmWallGrayCaution01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallGrayCaution01Dmg",
@@ -199,7 +199,7 @@
   },
   {
     "strName": "ItmWallAERO02Loose",
-    "strNameFriendly": "Wall (Loose): Testudo \"LA Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Testudo \"LA Series\"",
     "strImg": "tiles/ItmWallGrayCaution01Loose",
     "strImgNorm": "tiles/ItmWallGrayCaution01Loosen",
     "strPortraitImg": "tiles/ItmWallGrayCaution01Loose",
@@ -222,7 +222,7 @@
   },
   {
     "strName": "ItmWallAERO02Patch",
-    "strNameFriendly": "Wall (Patched): Testudo \"LA Series\"",
+    "strNameFriendly": "Стена (Заплатка): Testudo \"LA Series\"",
     "strImg": "tiles/ItmWallGrayCaution01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallGrayCaution01Patch",
@@ -241,7 +241,7 @@
   },
   {
     "strName": "ItmWallCAYL02",
-    "strNameFriendly": "Wall: Caylon \"DuraWal Interior Green Series\"",
+    "strNameFriendly": "Стена: Caylon \"DuraWal Interior Green Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt02Sheet",
     "strImgNorm": "tiles/FloorGrate12/ItmWallAeroInt01Sheetn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt02",
@@ -260,7 +260,7 @@
   },
   {
     "strName": "ItmWallCAYL02Dmg",
-    "strNameFriendly": "Wall (Damaged): Caylon \"DuraWal Interior Green Series\"",
+    "strNameFriendly": "Стена (Повреждена): Caylon \"DuraWal Interior Green Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt02Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt02Dmg",
@@ -279,7 +279,7 @@
   },
   {
     "strName": "ItmWallCAYL02Loose",
-    "strNameFriendly": "Wall (Loose): Caylon \"DuraWal Interior Green Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Caylon \"DuraWal Interior Green Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt02Loose",
     "strImgNorm": "tiles/ItmWallLoosen",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt02Loose",
@@ -302,7 +302,7 @@
   },
   {
     "strName": "ItmWallCAYL02Patch",
-    "strNameFriendly": "Wall (Patched): Caylon \"DuraWal Interior Green Series\"",
+    "strNameFriendly": "Стена (Заплатка): Caylon \"DuraWal Interior Green Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt02Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt02Patch",
@@ -321,7 +321,7 @@
   },
   {
     "strName": "ItmWallCAYL03",
-    "strNameFriendly": "Wall: Caylon \"DuraWal Interior Orange Series\"",
+    "strNameFriendly": "Стена: Caylon \"DuraWal Interior Orange Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt03Sheet",
     "strImgNorm": "tiles/FloorGrate12/ItmWallAeroInt01Sheetn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt03",
@@ -340,7 +340,7 @@
   },
   {
     "strName": "ItmWallCAYL03Dmg",
-    "strNameFriendly": "Wall (Damaged): Caylon \"DuraWal Interior Orange Series\"",
+    "strNameFriendly": "Стена (Повреждена): Caylon \"DuraWal Interior Orange Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt03Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt03Dmg",
@@ -359,7 +359,7 @@
   },
   {
     "strName": "ItmWallCAYL03Loose",
-    "strNameFriendly": "Wall (Loose): Caylon \"DuraWal Interior Orange Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Caylon \"DuraWal Interior Orange Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt03Loose",
     "strImgNorm": "tiles/ItmWallLoosen",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt03Loose",
@@ -382,7 +382,7 @@
   },
   {
     "strName": "ItmWallCAYL03Patch",
-    "strNameFriendly": "Wall (Patched): Caylon \"DuraWal Interior Orange Series\"",
+    "strNameFriendly": "Стена (Заплатка): Caylon \"DuraWal Interior Orange Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt03Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt03Patch",
@@ -401,7 +401,7 @@
   },
   {
     "strName": "ItmWallCAYL04",
-    "strNameFriendly": "Wall: Caylon \"DuraWal Interior Red Series\"",
+    "strNameFriendly": "Стена: Caylon \"DuraWal Interior Red Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt04Sheet",
     "strImgNorm": "tiles/FloorGrate12/ItmWallAeroInt01Sheetn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt04",
@@ -420,7 +420,7 @@
   },
   {
     "strName": "ItmWallCAYL04Dmg",
-    "strNameFriendly": "Wall (Damaged): Caylon \"DuraWal Interior Red Series\"",
+    "strNameFriendly": "Стена (Повреждена): Caylon \"DuraWal Interior Red Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt04Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt04Dmg",
@@ -439,7 +439,7 @@
   },
   {
     "strName": "ItmWallCAYL04Loose",
-    "strNameFriendly": "Wall (Loose): Caylon \"DuraWal Interior Red Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Caylon \"DuraWal Interior Red Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt04Loose",
     "strImgNorm": "tiles/ItmWallLoosen",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt04Loose",
@@ -462,7 +462,7 @@
   },
   {
     "strName": "ItmWallCAYL04Patch",
-    "strNameFriendly": "Wall (Patched): Caylon \"DuraWal Exterior Series\"",
+    "strNameFriendly": "Стена (Заплатка): Caylon \"DuraWal Exterior Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroInt04Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroInt04Patch",
@@ -481,7 +481,7 @@
   },
   {
     "strName": "ItmWallCAYL05",
-    "strNameFriendly": "Wall: Caylon \"DuraWal Exterior Series\"",
+    "strNameFriendly": "Стена: Caylon \"DuraWal Exterior Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Sheet",
     "strImgNorm": "tiles/FloorGrate12/ItmWallAeroExtWhite01Sheetn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01",
@@ -500,7 +500,7 @@
   },
   {
     "strName": "ItmWallCAYL05Dmg",
-    "strNameFriendly": "Wall (Damaged): Caylon \"DuraWal Exterior Series\"",
+    "strNameFriendly": "Стена (Повреждена): Caylon \"DuraWal Exterior Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Dmg",
@@ -519,7 +519,7 @@
   },
   {
     "strName": "ItmWallCAYL05Loose",
-    "strNameFriendly": "Wall (Loose): Caylon \"DuraWal Exterior Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Caylon \"DuraWal Exterior Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Loose",
     "strImgNorm": "tiles/ItmWallLoosen",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Loose",
@@ -542,7 +542,7 @@
   },
   {
     "strName": "ItmWallCAYL05Patch",
-    "strNameFriendly": "Wall (Patched): Caylon \"DuraWal Exterior Series\"",
+    "strNameFriendly": "Стена (Заплатка): Caylon \"DuraWal Exterior Series\"",
     "strImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/FloorGrate12/ItmWallAeroExtWhite01Patch",
@@ -561,7 +561,7 @@
   },
   {
     "strName": "ItmWallLDPH01",
-    "strNameFriendly": "Wall: Langdon-Phillips \"Glory Series\"",
+    "strNameFriendly": "Стена: Langdon-Phillips \"Glory Series\"",
     "strImg": "tiles/ItmWallGreenRing01Sheet",
     "strImgNorm": "tiles/ItmWallGreenRing01Sheetn",
     "strPortraitImg": "tiles/ItmWallGreenRing01",
@@ -580,7 +580,7 @@
   },
   {
     "strName": "ItmWallLDPH01Dmg",
-    "strNameFriendly": "Wall (Damaged): Langdon-Phillips \"Glory Series\"",
+    "strNameFriendly": "Стена (Повреждена): Langdon-Phillips \"Glory Series\"",
     "strImg": "tiles/ItmWallGreenRing01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallGreenRing01Dmg",
@@ -599,7 +599,7 @@
   },
   {
     "strName": "ItmWallLDPH01Loose",
-    "strNameFriendly": "Wall (Loose): Langdon-Phillips \"Glory Series\"",
+    "strNameFriendly": "Стена (Ослаблена): Langdon-Phillips \"Glory Series\"",
     "strImg": "tiles/ItmWallGreenRing01Loose",
     "strImgNorm": "tiles/ItmWallGreenRing01Loosen",
     "strPortraitImg": "tiles/ItmWallGreenRing01Loose",
@@ -622,7 +622,7 @@
   },
   {
     "strName": "ItmWallLDPH01Patch",
-    "strNameFriendly": "Wall (Patched): Langdon-Phillips \"Glory Series\"",
+    "strNameFriendly": "Стена (Заплатка): Langdon-Phillips \"Glory Series\"",
     "strImg": "tiles/ItmWallGreenRing01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallGreenRing01Patch",
@@ -641,7 +641,7 @@
   },
   {
     "strName": "ItmWallMSHG01",
-    "strNameFriendly": "Wall: Minsheng \"和平 Series\"",
+    "strNameFriendly": "Стена: Minsheng \"和平 Series\"",
     "strImg": "tiles/ItmWallGreenCross01Sheet",
     "strImgNorm": "tiles/ItmWallGreenCross01Sheetn",
     "strPortraitImg": "tiles/ItmWallGreenCross01",
@@ -660,7 +660,7 @@
   },
   {
     "strName": "ItmWallMSHG01Dmg",
-    "strNameFriendly": "Wall (Damaged): Minsheng \"和平 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Minsheng \"和平 Series\"",
     "strImg": "tiles/ItmWallGreenCross01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallGreenCross01Dmg",
@@ -679,7 +679,7 @@
   },
   {
     "strName": "ItmWallMSHG01Loose",
-    "strNameFriendly": "Wall (Loose): Minsheng \"和平 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Minsheng \"和平 Series\"",
     "strImg": "tiles/ItmWallGreenCross01Loose",
     "strImgNorm": "tiles/ItmWallGreenCross01Loosen",
     "strPortraitImg": "tiles/ItmWallGreenCross01Loose",
@@ -702,7 +702,7 @@
   },
   {
     "strName": "ItmWallMSHG01Patch",
-    "strNameFriendly": "Wall (Patched): Minsheng \"和平 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Minsheng \"和平 Series\"",
     "strImg": "tiles/ItmWallGreenCross01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallGreenCross01Patch",
@@ -721,7 +721,7 @@
   },
   {
     "strName": "ItmWallMSHG02",
-    "strNameFriendly": "Wall: Minsheng \"昌盛 Series\"",
+    "strNameFriendly": "Стена: Minsheng \"昌盛 Series\"",
     "strImg": "tiles/ItmWallRedCross01Sheet",
     "strImgNorm": "tiles/ItmWallGreenCross01Sheetn",
     "strPortraitImg": "tiles/ItmWallRedCross01",
@@ -740,7 +740,7 @@
   },
   {
     "strName": "ItmWallMSHG02Dmg",
-    "strNameFriendly": "Wall (Damaged): Minsheng \"昌盛 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Minsheng \"昌盛 Series\"",
     "strImg": "tiles/ItmWallRedCross01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallRedCross01Dmg",
@@ -759,7 +759,7 @@
   },
   {
     "strName": "ItmWallMSHG02Loose",
-    "strNameFriendly": "Wall (Loose): Minsheng \"昌盛 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Minsheng \"昌盛 Series\"",
     "strImg": "tiles/ItmWallRedCross01Loose",
     "strImgNorm": "tiles/ItmWallGreenCross01Loosen",
     "strPortraitImg": "tiles/ItmWallRedCross01Loose",
@@ -782,7 +782,7 @@
   },
   {
     "strName": "ItmWallMSHG02Patch",
-    "strNameFriendly": "Wall (Patched): Minsheng \"昌盛 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Minsheng \"昌盛 Series\"",
     "strImg": "tiles/ItmWallRedCross01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallRedCross01Patch",
@@ -801,7 +801,7 @@
   },
   {
     "strName": "ItmWallMSHG03",
-    "strNameFriendly": "Wall: Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена: Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallPurpleCross01Sheet",
     "strImgNorm": "tiles/ItmWallGreenCross01Sheetn",
     "strPortraitImg": "tiles/ItmWallPurpleCross01",
@@ -820,7 +820,7 @@
   },
   {
     "strName": "ItmWallMSHG03Dmg",
-    "strNameFriendly": "Wall (Damaged): Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallPurpleCross01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallPurpleCross01Dmg",
@@ -839,7 +839,7 @@
   },
   {
     "strName": "ItmWallMSHG03Loose",
-    "strNameFriendly": "Wall (Loose): Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallPurpleCross01Loose",
     "strImgNorm": "tiles/ItmWallGreenCross01Loosen",
     "strPortraitImg": "tiles/ItmWallPurpleCross01Loose",
@@ -862,7 +862,7 @@
   },
   {
     "strName": "ItmWallMSHG03Patch",
-    "strNameFriendly": "Wall (Patched): Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallPurpleCross01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallPurpleCross01Patch",
@@ -881,7 +881,7 @@
   },
   {
     "strName": "ItmWallMSHG04",
-    "strNameFriendly": "Wall: Minsheng \"纯度 Series\"",
+    "strNameFriendly": "Стена: Minsheng \"纯度 Series\"",
     "strImg": "tiles/ItmWallWhiteCross01Sheet",
     "strImgNorm": "tiles/ItmWallGreenCross01Sheetn",
     "strPortraitImg": "tiles/ItmWallWhiteCross01",
@@ -900,7 +900,7 @@
   },
   {
     "strName": "ItmWallMSHG04Dmg",
-    "strNameFriendly": "Wall (Damaged): Minsheng \"纯度 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Minsheng \"纯度 Series\"",
     "strImg": "tiles/ItmWallWhiteCross01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallWhiteCross01Dmg",
@@ -919,7 +919,7 @@
   },
   {
     "strName": "ItmWallMSHG04Loose",
-    "strNameFriendly": "Wall (Loose): Minsheng \"纯度 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Minsheng \"纯度 Series\"",
     "strImg": "tiles/ItmWallWhiteCross01Loose",
     "strImgNorm": "tiles/ItmWallGreenCross01Loosen",
     "strPortraitImg": "tiles/ItmWallWhiteCross01Loose",
@@ -942,7 +942,7 @@
   },
   {
     "strName": "ItmWallMSHG04Patch",
-    "strNameFriendly": "Wall (Patched): Minsheng \"纯度 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Minsheng \"纯度 Series\"",
     "strImg": "tiles/ItmWallWhiteCross01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallWhiteCross01Patch",
@@ -961,7 +961,7 @@
   },
   {
     "strName": "ItmWallMSHG05",
-    "strNameFriendly": "Wall: Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена: Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallGrayCross01Sheet",
     "strImgNorm": "tiles/ItmWallGreenCross01Sheetn",
     "strPortraitImg": "tiles/ItmWallGrayCross01",
@@ -980,7 +980,7 @@
   },
   {
     "strName": "ItmWallMSHG05Dmg",
-    "strNameFriendly": "Wall (Damaged): Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallGrayCross01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallGrayCross01Dmg",
@@ -999,7 +999,7 @@
   },
   {
     "strName": "ItmWallMSHG05Loose",
-    "strNameFriendly": "Wall (Loose): Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallGrayCross01Loose",
     "strImgNorm": "tiles/ItmWallGreenCross01Loosen",
     "strPortraitImg": "tiles/ItmWallGrayCross01Loose",
@@ -1022,7 +1022,7 @@
   },
   {
     "strName": "ItmWallMSHG05Patch",
-    "strNameFriendly": "Wall (Patched): Minsheng \"神仙 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Minsheng \"神仙 Series\"",
     "strImg": "tiles/ItmWallGrayCross01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallGrayCross01Patch",
@@ -1041,7 +1041,7 @@
   },
   {
     "strName": "ItmWallMSSLFWhite",
-    "strNameFriendly": "Wall: Mobile Space Systems \"Light Framework\"",
+    "strNameFriendly": "Стена: Mobile Space Systems \"Light Framework\"",
     "strImg": "tiles/ItmWallPanelWSheet",
     "strImgNorm": "tiles/ItmWallPanelWSheetn",
     "strPortraitImg": "tiles/ItmWallPanelW",
@@ -1060,7 +1060,7 @@
   },
   {
     "strName": "ItmWallMSSLFWhiteDmg",
-    "strNameFriendly": "Wall (Damaged): Mobile Space Systems \"Light Framework\"",
+    "strNameFriendly": "Стена (Повреждена): Mobile Space Systems \"Light Framework\"",
     "strImg": "tiles/ItmWallPanelWDmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallPanelWDmg",
@@ -1079,7 +1079,7 @@
   },
   {
     "strName": "ItmWallMSSLFWhiteLoose",
-    "strNameFriendly": "Wall (Loose): Mobile Space Systems \"Light Framework\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Mobile Space Systems \"Light Framework\"",
     "strImg": "tiles/ItmWallPanelWLoose",
     "strImgNorm": "tiles/ItmWallPanelWLoosen",
     "strPortraitImg": "tiles/ItmWallPanelWLoose",
@@ -1102,7 +1102,7 @@
   },
   {
     "strName": "ItmWallMSSLFWhitePatch",
-    "strNameFriendly": "Wall (Patched): Mobile Space Systems \"Light Framework\"",
+    "strNameFriendly": "Стена (Заплатка): Mobile Space Systems \"Light Framework\"",
     "strImg": "tiles/ItmWallPanelWPatch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallPanelWPatch",
@@ -1121,7 +1121,7 @@
   },
   {
     "strName": "ItmWallRYOB01",
-    "strNameFriendly": "Wall: Ryokka \"B-01\"",
+    "strNameFriendly": "Стена: Ryokka \"B-01\"",
     "strImg": "tiles/ItmWallMetalBSheet",
     "strImgNorm": "tiles/ItmWallMetalBSheetn",
     "strPortraitImg": "tiles/ItmWallMetalB",
@@ -1140,7 +1140,7 @@
   },
   {
     "strName": "ItmWallRYOB01Dmg",
-    "strNameFriendly": "Wall (Damaged): Ryokka \"B-01\"",
+    "strNameFriendly": "Стена (Повреждена): Ryokka \"B-01\"",
     "strImg": "tiles/ItmWallMetalBDmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallMetalBDmg",
@@ -1159,7 +1159,7 @@
   },
   {
     "strName": "ItmWallRYOB01Loose",
-    "strNameFriendly": "Wall (Loose): Ryokka \"B-01\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Ryokka \"B-01\"",
     "strImg": "tiles/ItmWallMetalBLoose",
     "strImgNorm": "tiles/ItmWallMetalBLoosen",
     "strPortraitImg": "tiles/ItmWallMetalBLoose",
@@ -1182,7 +1182,7 @@
   },
   {
     "strName": "ItmWallRYOB01Patch",
-    "strNameFriendly": "Wall (Patched): Ryokka \"B-01\"",
+    "strNameFriendly": "Стена (Заплатка): Ryokka \"B-01\"",
     "strImg": "tiles/ItmWallMetalBPatch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallMetalBPatch",
@@ -1201,7 +1201,7 @@
   },
   {
     "strName": "ItmWallRYOB02",
-    "strNameFriendly": "Wall: Ryokka \"B-02\"",
+    "strNameFriendly": "Стена: Ryokka \"B-02\"",
     "strImg": "tiles/ItmWallGrayBevel01Sheet",
     "strImgNorm": "tiles/ItmWallGrayBevel01Sheetn",
     "strPortraitImg": "tiles/ItmWallGrayBevel01",
@@ -1220,7 +1220,7 @@
   },
   {
     "strName": "ItmWallRYOB02Dmg",
-    "strNameFriendly": "Wall (Damaged): Ryokka \"B-02\"",
+    "strNameFriendly": "Стена (Повреждена): Ryokka \"B-02\"",
     "strImg": "tiles/ItmWallGrayBevel01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallGrayBevel01Dmg",
@@ -1239,7 +1239,7 @@
   },
   {
     "strName": "ItmWallRYOB02Loose",
-    "strNameFriendly": "Wall (Loose): Ryokka \"B-02\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Ryokka \"B-02\"",
     "strImg": "tiles/ItmWallGrayBevel01Loose",
     "strImgNorm": "tiles/ItmWallGrayBevel01Loosen",
     "strPortraitImg": "tiles/ItmWallGrayBevel01Loose",
@@ -1262,7 +1262,7 @@
   },
   {
     "strName": "ItmWallRYOB02Patch",
-    "strNameFriendly": "Wall (Patched): Ryokka \"B-02\"",
+    "strNameFriendly": "Стена (Заплатка): Ryokka \"B-02\"",
     "strImg": "tiles/ItmWallGrayBevel01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallGrayBevel01Patch",
@@ -1281,7 +1281,7 @@
   },
   {
     "strName": "ItmWallTSDO01",
-    "strNameFriendly": "Wall: Testudo \"55 Series\"",
+    "strNameFriendly": "Стена: Testudo \"55 Series\"",
     "strImg": "tiles/ItmWallGrayPanel01Sheet",
     "strImgNorm": "tiles/ItmWallGrayPanel01Sheetn",
     "strPortraitImg": "tiles/ItmWallGrayPanel01",
@@ -1300,7 +1300,7 @@
   },
   {
     "strName": "ItmWallTSDO01Dmg",
-    "strNameFriendly": "Wall (Damaged): Testudo \"55 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Testudo \"55 Series\"",
     "strImg": "tiles/ItmWallGrayPanel01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallGrayPanel01Dmg",
@@ -1319,7 +1319,7 @@
   },
   {
     "strName": "ItmWallTSDO01Loose",
-    "strNameFriendly": "Wall (Loose): Testudo \"55 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Testudo \"55 Series\"",
     "strImg": "tiles/ItmWallGrayPanel01Loose",
     "strImgNorm": "tiles/ItmWallGrayPanel01Loosen",
     "strPortraitImg": "tiles/ItmWallGrayPanel01Loose",
@@ -1342,7 +1342,7 @@
   },
   {
     "strName": "ItmWallTSDO01Patch",
-    "strNameFriendly": "Wall (Patched): Testudo \"55 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Testudo \"55 Series\"",
     "strImg": "tiles/ItmWallGrayPanel01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallGrayPanel01Patch",
@@ -1361,7 +1361,7 @@
   },
   {
     "strName": "ItmWallTSDO44",
-    "strNameFriendly": "Wall: Testudo \"44 Series\"",
+    "strNameFriendly": "Стена: Testudo \"44 Series\"",
     "strImg": "tiles/ItmWallTanOrange01Sheet",
     "strImgNorm": "tiles/ItmWallTanOrange01Sheetn",
     "strPortraitImg": "tiles/ItmWallTanOrange01",
@@ -1380,7 +1380,7 @@
   },
   {
     "strName": "ItmWallTSDO44Dmg",
-    "strNameFriendly": "Wall (Damaged): Testudo \"44 Series\"",
+    "strNameFriendly": "Стена (Повреждена): Testudo \"44 Series\"",
     "strImg": "tiles/ItmWallTanOrange01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallTanOrange01Dmg",
@@ -1399,7 +1399,7 @@
   },
   {
     "strName": "ItmWallTSDO44Loose",
-    "strNameFriendly": "Wall (Loose): Testudo \"44 Series\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Testudo \"44 Series\"",
     "strImg": "tiles/ItmWallTanOrange01Loose",
     "strImgNorm": "tiles/ItmWallTanOrange01Loosen",
     "strPortraitImg": "tiles/ItmWallTanOrange01Loose",
@@ -1422,7 +1422,7 @@
   },
   {
     "strName": "ItmWallTSDO44Patch",
-    "strNameFriendly": "Wall (Patched): Testudo \"44 Series\"",
+    "strNameFriendly": "Стена (Заплатка): Testudo \"44 Series\"",
     "strImg": "tiles/ItmWallTanOrange01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallTanOrange01Patch",
@@ -1441,7 +1441,7 @@
   },
   {
     "strName": "ItmWallVHRB",
-    "strNameFriendly": "Wall: Van Hummel \"Banner\"",
+    "strNameFriendly": "Стена: Van Hummel \"Banner\"",
     "strImg": "tiles/ItmWallRedBand01Sheet",
     "strImgNorm": "tiles/ItmWallRedBand01Sheetn",
     "strPortraitImg": "tiles/ItmWallRedBand01",
@@ -1460,7 +1460,7 @@
   },
   {
     "strName": "ItmWallVHRBDmg",
-    "strNameFriendly": "Wall (Damaged): Van Hummel \"Banner\"",
+    "strNameFriendly": "Стена (Повреждена): Van Hummel \"Banner\"",
     "strImg": "tiles/ItmWallRedBand01Dmg",
     "strImgNorm": "tiles/ItmWallDmgn",
     "strPortraitImg": "tiles/ItmWallRedBand01Dmg",
@@ -1479,7 +1479,7 @@
   },
   {
     "strName": "ItmWallVHRBLoose",
-    "strNameFriendly": "Wall (Loose): Van Hummel \"Banner\"",
+    "strNameFriendly": "Стена (Ослаблено крепление): Van Hummel \"Banner\"",
     "strImg": "tiles/ItmWallRedBand01Loose",
     "strImgNorm": "tiles/ItmWallRedBand01Loosen",
     "strPortraitImg": "tiles/ItmWallRedBand01Loose",
@@ -1502,7 +1502,7 @@
   },
   {
     "strName": "ItmWallVHRBPatch",
-    "strNameFriendly": "Wall (Patched): Van Hummel \"Banner\"",
+    "strNameFriendly": "Стена (Заплатка): Van Hummel \"Banner\"",
     "strImg": "tiles/ItmWallRedBand01Patch",
     "strImgNorm": "tiles/ItmWallPatchn",
     "strPortraitImg": "tiles/ItmWallRedBand01Patch",
@@ -1521,7 +1521,7 @@
   },
   {
     "strName": "ItmWallThin1x102",
-    "strNameFriendly": "Whipple Framework: Testudo \"Grass Series\"",
+    "strNameFriendly": "Каркас Whipple: Testudo \"Grass Series\"",
     "strImg": "tiles/ItmWallThin1x1GreenSheet",
     "strImgNorm": "tiles/ItmWallThin1x1Sheetn",
     "strPortraitImg": "tiles/ItmWallThin1x1Green",
@@ -1536,7 +1536,7 @@
   },
   {
     "strName": "ItmWallThin1x102Loose",
-    "strNameFriendly": "Whipple Framework (Loose): Testudo \"Grass Series\"",
+    "strNameFriendly": "Каркас Whipple (Ослабленный): Testudo \"Grass Series\"",
     "strImg": "tiles/ItmWallThin1x1GreenLoose",
     "strImgNorm": "tiles/ItmWallThin1x1Loosen",
     "strPortraitImg": "tiles/ItmWallThin1x1GreenLoose",
@@ -1555,7 +1555,7 @@
   },
   {
     "strName": "ItmWallThin1x103",
-    "strNameFriendly": "Whipple Framework: Testudo \"Sand Series\"",
+    "strNameFriendly": "Каркас Whipple: Testudo \"Sand Series\"",
     "strImg": "tiles/ItmWallThin1x1OrangeSheet",
     "strImgNorm": "tiles/ItmWallThin1x1Sheetn",
     "strPortraitImg": "tiles/ItmWallThin1x1Orange",
@@ -1570,7 +1570,7 @@
   },
   {
     "strName": "ItmWallThin1x103Loose",
-    "strNameFriendly": "Whipple Framework (Loose): Testudo \"Sand Series\"",
+    "strNameFriendly": "Каркас Whipple (Ослабленный): Testudo \"Sand Series\"",
     "strImg": "tiles/ItmWallThin1x1OrangeLoose",
     "strImgNorm": "tiles/ItmWallThin1x1Loosen",
     "strPortraitImg": "tiles/ItmWallThin1x1OrangeLoose",
@@ -1589,7 +1589,7 @@
   },
   {
     "strName": "ItmWallThin1x104",
-    "strNameFriendly": "Whipple Framework: Testudo \"Fire Series\"",
+    "strNameFriendly": "Каркас Whipple: Testudo \"Fire Series\"",
     "strImg": "tiles/ItmWallThin1x1RedSheet",
     "strImgNorm": "tiles/ItmWallThin1x1Sheetn",
     "strPortraitImg": "tiles/ItmWallThin1x1Red",
@@ -1604,7 +1604,7 @@
   },
   {
     "strName": "ItmWallThin1x104Loose",
-    "strNameFriendly": "Whipple Framework (Loose): Testudo \"Fire Series\"",
+    "strNameFriendly": "Каркас Whipple (Ослабленный): Testudo \"Fire Series\"",
     "strImg": "tiles/ItmWallThin1x1RedLoose",
     "strImgNorm": "tiles/ItmWallThin1x1Loosen",
     "strPortraitImg": "tiles/ItmWallThin1x1RedLoose",
@@ -1623,7 +1623,7 @@
   },
   {
     "strName": "ItmWallThin1x105",
-    "strNameFriendly": "Whipple Framework: Testudo \"Sun Series\"",
+    "strNameFriendly": "Каркас Whipple: Testudo \"Sun Series\"",
     "strImg": "tiles/ItmWallThin1x1YellowSheet",
     "strImgNorm": "tiles/ItmWallThin1x1Sheetn",
     "strPortraitImg": "tiles/ItmWallThin1x1Yellow",
@@ -1638,7 +1638,7 @@
   },
   {
     "strName": "ItmWallThin1x105Loose",
-    "strNameFriendly": "Whipple Framework (Loose): Testudo \"Sun Series\"",
+    "strNameFriendly": "Каркас Whipple (Ослабленный): Testudo \"Sun Series\"",
     "strImg": "tiles/ItmWallThin1x1YellowLoose",
     "strImgNorm": "tiles/ItmWallThin1x1Loosen",
     "strPortraitImg": "tiles/ItmWallThin1x1YellowLoose",
@@ -1657,7 +1657,7 @@
   },
   {
     "strName": "ItmWallThin1x106",
-    "strNameFriendly": "Whipple Framework: Testudo \"Gunmetal Series\"",
+    "strNameFriendly": "Каркас Whipple: Testudo \"Gunmetal Series\"",
     "strImg": "tiles/ItmWallThin1x1GraySheet",
     "strImgNorm": "tiles/ItmWallThin1x1Sheetn",
     "strPortraitImg": "tiles/ItmWallThin1x1Gray",
@@ -1672,7 +1672,7 @@
   },
   {
     "strName": "ItmWallThin1x106Loose",
-    "strNameFriendly": "Whipple Framework (Loose): Testudo \"Gunmetal Series\"",
+    "strNameFriendly": "Каркас Whipple (Ослабленный): Testudo \"Gunmetal Series\"",
     "strImg": "tiles/ItmWallThin1x1GrayLoose",
     "strImgNorm": "tiles/ItmWallThin1x1Loosen",
     "strPortraitImg": "tiles/ItmWallThin1x1GrayLoose",
@@ -1691,7 +1691,7 @@
   },
   {
     "strName": "ItmWallThin1x107",
-    "strNameFriendly": "Whipple Framework: Testudo \"Caution Series\"",
+    "strNameFriendly": "Каркас Whipple: Testudo \"Caution Series\"",
     "strImg": "tiles/ItmWallThin1x1GrayCautionSheet",
     "strImgNorm": "tiles/ItmWallThin1x1Sheetn",
     "strPortraitImg": "tiles/ItmWallThin1x1GrayCaution",
@@ -1706,7 +1706,7 @@
   },
   {
     "strName": "ItmWallThin1x107Loose",
-    "strNameFriendly": "Whipple Framework (Loose): Testudo \"Caution Series\"",
+    "strNameFriendly": "Каркас Whipple (Ослабленный): Testudo \"Caution Series\"",
     "strImg": "tiles/ItmWallThin1x1GrayCautionLoose",
     "strImgNorm": "tiles/ItmWallThin1x1Loosen",
     "strPortraitImg": "tiles/ItmWallThin1x1GrayCautionLoose",

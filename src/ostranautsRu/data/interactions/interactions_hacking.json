@@ -1,9 +1,9 @@
 [
   {
     "strName": "ENCHackPDAStart",
-    "strTitle": "Unlock PDA",
-    "strDesc": "This PDA is locked, and requires authentication to access its contents.\n\nMost PDAs feature a variety of authenticators, including passwords, PINs, and various sensor-based biometrics. But simply brute-forcing through those will be futile due to failed login attempt limits and lock-outs.\n\nIf you want to use this device, you'll need to find another way in.",
-    "strTooltip": "Attempt to access this PDA.",
+    "strTitle": "Разблокировать КПК",
+    "strDesc": "Этот КПК заблокирован, для доступа к его содержимому требуется аутентификация.\n\nБольшинство КПК поддерживают различные методы аутентификации, включая пароли, PIN-коды и различные биометрические сенсоры. Однако простой перебор вариантов будет бесполезен из-за ограничений на неудачные попытки входа и блокировок системы.\n\nЕсли вы хотите использовать это устройство, вам придется найти другой способ обхода защиты.",
+    "strTooltip": "Попытаться получить доступ к этому КПК.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "aInverse": [
@@ -26,8 +26,8 @@
   },
   {
     "strName": "ENCHackPDASkill",
-    "strTitle": "Use Hacking Skill",
-    "strDesc": "Defeating the security on devices like these was always a siren's call. A puzzle you could sink your teeth into in your down time.\n\nAnd thanks to various governmental authorities, plus the manufacturer's recovery pipeline, each device has multiple backdoors for you to find an exploit. Like a puzzle with multiple solutions!\n\nAnyway, you try to remember the trick to this particular model...",
+    "strTitle": "Использовать навык взлома",
+    "strDesc": "Взлом защиты подобных устройств всегда был рискованным, но заманчивым делом. Головоломка, которой можно с увлечением предаться в свободное время.\n\nИ благодаря различным правительственным органам, а также сервисным каналам производителя, в каждом устройстве имеется множество бэкдоров, через которые можно найти уязвимость. Прямо как головоломка с несколькими вариантами решения!\n\nТак или иначе, вы пытаетесь вспомнить специфические уязвимости этой конкретной модели...",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDASkillFinished,[us],[them]"
@@ -47,8 +47,8 @@
   },
   {
     "strName": "ENCHackPDASkillFinished",
-    "strTitle": "Finish Cracking PDA",
-    "strDesc": "Sure enough, nobody bothered to patch the exploit you chose this time, and you're greeted with the home screen.\n\nThat's the problem with behemoth orgs: not very nimble. And the hacker community chews through them too fast.\n\nOh well, at least it was worth the little nostalgia kick.",
+    "strTitle": "Завершить взлом КПК",
+    "strDesc": "Как и ожидалось, никто не потрудился закрыть уязвимость, выбранную вами на этот раз, и вас встречает главный экран.\n\nВ этом и заключается проблема гигантских корпораций: они слишком неповоротливы. А сообщество хакеров расправляется с ними слишком быстро.\n\nНу что ж, по крайней мере, это стоило небольшого приступа ностальгии.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDAEnd,[us],[them]"
@@ -70,8 +70,8 @@
   },
   {
     "strName": "ENCHackPDASoftwareFail",
-    "strTitle": "Let's Crack Some Stuff!",
-    "strDesc": "You launch the cracking program, but it doesn't take long to realize you're in over your head.\n\nWhat does this software even do? Does it work on devices like these? Do you plug the target device in somewhere? Or do you need to start the software first?\n\nYou wish there was a tutorial or something.\n\nOr even some menus.\n\nOh well, no 1337 h4x0r5 for you.",
+    "strTitle": "Взломаем кое-что!",
+    "strDesc": "Вы запускаете программу взлома, но вскоре осознаете, что переоценили свои способности.\n\nЧто вообще делает эта программа? Подходит ли она для таких устройств? Куда нужно подключить целевое устройство? Или сначала следует запустить саму программу?\n\nХорошо бы, чтобы здесь был обучающий режим или что-то подобное.\n\nИли хотя бы какие-нибудь меню настроек.\n\nЧто ж, из вас хакер не вышел.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDAEnd,[us],[them]"
@@ -96,8 +96,8 @@
   },
   {
     "strName": "ENCHackPDASoftwareStart",
-    "strTitle": "Try To Crack PDA",
-    "strDesc": "Hacking was never your thing, but you decide to give the PDA a look anyway. Maybe there's a boot menu or something? Safe mode?",
+    "strTitle": "Попытаться взломать КПК",
+    "strDesc": "Взлом — совсем не ваша стезя, но вы все же решаете осмотреть КПК. Возможно, здесь есть загрузочное меню или что-то подобное? Безопасный режим?",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDASoftware,[us],[them]",
@@ -118,8 +118,8 @@
   },
   {
     "strName": "ENCHackPDASoftwareLacking",
-    "strTitle": "Failed To Crack PDA",
-    "strDesc": "After a while of messing with it, you don't really make any headway. And you're out of ideas. Without more hacking skills, you'll probably need an already-unlocked PDA and some sort of software to crack this PDA.",
+    "strTitle": "Не удалось взломать КПК",
+    "strDesc": "Покрутившись с ним какое-то время, вы не добиваетесь никакого прогресса. И идей больше не осталось. При отсутствии более высоких навыков взлома вам, вероятно, потребуется уже разблокированный КПК и какое-нибудь специализированное ПО для взлома этого устройства.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDAEnd,[us],[them]"
@@ -140,8 +140,8 @@
   },
   {
     "strName": "ENCHackPDASoftware",
-    "strTitle": "Use PDA Cracking Software",
-    "strDesc": "Even without much hacking practice, you know your way around software well enough to use cracking software.\n\nUsing your unlocked device to run R3N-B00, you scan for compatible devices, and select your target.",
+    "strTitle": "Использовать ПО для взлома КПК",
+    "strDesc": "Даже без особой практики во взломе, вы достаточно хорошо разбираетесь в программном обеспечении, чтобы использовать программы для взлома.\n\nИспользуя свое разблокированное устройство для запуска R3N-B00, вы сканируете сеть на наличие совместимых устройств и выбираете цель.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDASoftwareFinished,[us],[them]"
@@ -166,8 +166,8 @@
   },
   {
     "strName": "ENCHackPDASoftwareFinished",
-    "strTitle": "Finish Cracking PDA",
-    "strDesc": "**** R3N-B00 Cracker ****\n\nDestination device: [them]\n\nStatus: UNLOCKED\n\nHave a nice day!",
+    "strTitle": "Завершить взлом КПК",
+    "strDesc": "**** Взломщик R3N-B00 ****\n\nЦелевое устройство: [them]\n\nСтатус: РАЗБЛОКИРОВАНО\n\nХорошего дня!",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCHackPDAEnd,[us],[them]"
@@ -189,8 +189,8 @@
   },
   {
     "strName": "ENCHackPDAEnd",
-    "strTitle": "Finish Using PDA",
-    "strDesc": "You finish using the PDA.",
+    "strTitle": "Завершить использование КПК",
+    "strDesc": "Вы закончили использовать КПК.",
     "strColor": "Dialogue",
     "aInverse": [
       "ENCFinish,[us],[us]"
@@ -208,9 +208,9 @@
   },
   {
     "strName": "HackRobotStartSimple",
-    "strTitle": "Hack: Attempt Quick Overload",
-    "strDesc": "[us] attempts to remotely hack a drone into a temporary memory overload.",
-    "strTooltip": "Attempt hack a drone into a temporary memory overload.",
+    "strTitle": "Взлом: Попытка быстрой перегрузки",
+    "strDesc": "[us] пытается удаленно взломать дрон, вызвав временную перегрузку памяти.",
+    "strTooltip": "Попытка удаленно взломать дрон, вызвав временную перегрузку памяти.",
     "strTargetPoint": "use",
     "fTargetPointRange": 100,
     "strColor": "Dialogue",
@@ -235,8 +235,8 @@
   },
   {
     "strName": "HackRobotStartSimpleDeny",
-    "strTitle": "Hack: Reboot Denied",
-    "strDesc": "[them] resists the attempt to remotely force a reboot.",
+    "strTitle": "Взлом: Перезагрузка отклонена",
+    "strDesc": "[them] сопротивляется попытке удаленно принудить к перезагрузке.",
     "strTargetPoint": "use",
     "fTargetPointRange": 20,
     "strColor": "Dialogue",
@@ -254,9 +254,9 @@
   },
   {
     "strName": "HackRobotStartSimpleAllow",
-    "strTitle": "Hack: Attempt Quick Overload",
-    "strDesc": "[us] attempts to remotely hack a drone into a temporary memory overload.",
-    "strTooltip": "Attempt hack a drone into a temporary memory overload.",
+    "strTitle": "Взлом: Попытка быстрой перегрузки",
+    "strDesc": "[us] пытается удаленно взломать дрон, вызвав временную перегрузку памяти.",
+    "strTooltip": "Попытка удаленно взломать дрон, вызвав временную перегрузку памяти.",
     "strTargetPoint": "use",
     "fTargetPointRange": 20,
     "strColor": "Dialogue",
@@ -276,8 +276,8 @@
   },
   {
     "strName": "HackRobotRebootQuick",
-    "strTitle": "Correcting Overload",
-    "strDesc": "[us] succeeds!",
+    "strTitle": "Устранение перегрузки",
+    "strDesc": "[us] успешно выполнен!",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Idle",
@@ -292,8 +292,8 @@
   },
   {
     "strName": "HackRobotRebootQuickDo",
-    "strTitle": "Correcting Overload",
-    "strDesc": "[us] is correcting a memory overload.",
+    "strTitle": "Устранение перегрузки",
+    "strDesc": "[us] устраняет перегрузку памяти.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Idle",
@@ -306,8 +306,8 @@
   },
   {
     "strName": "HackRobotReboot",
-    "strTitle": "Rebooting",
-    "strDesc": "[us] is rebooting.",
+    "strTitle": "Перезагрузка",
+    "strDesc": "[us] перезагружается.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Idle",
@@ -324,8 +324,8 @@
   },
   {
     "strName": "HackRobotRebootEnd",
-    "strTitle": "Validating Firmware",
-    "strDesc": "[us] is validating firmware.",
+    "strTitle": "Проверка прошивки",
+    "strDesc": "[us] проверяет прошивку.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Idle",
@@ -339,9 +339,9 @@
   },
   {
     "strName": "HackRobotStart",
-    "strTitle": "Crack Drone OS",
-    "strDesc": "[us] attempts to remotely hack a drone into a forced reboot.",
-    "strTooltip": "Attempt hack a drone into a forced reboot.",
+    "strTitle": "Взломать ОС дрона",
+    "strDesc": "[us] пытается удаленно взломать дрон, принудительно вызвав перезагрузку.",
+    "strTooltip": "Попытка взломать дрон с принудительной перезагрузкой.",
     "strTargetPoint": "use",
     "fTargetPointRange": 20,
     "strColor": "Dialogue",
@@ -366,8 +366,8 @@
   },
   {
     "strName": "HackRobotStartOutOfRange",
-    "strTitle": "Out of Range",
-    "strDesc": "[them] is too far for [us] to attempt a hack.",
+    "strTitle": "Вне зоны действия",
+    "strDesc": "[them] находится слишком далеко для [us], чтобы попытаться выполнить взлом.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Idle",
@@ -379,9 +379,9 @@
   },
   {
     "strName": "HackRobotStartAllow",
-    "strTitle": "Crack Drone OS",
-    "strDesc": "[us] attempts to remotely hack a drone into a forced reboot.",
-    "strTooltip": "Attempt hack a drone into a forced reboot.",
+    "strTitle": "Взломать ОС дрона",
+    "strDesc": "[us] пытается удаленно взломать дрон, принудительно вызвав перезагрузку.",
+    "strTooltip": "Попытка взломать дрон с принудительной перезагрузкой.",
     "strTargetPoint": "use",
     "fTargetPointRange": 20,
     "strColor": "Dialogue",
@@ -407,9 +407,9 @@
   },
   {
     "strName": "HackRobotSkill",
-    "strTitle": "Crack Drone OS (Hacking Skill)",
-    "strDesc": "Defeating the security on operating systems like these was always a siren's call. A puzzle you could sink your teeth into in your down time.\nAnd thanks to various governmental authorities, plus the manufacturer's recovery pipeline, each device has multiple backdoors for you to find an exploit. Like a puzzle with multiple solutions!\nAnyway, you try to remember the trick to this particular model...",
-    "strTooltip": "Use hacking skill to access the drone OS.",
+    "strTitle": "Взломать ОС дрона (Навык взлома)",
+    "strDesc": "Взлом защиты подобных операционных систем всегда был рискованным, но заманчивым делом. Головоломка, которой можно с увлечением предаться в свободное время.\nИ благодаря различным правительственным органам, а также сервисным каналам производителя, в каждом устройстве имеется множество бэкдоров, через которые можно найти уязвимость. Прямо как головоломка с несколькими вариантами решения!\nТак или иначе, вы пытаетесь вспомнить специфические уязвимости этой конкретной модели...",
+    "strTooltip": "Использовать навык взлома для доступа к ОС дрона.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Tablet",
@@ -428,9 +428,9 @@
   },
   {
     "strName": "HackRobotSkillFinished",
-    "strTitle": "Use Exploit to Force Reboot",
-    "strDesc": "Sure enough, nobody bothered to patch the exploit you chose this time, and you're greeted with the home screen.\nThat's the problem with behemoth orgs: not very nimble. And the hacker community chews through them too fast.\nOh well, at least it was worth the little nostalgia kick.",
-    "strTooltip": "See the outcome of your hacking attempt.",
+    "strTitle": "Использовать уязвимость для принудительной перезагрузки",
+    "strDesc": "Как и ожидалось, никто не потрудился закрыть уязвимость, выбранную вами на этот раз, и вас встречает главный экран.\nВ этом и заключается проблема гигантских корпораций: они слишком неповоротливы. А сообщество хакеров расправляется с ними слишком быстро.\nНу что ж, по крайней мере, это стоило небольшого приступа ностальгии.",
+    "strTooltip": "Посмотреть результат попытки взлома.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "aInverse": [
@@ -450,16 +450,16 @@
   },
   {
     "strName": "HackRobotSoftwareFail",
-    "strTitle": "Let's Crack Some Stuff!",
-    "strDesc": "You launch the cracking program, but it doesn't take long to realize you're in over your head.\nWhat does this software even do? Does it work on devices like these? Do you plug the target device in somewhere? Or do you need to start the software first?\nYou wish there was a tutorial or something. Or even some menus.\nOh well, no 1337 h4x0r5 for you.",
-    "strTooltip": "Attempt to crack into the drone OS using a cracking software",
+    "strTitle": "Взломаем кое-что!",
+    "strDesc": "Вы запускаете программу взлома, но вскоре понимаете, что переоценили свои способности.\nЧто вообще делает эта программа? Работает ли она с такими устройствами? Куда подключать целевое устройство? Или нужно сначала запустить программу?\nХорошо бы, чтобы был мануал или что-то в этом роде. Или хотя бы меню.\nЧто ж, хакер из вас никудышный.",
+    "strTooltip": "Попытаться взломать ОС дрона с помощью программы для взлома",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Tablet",
     "aInverse": [],
     "fDuration": 0.0001,
     "strThemType": "Other",
-    "strUseCase": "HackRobot",
+    "strUseCase": "ВзломРобота",
     "nLogging": 1,
     "bHumanOnly": false,
     "bPause": true,
@@ -474,9 +474,9 @@
   },
   {
     "strName": "HackRobotSoftwareStart",
-    "strTitle": "Try To Crack Drone OS",
-    "strDesc": "Hacking was never your thing, but you decide it never hurts to try anyway. Maybe there's a boot menu or something? Safe mode?",
-    "strTooltip": "Use software engineering skill to access the drone OS.",
+    "strTitle": "Попытка взломать ОС дрона",
+    "strDesc": "Взлом — никогда не был вашим коньком, но вы решаете, что попытка не повредит. Возможно, есть загрузочное меню или что-то подобное? Безопасный режим?",
+    "strTooltip": "Использовать навык программирования для доступа к ОС дрона.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Tablet",
@@ -496,9 +496,9 @@
   },
   {
     "strName": "HackRobotSoftwareLacking",
-    "strTitle": "Finish Attempt to Crack Drone OS",
-    "strDesc": "After a while of messing with it, you don't really make any headway. And you're out of ideas. Without more hacking skills, you'll probably need an unlocked PDA and some sort of specialized software to crack this drone.",
-    "strTooltip": "See the outcome of your software engineering approach.",
+    "strTitle": "Завершить попытку взлома ОС дрона",
+    "strDesc": "Спустя некоторое время возни с устройством вы не добиваетесь никакого прогресса. Идей больше нет. При недостаточных навыках взлома вам, вероятно, потребуется разблокированный КПК и какое-либо специализированное ПО для взлома этого дрона.",
+    "strTooltip": "Посмотреть результат использования вашего подхода в программировании.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Tablet",
@@ -516,9 +516,9 @@
   },
   {
     "strName": "HackRobotSoftware",
-    "strTitle": "Use PDA Cracking Software",
-    "strDesc": "Even without much hacking practice, you know your way around software well enough to use cracking software.\nUsing your unlocked device to run B43-B-G0N3, you scan for compatible nearby drones, and select your target.",
-    "strTooltip": "Pair your software engineering skill with cracking software.",
+    "strTitle": "Использовать ПО для взлома КПК",
+    "strDesc": "Даже без особой практики во взломе, вы достаточно хорошо разбираетесь в программном обеспечении, чтобы использовать программы для взлома.\nИспользуя разблокированное устройство для запуска B43-B-G0N3, вы сканируете совместимые дроны поблизости и выбираете цель.",
+    "strTooltip": "Совместить ваш навык программирования с программой для взлома.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Tablet",
@@ -527,7 +527,7 @@
     ],
     "fDuration": 0.0001,
     "strThemType": "Other",
-    "strUseCase": "HackRobot",
+    "strUseCase": "ВзломРобота",
     "nLogging": 1,
     "bHumanOnly": false,
     "bPause": true,
@@ -542,9 +542,9 @@
   },
   {
     "strName": "HackRobotSoftwareFinished",
-    "strTitle": "Finish Cracking Robot OS",
-    "strDesc": "**** B43-B-G0N3 Cracker ****\nDestination drone: [them]\nStatus: FORCED REBOOT\nHave a nice day!",
-    "strTooltip": "See the outcome of your software engineering approach using cracking software.",
+    "strTitle": "Завершить взлом ОС робота",
+    "strDesc": "**** Взломщик B43-B-G0N3 ****\nЦелевой дрон: [them]\nСтатус: ПРИНУДИТЕЛЬНАЯ ПЕРЕЗАГРУЗКА\nХорошего дня!",
+    "strTooltip": "Посмотреть результат использования вашего подхода в программировании с применением программы для взлома.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "strAnim": "Tablet",
@@ -564,8 +564,8 @@
   },
   {
     "strName": "HackRobotNoSkill",
-    "strTitle": "Give Hacking Your Best Shot",
-    "strDesc": "[us] really has no idea what they're doing and don't even know how to begin hacking [them]. Maybe special software and/or legit software or hacking skills would help.",
+    "strTitle": "Сделать все возможное при взломе",
+    "strDesc": "[us] совершенно не понимает, что делает, и даже не знает, с чего начать взлом [them]. Возможно, помогло бы специальное и/или легитимное ПО, либо навыки взлома.",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "aInverse": [],
@@ -579,8 +579,8 @@
   },
   {
     "strName": "HackRobotEnd",
-    "strTitle": "End Hack Attempt",
-    "strDesc": "[us] concludes attempting to hacking [them].",
+    "strTitle": "Завершить попытку взлома",
+    "strDesc": "[us] завершает попытку взлома [them].",
     "strColor": "Dialogue",
     "strActionGroup": "Use",
     "aInverse": [],

@@ -141,7 +141,7 @@
   },
   {
     "strName": "IsEnemySpawnBlocked",
-    "strNameFriendly": "Enemy Spawn Blocked",
+    "strNameFriendly": "Создание противников заблокировано",
     "strColor": "Neutral",
     "strDesc": "[us] [is] находится в периоде восстановления для появления врагов.",
     "bResetTimer": false,
@@ -154,7 +154,7 @@
   },
   {
     "strName": "IsDuePirateSpawn",
-    "strNameFriendly": "Due Pirate Spawn",
+    "strNameFriendly": "Запланировано появление пиратов",
     "strColor": "Neutral",
     "strDesc": "[us] [is] скоро появится пират.",
     "bResetTimer": false,
@@ -167,9 +167,9 @@
   },
   {
     "strName": "IsDueFactionSpawn",
-    "strNameFriendly": "Due Faction Spawn",
+    "strNameFriendly": "Запланировано появление корабля фракции",
     "strColor": "Neutral",
-    "strDesc": "[us] [is] due for a faction ship spawn.",
+    "strDesc": "[us] [is] ожидает появления корабля фракции.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -180,7 +180,7 @@
   },
   {
     "strName": "IsPristine",
-    "strNameFriendly": "Pristine",
+    "strNameFriendly": "Идеальное состояние",
     "strColor": "Good",
     "strDesc": "[us] [has] ни разу не сломали, и мы обладаем большей стойкостью и ценностью",
     "nDisplaySelf": 2,
@@ -229,9 +229,9 @@
   },
   {
     "strName": "AttemptingPledgeFirefight",
-    "strNameFriendly": "Attempting to fight fire",
+    "strNameFriendly": "Попытка тушить пожар",
     "strColor": "Neutral",
-    "strDesc": "[us] [attempts] firefight pledge.",
+    "strDesc": "[us] [attempts] задействовать противопожарную систему.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.04,
@@ -259,9 +259,9 @@
   },
   {
     "strName": "StatCrimeCCREArrestWarning",
-    "strNameFriendly": "CCRE Arrest Warning Count",
+    "strNameFriendly": "Счетчик предупреждений об аресте CCRE",
     "strColor": "Bad",
-    "strDesc": "[us] [has] been warned of arrest this many times.",
+    "strDesc": "[us] [has] получил предупреждение об аресте данное количество раз.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.0,
@@ -271,7 +271,7 @@
     "strName": "StatCrimeOKLGArrestWarning",
     "strNameFriendly": "Счётчик предупреждений об аресте (OKLG)",
     "strColor": "Bad",
-    "strDesc": "[us] получал предупреждение об аресте столько раз.",
+    "strDesc": "[us] [has] получил предупреждение об аресте данное количество раз.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.0,
@@ -281,7 +281,7 @@
     "strName": "StatCrimeVenusArrestWarning",
     "strNameFriendly": "Счётчик предупреждений об аресте (Венера)",
     "strColor": "Bad",
-    "strDesc": "[us] получал предупреждение об аресте столько раз.",
+    "strDesc": "[us] [has] получил предупреждение об аресте данное количество раз.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.0,
@@ -289,9 +289,9 @@
   },
   {
     "strName": "CrimeCCREArrest",
-    "strNameFriendly": "CCRE Arrest Warrant",
+    "strNameFriendly": "Ордер на арест CCRE",
     "strColor": "Bad",
-    "strDesc": "[us] [has] an outstanding arrest warrant on CCRE.",
+    "strDesc": "У [us] [has] неопровержимый ордер на арест в юрисдикции CCRE.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 0.0,
@@ -300,9 +300,9 @@
   },
   {
     "strName": "CrimeCCREThreat",
-    "strNameFriendly": "CCRE Public Enemy",
+    "strNameFriendly": "Враг государства CCRE",
     "strColor": "Bad",
-    "strDesc": "[us] [is] wanted dead or alive by CCRE LAs, and [is] considered a Public Enemy.",
+    "strDesc": "[us] [is] разыскивается CCRE LA живым или мертвым и [is] считается врагом государства.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 0.0,
@@ -311,9 +311,9 @@
   },
   {
     "strName": "CrimeCCRETrespass",
-    "strNameFriendly": "CCRE Trespass Warrant",
+    "strNameFriendly": "Ордер CCRE за незаконное проникновение",
     "strColor": "Bad",
-    "strDesc": "[us] [has] an outstanding trespass warrant on CCRE.",
+    "strDesc": "У [us] [has] неопровержимый ордер за незаконное проникновение в юрисдикции CCRE.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 1e-05,
@@ -496,9 +496,9 @@
   },
   {
     "strName": "CrimeCCREStolenShip",
-    "strNameFriendly": "CCRE Arrest Warrant for Stolen Ship",
+    "strNameFriendly": "Ордер на арест CCRE за угон корабля",
     "strColor": "Bad",
-    "strDesc": "[us] [has] an outstanding arrest warrant on CCRE for Stealing a Ship",
+    "strDesc": "У [us] [has] неопровержимый ордер на арест в юрисдикции CCRE за угон корабля",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 0.0,
@@ -506,9 +506,9 @@
   },
   {
     "strName": "CrimeCCRENoUndock",
-    "strNameFriendly": "CCRE Arrest Warrant for Failure to Undock",
+    "strNameFriendly": "Ордер на арест CCRE за невыполнение отстыковки",
     "strColor": "Bad",
-    "strDesc": "[us] [has] an outstanding arrest warrant on CCRE for Failure to Undock During Officer Inspection",
+    "strDesc": "[us] [has] действующий ордер на арест в CCRE за невыполнение отшвартовки во время инспекции должностным лицом",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 0.0,
@@ -620,9 +620,9 @@
   },
   {
     "strName": "AntiHypoVStim",
-    "strNameFriendly": "Used AntiHypo-V",
+    "strNameFriendly": "Использовал AntiHypo-V",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] treatment effects of an AntiHypovolemia injection, improving blood production, wound healing, metabolism, and better regulation of fatigue, tempurature, and immune system.",
+    "strDesc": "[us] [has] лечебный эффект от инъекции AntiHypovolemia, улучшающий выработку крови, заживление ран, обмен веществ, а также более эффективную регуляцию усталости, температуры и иммунной системы.",
     "bResetTimer": true,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -639,9 +639,9 @@
   },
   {
     "strName": "AntiHypoVStim2",
-    "strNameFriendly": "AntiHypo-V Course Complete",
+    "strNameFriendly": "Курс приема AntiHypo-V завершен",
     "strColor": "Good",
-    "strDesc": "The AntiHypovolemia injection treatment has made permanent improvement.",
+    "strDesc": "Инъекционное лечение AntiHypovolemia дало постоянное улучшение.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -655,9 +655,9 @@
   },
   {
     "strName": "StatAntiHypoVDose",
-    "strNameFriendly": "AntiHypo-V Dose Count",
+    "strNameFriendly": "Счетчик доз AntiHypo-V",
     "strColor": "Good",
-    "strDesc": "[us] [has] taken doses of AntiHypovolemia treatment.",
+    "strDesc": "[us] [has] принимал дозы лечения AntiHypovolemia.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -1565,9 +1565,9 @@
   },
   {
     "strName": "Greeted",
-    "strNameFriendly": "Greeted by a Friend",
+    "strNameFriendly": "Приветствие от друга",
     "strColor": "Good",
-    "strDesc": "[us] [is] feeling good about being greeted recently.",
+    "strDesc": "[us] [is] чувствует себя хорошо из-за недавнего приветствия.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 1.0,
@@ -1578,9 +1578,9 @@
   },
   {
     "strName": "GreetCooldown",
-    "strNameFriendly": "Greeted a friend recently",
+    "strNameFriendly": "Недавно поприветствовал друга",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] greeted a friend recently.",
+    "strDesc": "[us] [has] недавно поприветствовал друга.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 24.0,
@@ -1588,9 +1588,9 @@
   },
   {
     "strName": "GreetedByCrew",
-    "strNameFriendly": "Greeted by a Crewmate",
+    "strNameFriendly": "Приветствие от члена экипажа",
     "strColor": "Good",
-    "strDesc": "[us] [is] feeling good about being respected by crew recently.",
+    "strDesc": "[us] [is] чувствует себя хорошо из-за недавнего уважения со стороны экипажа.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 1.0,
@@ -1601,9 +1601,9 @@
   },
   {
     "strName": "GreetCaptainCooldown",
-    "strNameFriendly": "Greeted Captain Recently",
+    "strNameFriendly": "Недавно поприветствовал капитана",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] greeted their captain recently.",
+    "strDesc": "[us] [has] недавно поприветствовал своего капитана.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 24.0,
@@ -1611,9 +1611,9 @@
   },
   {
     "strName": "GreetedByEnemy",
-    "strNameFriendly": "Greeted by an Enemy",
+    "strNameFriendly": "Приветствие от врага",
     "strColor": "Good",
-    "strDesc": "[us] [has] been greeted by an enemy recently.",
+    "strDesc": "[us] [has] был недавно поприветствован врагом.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 0.5,
@@ -1624,9 +1624,9 @@
   },
   {
     "strName": "GreetEnemyCooldown",
-    "strNameFriendly": "Told off an Enemy",
+    "strNameFriendly": "Отчитал врага",
     "strColor": "Neutral",
-    "strDesc": "[us] [is] feeling good about telling off an enemy recently.",
+    "strDesc": "[us] [is] чувствует себя хорошо из-за того, что недавно отчитал врага.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 24.0,
@@ -1634,9 +1634,9 @@
   },
   {
     "strName": "GreetLoverCooldown",
-    "strNameFriendly": "Kissed a lover recently",
+    "strNameFriendly": "Недавно поцеловал возлюбленную",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] kissed a lover recently.",
+    "strDesc": "[us] [has] недавно поцеловал возлюбленную.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 24.0,
@@ -1876,9 +1876,9 @@
   },
   {
     "strName": "Kissed",
-    "strNameFriendly": "Kissed",
+    "strNameFriendly": "Поцелован",
     "strColor": "Good",
-    "strDesc": "[us] [is] feeling good about being kissed recently.",
+    "strDesc": "[us] [is] чувствует себя хорошо из-за того, что его недавно поцеловали.",
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
     "fDuration": 1.0,
@@ -2278,7 +2278,7 @@
   },
   {
     "strName": "Sleeping",
-    "strNameFriendly": "Спит",
+    "strNameFriendly": "Сон",
     "strColor": "Neutral",
     "strDesc": "[us] спит.",
     "nDisplaySelf": 2,
@@ -2290,7 +2290,7 @@
   },
   {
     "strName": "SleepingComfortable",
-    "strNameFriendly": "Спит",
+    "strNameFriendly": "Сон",
     "strColor": "Goodish",
     "strDesc": "[us] спит в удобной кровати.",
     "nDisplaySelf": 2,
@@ -2603,189 +2603,189 @@
   },
   {
     "strName": "RecentlyInstalled",
-    "strNameFriendly": "Installed Recently",
+    "strNameFriendly": "Недавно установлено",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently installed something.",
+    "strDesc": "[us] [has] недавно что-то установил.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyUninstalled",
-    "strNameFriendly": "Uninstalled Recently",
+    "strNameFriendly": "Недавно демонтировано",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently uninstalled something.",
+    "strDesc": "[us] [has] недавно что-то демонтировал.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyRepaired",
-    "strNameFriendly": "Repaired Recently",
+    "strNameFriendly": "Недавно отремонтировано",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently repaired something.",
+    "strDesc": "[us] [has] недавно что-то отремонтировал.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyRestored",
-    "strNameFriendly": "Restored Recently",
+    "strNameFriendly": "Недавно восстановлено",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently restored something.",
+    "strDesc": "[us] [has] недавно что-то восстановил.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyDismantled",
-    "strNameFriendly": "Dismantled Recently",
+    "strNameFriendly": "Недавно разобрано",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently dismantled something.",
+    "strDesc": "[us] [has] недавно что-то разобрал.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyPatched",
-    "strNameFriendly": "Patched Recently",
+    "strNameFriendly": "Недавно залатано",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently patched a hull.",
+    "strDesc": "[us] [has] недавно залатал корпус.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyBashed",
-    "strNameFriendly": "Bashed Recently",
+    "strNameFriendly": "Недавно повреждено",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently bashed something.",
+    "strDesc": "[us] [has] недавно повредил что-то.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyAttackedMelee",
-    "strNameFriendly": "Attacked Recently",
+    "strNameFriendly": "Недавно атаковано",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently attacked something.",
+    "strDesc": "[us] [has] недавно атаковал что-то.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyAttackedRanged",
-    "strNameFriendly": "Attacked Recently",
+    "strNameFriendly": "Недавно атаковано",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently shot something.",
+    "strDesc": "[us] [has] недавно стрелял в что-то.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyAdmire",
-    "strNameFriendly": "Admired Recently",
+    "strNameFriendly": "Недавно восхищено",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently admired something.",
+    "strDesc": "[us] [has] недавно чем-то восхитился.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyStudySkill",
-    "strNameFriendly": "Studied Recently",
+    "strNameFriendly": "Недавно изучено",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently studied a skill.",
+    "strDesc": "[us] [has] недавно изучил навык.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyWatchNews",
-    "strNameFriendly": "Watched News Recently",
+    "strNameFriendly": "Недавно смотрел новости",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently watched news.",
+    "strDesc": "[us] [has] недавно смотрел новости.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyWatchDrama",
-    "strNameFriendly": "Watched Drama Recently",
+    "strNameFriendly": "Недавно смотрел драму",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently watched drama.",
+    "strDesc": "[us] [has] недавно смотрел драму.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlySlept",
-    "strNameFriendly": "Slept Recently",
+    "strNameFriendly": "Недавно спал",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently slept.",
+    "strDesc": "[us] [has] недавно спал.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyAte",
-    "strNameFriendly": "Ate Recently",
+    "strNameFriendly": "Недавно ел",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently eaten.",
+    "strDesc": "[us] [has] недавно ел.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyAtePrepared",
-    "strNameFriendly": "Ate Well Recently",
+    "strNameFriendly": "Недавно хорошо поел",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently eaten prepared food.",
+    "strDesc": "[us] [has] недавно ел приготовленную еду.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyDrank",
-    "strNameFriendly": "Drank Recently",
+    "strNameFriendly": "Недавно пил",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently drunk.",
+    "strDesc": "[us] [has] недавно пил.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyDrankCaffeine",
-    "strNameFriendly": "Drank Caffeine Recently",
+    "strNameFriendly": "Недавно употреблял кофеин",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently drunk caffeine.",
+    "strDesc": "[us] [has] недавно употреблял кофеин.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyDrankLiquor",
-    "strNameFriendly": "Drank Alcohol Recently",
+    "strNameFriendly": "Недавно употреблял алкоголь",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently drunk alcohol.",
+    "strDesc": "[us] [has] недавно употреблял алкоголь.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyExercised",
-    "strNameFriendly": "Exercised Recently",
+    "strNameFriendly": "Недавно тренировался",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently exercised.",
+    "strDesc": "[us] [has] недавно тренировался.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
   },
   {
     "strName": "RecentlyPlayedGame",
-    "strNameFriendly": "Played Game Recently",
+    "strNameFriendly": "Недавно играл в игру",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] recently played a game.",
+    "strDesc": "[us] [has] недавно играл в игру.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
@@ -5326,49 +5326,49 @@
   },
   {
     "strName": "DcAntiHypoVDose01",
-    "strNameFriendly": "Anti-HypoV Dose: 1",
+    "strNameFriendly": "Доза Anti-HypoV: 1",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] taken 1 of 5 doses of Anti-HypoV medication.",
+    "strDesc": "[us] [has] принял 1 из 5 доз лекарства Anti-HypoV.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1
   },
   {
     "strName": "DcAntiHypoVDose02",
-    "strNameFriendly": "Anti-HypoV Doses: 2",
+    "strNameFriendly": "Дозы Anti-HypoV: 2",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] taken 2 of 5 doses of Anti-HypoV medication.",
+    "strDesc": "[us] [has] принял 2 из 5 доз лекарства Anti-HypoV.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1
   },
   {
     "strName": "DcAntiHypoVDose03",
-    "strNameFriendly": "Anti-HypoV Doses: 3",
+    "strNameFriendly": "Дозы Anti-HypoV: 3",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] taken 3 of 5 doses of Anti-HypoV medication.",
+    "strDesc": "[us] [has] принял 3 из 5 доз лекарства Anti-HypoV.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1
   },
   {
     "strName": "DcAntiHypoVDose04",
-    "strNameFriendly": "Anti-HypoV Doses: 4",
+    "strNameFriendly": "Дозы Anti-HypoV: 4",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] taken 4 of 5 doses of Anti-HypoV medication.",
+    "strDesc": "[us] [has] принял 4 из 5 доз лекарства Anti-HypoV.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1
   },
   {
     "strName": "DcAntiHypoVDose05",
-    "strNameFriendly": "Anti-HypoV Doses: 5",
+    "strNameFriendly": "Дозы Anti-HypoV: 5",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] taken 5 of 5 doses of Anti-HypoV medication and will be permanently cured once this dose completes its effect.",
+    "strDesc": "[us] [has] принял 5 из 5 доз лекарства Anti-HypoV и будет полностью излечен после того, как эта доза завершит свое действие.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1
   },
   {
     "strName": "DcAntiHypoVDose06",
-    "strNameFriendly": "Anti-HypoV Doses: 6",
+    "strNameFriendly": "Дозы Anti-HypoV: 6",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] taken a full course of Anti-HypoV medication.",
+    "strDesc": "[us] [has] прошел полный курс лекарства Anti-HypoV.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0
   },
@@ -5699,9 +5699,9 @@
   },
   {
     "strName": "DcCOPoisoning01",
-    "strNameFriendly": "Malaise",
+    "strNameFriendly": "Недомогание",
     "strColor": "Badish",
-    "strDesc": "[us] [feels] vaguely unwell and flushed.",
+    "strDesc": "[us] [feels] смутное недомогание и прилив жара.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5712,9 +5712,9 @@
   },
   {
     "strName": "DcCOPoisoning02",
-    "strNameFriendly": "Mild Hypercapnia",
+    "strNameFriendly": "Легкая гиперкапния",
     "strColor": "Badish",
-    "strDesc": "[us] [is] experiencing mild hypercapnia.",
+    "strDesc": "[us] [is] испытывает легкую гиперкапнию.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5728,9 +5728,9 @@
   },
   {
     "strName": "DcCOPoisoning02a",
-    "strNameFriendly": "Mild Hypercapnia",
+    "strNameFriendly": "Легкая гиперкапния",
     "strColor": "Badish",
-    "strDesc": "[us] [is] experiencing mild hypercapnia.",
+    "strDesc": "[us] [is] испытывает легкую гиперкапнию.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5744,9 +5744,9 @@
   },
   {
     "strName": "DcCOPoisoning03",
-    "strNameFriendly": "Moderate Hypercapnia",
+    "strNameFriendly": "Умеренная гиперкапния",
     "strColor": "Badish",
-    "strDesc": "[us] [is] suffering from moderate hypercapnia.",
+    "strDesc": "[us] [is] страдает от гиперкапнии средней степени.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5760,9 +5760,9 @@
   },
   {
     "strName": "DcCOPoisoning04",
-    "strNameFriendly": "Advanced Hypercapnia",
+    "strNameFriendly": "Продвинутая стадия гиперкапнии",
     "strColor": "Bad",
-    "strDesc": "[us] [is] suffering advanced impacts of hypercapnia.",
+    "strDesc": "[us] [is] страдает от тяжелых последствий гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5778,9 +5778,9 @@
   },
   {
     "strName": "DcCOPoisoning05",
-    "strNameFriendly": "Severe Hypercapnia",
+    "strNameFriendly": "Тяжелая гиперкапния",
     "strColor": "Bad",
-    "strDesc": "[us] [is] dizzy with carbon hypercapnia.",
+    "strDesc": "[us] [is] испытывает головокружение из-за тяжелой гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5796,9 +5796,9 @@
   },
   {
     "strName": "DcCOPoisoning06",
-    "strNameFriendly": "Critical Hypercapnia",
+    "strNameFriendly": "Критическая гиперкапния",
     "strColor": "Bad",
-    "strDesc": "[us] [is] suffering muscle tremors and [us-pos] body [is] shutting down due to hypercapnia.",
+    "strDesc": "[us] [is] страдает от мышечного тремора, и его организм [is] отключается из-за гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5814,9 +5814,9 @@
   },
   {
     "strName": "DcCOPoisoning07",
-    "strNameFriendly": "Lethal Hypercapnia",
+    "strNameFriendly": "Смертельная гиперкапния",
     "strColor": "BadVery",
-    "strDesc": "[us] [is] asphyxiating due to hypercapnia.",
+    "strDesc": "[us] [is] задыхается из-за гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5834,9 +5834,9 @@
   },
   {
     "strName": "DcCOPoisoningFatal",
-    "strNameFriendly": "Asphyxiated by Hypercapnia",
+    "strNameFriendly": "Удушье, вызванное гиперкапнией",
     "strColor": "BadVery",
-    "strDesc": "[us] [has] asphyxiated due to hypercapnia.",
+    "strDesc": "[us] [has] задохнулся из-за гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5850,7 +5850,7 @@
     "strName": "DcCO2Poisoning01",
     "strNameFriendly": "Недомогание",
     "strColor": "Badish",
-    "strDesc": "[us] чувствует смутное недомогание и прилив крови к лицу.",
+    "strDesc": "[us] [feels] смутное недомогание и прилив жара.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5861,9 +5861,9 @@
   },
   {
     "strName": "DcCO2Poisoning02",
-    "strNameFriendly": "Лёгкая гиперкапния",
+    "strNameFriendly": "Легкая гиперкапния",
     "strColor": "Badish",
-    "strDesc": "[us] испытывает лёгкую гиперкапнию.",
+    "strDesc": "[us] [is] испытывает легкую гиперкапнию.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5877,9 +5877,9 @@
   },
   {
     "strName": "DcCO2Poisoning02a",
-    "strNameFriendly": "Лёгкая гиперкапния",
+    "strNameFriendly": "Легкая гиперкапния",
     "strColor": "Badish",
-    "strDesc": "[us] испытывает лёгкую гиперкапнию.",
+    "strDesc": "[us] [is] испытывает легкую гиперкапнию.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5895,7 +5895,7 @@
     "strName": "DcCO2Poisoning03",
     "strNameFriendly": "Умеренная гиперкапния",
     "strColor": "Badish",
-    "strDesc": "[us] страдает от умеренной гиперкапнии.",
+    "strDesc": "[us] [is] страдает от гиперкапнии средней степени.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5909,9 +5909,9 @@
   },
   {
     "strName": "DcCO2Poisoning04",
-    "strNameFriendly": "Прогрессирующая гиперкапния",
+    "strNameFriendly": "Продвинутая стадия гиперкапнии",
     "strColor": "Bad",
-    "strDesc": "[us] испытывает тяжёлые последствия гиперкапнии.",
+    "strDesc": "[us] [is] страдает от тяжелых последствий гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5927,9 +5927,9 @@
   },
   {
     "strName": "DcCO2Poisoning05",
-    "strNameFriendly": "Тяжёлая гиперкапния",
+    "strNameFriendly": "Тяжелая гиперкапния",
     "strColor": "Bad",
-    "strDesc": "[us] испытывает головокружение от углекислоты.",
+    "strDesc": "[us] [is] испытывает головокружение из-за тяжелой гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5947,7 +5947,7 @@
     "strName": "DcCO2Poisoning06",
     "strNameFriendly": "Критическая гиперкапния",
     "strColor": "Bad",
-    "strDesc": "[us] испытывает мышечную дрожь, и его тело отключается из-за гиперкапнии.",
+    "strDesc": "[us] [is] страдает от мышечного тремора, и его организм [is] отключается из-за гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5965,7 +5965,7 @@
     "strName": "DcCO2Poisoning07",
     "strNameFriendly": "Смертельная гиперкапния",
     "strColor": "BadVery",
-    "strDesc": "[us] задыхается из-за гиперкапнии.",
+    "strDesc": "[us] [is] задыхается из-за гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5983,9 +5983,9 @@
   },
   {
     "strName": "DcCO2PoisoningFatal",
-    "strNameFriendly": "Удушье (гиперкапния)",
+    "strNameFriendly": "Удушье, вызванное гиперкапнией",
     "strColor": "BadVery",
-    "strDesc": "[us] задохнулся из-за гиперкапнии.",
+    "strDesc": "[us] [has] задохнулся из-за гиперкапнии.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -5997,7 +5997,7 @@
   },
   {
     "strName": "DcH2SO4Poisoning01",
-    "strNameFriendly": "Щиплет глаза и горло",
+    "strNameFriendly": "Жжение в горле и глазах",
     "strColor": "Badish",
     "strDesc": "[us] чувствует, что кислый воздух щиплет глаза и горло.",
     "bResetTimer": false,
@@ -6013,7 +6013,7 @@
   },
   {
     "strName": "DcH2SO4Poisoning02",
-    "strNameFriendly": "Жжёт глаза и горло",
+    "strNameFriendly": "Сильное жжение в горле и глазах",
     "strColor": "Bad",
     "strDesc": "[us] чувствует, что кислый воздух жжёт глаза и горло.",
     "bResetTimer": false,
@@ -6049,7 +6049,7 @@
   },
   {
     "strName": "DcNH3Poisoning01",
-    "strNameFriendly": "Щиплет кожу, глаза и горло",
+    "strNameFriendly": "Жжение в горле и глазах",
     "strColor": "Badish",
     "strDesc": "[us] чувствует, что едкий воздух щиплет кожу, глаза и горло.",
     "bResetTimer": false,
@@ -6065,7 +6065,7 @@
   },
   {
     "strName": "DcNH3Poisoning02",
-    "strNameFriendly": "Жжёт кожу, глаза и горло",
+    "strNameFriendly": "Сильное жжение в горле и глазах",
     "strColor": "Bad",
     "strDesc": "[us] чувствует, что едкий воздух жжёт кожу, глаза и горло.",
     "bResetTimer": false,
@@ -6101,9 +6101,9 @@
   },
   {
     "strName": "DcSmokePoisoning01",
-    "strNameFriendly": "Stinging Throat and Eyes",
+    "strNameFriendly": "Жжение в горле и глазах",
     "strColor": "Badish",
-    "strDesc": "[us] [feels] that the smokey air stings [us-pos] skin, eyes, and throat.",
+    "strDesc": "[us] [feels], что задымленный воздух жжет [us-pos] кожу, глаза и горло.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -6117,9 +6117,9 @@
   },
   {
     "strName": "DcSmokePoisoning02",
-    "strNameFriendly": "Burning Throat and Eyes",
+    "strNameFriendly": "Сильное жжение в горле и глазах",
     "strColor": "Bad",
-    "strDesc": "[us] [feels] that the smokey air is burning [us-pos], skin, eyes, and throat.",
+    "strDesc": "[us] [feels], что задымленный воздух вызывает сильное жжение [us-pos], кожи, глаз и горла.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -6134,9 +6134,9 @@
   },
   {
     "strName": "DcSmokePoisoning03",
-    "strNameFriendly": "Lethal Smoke Inhalation",
+    "strNameFriendly": "Смертельное отравление дымом",
     "strColor": "BadVery",
-    "strDesc": "[us] [has] suffered lethal smoke inhalation of [us-pos] skin, eyes, and throat. Death is imminent.",
+    "strDesc": "[us] [has] получил смертельное поражение дымом кожи, глаз и горла. Смерть неизбежна.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -6536,9 +6536,9 @@
   },
   {
     "strName": "DcFireChem01",
-    "strNameFriendly": "Fire Chem: Empty",
+    "strNameFriendly": "Огнетуш. в-во: Пусто",
     "strColor": "Bad",
-    "strDesc": "[us] [is] empty of dry chemical agent.",
+    "strDesc": "[us] [is] пуст, сухой химический огнетушащий состав отсутствует.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
@@ -6549,9 +6549,9 @@
   },
   {
     "strName": "DcFireChem02",
-    "strNameFriendly": "Fire Chem: Low",
+    "strNameFriendly": "Огнетуш. в-во: Низкий уровень",
     "strColor": "Bad",
-    "strDesc": "[us] [is] nearly empty of dry chemical agent.",
+    "strDesc": "[us] [is] почти пуст, сухой химический огнетушащий состав заканчивается.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
@@ -6562,9 +6562,9 @@
   },
   {
     "strName": "DcFireChem03",
-    "strNameFriendly": "Fire Chem: Medium",
+    "strNameFriendly": "Огнетуш. в-во: Средний уровень",
     "strColor": "Neutral",
-    "strDesc": "[us] [is] partially-full of dry chemical agent.",
+    "strDesc": "[us] [is] частично заполнен сухим химическим огнетушащим составом.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
@@ -6575,9 +6575,9 @@
   },
   {
     "strName": "DcFireChem04",
-    "strNameFriendly": "Fire Chem: Full",
+    "strNameFriendly": "Огнетуш. в-во: Полный",
     "strColor": "Good",
-    "strDesc": "[us] [is] full of dry chemical agent.",
+    "strDesc": "[us] [is] полностью заполнен сухим химическим огнетушащим составом.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 2,
@@ -6786,9 +6786,9 @@
   },
   {
     "strName": "DcGasPpCO",
-    "strNameFriendly": "Norm CO",
+    "strNameFriendly": "Норма CO",
     "strColor": "Good",
-    "strDesc": "[us] [has] CO partial pressure that is acceptable for humans.",
+    "strDesc": "[us] [has] парциальное давление CO, допустимое для человека.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -6801,7 +6801,7 @@
     "strName": "DcGasPpCOWarning",
     "strNameFriendly": "",
     "strColor": "Bad",
-    "strDesc": "[us] [has] CO partial pressure that could cause hypercapnia (CO poisoning) for humans.",
+    "strDesc": "[us] [has] парциальное давление CO, которое может вызвать гиперкапнию (отравление CO) у людей.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -6814,7 +6814,7 @@
     "strName": "DcGasPpCOUnsafe",
     "strNameFriendly": "",
     "strColor": "Bad",
-    "strDesc": "[us] [has] CO partial pressure that will cause hypercapnia (CO poisoning) for humans.",
+    "strDesc": "[us] [has] парциальное давление CO, которое вызовет гиперкапнию (отравление CO) у людей.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -6838,7 +6838,7 @@
   },
   {
     "strName": "DcGasPpCO2Warning",
-    "strNameFriendly": "Предупреждение: CO2",
+    "strNameFriendly": "",
     "strColor": "Bad",
     "strDesc": "Парциальное давление CO2 вокруг [us] может вызвать у человека гиперкапнию (отравление CO2).",
     "bResetTimer": false,
@@ -6851,7 +6851,7 @@
   },
   {
     "strName": "DcGasPpCO2Unsafe",
-    "strNameFriendly": "Опасно: CO2",
+    "strNameFriendly": "",
     "strColor": "Bad",
     "strDesc": "Парциальное давление CO2 вокруг [us] вызовет у человека гиперкапнию (отравление CO2).",
     "bResetTimer": false,
@@ -6877,7 +6877,7 @@
   },
   {
     "strName": "DcGasPpH2SO4Warning",
-    "strNameFriendly": "Предупреждение: H2SO4",
+    "strNameFriendly": "",
     "strColor": "Bad",
     "strDesc": "Парциальное давление H2SO4 вокруг [us] может вызвать проблемы со здоровьем у человека.",
     "bResetTimer": false,
@@ -6890,7 +6890,7 @@
   },
   {
     "strName": "DcGasPpH2SO4Unsafe",
-    "strNameFriendly": "Опасно: H2SO4",
+    "strNameFriendly": "",
     "strColor": "Bad",
     "strDesc": "Парциальное давление H2SO4 вокруг [us] вызовет проблемы со здоровьем у человека.",
     "bResetTimer": false,
@@ -6929,7 +6929,7 @@
   },
   {
     "strName": "DcGasPpNH3Warning",
-    "strNameFriendly": "Предупреждение: NH3",
+    "strNameFriendly": "",
     "strColor": "Bad",
     "strDesc": "Парциальное давление NH3 вокруг [us] может вызвать проблемы со здоровьем у человека.",
     "bResetTimer": false,
@@ -6942,7 +6942,7 @@
   },
   {
     "strName": "DcGasPpNH3Unsafe",
-    "strNameFriendly": "Опасно: NH3",
+    "strNameFriendly": "",
     "strColor": "Bad",
     "strDesc": "Парциальное давление NH3 вокруг [us] вызовет проблемы со здоровьем у человека.",
     "bResetTimer": false,
@@ -6968,9 +6968,9 @@
   },
   {
     "strName": "DcGasPpSmoke",
-    "strNameFriendly": "Norm Smoke",
+    "strNameFriendly": "Норма дыма",
     "strColor": "Good",
-    "strDesc": "[us] [has] Smoke partial pressure that is acceptable for humans.",
+    "strDesc": "[us] [has] парциальное давление дыма, допустимое для человека.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -6983,7 +6983,7 @@
     "strName": "DcGasPpSmokeWarning",
     "strNameFriendly": "",
     "strColor": "Bad",
-    "strDesc": "[us] [has] Smoke partial pressure that could cause health problems for humans.",
+    "strDesc": "[us] [has] парциальное давление дыма, способное вызвать проблемы со здоровьем у человека.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -6996,7 +6996,7 @@
     "strName": "DcGasPpSmokeUnsafe",
     "strNameFriendly": "",
     "strColor": "Bad",
-    "strDesc": "[us] [has] Smoke partial pressure that will cause health problems for humans.",
+    "strDesc": "[us] [has] парциальное давление дыма, которое вызовет проблемы со здоровьем у человека.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8557,7 +8557,7 @@
   },
   {
     "strName": "DcSleepComfort02",
-    "strNameFriendly": "Может уснуть",
+    "strNameFriendly": "",
     "strColor": "Good",
     "strDesc": "[us] достаточно комфортно, чтобы спать.",
     "bResetTimer": false,
@@ -8570,7 +8570,7 @@
   },
   {
     "strName": "DcSleepCycleAwake",
-    "strNameFriendly": "Цикл бодрствования",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "[us] находится в периоде циркадной активности.",
     "bResetTimer": true,
@@ -8593,7 +8593,7 @@
   },
   {
     "strName": "DcSleepCycleRest",
-    "strNameFriendly": "Цикл отдыха",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "[us] находится в периоде циркадного отдыха.",
     "bResetTimer": true,
@@ -8618,7 +8618,7 @@
     "strName": "DcStatCCREScrip100",
     "strNameFriendly": ">100 CCRE Scrip",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] at least 100 CCRE scrip.",
+    "strDesc": "[us] [has] не менее 100 CCRE scrip.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8631,7 +8631,7 @@
     "strName": "DcStatCCREScrip1000",
     "strNameFriendly": ">1000 CCRE Scrip",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] at least 1000 CCRE scrip.",
+    "strDesc": "[us] [has] не менее 1000 скрипов CCRE.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8642,9 +8642,9 @@
   },
   {
     "strName": "DcStatGalileanConfederacyScrip100",
-    "strNameFriendly": ">100 GF Scrip",
+    "strNameFriendly": ">100 скрипов GF",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] at least 100 Galilean Confederacy scrip.",
+    "strDesc": "[us] [has] не менее 100 скрипов Galilean Confederacy.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8655,9 +8655,9 @@
   },
   {
     "strName": "DcStatGalileanConfederacyScrip1000",
-    "strNameFriendly": ">1000 GF Scrip",
+    "strNameFriendly": ">1000 скрипов GF",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] at least 1000 Galilean Confederacy scrip.",
+    "strDesc": "[us] [has] не менее 1000 скрипов Galilean Confederacy.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8670,7 +8670,7 @@
     "strName": "DcStatUSD00",
     "strNameFriendly": "<$100,000",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] less than $100,000 USD.",
+    "strDesc": "[us] [has] менее 100 000 долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8681,9 +8681,9 @@
   },
   {
     "strName": "DcStatUSD100000",
-    "strNameFriendly": "$100,000-$1mil",
+    "strNameFriendly": "100 000 долл. США - 1 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $100,000 and $1 million USD.",
+    "strDesc": "[us] [has] от 100 000 до 1 миллиона долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8694,9 +8694,9 @@
   },
   {
     "strName": "DcStatUSD1000000",
-    "strNameFriendly": "$1mil-$2mil",
+    "strNameFriendly": "1 млн долл. США - 2 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $1 million and $2 million USD.",
+    "strDesc": "[us] [has] от 1 до 2 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8707,9 +8707,9 @@
   },
   {
     "strName": "DcStatUSD2000000",
-    "strNameFriendly": "$2mil-$3mil",
+    "strNameFriendly": "2 млн долл. США - 3 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $2 million and $3 million USD.",
+    "strDesc": "[us] [has] от 2 до 3 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8720,9 +8720,9 @@
   },
   {
     "strName": "DcStatUSD3000000",
-    "strNameFriendly": "$3mil-$4mil",
+    "strNameFriendly": "3 млн долл. США - 4 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $3 million and $4 million USD.",
+    "strDesc": "[us] [has] от 3 до 4 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8733,9 +8733,9 @@
   },
   {
     "strName": "DcStatUSD4000000",
-    "strNameFriendly": "$4mil-$5mil",
+    "strNameFriendly": "4 млн долл. США - 5 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $4 million and $5 million USD.",
+    "strDesc": "[us] [has] от 4 до 5 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8746,9 +8746,9 @@
   },
   {
     "strName": "DcStatUSD5000000",
-    "strNameFriendly": "$5mil-$6mil",
+    "strNameFriendly": "5 млн долл. США - 6 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $5 million and $6 million USD.",
+    "strDesc": "[us] [has] от 5 до 6 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8759,9 +8759,9 @@
   },
   {
     "strName": "DcStatUSD6000000",
-    "strNameFriendly": "$6mil-$7mil",
+    "strNameFriendly": "6 млн долл. США - 7 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $6 million and $7 million USD.",
+    "strDesc": "[us] [has] от 6 до 7 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8772,9 +8772,9 @@
   },
   {
     "strName": "DcStatUSD7000000",
-    "strNameFriendly": "$7mil-$8mil",
+    "strNameFriendly": "7 млн долл. США - 8 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $7 million and $8 million USD.",
+    "strDesc": "[us] [has] от 7 до 8 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8785,9 +8785,9 @@
   },
   {
     "strName": "DcStatUSD8000000",
-    "strNameFriendly": "$8mil-$9mil",
+    "strNameFriendly": "8 млн долл. США - 9 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $8 million and $9 million USD.",
+    "strDesc": "[us] [has] от 8 до 9 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8798,9 +8798,9 @@
   },
   {
     "strName": "DcStatUSD9000000",
-    "strNameFriendly": "$9mil-$10mil",
+    "strNameFriendly": "9 млн долл. США - 10 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] between $9 million and $10 million USD.",
+    "strDesc": "[us] [has] от 9 до 10 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -8811,9 +8811,9 @@
   },
   {
     "strName": "DcStatUSD10000000",
-    "strNameFriendly": ">$10mil",
+    "strNameFriendly": ">10 млн долл. США",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] more than $10 million USD.",
+    "strDesc": "[us] [has] более 10 миллионов долл. США.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -10462,9 +10462,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation",
-    "strNameFriendly": "Training: Excavation 0%",
+    "strNameFriendly": "Обучение: Земляные работы 0%",
     "strColor": "Goodish",
-    "strDesc": "[us] [is] training to become skilled in excavation.",
+    "strDesc": "[us] [is] обучается навыку земляных работ.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10476,9 +10476,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation01",
-    "strNameFriendly": "Training: Excavation 1%",
+    "strNameFriendly": "Обучение: Земляные работы 1%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 1%.",
+    "strDesc": "[us] [has] обучен земляным работам более чем на 1%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10490,9 +10490,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation05",
-    "strNameFriendly": "Training: Excavation 5%",
+    "strNameFriendly": "Обучение: Земляные работы 5%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 5%.",
+    "strDesc": "[us] [has] обучен земляным работам более чем на 5%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10504,9 +10504,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation10",
-    "strNameFriendly": "Training: Excavation 10%",
+    "strNameFriendly": "Обучение: Земляные работы 10%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 10%.",
+    "strDesc": "[us] [has] обучен земляным работам более чем на 10%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10518,9 +10518,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation25",
-    "strNameFriendly": "Training: Excavation 25%",
+    "strNameFriendly": "Обучение: Земляные работы 25%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 25%.",
+    "strDesc": "[us] [has] обучен земляным работам более чем на 25%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10532,9 +10532,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation50",
-    "strNameFriendly": "Training: Excavation 50%",
+    "strNameFriendly": "Обучение: Земляные работы 50%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 50%.",
+    "strDesc": "[us] [has] обучен земляным работам более чем на 50%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10546,9 +10546,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation75",
-    "strNameFriendly": "Training: Excavation 75%",
+    "strNameFriendly": "Тренировка: Раскопки 75%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 75%.",
+    "strDesc": "[us] [has] прокачал Раскопки выше 75%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10560,9 +10560,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation85",
-    "strNameFriendly": "Training: Excavation 85%",
+    "strNameFriendly": "Тренировка: Раскопки 85%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 85%.",
+    "strDesc": "[us] [has] прокачал Раскопки выше 85%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10574,9 +10574,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation90",
-    "strNameFriendly": "Training: Excavation 90%",
+    "strNameFriendly": "Тренировка: Раскопки 90%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 90%.",
+    "strDesc": "[us] [has] прокачал Раскопки выше 90%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10588,9 +10588,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation95",
-    "strNameFriendly": "Training: Excavation 95%",
+    "strNameFriendly": "Тренировка: Раскопки 95%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 95%.",
+    "strDesc": "[us] [has] прокачал Раскопки выше 95%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10602,9 +10602,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation98",
-    "strNameFriendly": "Training: Excavation 98%",
+    "strNameFriendly": "Тренировка: Раскопки 98%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 98%.",
+    "strDesc": "[us] [has] прокачал Раскопки выше 98%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10616,9 +10616,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation99",
-    "strNameFriendly": "Training: Excavation 99%",
+    "strNameFriendly": "Тренировка: Раскопки 99%",
     "strColor": "Goodish",
-    "strDesc": "[us] [has] trained Excavation over 99%.",
+    "strDesc": "[us] [has] прокачал Раскопки выше 99%.",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -10630,9 +10630,9 @@
   },
   {
     "strName": "DcTrainingEngExcavation100",
-    "strNameFriendly": "Training: Excavation 100%",
+    "strNameFriendly": "Тренировка: Раскопки 100%",
     "strColor": "Good",
-    "strDesc": "Well done! [us] [has] completed training Excavation to 100%!",
+    "strDesc": "Отличная работа! [us] [has] завершил тренировку Раскопок до 100%!",
     "bResetTimer": false,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -12484,7 +12484,7 @@
   },
   {
     "strName": "HasFood",
-    "strNameFriendly": "Имеет еду",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "У [us] есть еда.",
     "bResetTimer": false,
@@ -12538,9 +12538,9 @@
   },
   {
     "strName": "IsSocialGreeted",
-    "strNameFriendly": "IsSocialGreeted",
+    "strNameFriendly": "Социальное приветствие выполнено",
     "strColor": "Neutral",
-    "strDesc": "[us] [has] successfully greeted and can chat.",
+    "strDesc": "[us] [has] успешно поприветствован и может общаться.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.5,
@@ -12607,7 +12607,7 @@
   },
   {
     "strName": "IsAIAgent",
-    "strNameFriendly": "Есть ИИ",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "У [us] есть ИИ.",
     "bResetTimer": false,
@@ -12633,7 +12633,7 @@
   },
   {
     "strName": "IsAIThinking",
-    "strNameFriendly": "ИИ думает",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "ИИ [us] думает.",
     "bResetTimer": false,
@@ -12914,9 +12914,9 @@
   },
   {
     "strName": "IsCombatBoardingDone",
-    "strNameFriendly": "Combat Boarding Done",
+    "strNameFriendly": "Абордаж завершен",
     "strColor": "Neutral",
-    "strDesc": "[us] just finished boarding hostile ship.",
+    "strDesc": "[us] только что завершил абордаж вражеского корабля.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -12954,549 +12954,549 @@
   },
   {
     "strName": "MemViolenceDeeperClobber",
-    "strNameFriendly": "Exploring Violent Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of violence.",
+    "strDesc": "[us] подавляет воспоминание о насилии.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemViolenceDeeperRevisit",
-    "strNameFriendly": "Revisit Violent Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of violence again.",
+    "strDesc": "[us] снова подавляет воспоминание о насилии.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemViolenceDeeperFinal",
-    "strNameFriendly": "Final Violent Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of violence yet again.",
+    "strDesc": "[us] подавляет воспоминание о насилии ещё раз.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemDeadFriendDeeperClobber",
-    "strNameFriendly": "Exploring a Death Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о смерти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of DeadFriend.",
+    "strDesc": "[us] подавляет воспоминание о DeadFriend.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemDeadFriendDeeperRevisit",
-    "strNameFriendly": "Revisit a Death Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о смерти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of DeadFriend again.",
+    "strDesc": "[us] снова подавляет воспоминание о DeadFriend.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemDeadFriendDeeperFinal",
-    "strNameFriendly": "Final Death Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о смерти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of DeadFriend yet again.",
+    "strDesc": "[us] подавляет воспоминание о DeadFriend ещё раз.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemChildhoodDeeperClobber",
-    "strNameFriendly": "Exploring a Childhood Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о детстве",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Childhood.",
+    "strDesc": "[us] подавляет воспоминание о Childhood.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemChildhoodDeeperRevisit",
-    "strNameFriendly": "Revisit a Childhood Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о детстве",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Childhood again.",
+    "strDesc": "[us] снова подавляет воспоминание о Childhood.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemChildhoodDeeperFinal",
-    "strNameFriendly": "Final Childhood Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о детстве",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Childhood yet again.",
+    "strDesc": "[us] подавляет воспоминание о Childhood ещё раз.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemFoliageDeeperClobber",
-    "strNameFriendly": "Exploring Foliage Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о флоре",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Foliage.",
+    "strDesc": "[us] подавляет воспоминание о Foliage.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemFoliageDeeperRevisit",
-    "strNameFriendly": "Revisit Foliage Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о флоре",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Foliage again.",
+    "strDesc": "[us] снова подавляет воспоминание о Foliage.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemFoliageDeeperFinal",
-    "strNameFriendly": "Final Foliage Memory Clobber",
+    "strNameFriendly": "Окончательное подавление памяти о Флоре",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Foliage yet again.",
+    "strDesc": "[us] вновь подавляет память о Флоре.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemDumbDeeperClobber",
-    "strNameFriendly": "Exploring Violent Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Dumb.",
+    "strDesc": "[us] подавляет память о Глупости.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemDumbDeeperRevisit",
-    "strNameFriendly": "Revisit Violent Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Dumb again.",
+    "strDesc": "[us] снова подавляет память о Глупости.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemDumbDeeperFinal",
-    "strNameFriendly": "Final Violent Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Dumb yet again.",
+    "strDesc": "[us] вновь подавляет память о Глупости.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemProjectDeeperClobber",
-    "strNameFriendly": "Exploring Violent Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Project.",
+    "strDesc": "[us] подавляет память о Проекте.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemProjectDeeperRevisit",
-    "strNameFriendly": "Revisit Violent Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Project again.",
+    "strDesc": "[us] снова подавляет память о Проекте.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemProjectDeeperFinal",
-    "strNameFriendly": "Final Violent Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Project yet again.",
+    "strDesc": "[us] вновь подавляет память о Проекте.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemLoveDeeperClobber",
-    "strNameFriendly": "Exploring Violent Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Love.",
+    "strDesc": "[us] подавляет память о Любви.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemLoveDeeperRevisit",
-    "strNameFriendly": "Revisit Violent Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Love again.",
+    "strDesc": "[us] снова подавляет память о Любви.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemLoveDeeperFinal",
-    "strNameFriendly": "Final Violent Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Love yet again.",
+    "strDesc": "[us] вновь подавляет память о Любви.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemBetrayalDeeperClobber",
-    "strNameFriendly": "Exploring Violent Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Betrayal.",
+    "strDesc": "[us] подавляет память о Предательстве.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemBetrayalDeeperRevisit",
-    "strNameFriendly": "Revisit Violent Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Betrayal again.",
+    "strDesc": "[us] снова подавляет память о Предательстве.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemBetrayalDeeperFinal",
-    "strNameFriendly": "Final Violent Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Betrayal yet again.",
+    "strDesc": "[us] вновь подавляет память о Предательстве.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemMassesDeeperClobber",
-    "strNameFriendly": "Exploring Violent Memory Clobber",
+    "strNameFriendly": "Изучение подавленного воспоминания о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Masses.",
+    "strDesc": "[us] подавляет память о Массах.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemMassesDeeperRevisit",
-    "strNameFriendly": "Revisit Violent Memory Clobber",
+    "strNameFriendly": "Повторное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Masses again.",
+    "strDesc": "[us] снова подавляет память о Массах.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemMassesDeeperFinal",
-    "strNameFriendly": "Final Violent Memory Clobber",
+    "strNameFriendly": "Финальное подавленное воспоминание о насилии",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory of Masses yet again.",
+    "strDesc": "[us] вновь подавляет память о Массах.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressLoveFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressLoveSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressLoveThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressChildhoodFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressChildhoodSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressChildhoodThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressFoliageFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressFoliageSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressFoliageThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressDeadFriendFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressDeadFriendSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressDeadFriendThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressProjectFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressProjectSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressProjectThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressMassesFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressMassesSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressMassesThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressBetrayalFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressBetrayalSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressBetrayalThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressDumbFirst",
-    "strNameFriendly": "Suppressing Memory Clobber",
+    "strNameFriendly": "Подавление памяти",
     "strColor": "Neutral",
     "strDesc": "[us] подавляет воспоминание.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressDumbSecond",
-    "strNameFriendly": "Suppressing Memory Clobber Again",
+    "strNameFriendly": "Повторное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory again.",
+    "strDesc": "[us] снова подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "MemSuppressDumbThird",
-    "strNameFriendly": "Suppressing Memory Clobber Yet Again",
+    "strNameFriendly": "Очередное подавление памяти",
     "strColor": "Neutral",
-    "strDesc": "[us] is suppressing a memory yet again.",
+    "strDesc": "[us] вновь подавляет память.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
-    "fDuration": 0.1
+    "fDuration": 0
   },
   {
     "strName": "IsAngryCeasefireViolated",
-    "strNameFriendly": "Ceasefire Violated",
+    "strNameFriendly": "Перемирие нарушено",
     "strColor": "Neutral",
-    "strDesc": "[us] [is] angry that someone violated a ceasefire recently, and will not allow it again.",
+    "strDesc": "[us] [is] в ярости из-за того, что кто-то недавно нарушил перемирие, и не допустит этого снова.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -13522,7 +13522,7 @@
     "strName": "IsClumsyTemp",
     "strNameFriendly": "Чувствует неуклюжесть",
     "strColor": "Bad",
-    "strDesc": "[us] чувствует себя крайне неуклюжим.",
+    "strDesc": "[us] [is] чувствует себя крайне неуклюже.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.5,
@@ -13534,9 +13534,9 @@
   },
   {
     "strName": "IsClumsyTempSleep",
-    "strNameFriendly": "Feels Clumsy",
+    "strNameFriendly": "Чувствует неуклюжесть",
     "strColor": "Bad",
-    "strDesc": "[us] [is] feeling extremely clumsy.",
+    "strDesc": "[us] [is] чувствует себя крайне неуклюже.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.5,
@@ -14338,9 +14338,9 @@
   },
   {
     "strName": "IsJammedRadar",
-    "strNameFriendly": "Radar jammed",
+    "strNameFriendly": "Радар заглушен",
     "strColor": "Neutral",
-    "strDesc": "[us] is radar jammed",
+    "strDesc": "[us] подвержен глушению радара",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05,
@@ -14379,6 +14379,16 @@
     "strNameFriendly": "Арест полицией",
     "strColor": "Neutral",
     "strDesc": "[us] — правоохранитель, пытающийся арестовать цель.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0,
+    "fDuration": 0.0,
+    "fClampMax": 1.0
+  },
+  {
+    "strName": "IsLEOArrestingCancelScan",
+    "strNameFriendly": "Сканирование LEO",
+    "strColor": "Neutral",
+    "strDesc": "[us] [is] в настоящее время LEO, сканирующий потерянную цель.",
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.0,
@@ -14519,16 +14529,6 @@
     "bPersists": true
   },
   {
-    "strName": "IsJOBMVPTestTarget",
-    "strNameFriendly": "Цель JOBMVPTest",
-    "strColor": "Neutral",
-    "strDesc": "[us] является целью JOBMVPTest.",
-    "nDisplaySelf": 0,
-    "nDisplayOther": 0,
-    "fDuration": 0.0,
-    "bRemoveAll": true
-  },
-  {
     "strName": "IsOblivious",
     "strNameFriendly": "Рассеянный",
     "strColor": "Bad",
@@ -14544,9 +14544,9 @@
   },
   {
     "strName": "IsObliviousTemp",
-    "strNameFriendly": "Чувствует рассеянность",
+    "strNameFriendly": "Чувствует невнимательность",
     "strColor": "Bad",
-    "strDesc": "[us] чувствует себя совершенно не осознающим своего окружения и деталей.",
+    "strDesc": "[us] [is] совершенно не замечает [us-pos] окружения и деталей.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.5,
@@ -14558,9 +14558,9 @@
   },
   {
     "strName": "IsObliviousTempSleep",
-    "strNameFriendly": "Feels Oblivious",
+    "strNameFriendly": "Чувствует невнимательность",
     "strColor": "Bad",
-    "strDesc": "[us] [is] feeling completely unaware of [us-pos] surroundings and details.",
+    "strDesc": "[us] [is] совершенно не замечает [us-pos] окружения и деталей.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.5,
@@ -14611,9 +14611,9 @@
   },
   {
     "strName": "IsObtuseTemp",
-    "strNameFriendly": "Чувствует глупость",
+    "strNameFriendly": "Чувствует непонятливость",
     "strColor": "Bad",
-    "strDesc": "[us] чувствует себя медленно соображающим, с трудом устанавливающим связи и усваивающим новое.",
+    "strDesc": "[us] [is] медленно устанавливает связи и усваивает новую информацию.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.5,
@@ -14623,9 +14623,9 @@
   },
   {
     "strName": "IsObtuseTempSleep",
-    "strNameFriendly": "Feels Obtuse",
+    "strNameFriendly": "Чувствует непонятливость",
     "strColor": "Bad",
-    "strDesc": "[us] [is] feeling slow to make connections and learn new things.",
+    "strDesc": "[us] [is] медленно устанавливает связи и усваивает новую информацию.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.0,
@@ -14915,9 +14915,9 @@
   },
   {
     "strName": "IsRecVidGameUsedShort",
-    "strNameFriendly": "User Is Playing",
+    "strNameFriendly": "Пользователь играет",
     "strColor": "Neutral",
-    "strDesc": "[us] is currently being played by someone.",
+    "strDesc": "[us] в настоящее время управляется кем-то.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -14992,9 +14992,9 @@
   },
   {
     "strName": "IsReservedShort",
-    "strNameFriendly": "Reserved Short",
+    "strNameFriendly": "Временная резервация",
     "strColor": "Neutral",
-    "strDesc": "[us] has been reserved temporarily for use by someone.",
+    "strDesc": "[us] временно зарезервирован для использования кем-то.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -15281,9 +15281,9 @@
   },
   {
     "strName": "IsSkillStudyingEngExcavation",
-    "strNameFriendly": "Studying Excavation",
+    "strNameFriendly": "Изучение раскопок",
     "strColor": "Goodish",
-    "strDesc": "[us] [is] currently studying to practice excavation.",
+    "strDesc": "[us] [is] в настоящее время изучает практические раскопки.",
     "bResetTimer": true,
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
@@ -15347,9 +15347,9 @@
   },
   {
     "strName": "IsStudyUsedShort",
-    "strNameFriendly": "User Is Studying",
+    "strNameFriendly": "Пользователь изучает",
     "strColor": "Neutral",
-    "strDesc": "[us] is currently being used to study by someone.",
+    "strDesc": "[us] в данный момент используется кем-то для учебы.",
     "bResetTimer": true,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -15464,9 +15464,9 @@
   },
   {
     "strName": "IsTileBurning",
-    "strNameFriendly": "Burning Tile",
+    "strNameFriendly": "Горящая плитка",
     "strColor": "Bad",
-    "strDesc": "[us] [had] a fire on it recently.",
+    "strDesc": "[us] [had] недавно подвергся пожару.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "fDuration": 0.0014,
@@ -15717,6 +15717,26 @@
     "fDuration": 0.017
   },
   {
+    "strName": "IsSeekHygieneCooldown",
+    "strNameFriendly": "Перезарядка поиска гигиены",
+    "strColor": "Neutral",
+    "strDesc": "[us] [has] недавно пытался найти гигиеническое средство.",
+    "bResetTimer": true,
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0,
+    "fDuration": 0.017
+  },
+  {
+    "strName": "IsSeekUnwearCooldown",
+    "strNameFriendly": "Перезарядка снятия экипировки",
+    "strColor": "Neutral",
+    "strDesc": "[us] [has] недавно пытался снять шлем.",
+    "bResetTimer": true,
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0,
+    "fDuration": 0.008
+  },
+  {
     "strName": "IsShakedownCooldownScowl",
     "strNameFriendly": "Хмурый взгляд: перезарядка",
     "strColor": "Neutral",
@@ -15911,7 +15931,7 @@
   },
   {
     "strName": "Simple",
-    "strNameFriendly": "Простое",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "[us] простое состояние, например, «Красный».",
     "bResetTimer": false,
@@ -15976,9 +15996,9 @@
   },
   {
     "strName": "SkillEngExcavation",
-    "strNameFriendly": "Skilled in Excavation",
+    "strNameFriendly": "Навык в раскопках",
     "strColor": "Neutral",
-    "strDesc": "[us] [is] skilled in mining, moving, and processing of celestial bodies.",
+    "strDesc": "[us] [is] опытен в добыче, перемещении и обработке небесных тел.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "aPer": [
@@ -16093,9 +16113,9 @@
   },
   {
     "strName": "SkillOpsSpaceship",
-    "strNameFriendly": "Skilled in Spaceship Piloting",
+    "strNameFriendly": "Навык пилотирования космического корабля",
     "strColor": "Neutral",
-    "strDesc": "[us] [is] skilled in piloting spacecraft.",
+    "strDesc": "[us] [is] опытен в пилотировании космических кораблей.",
     "nDisplaySelf": 2,
     "nDisplayOther": 1,
     "aPer": [
@@ -16175,7 +16195,7 @@
   },
   {
     "strName": "StatAtrophy",
-    "strNameFriendly": "Атрофия",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Насколько атрофировались мышцы [us].",
     "bResetTimer": false,
@@ -16188,7 +16208,7 @@
   },
   {
     "strName": "StatAtrophyRate",
-    "strNameFriendly": "Скорость атрофии",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость атрофии мышц [us] из-за микрогравитации."
   },
@@ -16209,7 +16229,7 @@
   },
   {
     "strName": "StatBlood",
-    "strNameFriendly": "Кровь",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Сколько эритроцитов потерял [us].",
     "bResetTimer": false,
@@ -16222,7 +16242,7 @@
   },
   {
     "strName": "StatBloodDrink",
-    "strNameFriendly": "Употребление крови",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Сколько раз [us] пил кровь.",
     "bResetTimer": false,
@@ -16233,19 +16253,19 @@
   },
   {
     "strName": "StatBloodRate",
-    "strNameFriendly": "Скорость кровопотери",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость, с которой [us] теряет кровь."
   },
   {
     "strName": "StatBloodHealRate",
-    "strNameFriendly": "Скорость восстановления крови",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость восстановления кровоснабжения [us]."
   },
   {
     "strName": "StatContact",
-    "strNameFriendly": "Общение",
+    "strNameFriendly": "Контакт",
     "strColor": "Neutral",
     "strDesc": "Сколько [us] общался с другими.",
     "bResetTimer": false,
@@ -16260,7 +16280,7 @@
   },
   {
     "strName": "StatComputerCPUArchitecture",
-    "strNameFriendly": "Архитектура ЦП",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Относительный коэффициент конструкции устройства для перевода его ядер в вычислительную мощность.",
     "bResetTimer": false,
@@ -16273,7 +16293,7 @@
   },
   {
     "strName": "StatComputerCPUCores",
-    "strNameFriendly": "Ядра ЦП",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Количество ядер, ограниченных законом Мура, у этого устройства.",
     "bResetTimer": false,
@@ -16286,7 +16306,7 @@
   },
   {
     "strName": "StatComputerDataStorage",
-    "strNameFriendly": "Хранилище данных",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Объём данных, который это устройство может хранить, в петабайтах.",
     "bResetTimer": false,
@@ -16299,7 +16319,7 @@
   },
   {
     "strName": "StatComputerNRAM",
-    "strNameFriendly": "NRAM",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Объём NRAM у этого устройства.",
     "bResetTimer": false,
@@ -16321,7 +16341,7 @@
   },
   {
     "strName": "StatDefecate",
-    "strNameFriendly": "Дефекация",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Статус дефекации [us].",
     "bResetTimer": false,
@@ -16349,7 +16369,7 @@
   },
   {
     "strName": "StatDrunk",
-    "strNameFriendly": "Опьянение",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Насколько [us] пьян от алкоголя.",
     "bResetTimer": true,
@@ -16357,7 +16377,7 @@
   },
   {
     "strName": "StatEncumbrance",
-    "strNameFriendly": "Перегруз",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Насколько [us] перегружен переносимыми предметами.",
     "bResetTimer": false,
@@ -16400,7 +16420,7 @@
   },
   {
     "strName": "StatFatigue",
-    "strNameFriendly": "Усталость",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Уровень усталости [us].",
     "bResetTimer": false,
@@ -16413,13 +16433,13 @@
   },
   {
     "strName": "StatFatigueCoeff",
-    "strNameFriendly": "Коэф. утомления",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость утомления [us] по сравнению с нормой."
   },
   {
     "strName": "StatFatigueHealRate",
-    "strNameFriendly": "Скорость восстановления усталости",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость восстановления [us] от усталости."
   },
@@ -16435,16 +16455,16 @@
   },
   {
     "strName": "StatFireChem",
-    "strNameFriendly": "Dry Chemical",
+    "strNameFriendly": "Химический порошок",
     "strColor": "Neutral",
-    "strDesc": "[us]'s dry chemical fire extinguishing agent content in kg.",
+    "strDesc": "Содержание порошкового огнетушащего вещества в [us] (кг).",
     "aPer": [
       "CONDStatFireChemPer"
     ]
   },
   {
     "strName": "StatFood",
-    "strNameFriendly": "Недоедание",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Уровень недоедания [us].",
     "bResetTimer": false,
@@ -16457,7 +16477,7 @@
   },
   {
     "strName": "StatFoodRate",
-    "strNameFriendly": "Потребность в еде",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость, с которой [us] требуется еда."
   },
@@ -16470,9 +16490,9 @@
   },
   {
     "strName": "StatGasMolCO",
-    "strNameFriendly": "Carbon Monoxide Gas",
+    "strNameFriendly": "Угарный газ",
     "strColor": "CO2White",
-    "strDesc": "[us]'s ambient CO gas amount (moles).",
+    "strDesc": "Количество CO в окружающей среде [us] (моль).",
     "bPersists": true
   },
   {
@@ -16512,14 +16532,14 @@
   },
   {
     "strName": "StatGasMolSmoke",
-    "strNameFriendly": "Smoke",
+    "strNameFriendly": "Дым",
     "strColor": "SmokeGray",
-    "strDesc": "[us]'s ambient smoke amount (moles).",
+    "strDesc": "Количество дыма в окружающей среде [us] (моль).",
     "bPersists": true
   },
   {
     "strName": "StatGasPpCH4",
-    "strNameFriendly": "Pp CH4",
+    "strNameFriendly": "",
     "strColor": "CH4BlueGreen",
     "strDesc": "Парциальное давление газа CH4 вокруг [us] (кПа)."
   },
@@ -16527,35 +16547,35 @@
     "strName": "StatGasPpCO",
     "strNameFriendly": "",
     "strColor": "CO2White",
-    "strDesc": "[us]'s ambient CO gas partial pressure (kPa)."
+    "strDesc": "Парциальное давление CO в окружающей среде [us] (кПа)."
   },
   {
     "strName": "StatGasPpCO2",
-    "strNameFriendly": "Pp CO2",
+    "strNameFriendly": "",
     "strColor": "CO2White",
     "strDesc": "Парциальное давление газа CO2 вокруг [us] (кПа)."
   },
   {
     "strName": "StatGasPpH2SO4",
-    "strNameFriendly": "Pp H2SO4",
+    "strNameFriendly": "",
     "strColor": "H2SO4Yellow",
     "strDesc": "Парциальное давление газа H2SO4 вокруг [us] (кПа)."
   },
   {
     "strName": "StatGasPpN2",
-    "strNameFriendly": "Pp N2",
+    "strNameFriendly": "",
     "strColor": "N2Blue",
     "strDesc": "Парциальное давление газа N2 вокруг [us] (кПа)."
   },
   {
     "strName": "StatGasPpNH3",
-    "strNameFriendly": "Pp NH3",
+    "strNameFriendly": "",
     "strColor": "NH3Beige",
     "strDesc": "Парциальное давление газа NH3 вокруг [us] (кПа)."
   },
   {
     "strName": "StatGasPpO2",
-    "strNameFriendly": "Pp O2",
+    "strNameFriendly": "",
     "strColor": "O2Green",
     "strDesc": "Парциальное давление газа O2 вокруг [us] (кПа)."
   },
@@ -16563,11 +16583,11 @@
     "strName": "StatGasPpSmoke",
     "strNameFriendly": "",
     "strColor": "SmokeGray",
-    "strDesc": "[us]'s ambient smoke partial pressure (kPa)."
+    "strDesc": "Парциальное давление дыма в окружающей среде [us] (кПа)."
   },
   {
     "strName": "StatGasPressure",
-    "strNameFriendly": "Давление газа",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Давление газа вокруг [us] (кПа)."
   },
@@ -16583,7 +16603,7 @@
   },
   {
     "strName": "StatGrav",
-    "strNameFriendly": "Гравитация",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Сколько земных g [us] испытывает в данный момент.",
     "bResetTimer": false,
@@ -16596,7 +16616,7 @@
   },
   {
     "strName": "StatHydration",
-    "strNameFriendly": "Обезвоживание",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Уровень обезвоживания [us].",
     "bResetTimer": false,
@@ -16609,13 +16629,13 @@
   },
   {
     "strName": "StatHydrationRate",
-    "strNameFriendly": "Скорость обезвоживания",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость, с которой [us] теряет влагу."
   },
   {
     "strName": "StatHygiene",
-    "strNameFriendly": "Гигиена",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Степень загрязнения [us].",
     "bResetTimer": false,
@@ -16628,13 +16648,13 @@
   },
   {
     "strName": "StatHygieneRate",
-    "strNameFriendly": "Скорость загрязнения",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость, с которой [us] теряет чистоту."
   },
   {
     "strName": "StatInfection",
-    "strNameFriendly": "Инфекция",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Уровень инфекции в организме [us].",
     "bResetTimer": false,
@@ -16647,13 +16667,13 @@
   },
   {
     "strName": "StatInfectionRate",
-    "strNameFriendly": "Скорость инфекции",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость ослабления иммунной системы [us] из-за инфекции."
   },
   {
     "strName": "StatInfectionHealRate",
-    "strNameFriendly": "Скорость восстановления иммунитета",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость восстановления иммунной системы [us]."
   },
@@ -16698,7 +16718,7 @@
   },
   {
     "strName": "StatMass",
-    "strNameFriendly": "Масса",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Масса [us] в кг.",
     "bResetTimer": false,
@@ -16725,7 +16745,7 @@
   },
   {
     "strName": "StatMeaning",
-    "strNameFriendly": "Смысл",
+    "strNameFriendly": "Значение",
     "strColor": "Neutral",
     "strDesc": "Насколько [us] чувствует себя реализованным.",
     "bResetTimer": false,
@@ -16742,7 +16762,7 @@
     "strName": "StatCOPoison",
     "strNameFriendly": "",
     "strColor": "Neutral",
-    "strDesc": "[us-pos] current state of carbon monoxide (CO) poisoning.",
+    "strDesc": "[us-pos] текущее состояние отравления угарным газом (CO).",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -16754,7 +16774,7 @@
   },
   {
     "strName": "StatCO2Poison",
-    "strNameFriendly": "Отравление CO2",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Текущее состояние гиперкапнии (отравления CO2) у [us].",
     "bResetTimer": false,
@@ -16768,7 +16788,7 @@
   },
   {
     "strName": "StatH2SO4Poison",
-    "strNameFriendly": "Отравление H2SO4",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Текущее состояние отравления серной кислотой H2SO4 у [us].",
     "bResetTimer": false,
@@ -16782,7 +16802,7 @@
   },
   {
     "strName": "StatNH3Poison",
-    "strNameFriendly": "Отравление NH3",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Текущее состояние отравления аммиаком NH3 у [us].",
     "bResetTimer": false,
@@ -16796,7 +16816,7 @@
   },
   {
     "strName": "StatOxygen",
-    "strNameFriendly": "Гипоксия",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Текущее состояние удушья у [us].",
     "bResetTimer": false,
@@ -16809,7 +16829,7 @@
   },
   {
     "strName": "StatPain",
-    "strNameFriendly": "Боль",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Количество боли, которую испытывает [us].",
     "bResetTimer": false,
@@ -16867,7 +16887,7 @@
   },
   {
     "strName": "StatPoison",
-    "strNameFriendly": "Яд",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Количество яда в организме [us].",
     "bResetTimer": false,
@@ -16880,14 +16900,14 @@
   },
   {
     "strName": "StatPopulation",
-    "strNameFriendly": "Население",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Количество людей в [us], комнате.",
     "bRoom": true
   },
   {
     "strName": "StatPower",
-    "strNameFriendly": "Энергия",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Запасённая энергия [us] в кВт·ч.",
     "bPersists": true
@@ -16909,7 +16929,7 @@
   },
   {
     "strName": "StatRad",
-    "strNameFriendly": "Радиация",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Количество полученного [us] облучения.",
     "bResetTimer": false,
@@ -16951,7 +16971,7 @@
   },
   {
     "strName": "StatSatiety",
-    "strNameFriendly": "Сытость",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Насколько голоден [us].",
     "bResetTimer": false,
@@ -16979,7 +16999,7 @@
   },
   {
     "strName": "StatSecurityHealRate",
-    "strNameFriendly": "Восстановление чувства безопасности",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость восстановления [us] от страха или стресса от ощущения небезопасности."
   },
@@ -17026,7 +17046,7 @@
   },
   {
     "strName": "StatSleep",
-    "strNameFriendly": "Нехватка сна",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Нехватка сна у [us].",
     "bResetTimer": false,
@@ -17043,7 +17063,7 @@
   },
   {
     "strName": "StatSleepComfort",
-    "strNameFriendly": "Комфорт сна",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Уровень комфорта сна [us].",
     "bResetTimer": false,
@@ -17052,13 +17072,14 @@
     "bFatal": false,
     "bRemoveAll": false,
     "aNext": [],
-    "fDuration": 0.0
+    "fDuration": 0.0,
+    "fClampMax": 40
   },
   {
     "strName": "StatSmokePoison",
     "strNameFriendly": "",
     "strColor": "Neutral",
-    "strDesc": "[us-pos] current state of smoke inhalation poisoning.",
+    "strDesc": "[us-pos] текущее состояние отравления вдыханием дыма.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -17141,7 +17162,7 @@
   },
   {
     "strName": "StatTimer",
-    "strNameFriendly": "Таймер",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Счётчик односекундного таймера [us].",
     "bResetTimer": false,
@@ -17290,9 +17311,9 @@
   },
   {
     "strName": "StatTrainingEngExcavation",
-    "strNameFriendly": "Training: Excavation",
+    "strNameFriendly": "Обучение: Раскопки",
     "strColor": "Neutral",
-    "strDesc": "The amount of training progress [us] [has] made to learn excavation.",
+    "strDesc": "Объем прогресса в обучении раскопкам, которого достиг [us].",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -17438,37 +17459,37 @@
   },
   {
     "strName": "StatWoundBlunt",
-    "strNameFriendly": "Тупые травмы",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Нормализованная тяжесть тупой травмы на [us]. 0.0 = ничего, 1.0 = тяжёлая."
   },
   {
     "strName": "StatWoundCut",
-    "strNameFriendly": "Резаные раны",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Нормализованная тяжесть резаной травмы на [us]. 0.0 = ничего, 1.0 = тяжёлая."
   },
   {
     "strName": "StatWoundFraction",
-    "strNameFriendly": "Доля ран",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Доля от обычного количества ран, которую [us] может выдержать до травмы. 1.0 = норма. 0.5 = вдвое менее живучий."
   },
   {
     "strName": "StatWoundFractureMin",
-    "strNameFriendly": "Порог перелома",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Минимальная тяжесть тупой травмы, необходимая для перелома."
   },
   {
     "strName": "StatWoundHealRate",
-    "strNameFriendly": "Скорость заживления ран",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость заживления ран у [us] в час."
   },
   {
     "strName": "TaskBusy",
-    "strNameFriendly": "Занят задачей",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "[us] сейчас чем-то занят.",
     "bResetTimer": false,
@@ -17481,7 +17502,7 @@
   },
   {
     "strName": "UniqueID",
-    "strNameFriendly": "Уникальный ID",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Уникальный идентификатор, используемый для отслеживания CondOwner.",
     "bResetTimer": false,
@@ -17494,70 +17515,70 @@
   },
   {
     "strName": "StatICCoreTemp",
-    "strNameFriendly": "Температура активной зоны (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Температура активной зоны термоядерного реактора IC (K).",
     "bPersists": true
   },
   {
     "strName": "StatICCapA",
-    "strNameFriendly": "Заряд конденсатора (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Заряд конденсатора термоядерного реактора IC (0-1).",
     "bPersists": true
   },
   {
     "strName": "StatICCryoMult",
-    "strNameFriendly": "Множитель крионасоса (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Множитель криогенного насоса термоядерного реактора IC. >0 означает активный насос(ы).",
     "bPersists": true
   },
   {
     "strName": "StatICDRate",
-    "strNameFriendly": "Скорость потока D2O (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость потока D2O в термоядерном реакторе IC.",
     "bPersists": true
   },
   {
     "strName": "StatICHe3Rate",
-    "strNameFriendly": "Скорость потока He3 (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость потока He3 в термоядерном реакторе IC.",
     "bPersists": true
   },
   {
     "strName": "StatICPellMax",
-    "strNameFriendly": "Макс. подача гранул (факт) (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Фактическая максимальная скорость подачи гранул в термоядерный реактор IC, основанная на текущем состоянии компонентов.",
     "bPersists": true
   },
   {
     "strName": "StatICPellMaxTheory",
-    "strNameFriendly": "Макс. подача гранул (теор) (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Теоретическая максимальная скорость подачи гранул в термоядерный реактор IC, если бы все компоненты были новыми.",
     "bPersists": true
   },
   {
     "strName": "StatICPellRate",
-    "strNameFriendly": "Скорость подачи гранул (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость подачи гранул в термоядерный реактор IC.",
     "bPersists": true
   },
   {
     "strName": "StatICPressureA",
-    "strNameFriendly": "Давление в активной зоне (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Давление в активной зоне термоядерного реактора IC.",
     "bPersists": true
   },
   {
     "strName": "StatICPwrThrust",
-    "strNameFriendly": "Мощность тяги (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Мощность тяги термоядерного реактора [us] (ТВт).",
     "bResetTimer": false,
@@ -17570,49 +17591,49 @@
   },
   {
     "strName": "StatICPwrTotal",
-    "strNameFriendly": "Общая мощность (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Общая мощность термоядерного реактора IC (ТВт).",
     "bPersists": true
   },
   {
     "strName": "StatICPwrFus",
-    "strNameFriendly": "Мощность термояда (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Мощность поддержания термоядерной реакции в реакторе IC (ТВт).",
     "bPersists": true
   },
   {
     "strName": "StatICPwrMHD",
-    "strNameFriendly": "Мощность МГД (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Мощность МГД-генератора термоядерного реактора IC (ТВт).",
     "bPersists": true
   },
   {
     "strName": "StatICPwrLoad",
-    "strNameFriendly": "Нагрузка (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Нагрузка на термоядерный реактор IC (ТВт).",
     "bPersists": true
   },
   {
     "strName": "StatICReadyLasAlign",
-    "strNameFriendly": "Готовность лазера (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Готовность юстировки лазера термоядерного реактора IC.",
     "bPersists": true
   },
   {
     "strName": "StatICReadyPellFeed",
-    "strNameFriendly": "Готовность подачи (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Готовность подачи гранул термоядерного реактора IC.",
     "bPersists": true
   },
   {
     "strName": "StatICThrustThrottle",
-    "strNameFriendly": "Регулятор тяги (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Регулятор тяги термоядерного реактора [us] в виде нормализованной доли от полной мощности.",
     "bResetTimer": false,
@@ -17625,7 +17646,7 @@
   },
   {
     "strName": "StatICVe",
-    "strNameFriendly": "Скорость истечения (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Скорость истечения термоядерного двигателя [us] в м/с.",
     "bResetTimer": false,
@@ -17638,7 +17659,7 @@
   },
   {
     "strName": "StatICABLWall",
-    "strNameFriendly": "Целостность экрана (IC)",
+    "strNameFriendly": "",
     "strColor": "Neutral",
     "strDesc": "Целостность абляционного радиационного экрана термоядерного реактора IC.",
     "bPersists": true,
@@ -17648,7 +17669,7 @@
     "strName": "TutorialNoPlotsCooldown",
     "strNameFriendly": "TutorialNoPlotsCooldown",
     "strColor": "Neutral",
-    "strDesc": "Cooldown before player sees first plot.",
+    "strDesc": "Время ожидания до первого сюжета для игрока.",
     "bResetTimer": false,
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
@@ -18094,5 +18115,14 @@
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "fDuration": 0.05
+  },
+  {
+    "strName": "IsDockSysInUse",
+    "strNameFriendly": "Система стыковки используется",
+    "strColor": "Neutral",
+    "strDesc": "[us] [is] используемая система стыковки.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0,
+    "bPersists": true
   }
 ]
