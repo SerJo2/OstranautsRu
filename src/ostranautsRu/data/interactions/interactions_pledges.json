@@ -735,7 +735,7 @@
     "LootCondsThem": null
   },
   {
-    "strName": "PLGAIMaintenanceTechWorkPatchDo",
+    "strName": "PLGAIMaintenanceTechWorкПаtchDo",
     "strTitle": "Заделать пробоину",
     "strDesc": "[us] решает залатать [them].",
     "strActionGroup": "Work",
@@ -748,7 +748,7 @@
       "ACTWall1x1PatchNPC,[us],[them]",
       "ACTWallPlastic1x1PatchNPC,[us],[them]",
       "ACTWallWindow1x1PatchNPC,[us],[them]",
-      "PLGAIMaintenanceTechWorkPatchDoFail,[us],[them]"
+      "PLGAIMaintenanceTechWorкПаtchDoFail,[us],[them]"
     ],
     "fDuration": 5.4e-05,
     "strThemType": "Other",
@@ -760,7 +760,7 @@
     "LootCondsThem": null
   },
   {
-    "strName": "PLGAIMaintenanceTechWorkPatchDoFail",
+    "strName": "PLGAIMaintenanceTechWorкПаtchDoFail",
     "strTitle": "Невозможно провести техническое обслуживание",
     "strDesc": "[us] не может залатать [them] в данный момент.",
     "strActionGroup": "Work",

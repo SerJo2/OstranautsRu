@@ -8,7 +8,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] [messages] [us], asking for a boop of [3rd]."
+      "strDesc|[them] [messages] [us], спрашивая for a boop of [3rd]."
     ]
   },
   {
@@ -64,7 +64,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] [hands] over what looks like a tracking device. [them-subj] nonchalantly [instructs] [us] to plant it on [3rd] without [3rd-pos] notice.",
+      "strDesc|[them] [hands] over what выглядит like a tracking device. [them-subj] nonchalantly [instructs] [us] to plant it on [3rd] without [3rd-pos] notice.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -176,7 +176,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] is sufficiently terrified and agrees to abandon [3rd-pos] plot against [them]. Before [us] [leaves], [3rd] [says] [them] might not be telling the whole truth about the Food Processing department.",
+      "strDesc|[3rd] is sufficiently terrified and соглашается to abandon [3rd-pos] plot against [them]. Before [us] [leaves], [3rd] [says] [them] might not be telling the whole truth about the Food Processing department.",
       "strColor|Goodish"
     ]
   },
@@ -232,7 +232,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] takes a call from [them], an ex-con who insists on speaking in person very soon. They seem cagey, nervous, eager to get off comms.",
+      "strDesc|[us] берёт a call from [them], an ex-con who настаивает on speaking in person very soon. They seem cagey, nervous, eager to get off comms.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|CriminalVanilla",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip"
@@ -248,7 +248,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] says they are in a tight spot. An Ayotimiwa contracted Ogiso agent named [3rd] is accusing them of filing an insurance claim on a recently destroyed racing vessel that was in someone else's name. [them] asks [us] to go talk to them and set the record straight.",
+      "strDesc|[them] говорит they are in a tight spot. An Ayotimiwa contracted Ogiso agent named [3rd] is accusing them of filing an insurance claim on a recently destroyed racing vessel that was in someone else's name. [them] asks [us] to go talk to them and set the record straight.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -261,7 +261,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] relents to the pressure. They agree to retract the investigation into [them], but insists that there is more to the story than meets the eye.",
+      "strDesc|[3rd] relents to the pressure. They agree to retract the investigation into [them], but настаивает that there is more to the story than meets the eye.",
       "strColor|Goodish"
     ]
   },
@@ -274,7 +274,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] takes a call from [them], the Ogiso manager who accused [3rd] of fraud. They say they'd like to talk and that it is urgent."
+      "strDesc|[us] берёт a call from [them], the Ogiso manager who accused [3rd] of fraud. They say they'd like to talk and that it is urgent."
     ]
   },
   {
@@ -289,7 +289,7 @@
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
       "ShipTest3rd|PlayerCurrentShip",
-      "strDesc|[them] says they located the former owner of the ship that your little criminal friend filed a claim for, someone named [3rd]. They're dead. If you don't believe [them] you can go to [3rd]'s ship and see for yourself."
+      "strDesc|[them] говорит they located the former owner of the ship that your little criminal friend filed a claim for, someone named [3rd]. They're dead. If you don't believe [them] you can go to [3rd]'s ship and see for yourself."
     ]
   },
   {
@@ -314,7 +314,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] takes a call from [them], their former cellmate. [them] wants to meet soon, in person. They seem nervous, scared even.",
+      "strDesc|[us] берёт a call from [them], their former cellmate. [them] хочет to meet soon, in person. They seem nervous, scared even.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|CGEncHomeworldPrisonerFriend",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -331,7 +331,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] looks bad. Bruised, cut and disheveled. They say an arrogant AyoSec LEO named [3rd] has targeted them and is insisting that [them] has returned to their former life of crime. [3rd] says the harassment won't stop until [them] pays a protection fee, which keeps going up. They want you to go talk to the cop, straighten him out any way you can.",
+      "strDesc|[them] выглядит bad. Bruised, cut and disheveled. They say an arrogant AyoSec LEO named [3rd] has targeted them and is insisting that [them] has returned to their former life of crime. [3rd] говорит the harassment won't stop until [them] платит a protection fee, which keeps going up. They want you to go talk to the cop, straighten him out any way you can.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -355,7 +355,7 @@
     "strReplace": "ChoiceXYZ",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] messages, asking [us] to come talk to them and choose between options.",
+      "strDesc|[them] сообщает, спрашивая [us] to come talk to them and choose between options.",
       "ShipTestThem|PlayerCurrentShip",
       "CTTestUs|TIsNotChoiceXYZCooldown"
     ]
@@ -435,7 +435,7 @@
     "strReplace": "ChoiceFanBreakoutTeam",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] gestures at [us]. Looks like [them-subj] [them-wants] to banter.",
+      "strDesc|[them] жестикулирует at [us]. Looks like [them-subj] [them-wants] to banter.",
       "ShipTestThem|PlayerCurrentShip",
       "CTTestThem|TIsFanBreakoutTeam",
       "bNoWalk|true",

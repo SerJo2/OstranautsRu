@@ -202,7 +202,7 @@
       { "strLootNew" : "Blank", "fMin"     : 0, "fMax"     : 2, "fMinAdd"  : 1, "fMaxAdd"  : -1 },
       { "strLootNew" : "CONDTipsy", "fMin"     : 2, "fMax"     : 4, "fMinAdd"  : 1, "fMaxAdd"  : -1 },
       { "strLootNew" : "CONDDrunk", "fMin"     : 4, "fMax"     : 9e99, "fMinAdd"  : 1, "fMaxAdd"  : -1 },
-      { "strLootNew" : "CONDDrunkPassingOut", "fMin"     : 8, "fMax"     : 9e99, "fMinAdd"  : 1, "fMaxAdd"  : -1 }
+      { "strLootNew" : "CONDDrunкПаssingOut", "fMin"     : 8, "fMax"     : 9e99, "fMinAdd"  : 1, "fMaxAdd"  : -1 }
     ]
   },
   {

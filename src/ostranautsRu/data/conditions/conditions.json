@@ -1339,7 +1339,7 @@
     "bInvert": true
   },
   {
-    "strName": "DrunkPassingOut",
+    "strName": "DrunкПаssingOut",
     "strNameFriendly": "Потеря сознания",
     "strColor": "BadVery",
     "strDesc": "[us] [is] настолько пьян, что вот-вот потеряет сознание.",
@@ -1347,18 +1347,18 @@
     "nDisplaySelf": 0,
     "nDisplayOther": 0,
     "aNext": [
-      "TUpDrunkPassingOut",
-      "TUpDrunkPassedOut"
+      "TUpDrunкПаssingOut",
+      "TUpDrunкПаssedOut"
     ],
     "fDuration": 0.02,
     "aPer": [
-      "CONDDrunkPassingOutPer"
+      "CONDDrunкПаssingOutPer"
     ],
     "fClampMax": 1.0,
     "bInvert": true
   },
   {
-    "strName": "DrunkPassedOut",
+    "strName": "DrunкПаssedOut",
     "strNameFriendly": "Вырубился от алкоголя",
     "strColor": "Bad",
     "strDesc": "[us] [has] потерял сознание от алкоголя.",
@@ -1368,7 +1368,7 @@
     "bFatal": false,
     "bKO": true,
     "aNext": [
-      "TUpDrunkPassedOut",
+      "TUpDrunкПаssedOut",
       "TUpAlcoholPoisoning"
     ],
     "fDuration": 0.015,

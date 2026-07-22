@@ -3894,7 +3894,7 @@
   {
     "strName": "ACTPlayGameDenyContact",
     "strTitle": "Хочет общения",
-    "strDesc": "[us] не хочет сейчас играть с [them], потому что [us] prefers prefers prefers prefers prefers prefers.",
+    "strDesc": "[us] не хочет сейчас играть с [them], потому что [us] предпочитает предпочитает предпочитает предпочитает предпочитает предпочитает.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -3917,7 +3917,7 @@
   {
     "strName": "ACTPlayGameDenyEsteem",
     "strTitle": "Жаждет признания",
-    "strDesc": "[us] не хочет сейчас играть с [them], потому что [us] prefers prefers.",
+    "strDesc": "[us] не хочет сейчас играть с [them], потому что [us] предпочитает предпочитает.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4865,7 +4865,7 @@
   {
     "strName": "ACTStudySkillDenyContact",
     "strTitle": "Хочет общения",
-    "strDesc": "[us] не хочет сейчас заниматься с [them], потому что [us] prefers prefers prefers.",
+    "strDesc": "[us] не хочет сейчас заниматься с [them], потому что [us] предпочитает предпочитает предпочитает.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4887,7 +4887,7 @@
   {
     "strName": "ACTStudySkillDenyMeaning",
     "strTitle": "Хочет смысла",
-    "strDesc": "[us] не хочет сейчас заниматься с [them], потому что [us] prefers prefers prefers prefers.",
+    "strDesc": "[us] не хочет сейчас заниматься с [them], потому что [us] предпочитает предпочитает предпочитает предпочитает.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,

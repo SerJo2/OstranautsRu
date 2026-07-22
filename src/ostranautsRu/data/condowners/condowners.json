@@ -3650,7 +3650,7 @@
   {
     "strName": "ItmAlarmTempOnW",
     "strNameShort": "Термостат",
-    "strNameFriendly": "Thermostat",
+    "strNameFriendly": "Термостат",
     "strItemDef": "ItmAlarmTempOnW",
     "strType": "Item",
     "strLoot": null,
@@ -10580,7 +10580,7 @@
   {
     "strName": "ItmConduit00",
     "strNameShort": "Кабель",
-    "strNameFriendly": "Conduit",
+    "strNameFriendly": "Кабель-канал",
     "strItemDef": "ItmConduit00",
     "strDesc": "Фиксированный кабельный канал, способный передавать энергию между компонентами корабля. Любой стоящий инженер знает важность правильно проложенного кабеля, особенно при утилизации поврежденных звездолетов.",
     "strType": "Item",
@@ -10819,7 +10819,7 @@
   {
     "strName": "ItmCooler01On",
     "strNameShort": "Холодильник",
-    "strNameFriendly": "Cooler",
+    "strNameFriendly": "Кулер",
     "strItemDef": "ItmCooler01On",
     "strDesc": "Охлаждающий блок Sokol, состоящий из внутреннего кондиционера, соединенного с радиаторными панелями на внешней обшивке. Безопасная температура в каюте находится в пределах от 290 до 300 градусов Кельвина. Может быть подключен к термостату.",
     "strType": "Item",
@@ -14978,7 +14978,7 @@
     "strName": "ItmFridge01",
     "strNameShort": "Холодильник",
     "strItemDef": "ItmFridge01",
-    "strNameFriendly": "Fridge",
+    "strNameFriendly": "Холодильник",
     "strDesc": "Холодильник способен хранить еду и другие скоропортящиеся продукты при низкой температуре. Когда он полон — это любимый элемент корабельного камбуза.",
     "strType": "Item",
     "aInteractions": [
@@ -15663,7 +15663,7 @@
   {
     "strName": "ItmHeater01",
     "strNameShort": "Обогреватель",
-    "strNameFriendly": "Heater",
+    "strNameFriendly": "Обогреватель",
     "strItemDef": "ItmHeater01",
     "strDesc": "Отопительный прибор производства Sokol. Преобразует электричество в тепловую энергию, излучаемую в каюту. Безопасная температура в каюте составляет от 290 до 300 градусов Кельвина. Может быть подключён к термостату.",
     "strType": "Item",
@@ -27004,7 +27004,7 @@
     "strNameShort": "Шина",
     "strItemDef": "ItmSplint01",
     "strDesc": "Жёсткое приспособление для фиксации сломанной конечности. Регулируемое, подходит как для рук, так и для ног.",
-    "strNameFriendly": "Splint",
+    "strNameFriendly": "Шина",
     "strType": "Item",
     "strLoot": null,
     "nStackLimit": 10,
@@ -28329,7 +28329,7 @@
   {
     "strName": "ItmToilet01",
     "strNameShort": "Туалет",
-    "strNameFriendly": "Toilet",
+    "strNameFriendly": "Туалет",
     "strItemDef": "ItmToilet01",
     "strType": "Item",
     "strLoot": null,
@@ -28414,7 +28414,7 @@
   {
     "strName": "ItmTablet01",
     "strNameShort": "Планшет",
-    "strNameFriendly": "Tablet",
+    "strNameFriendly": "Планшет",
     "strDesc": "Карманный смарт-планшет Renbao. Совместим с большинством электронных подсистем, такими как корабельные навигационные станции.",
     "strItemDef": "ItmTablet01",
     "strType": "Item",
@@ -30327,7 +30327,7 @@
   {
     "strName": "ItmTreadmill01",
     "strNameShort": "Беговая дорожка",
-    "strNameFriendly": "Treadmill",
+    "strNameFriendly": "Беговая дорожка",
     "strDesc": "Беговая дорожка Halvorson «Ибн Баттута» адаптирована для создания искусственной нагрузки при кардиотренировках в условиях микрогравитации.",
     "strItemDef": "ItmTreadmill01Active",
     "strType": "Item",
@@ -32465,7 +32465,7 @@
   {
     "strName": "ItmWorkbench01",
     "strNameShort": "Верстак",
-    "strNameFriendly": "Workbench",
+    "strNameFriendly": "Рабочий стол",
     "strItemDef": "ItmWorkbench01",
     "strType": "Item",
     "strLoot": null,
@@ -32725,7 +32725,7 @@
   {
     "strName": "LiquidCoffee",
     "strNameShort": "Кофе",
-    "strNameFriendly": "Moretti Coffee",
+    "strNameFriendly": "Кофе Moretti",
     "strDesc": "Порция насыщенного кофе Moretti объёмом 6 унций — напиток, адаптированный для космоса и знаменитый по всей Системе. Его часто наслаждаются из специальных питьевых бульбов, разработанных для употребления в невесомости и сохраняющих правильный аромат.",
     "strItemDef": "ItmLiquidBrown",
     "strType": "Item",
@@ -34586,7 +34586,7 @@
   {
     "strName": "Compartment",
     "strNameShort": "Отсек",
-    "strNameFriendly": "Compartment",
+    "strNameFriendly": "Отсек",
     "strDesc": "Любое помещение или внешнее пространство в мире считается Отсеком, и каждый из них будет иметь собственные отслеживаемые значения давления газов и температуры.\n\nЛюбой Отсек с проемом, ведущим наружу корабля, будет постепенно выравнивать температуру и давление в соответствии с внешней средой.",
     "strItemDef": "Blank",
     "strType": "Item",
@@ -34723,7 +34723,7 @@
   },
   {
     "strName": "SOCEncourage",
-    "strNameFriendly": "Encourage",
+    "strNameFriendly": "Поддержать",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,
@@ -34762,7 +34762,7 @@
   },
   {
     "strName": "SOCInsult",
-    "strNameFriendly": "Insult",
+    "strNameFriendly": "Оскорбить",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,
@@ -34827,7 +34827,7 @@
   },
   {
     "strName": "SOCReassure",
-    "strNameFriendly": "Reassure",
+    "strNameFriendly": "Успокоить",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,
@@ -34840,7 +34840,7 @@
   },
   {
     "strName": "SOCReminisce",
-    "strNameFriendly": "Reminisce",
+    "strNameFriendly": "Вспомнить",
     "strItemDef": "SocialItem",
     "strType": "Item",
     "nStackLimit": 50,

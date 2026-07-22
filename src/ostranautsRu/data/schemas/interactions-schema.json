@@ -42,7 +42,7 @@
             },
             "strColor" : {
                 "type": "string",
-                "description": "Name of the color to use in logged messages (E.g. Good, Goodish, Neutral, Badish, Bad)"
+                "description": "Name of the color to use in logged сообщает (E.g. Good, Goodish, Neutral, Badish, Bad)"
             },
             "strDuty" : {
                 "type": ["string", "null"],
@@ -142,7 +142,7 @@
             },
             "strLootCTsGive": {
                 "type": ["string", "null"],
-                "description": "Loot [us] gives [them] when this interaction happens, defined as CT/trigger type entry in loot.json or loot_self_reference.json"
+                "description": "Loot [us] даёт [them] when this interaction happens, defined as CT/trigger type entry in loot.json or loot_self_reference.json"
             },
             "strLootCTsUse": {
                 "type": ["string", "null"],
@@ -150,7 +150,7 @@
             },
             "strLootCTsTake": {
                 "type": ["string", "null"],
-                "description": "Loot [them] gives [us] when this interaction happens, defined as CT/trigger type entry in loot.json or loot_self_reference.json"
+                "description": "Loot [them] даёт [us] when this interaction happens, defined as CT/trigger type entry in loot.json or loot_self_reference.json"
             },
             "strLootCTsLacks": {
                 "type": ["string", "null"],
@@ -238,7 +238,7 @@
             },
             "bIgnoreFeelings": {
                 "type": "boolean",
-                "description": "If true, and multiple aInverse options trigger, choose first valid option (i.e. order matters). If false, AI chooses what it wants from valid options based on mood and history."
+                "description": "If true, and multiple aInverse options trigger, choose first valid option (i.e. order matters). If false, AI chooses what it хочет from valid options based on mood and history."
             },
             "bRandomInverse": {
                 "type": "boolean",
@@ -262,7 +262,7 @@
             },
             "bDestroyItem": {
                 "type": "boolean",
-                "description": "If true, [us] will destroy items after they are removed. false drops on ground."
+                "description": "If true, [us] will destroy items after they are removed. false бросает on ground."
             },
             "bHumanOnly": {
                 "type": "boolean",
@@ -282,11 +282,11 @@
             },
             "bNoWait": {
                 "type": "boolean",
-                "description": "If true, them will not wait for us when this starts."
+                "description": "If true, them will not wait for us when this начинает."
             },
             "bVerboseTrigger": {
                 "type": "boolean",
-                "description": "If true, will add log messages about why this didn't trigger."
+                "description": "If true, will add log сообщает about why this didn't trigger."
             },
             "bHardCode": {
                 "type": "boolean",

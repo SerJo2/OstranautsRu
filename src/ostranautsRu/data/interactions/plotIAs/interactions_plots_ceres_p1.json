@@ -454,7 +454,7 @@
 		"CTTestUs" : "CTPlot_Isambard_Start",
 		"aInverse" : [ "Isambard_Start_1" ],
 		"fTargetPointRange" : 3,
-		"strTooltip" : "The intercom watches you with its lidless red eye."
+		"strTooltip" : "The intercom наблюдает you with its lidless red eye."
 	},
 	{
 		"strName" : "Isambard_Start_1",

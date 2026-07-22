@@ -41,7 +41,7 @@
     "strReplace": "AyoCorpSnitch",
     "aOverrideValues": [
       "strTitle|Незаметно подложить устройство",
-      "strDesc|[us] [feigns] nearly colliding with [them]. An apology and a few angry gestures later, and [3rd-pos] request is complete.",
+      "strDesc|[us] [feigns] nearly colliding with [them]. An apology and a few angry жестикулирует later, and [3rd-pos] request is complete.",
       "strActionGroup|Использовать"
     ]
   },
@@ -203,7 +203,7 @@
     "strReplace": "ChoiceXYZ01a",
     "aOverrideValues": [
       "strTitle|Вариант А",
-      "strDesc|[us] says to [them], \",
+      "strDesc|[us] говорит to [them], \",
       "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются."
     ]
   },
@@ -214,7 +214,7 @@
     "strReplace": "ChoiceXYZ01b",
     "aOverrideValues": [
       "strTitle|Вариант B",
-      "strDesc|[us] says to [them], \",
+      "strDesc|[us] говорит to [them], \",
       "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
@@ -226,7 +226,7 @@
     "strReplace": "ChoiceXYZ02a",
     "aOverrideValues": [
       "strTitle|Вариант 2А",
-      "strDesc|[us] says to [them], \",
+      "strDesc|[us] говорит to [them], \",
       "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
@@ -238,7 +238,7 @@
     "strReplace": "ChoiceXYZ02b",
     "aOverrideValues": [
       "strTitle|Вариант 2B",
-      "strDesc|[us] says to [them], \",
+      "strDesc|[us] говорит to [them], \",
       "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
@@ -250,7 +250,7 @@
     "strReplace": "ChoiceXYZ03a",
     "aOverrideValues": [
       "strTitle|Финальный выбор А",
-      "strDesc|[us] says to [them], \",
+      "strDesc|[us] говорит to [them], \",
       "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]
@@ -262,7 +262,7 @@
     "strReplace": "ChoiceXYZ03b",
     "aOverrideValues": [
       "strTitle|Финальный выбор B",
-      "strDesc|[us] says to [them], \",
+      "strDesc|[us] говорит to [them], \",
       "strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
       "LootCondsThem|null"
     ]

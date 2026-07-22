@@ -6443,7 +6443,7 @@
   {
     "strName": "SOCHireQuitsStaysResponsibility",
     "strTitle": "Принять новые обязанности",
-    "strDesc": "[us] says, [us] [appreciates] наличие более значимой роли на борту. [us] [accepts] новые условия и соглашается остаться.",
+    "strDesc": "[us] говорит, [us] [appreciates] наличие более значимой роли на борту. [us] [accepts] новые условия и соглашается остаться.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2,

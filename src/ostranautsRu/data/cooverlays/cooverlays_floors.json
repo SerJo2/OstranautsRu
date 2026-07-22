@@ -300,9 +300,9 @@
   {
     "strName": "ItmFloorAERO04Patch",
     "strNameFriendly": "Пол D (Заплатка): Testudo \"Aero-Lift\"",
-    "strImg": "tiles/FloorGrate10/ItmFloorGrate10KPatch",
+    "strImg": "tiles/FloorGrate10/ItmFloorGrate10КПаtch",
     "strImgNorm": "tiles/FloorGrate01/ItmFloorGrate01Patchn",
-    "strPortraitImg": "tiles/FloorGrate10/ItmFloorGrate10KPatch",
+    "strPortraitImg": "tiles/FloorGrate10/ItmFloorGrate10КПаtch",
     "strCOBase": "ItmFloorGrate01Patch",
     "strCondLoot": "CNDOLFloorAERO04",
     "strDmgColor": "DamageTintBrownMSSLF",

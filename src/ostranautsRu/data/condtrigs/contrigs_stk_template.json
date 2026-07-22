@@ -65,7 +65,7 @@
     { "strName" : "CT_STKTemplate_Intro_Allow_DcSelfRespectGood_Them", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggersForbid" : [ "TIsHumanAwake" ], "bAND" : false },
     { "strName" : "CT_STKTemplate_Intro_Allow_DcSelfRespectBad_Us", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "DcSelfRespect04", "DcSelfRespect05" ], "aForbids" : [ ], "aTriggersForbid" : [ "TIsHumanAwake" ], "bAND" : false },
     { "strName" : "CT_STKTemplate_Intro_Allow_DcSelfRespectBad_Them", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggersForbid" : [ "TIsHumanAwake" ], "bAND" : false },
-    { "strName" : "CT_STKTemplate_Intro_Allow_Drunk_Us", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "Drunk", "DrunkPassingOut" ], "aForbids" : [ ], "aTriggersForbid" : [ "TIsHumanAwake" ], "bAND" : false },
+    { "strName" : "CT_STKTemplate_Intro_Allow_Drunk_Us", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "Drunk", "DrunкПаssingOut" ], "aForbids" : [ ], "aTriggersForbid" : [ "TIsHumanAwake" ], "bAND" : false },
     { "strName" : "CT_STKTemplate_Intro_Allow_Drunk_Them", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggersForbid" : [ "TIsHumanAwake" ], "bAND" : false },
 
     { "strName" : "CT_STKTemplate_Intro_Deny_Enemy_Us", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsHumanAwake" ], "bAND" : true },

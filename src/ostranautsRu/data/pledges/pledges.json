@@ -257,7 +257,7 @@
     "strName": "AIMaintenanceTechWorkOKLGPatch",
     "strNameFriendly": "Приветствовать партнера",
     "strType": "repeat",
-    "strIATrigger": "PLGAIMaintenanceTechWorkPatchDo",
+    "strIATrigger": "PLGAIMaintenanceTechWorкПаtchDo",
     "aIAEnd": null,
     "strThemID": null,
     "bThemAllowDocked": false,

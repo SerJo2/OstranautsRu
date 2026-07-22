@@ -5021,7 +5021,7 @@
     "strType": "condition"
   },
   {
-    "strName": "CONDDrunkPassingOutPer",
+    "strName": "CONDDrunкПаssingOutPer",
     "aCOs": [
       "-StatDefense=1.0x0.5",
       "StatSleep=1.0x4",
@@ -11090,16 +11090,16 @@
     "strType": "condition"
   },
   {
-    "strName": "CONDDrunkPassingOut",
+    "strName": "CONDDrunкПаssingOut",
     "aCOs": [
-      "DrunkPassingOut=1.0x1",
+      "DrunкПаssingOut=1.0x1",
       "StatSleepComfort=1.0x10"
     ],
     "aLoots": [],
     "strType": "condition"
   },
   {
-    "strName": "CONDDrunkPassedOut",
+    "strName": "CONDDrunкПаssedOut",
     "aCOs": [
       "Unconscious=1.0x1"
     ],
@@ -23936,7 +23936,7 @@
       "Diarrhea=1.0x1",
       "Dizzy=1.0x1",
       "Drunk=1.0x1",
-      "DrunkPassedOut=1.0x1",
+      "DrunкПаssedOut=1.0x1",
       "Ebullism=1.0x1",
       "FracturedBone=1.0x1",
       "FracturedRib=1.0x1",
@@ -43345,7 +43345,7 @@
     "strType": "interaction"
   },
   {
-    "strName": "PSPIAAddNPCSchmuckPartner",
+    "strName": "PSPIAAddNPCSchmucкПаrtner",
     "aCOs": [
       "CGEncRichSchmuckExAdd=1.0x1"
     ],
@@ -45416,7 +45416,7 @@
     "strName": "DataFuelNeeded",
     "aCOs": [
       "GetRCSMinimumFuelAmount=1x1",
-      "+ kg RCS =1x1"
+      "+ кг RCS =1x1"
     ],
     "strType": "data"
   },
@@ -45426,7 +45426,7 @@
       "GetRCSRemain=1x1",
       "+ / =1x1",
       "GetRCSMax=1x1",
-      "+ kg RCS =1x1"
+      "+ кг RCS =1x1"
     ],
     "strType": "data"
   },
