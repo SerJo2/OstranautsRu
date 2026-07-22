@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "PLOT_Meat_StartTrigger",
     "strTitle": "[us] заметил упоминание секретного эксперимента.",
@@ -1942,7 +1942,7 @@
     "CTTestUs": null,
     "CTTestThem": null,
     "strAttackMode": "AModeSatyrBludgeon",
-    "strAttackerName": "Сатир Козлиного Короля"
+    "strAttackerName": "Goat King's Satyr"
   },
   {
     "strName": "ENCPlot_Meat_GoatBoss_Z2a_Part2a",
@@ -2029,7 +2029,7 @@
     "CTTestUs": null,
     "CTTestThem": null,
     "strAttackMode": "AModeSatyrPummel",
-    "strAttackerName": "Сатир Козлиного Короля"
+    "strAttackerName": "Goat King's Satyr"
   },
   {
     "strName": "ENCPlot_Meat_GoatBoss_Z2d",

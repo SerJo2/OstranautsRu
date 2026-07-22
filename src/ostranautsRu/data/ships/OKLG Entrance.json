@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "OKLG Entrance",
     "strRegID": "E-DD6",
@@ -65937,7 +65937,7 @@
     "origin": "K-Leg",
     "description": "",
     "designation": "Наземная станция",
-    "publicName": "K-LEG: Порт Азикиве",
+    "publicName": "K-Leg: Port Azikiwe",
     "dimensions": "28.48m x 20.16m",
     "aMarketConfigs": {
       "86c59121-2f79-476f-9240-bee9699e8aef": "OKLGCargoKiosk"

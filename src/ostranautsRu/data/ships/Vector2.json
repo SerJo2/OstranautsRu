@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Vector2",
     "strRegID": "M-DE7T",
@@ -8238,7 +8238,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "Mobile Space Systems",
-    "model": "Вектор Mk. II",
+    "model": "Vector Mk. II",
     "year": "2065",
     "origin": "$TEMPLATE",
     "description": "Стандартный полицейский крейсер. Неповоротливый, но надёжный. Стандартно комплектуется кофеваркой, но без пончиков.",

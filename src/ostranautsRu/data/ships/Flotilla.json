@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Flotilla",
     "strRegID": "O-6ZHW",
@@ -44930,7 +44930,7 @@
     "origin": "----",
     "description": "",
     "designation": "----",
-    "publicName": "Флотилия",
+    "publicName": "The Flotilla",
     "dimensions": "23.04m x 20.16m",
     "aMarketConfigs": {
       "90b2ecab-2957-4aec-9549-fe652651016b": "OFLTCargoKiosk"

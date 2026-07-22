@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Venus Club",
     "strRegID": "E-37PE",
@@ -36072,7 +36072,7 @@
     "origin": "Venus",
     "description": "",
     "designation": "Ночной клуб",
-    "publicName": "Зал «Sol Vermelho»",
+    "publicName": "Sol Vermelho Lounge",
     "dimensions": "21.44m x 20.48m",
     "fShallowMass": 27788.567,
     "fShallowRCSRemass": 0.0,

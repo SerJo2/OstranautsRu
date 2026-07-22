@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Mooring Buoy",
     "strRegID": "H-HS7L",
@@ -4961,7 +4961,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "ASC",
-    "model": "Швартовый буй 01",
+    "model": "Mooring Buoy 01",
     "year": "2036",
     "origin": "K-Leg",
     "description": "",

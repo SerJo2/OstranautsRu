@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Station_HQCH",
     "strRegID": "E-BN6D",
@@ -45754,8 +45754,8 @@
     "dLastScanTime": 0.0,
     "bLocalAuthority": false,
     "bAIShip": false,
-    "make": "н/д",
-    "model": "н/д",
+    "make": "n/a",
+    "model": "n/a",
     "year": "2044",
     "origin": "$TEMPLATE",
     "description": "",

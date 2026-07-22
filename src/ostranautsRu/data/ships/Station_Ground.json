@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Station_Ground",
     "strRegID": "M-XPEB",
@@ -23404,13 +23404,13 @@
     "dLastScanTime": 0.0,
     "bLocalAuthority": false,
     "bAIShip": false,
-    "make": "н/д",
-    "model": "н/д",
+    "make": "n/a",
+    "model": "n/a",
     "year": "2044",
     "origin": "$TEMPLATE",
     "description": "",
     "designation": "Наземная станция",
-    "publicName": "Местоположение: Частное",
+    "publicName": "Location: Private",
     "dimensions": "29.12m x 19.20m",
     "fShallowMass": 21928.5,
     "fShallowRCSRemass": 0.0,

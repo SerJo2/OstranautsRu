@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "VORB_Aux",
     "strRegID": "H-XT6",
@@ -6602,7 +6602,7 @@
     "origin": "Venus",
     "description": "",
     "designation": "Орбитальная станция",
-    "publicName": "Венерианская орбита: вспомогательный стыковочный порт",
+    "publicName": "Venus Orbital: Auxiliary Docking Port",
     "dimensions": "9.60m x 7.36m",
     "fShallowMass": 8848.563,
     "fShallowRCSRemass": 0.0,

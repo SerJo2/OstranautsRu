@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "OKLG_RES",
     "strRegID": "E-5H8T",
@@ -16211,7 +16211,7 @@
     "origin": "K-Leg",
     "description": "",
     "designation": "Наземная станция",
-    "publicName": "K-LEG: Трансферная станция «Поместья Азикиве»",
+    "publicName": "K-Leg: Azikiwe Estates Transfer Station",
     "dimensions": "32.00m x 32.00m",
     "fShallowMass": 8775.325,
     "fShallowRCSRemass": 0.0,

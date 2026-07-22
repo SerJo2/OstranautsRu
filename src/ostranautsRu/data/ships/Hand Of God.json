@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Hand Of God",
     "strRegID": "H-HGJZ",
@@ -4565,7 +4565,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "Custom",
-    "model": "Длань Господня",
+    "model": "Hand of God",
     "year": "2068",
     "origin": "$TEMPLATE",
     "description": "Говорят, бог не может убить то, что не может поймать. Именно на это, судя по всему, этот кораблестроитель готов был поставить свою жизнь.",

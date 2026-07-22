@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "OKLG Bureaus",
     "strRegID": "B-EN5M",
@@ -52532,7 +52532,7 @@
     "origin": "K-Leg",
     "description": "",
     "designation": "Наземная станция",
-    "publicName": "K-LEG: Коммерческий «Азикиве»",
+    "publicName": "K-Leg: Azikiwe Commercial",
     "dimensions": "28.48m x 19.84m",
     "fShallowMass": 47673.5846,
     "fShallowRCSRemass": 0.0,

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Tutorial Light Ferry",
     "strRegID": "V-SCL",
@@ -5311,7 +5311,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "Testudo",
-    "model": "Паром Mk. IX",
+    "model": "Ferry Mk. IX",
     "year": "2062",
     "origin": "$TEMPLATE",
     "description": "Небольшой пассажирский шаттл вместимостью в полдюжины человек, используемый для краткосрочных перелётов. Не имеет серьёзных удобств, помимо базовой системы жизнеобеспечения.",

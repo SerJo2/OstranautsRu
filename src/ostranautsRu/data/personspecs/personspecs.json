@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Boarding",
     "strFirstName": "",
@@ -1290,7 +1290,7 @@
   {
     "strName": "OKLGPortAuthority",
     "strFirstName": "OKLG",
-    "strLastName": "Портовая администрация",
+    "strLastName": "Port Authority",
     "strGender": "IsNB",
     "strCareerNow": "ORG",
     "strHomeworldFind": "OKLG",

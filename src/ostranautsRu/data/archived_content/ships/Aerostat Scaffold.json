@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Aerostat Scaffold",
     "strRegID": "E-S1EA",
@@ -41054,8 +41054,8 @@
     "dLastScanTime": 0.0,
     "bLocalAuthority": false,
     "bAIShip": false,
-    "make": "н/д",
-    "model": "н/д",
+    "make": "n/a",
+    "model": "n/a",
     "year": "2079",
     "origin": "$TEMPLATE",
     "description": "",

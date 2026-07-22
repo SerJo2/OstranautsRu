@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "OKLG Mescaform",
     "strRegID": "O-JPX",
@@ -36266,7 +36266,7 @@
     "origin": "K-Leg",
     "description": "",
     "designation": "Наземная станция",
-    "publicName": "K-LEG: Старый рынок",
+    "publicName": "K-Leg: Old Emporium",
     "dimensions": "21.12m x 23.04m",
     "fShallowMass": 46195.365,
     "fShallowRCSRemass": 0.0,

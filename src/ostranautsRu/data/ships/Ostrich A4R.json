@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Ostrich A4R",
     "strRegID": "M-M86P",
@@ -5942,7 +5942,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "",
-    "model": "Оstrich Aero 4R",
+    "model": "Ostrich Aero 4R",
     "year": "",
     "origin": "$TEMPLATE",
     "description": "Ostrich — грузовой корабль с четырьмя грузовыми модулями, созданный для эффективной транспортировки в атмосфере.",

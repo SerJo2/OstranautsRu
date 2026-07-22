@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Inspection Pod",
     "strRegID": "H-RLD6",
@@ -3964,7 +3964,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "Testudo",
-    "model": "Инспекционная капсула класса 14",
+    "model": "Class 14 Inspection Capsule",
     "year": "2055",
     "origin": "$TEMPLATE",
     "description": "Небольшое судно, предназначенное для детального осмотра станций и крупных кораблей. Одно место, и то не слишком удобное.",

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Station_VNCA_Port",
     "strRegID": "H-H8A4",
@@ -97003,13 +97003,13 @@
     "dLastScanTime": 0.0,
     "bLocalAuthority": false,
     "bAIShip": false,
-    "make": "н/д",
-    "model": "н/д",
+    "make": "n/a",
+    "model": "n/a",
     "year": "2049",
     "origin": "Venus",
     "description": "",
     "designation": "Aerostat",
-    "publicName": "Терминал Лонг-Бич",
+    "publicName": "Long Beach Terminal",
     "dimensions": "40.32m x 24.32m",
     "aMarketConfigs": {
       "044b0f51-25f3-4c06-bdf7-a1e6f2ee36ae": "VNCACargoKiosk"

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Station_VENC_Port",
     "strRegID": "O-GST6",
@@ -64662,7 +64662,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "Aerostat",
-    "model": "н/д",
+    "model": "n/a",
     "year": "2035",
     "origin": "Venus",
     "description": "",

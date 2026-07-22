@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Nav Buoy",
     "strRegID": "E-1KRUH",
@@ -2341,7 +2341,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "ASC",
-    "model": "Периметральный буй 01",
+    "model": "Perimeter Buoy 01",
     "year": "2036",
     "origin": "K-Leg",
     "description": "",

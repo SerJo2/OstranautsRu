@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "Bulk Lifter",
     "strRegID": "B-YEM3",
@@ -26135,7 +26135,7 @@
     "bLocalAuthority": false,
     "bAIShip": false,
     "make": "Testudo",
-    "model": "Балкерный носитель Mk. III",
+    "model": "Bulk Lifter Mk. III",
     "year": "2060",
     "origin": "$TEMPLATE",
     "description": "Тяжёлые грузовозы Testudo усеяли Систему, совершая долгие и медленные перелёты по гомановским орбитам, коротая бесконечные тёмные месяцы в надежде на солидную прибыль в конце пути.",
