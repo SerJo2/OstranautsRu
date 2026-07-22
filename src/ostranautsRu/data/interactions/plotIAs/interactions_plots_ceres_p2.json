@@ -114,7 +114,7 @@ His face darkens. \"That\'s poetry, fucknuts. Now,\" he steadies his gaze on you
 	{
 		"strName" : "Plot_Scholar_Flat_Workbench",
 		"strTitle" : "\u041e\u0431\u044b\u0441\u043a\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b",
-		"strDesc" : "Of all the spaces in your vision, the workbench is the most ruined. Stripped terminals, shattered labware, and tangles of electronics cover the surface. In the center of the table, a clear lack of debris. Even the light layer of dust around the rest of the apartment does not reach here.\n\nBelow the vacancy you find a matchbook. It is from a bar here on Port Mojave. Inside, a note written in faint ink. A contact number, and initials below it: PT.",
+		"strDesc" : "Из всего, что вы видите, рабочий стол разрушен сильнее всего. Разобранные терминалы, разбитая лабораторная посуда и клубки электроники покрывают поверхность. В центре стола — подозрительно чистое место. Даже тонкий слой пыли, лежащий по всей квартире, сюда не доходит.\n\nПод этим пустым местом вы находите спичечный коробок. Из бара на Port Mojave. Внутри — записка, написанная тусклыми чернилами. Контактный номер, а ниже инициалы: PT.",
 		"strColor" : "Dialogue",
 		"strRaiseUI" : "SocialCombat",
 		"fForcedChance" : 1,
@@ -184,7 +184,7 @@ His face darkens. \"That\'s poetry, fucknuts. Now,\" he steadies his gaze on you
 	{
 		"strName" : "Plot_Scholar_Flat_Kitchenette_Ground",
 		"strTitle" : "\u041e\u0431\u044b\u0441\u043a\u0430\u0442\u044c \u043f\u043e\u043b",
-		"strDesc" : "Broken dishware, shattered glass, and assorted papers litter the ground here. You rummage through the papers but they present in a language so erudite as to be illegible to you. Mentions of rare mineral compounds standout, as well as their properties when combusted at certain temperatures.\n\nJust as you are about to give up here you glimpse a splash of vibrant color in the wastebasket. You take a closer look. A bouquet of flowers?\n\nYou retrieve the arrangement. You lean down to smell them but find no odor. They feel fragile, cold, crosshatched. Paper, then. An impressive feat, creating all these by hand. Inside, there is a note:\n\nThank you for meeting with me. No need to look me up next time you are on The Ring. I will find you.\n\n-Francisco Ortega",
+		"strDesc" : "Здесь на полу — битая посуда, осколки стекла и какие-то бумаги. Вы перебираете бумаги, но они на таком учёном языке, что вам не прочесть. Бросаются в глаза упоминания редких минеральных соединений и их свойств при горении в определённых температурах.\n\nУже собираясь сдаться, вы замечаете в корзине яркий цвет. Присматриваетесь: букет цветов?\n\nВы достаёте композицию. Наклоняетесь понюхать — запаха нет. Они ломкие, холодные, с крестообразной текстурой. Бумажные. Впечатляюще — сделать их все вручную. Внутри записка:\n\nСпасибо за встречу. В следующий раз на Кольце можешь меня не искать. Я сам тебя найду.\n\n— Франсиско Ортега",
 		"strColor" : "Dialogue",
 		"strRaiseUI" : "SocialCombat",
 		"fForcedChance" : 1,
@@ -249,7 +249,7 @@ His face darkens. \"That\'s poetry, fucknuts. Now,\" he steadies his gaze on you
 	{
 		"strName" : "Plot_Scholar_Racks_Floor",
 		"strTitle" : "\u041e\u0431\u044b\u0441\u043a\u0430\u0442\u044c \u043d\u0430\u043f\u043e\u043b\u044c\u043d\u044b\u0435 \u044f\u0449\u0438\u043a\u0438",
-		"strDesc" : "These appear meant for large item storage. Rolls of textile, stacks of thin metal sheeting, measured glassware, some larger tools and…something behind soldering iron there? A seam?",
+		"strDesc" : "Здесь, видимо, хранят крупные предметы. Рулоны ткани, стопки тонкого листового металла, мерная стеклянная посуда, крупные инструменты и… что-то за паяльником? Щель?",
 		"strColor" : "Dialogue",
 		"strRaiseUI" : "SocialCombat",
 		"fForcedChance" : 1,
