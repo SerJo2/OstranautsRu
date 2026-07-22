@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "strName": "PLGAIFirefightEmergency",
     "strTitle": "ИИ проверяет аварийную ситуацию с пожаром",
-    "strDesc": "[us] [checks] наличие пожарной аварийной ситуации.",
+    "strDesc": "[us] проверяет наличие пожарной аварийной ситуации.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -18,7 +18,7 @@
   {
     "strName": "PLGAISurviveCO2",
     "strTitle": "[us] — ИИ, переживающий нехватку CO2",
-    "strDesc": "[us] [checks] [us-pos] уровень CO2.",
+    "strDesc": "[us] проверяет [us] уровень CO2.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -34,7 +34,7 @@
   {
     "strName": "PLGAISurviveCO2Emergency",
     "strTitle": "ИИ проверяет аварийную ситуацию с CO2",
-    "strDesc": "[us] [checks] [us-pos] уровень CO2 на случай аварии.",
+    "strDesc": "[us] проверяет [us] уровень CO2 на случай аварии.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -50,7 +50,7 @@
   {
     "strName": "PLGAISurviveO2",
     "strTitle": "[us] — ИИ, переживающий нехватку O2",
-    "strDesc": "[us] [checks] [us-pos] уровень O2.",
+    "strDesc": "[us] проверяет [us] уровень O2.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -66,7 +66,7 @@
   {
     "strName": "PLGAISurviveO2Emergency",
     "strTitle": "ИИ проверяет аварийную ситуацию с O2",
-    "strDesc": "[us] [checks] [us-pos] уровень O2 на случай аварии.",
+    "strDesc": "[us] проверяет [us] уровень O2 на случай аварии.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -82,7 +82,7 @@
   {
     "strName": "PLGAIEat",
     "strTitle": "[us] — ИИ, принимающий пищу",
-    "strDesc": "[us] [checks] [us-pos] уровень сытости.",
+    "strDesc": "[us] проверяет [us] уровень сытости.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -98,7 +98,7 @@
   {
     "strName": "PLGAIDrink",
     "strTitle": "[us] — ИИ, употребляющий жидкость",
-    "strDesc": "[us] [checks] [us-pos] уровень гидратации.",
+    "strDesc": "[us] проверяет [us] уровень гидратации.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -114,7 +114,7 @@
   {
     "strName": "PLGAIHygiene",
     "strTitle": "[us] — ИИ, восстанавливающий гигиену",
-    "strDesc": "[us] [checks] [us-pos] гигиену.",
+    "strDesc": "[us] проверяет [us] гигиену.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -130,7 +130,7 @@
   {
     "strName": "PLGAIUnwearSuit",
     "strTitle": "ИИ без скафандра",
-    "strDesc": "[us] [checks] состояние скафандра [us-pos].",
+    "strDesc": "[us] проверяет состояние скафандра [us].",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -249,7 +249,7 @@
   {
     "strName": "PLGAICrimeOKLGLEOArrestDoDeny",
     "strTitle": "Заявить о невиновности",
-    "strDesc": "[us] [tells] [them], что [them-subj] [has] не того человека.",
+    "strDesc": "[us] [tells] [them], что [them-subj] имеет не того человека.",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": "use",
@@ -699,7 +699,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkRestoreDoFailNoDamage",
     "strTitle": "Невозможно провести техническое обслуживание",
-    "strDesc": "На [them] [has] больше нет повреждений, которые [us] могло бы обслужить в данный момент.",
+    "strDesc": "На [them] имеет больше нет повреждений, которые [us] могло бы обслужить в данный момент.",
     "strActionGroup": "Work",
     "nLogging": 1,
     "strTargetPoint": null,
@@ -737,7 +737,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkPatchDo",
     "strTitle": "Заделать пробоину",
-    "strDesc": "[us] [decides] залатать [them].",
+    "strDesc": "[us] решает залатать [them].",
     "strActionGroup": "Work",
     "nLogging": 1,
     "strTargetPoint": "use",
@@ -781,7 +781,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkFireExtinguishDo",
     "strTitle": "Ликвидировать пожар",
-    "strDesc": "[us] [decides] ликвидировать [them].",
+    "strDesc": "[us] решает ликвидировать [them].",
     "strActionGroup": "Work",
     "nLogging": 1,
     "strTargetPoint": null,
@@ -804,7 +804,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkReplaceCanDo",
     "strTitle": "Устранить нехватку газа",
-    "strDesc": "[us] [decides] устранить низкий уровень газа в [them].",
+    "strDesc": "[us] решает устранить низкий уровень газа в [them].",
     "strActionGroup": "Work",
     "nLogging": 1,
     "strTargetPoint": "use",
@@ -854,7 +854,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkRepairDo",
     "strTitle": "Осмотреть неисправности станции",
-    "strDesc": "[us] [decides] починить [them].",
+    "strDesc": "[us] решает починить [them].",
     "strActionGroup": "Work",
     "nLogging": 1,
     "strTargetPoint": "use",
@@ -939,7 +939,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkRestDo",
     "strTitle": "Сделать перерыв",
-    "strDesc": "[us] слишком [is] уставшим для работы в данный момент.",
+    "strDesc": "[us] слишком уставшим для работы в данный момент.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strTargetPoint": null,
@@ -1043,7 +1043,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkRetrieveDeadDoDeliverBody",
     "strTitle": "Транспортировка",
-    "strDesc": "[us] [prepares] транспортировать [3rd] через [them].",
+    "strDesc": "[us] [prepares] транспортировать через [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -1067,7 +1067,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkRetrieveDeadDoDeliverBodyShim",
     "strTitle": "Транспортировка",
-    "strDesc": "[us] [transports] [them] к [3rd].",
+    "strDesc": "[us] [transports] [them] к .",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -1094,7 +1094,7 @@
   {
     "strName": "PLGAIMaintenanceTechWorkRetrieveDeadDoDeliverBodyAllow",
     "strTitle": "Транспортировка",
-    "strDesc": "[us] [transports] [3rd] к [them].",
+    "strDesc": "[us] [transports] к [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -1404,7 +1404,7 @@
   {
     "strName": "PLGAIReportCrimeOKLGArrest",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [speaks] в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [speaks] в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": null,
@@ -1445,7 +1445,7 @@
   {
     "strName": "PLGAIReportCrimeOKLGArrestDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1462,7 +1462,7 @@
   {
     "strName": "PLGAIReportCrimeOKLGThreat",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [speaks] в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [speaks] в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1503,7 +1503,7 @@
   {
     "strName": "PLGAIReportCrimeOKLGThreatDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1598,7 +1598,7 @@
   {
     "strName": "PLGAICrimeCCRELEOArrestDoDeny",
     "strTitle": "Заявить о невиновности",
-    "strDesc": "[us] [tells] [them], что [them-subj] [has] не того человека.",
+    "strDesc": "[us] [tells] [them], что [them-subj] имеет не того человека.",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": "use",
@@ -1716,7 +1716,7 @@
   {
     "strName": "PLGAIReportCrimeCCREArrest",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [speaks] в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [speaks] в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": null,
@@ -1757,7 +1757,7 @@
   {
     "strName": "PLGAIReportCrimeCCREArrestDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1774,7 +1774,7 @@
   {
     "strName": "PLGAIReportCrimeCCRETrespass",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [says]: «Убирайтесь отсюда», — а затем говорит в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [says]: «Убирайтесь отсюда», — а затем говорит в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": null,
@@ -1837,7 +1837,7 @@
   {
     "strName": "PLGAIReportCrimeCCRETrespassDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1854,7 +1854,7 @@
   {
     "strName": "PLGAIReportCrimeCCRETrespassNPCDone",
     "strTitle": "Отмена сообщения о преступлении",
-    "strDesc": "[us] [is] больше не намерен сообщать о преступлении.",
+    "strDesc": "[us] больше не намерен сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1871,7 +1871,7 @@
   {
     "strName": "PLGAIReportCrimeCCREThreat",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [speaks] в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [speaks] в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -1912,7 +1912,7 @@
   {
     "strName": "PLGAIReportCrimeCCREThreatDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2009,7 +2009,7 @@
   {
     "strName": "PLGAICrimeVenusLEOArrestDoDeny",
     "strTitle": "Заявить о невиновности",
-    "strDesc": "[us] [tells] [them], что [them-subj] [has] не того человека.",
+    "strDesc": "[us] [tells] [them], что [them-subj] имеет не того человека.",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": "use",
@@ -2186,7 +2186,7 @@
   {
     "strName": "PLGAIReportCrimeVenusArrestDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2203,7 +2203,7 @@
   {
     "strName": "PLGAIReportCrimeVenusTrespass",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [says]: «Убирайтесь отсюда», — а затем говорит в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [says]: «Убирайтесь отсюда», — а затем говорит в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 2,
     "strTargetPoint": null,
@@ -2266,7 +2266,7 @@
   {
     "strName": "PLGAIReportCrimeVenusTrespassDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2283,7 +2283,7 @@
   {
     "strName": "PLGAIReportCrimeVenusTrespassNPCDone",
     "strTitle": "Отмена сообщения о преступлении",
-    "strDesc": "[us] [is] больше не намерен сообщать о преступлении.",
+    "strDesc": "[us] больше не намерен сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2300,7 +2300,7 @@
   {
     "strName": "PLGAIReportCrimeVenusThreat",
     "strTitle": "Сообщение о преступлении",
-    "strDesc": "[us] [speaks] в [us-pos] КПК, глядя на [them].",
+    "strDesc": "[us] [speaks] в [us] КПК, глядя на [them].",
     "strActionGroup": "Talk",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2341,7 +2341,7 @@
   {
     "strName": "PLGAIReportCrimeVenusThreatDone",
     "strTitle": "Сообщение о преступлении завершено",
-    "strDesc": "[us] [is] закончил сообщать о преступлении.",
+    "strDesc": "[us] закончил сообщать о преступлении.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2455,7 +2455,7 @@
   {
     "strName": "PLGAIFreeUpSpace",
     "strTitle": "ИИ выбрасывает предметы для освобождения места",
-    "strDesc": "[us] [is] собирается выбросить [them].",
+    "strDesc": "[us] собирается выбросить [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -2481,7 +2481,7 @@
   {
     "strName": "PLGAIFreeUpSpaceDone",
     "strTitle": "ИИ завершил освобождение места в инвентаре.",
-    "strDesc": "[us] [checks], завершило ли освобождение места в инвентаре.",
+    "strDesc": "[us] проверяет, завершило ли освобождение места в инвентаре.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2500,7 +2500,7 @@
   {
     "strName": "PLGAIWearSuitAndHelmetFinished",
     "strTitle": "ИИ надевает скафандр и шлем",
-    "strDesc": "[us] [checks], завершил ли ИИ надевание скафандра и шлема.",
+    "strDesc": "[us] проверяет, завершил ли ИИ надевание скафандра и шлема.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2518,7 +2518,7 @@
   {
     "strName": "PLGAIWearSuitTriggered",
     "strTitle": "ИИ ищет скафандр",
-    "strDesc": "[us] [is] ищет скафандр и шлем.",
+    "strDesc": "[us] ищет скафандр и шлем.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2604,7 +2604,7 @@
   {
     "strName": "PLGPatrolCommand",
     "strTitle": "ИИ получает приказ патрулировать корабль",
-    "strDesc": "[us] [is] патрулирует.",
+    "strDesc": "[us] патрулирует.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2618,7 +2618,7 @@
   {
     "strName": "PLGPatrolCommandFinish",
     "strTitle": "ИИ завершил патрулирование",
-    "strDesc": "[us] [is] завершил патрулирование.",
+    "strDesc": "[us] завершил патрулирование.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2632,7 +2632,7 @@
   {
     "strName": "PLGDisembarkCommand",
     "strTitle": "ИИ получает приказ покинуть текущий корабль",
-    "strDesc": "[us] [is] высаживается.",
+    "strDesc": "[us] высаживается.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2646,7 +2646,7 @@
   {
     "strName": "PLGDisembarkCommandFinish",
     "strTitle": "ИИ завершил высадку",
-    "strDesc": "[us] [is] завершил высадку.",
+    "strDesc": "[us] завершил высадку.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2660,7 +2660,7 @@
   {
     "strName": "PLGDisembarkFinishNextUndock",
     "strTitle": "ИИ завершил высадку и собирается отшвартоваться",
-    "strDesc": "[us] [is] завершил высадку и собирается отшвартоваться.",
+    "strDesc": "[us] завершил высадку и собирается отшвартоваться.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strBubble": "BblAdvance",
@@ -2676,7 +2676,7 @@
   {
     "strName": "PLGEmbarkCommand",
     "strTitle": "ИИ получает приказ вернуться на корабль",
-    "strDesc": "[us] [is] возвращается на корабль.",
+    "strDesc": "[us] возвращается на корабль.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2690,7 +2690,7 @@
   {
     "strName": "PLGEmbarkCommandFinish",
     "strTitle": "ИИ завершил посадку",
-    "strDesc": "[us] [is] завершил посадку.",
+    "strDesc": "[us] завершил посадку.",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2704,7 +2704,7 @@
   {
     "strName": "PLGEquipHelmetFinished",
     "strTitle": "ИИ завершил экипировку шлемом",
-    "strDesc": "[us] [is] завершил экипировку шлемом.",
+    "strDesc": "[us] завершил экипировку шлемом.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2720,7 +2720,7 @@
   {
     "strName": "PLGEquipSuitFinished",
     "strTitle": "Закончена экипировка скафандра",
-    "strDesc": "[us] [is] закончил экипировку скафандра.",
+    "strDesc": "[us] закончил экипировку скафандра.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2736,7 +2736,7 @@
   {
     "strName": "PLGFollowCommand",
     "strTitle": "Приказано следовать за целью",
-    "strDesc": "[us] [следует] за [them].",
+    "strDesc": "[us] следует за [them].",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2750,7 +2750,7 @@
   {
     "strName": "PLGFollowCommandFinish",
     "strTitle": "Следование за целью завершено",
-    "strDesc": "[us] [is] закончил следование за [them].",
+    "strDesc": "[us] закончил следование за [them].",
     "strActionGroup": "Use",
     "nLogging": 1,
     "strBubble": "BblAdvance",
@@ -2764,7 +2764,7 @@
   {
     "strName": "PLGPoliceShakedownFinish",
     "strTitle": "Досмотр завершен",
-    "strDesc": "[us] [is] завершил досмотр.",
+    "strDesc": "[us] завершил досмотр.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strBubble": "BblAdvance",
@@ -2780,7 +2780,7 @@
   {
     "strName": "PLGStandTable",
     "strTitle": "Стоит у стола",
-    "strDesc": "[us] [is] стоит у стола.",
+    "strDesc": "[us] стоит у стола.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2797,7 +2797,7 @@
   {
     "strName": "PLGStandTerminal",
     "strTitle": "Стоит у терминала",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2814,7 +2814,7 @@
   {
     "strName": "PLGStandTerminalBingham",
     "strTitle": "Стоит у терминала Bingham",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2831,7 +2831,7 @@
   {
     "strName": "PLGStandTerminalPolaris",
     "strTitle": "Стоит у терминала Polaris",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2848,7 +2848,7 @@
   {
     "strName": "PLGStandTerminalRenbao",
     "strTitle": "Стоит у терминала Renbao",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2865,7 +2865,7 @@
   {
     "strName": "PLGStandTerminalGEC",
     "strTitle": "Стоит у терминала GEC",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2882,7 +2882,7 @@
   {
     "strName": "PLGStandTerminalClothes",
     "strTitle": "Стоит у терминала одежды",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2899,7 +2899,7 @@
   {
     "strName": "PLGStandTerminalShoes",
     "strTitle": "Стоит у терминала обуви",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2916,7 +2916,7 @@
   {
     "strName": "PLGStandTerminalCollectiveElectric",
     "strTitle": "Стоит у терминала CollectiveElectric",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2933,7 +2933,7 @@
   {
     "strName": "PLGStandTerminalMiura",
     "strTitle": "Стоит у терминала Miura",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2950,7 +2950,7 @@
   {
     "strName": "PLGStandTerminalRakow",
     "strTitle": "Стоит у терминала Rakow",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2967,7 +2967,7 @@
   {
     "strName": "PLGStandTerminalKang",
     "strTitle": "Стоит у терминала Kang",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -2984,7 +2984,7 @@
   {
     "strName": "PLGStandTerminalSulaiman",
     "strTitle": "Стоит у терминала Sulaiman",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3001,7 +3001,7 @@
   {
     "strName": "PLGStandTerminalWeber",
     "strTitle": "Стоит у терминала Weber",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3018,7 +3018,7 @@
   {
     "strName": "PLGStandTerminalHorang",
     "strTitle": "Стоит у терминала Horang",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3035,7 +3035,7 @@
   {
     "strName": "PLGStandTerminalHalvorson",
     "strTitle": "Стоит у терминала Halvorson",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3052,7 +3052,7 @@
   {
     "strName": "PLGStandTerminalBlackWing",
     "strTitle": "Стоит у терминала BlackWing",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3069,7 +3069,7 @@
   {
     "strName": "PLGStandTerminalFutureFoods",
     "strTitle": "Стоит у терминала FutureFoods",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3086,7 +3086,7 @@
   {
     "strName": "PLGStandTerminalGott",
     "strTitle": "Стоит у терминала Gott",
-    "strDesc": "[us] [is] стоит у терминала.",
+    "strDesc": "[us] стоит у терминала.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3103,7 +3103,7 @@
   {
     "strName": "PLGStandKiosk",
     "strTitle": "Стоит у киоска",
-    "strDesc": "[us] [is] стоит у киоска.",
+    "strDesc": "[us] стоит у киоска.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": "use",
@@ -3120,7 +3120,7 @@
   {
     "strName": "PLGTransit",
     "strTitle": "Доступ NPC к транзиту",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -3143,7 +3143,7 @@
   {
     "strName": "PLGUseNav",
     "strTitle": "Использование навигационной станции",
-    "strDesc": "[us] [sits] за [them-pos] панелью управления.",
+    "strDesc": "[us] садится за [them] панелью управления.",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "strIdleAnim": "Sitting",
@@ -3171,7 +3171,7 @@
   {
     "strName": "PLGUseNavAllow",
     "strTitle": "Обработка запроса на отшвартовку",
-    "strDesc": "[us] [is] используется субъектом [them].",
+    "strDesc": "[us] используется субъектом [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "fRotation": 0,
@@ -3190,7 +3190,7 @@
   {
     "strName": "PLGUseNavEnd",
     "strTitle": "Запрос на отшвартовку завершен",
-    "strDesc": "[us] [is] закончил использование [them].",
+    "strDesc": "[us] закончил использование [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "fRotation": 0,

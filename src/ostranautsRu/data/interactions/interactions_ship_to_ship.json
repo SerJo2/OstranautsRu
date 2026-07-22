@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "SHIPUnDockAI",
     "strTitle": "Запросить разрешение на отстыковку",
@@ -1202,7 +1202,7 @@
   {
     "strName": "SHIPSetCourseForAssistance",
     "strTitle": "Leo",
-    "strDesc": "[them] взять курс на переданные координаты и осмотреть корабль [3rd]",
+    "strDesc": "[them] взять курс на переданные координаты и осмотреть корабль",
     "strActionGroup": "Ship",
     "strColor": "Neutral",
     "aInverse": [
@@ -1507,7 +1507,7 @@
   {
     "strName": "SHIPSosAskPlayerAmountNeeded",
     "strTitle": "Требуемое количество",
-    "strDesc": "Мне нужно как минимум [data] топлива.",
+    "strDesc": "Мне нужно как минимум данные топлива.",
     "strActionGroup": "Ship",
     "strColor": "Neutral",
     "nLogging": 1,
@@ -1570,7 +1570,7 @@
   {
     "strName": "SHIPTransferFuelingOngoing",
     "strTitle": "Передача топлива продолжается",
-    "strDesc": "Передача в процессе, уровень топлива [data].",
+    "strDesc": "Передача в процессе, уровень топлива данные.",
     "strActionGroup": "Ship",
     "strColor": "SocialStatusGreen",
     "aInverse": [],

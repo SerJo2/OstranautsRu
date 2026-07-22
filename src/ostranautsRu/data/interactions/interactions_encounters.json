@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "ENCEmbassyServicesBCERKioskTut",
     "strTitle": "Узнать о визах для Galilean Confederacy",
@@ -648,7 +648,7 @@
   {
     "strName": "ENCEmbassyServicesOKLGKioskTut",
     "strTitle": "Узнать о визах для K-Leg, 1036-Ганимед",
-    "strDesc": "[us] [узнает] о визах для K-Leg, 1036-Ганимед",
+    "strDesc": "[us] узнает о визах для K-Leg, 1036-Ганимед",
     "strTooltip": "Просмотр и покупка материалов для подачи заявления на визу для Станции Nnamdi Azikiwe/K-Leg, 1036-Ганимед.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -675,7 +675,7 @@
   {
     "strName": "ENCEmbassyServicesOKLGKiosk",
     "strTitle": "Узнать о визах для K-Leg, 1036-Ганимед",
-    "strDesc": "[us] [узнает] о визах для K-Leg, 1036-Ганимед",
+    "strDesc": "[us] узнает о визах для K-Leg, 1036-Ганимед",
     "strTooltip": "Просмотр и покупка материалов для подачи заявления на визу для Станции Nnamdi Azikiwe/K-Leg, 1036-Ганимед.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",

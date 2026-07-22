@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "strName": "SOCTradeFixerRecognizeFriend",
     "strTitle": "Узнать друга/знакомого",
-    "strDesc": "[us] [узнает] [them] и [дает] дружеский кивок. [us] [сообщает], что у [them] [has] доступ к черному рынку на случай, если это когда-нибудь понадобится.",
+    "strDesc": "[us] узнает [them] и дает дружеский кивок. [us] сообщает, что у [them] имеет доступ к черному рынку на случай, если это когда-нибудь понадобится.",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -27,7 +27,7 @@
   {
     "strName": "SOCTradeFixerConvoStart",
     "strTitle": "Пустой взгляд",
-    "strDesc": "[us] [осматривает] [them] с ног до головы и [заявляет], что продажа деталей с Boneyard нарушает жизненно важные правила и нормы Ayotimiwa. Кроме того, даже если бы это было не так, [us] [не] ведет дел с незнакомцами, если только кто-то не может за [them] поручиться.",
+    "strDesc": "[us] осматривает [them] с ног до головы и заявляет, что продажа деталей с Boneyard нарушает жизненно важные правила и нормы Ayotimiwa. Кроме того, даже если бы это было не так, [us] не ведет дел с незнакомцами, если только кто-то не может за [them] поручиться.",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -53,7 +53,7 @@
   {
     "strName": "SOCTradeFixerConvoStartAngry",
     "strTitle": "Признать их с раздражением",
-    "strDesc": "[us] [говорит] [them], что не любит незнакомцев. К тому же [us] [is] в плохом настроении, так что, вероятно, [them] лучше подыскать себе кого-то другого для общения.",
+    "strDesc": "[us] говорит [them], что не любит незнакомцев. К тому же [us] в плохом настроении, так что, вероятно, [them] лучше подыскать себе кого-то другого для общения.",
     "strTargetPoint": null,
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -79,7 +79,7 @@
   {
     "strName": "SOCTradeFixerConvoStartBusy",
     "strTitle": "Признать их в спешке",
-    "strDesc": "[us] [сообщает] [them], что сейчас слишком занят, чтобы иметь дело с кем-либо, кроме своих постоянных клиентов.",
+    "strDesc": "[us] сообщает [them], что сейчас слишком занят, чтобы иметь дело с кем-либо, кроме своих постоянных клиентов.",
     "strTargetPoint": null,
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -105,7 +105,7 @@
   {
     "strName": "SOCTradeFixerConvoStartCooldown",
     "strTitle": "Отшить их",
-    "strDesc": "[us] нетерпеливо [хмурится] и [говорит] [them] прийти в другой раз.",
+    "strDesc": "[us] нетерпеливо хмурится и говорит [them] прийти в другой раз.",
     "strTargetPoint": null,
     "fTargetPointRange": 2,
     "strAnim": "Use",
@@ -132,7 +132,7 @@
   {
     "strName": "SOCTradeFixerConvoCrackKnuckles",
     "strTitle": "Хрустнуть костяшками и смерить взглядом",
-    "strDesc": "[us] [хрустит] костяшками пальцев и [сверлит] взглядом [them]",
+    "strDesc": "[us] хрустит костяшками пальцев и сверлит взглядом [them]",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -156,7 +156,7 @@
   {
     "strName": "SOCTradeFixerConvoIntimidate",
     "strTitle": "Угрожать посреднику насилием",
-    "strDesc": "[us] [заявляет], что за [us] может поручиться правый хук, и [хрустит] суставами пальцев.",
+    "strDesc": "[us] заявляет, что за [us] может поручиться правый хук, и хрустит суставами пальцев.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -183,7 +183,7 @@
   {
     "strName": "SOCTradeFixerConvoIntimidateResist",
     "strTitle": "Сопротивляться запугиванию",
-    "strDesc": "[us] [смеется] и [говорит] [them], что [us] [не] боится драки в баре, особенно с таким никем, как [them].",
+    "strDesc": "[us] смеется и говорит [them], что [us] не боится драки в баре, особенно с таким никем, как [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -209,7 +209,7 @@
   {
     "strName": "SOCTradeFixerConvoIntimidateSuccumb",
     "strTitle": "Поддаться запугиванию",
-    "strDesc": "[us] [отступает] в угол и [говорит] [them], чтобы они успокоились. Черный рынок открыт для любого, кому есть что продать. Нет никакой нужды прибегать к насилию.",
+    "strDesc": "[us] отступает в угол и говорит [them], чтобы они успокоились. Черный рынок открыт для любого, кому есть что продать. Нет никакой нужды прибегать к насилию.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -237,7 +237,7 @@
   {
     "strName": "SOCTradeFixerConvoCompliment",
     "strTitle": "Сделать комплимент внешности",
-    "strDesc": "[us] [отмечает] уникальную и привлекательную черту во внешности [them-pos].",
+    "strDesc": "[us] отмечает уникальную и привлекательную черту во внешности [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -261,7 +261,7 @@
   {
     "strName": "SOCTradeFixerConvoCharm",
     "strTitle": "Попытаться очаровать посредника",
-    "strDesc": "[us] [касается] руки [them] и [говорит], что [them] [не] похож на того, кто соблюдает правила и предписания.",
+    "strDesc": "[us] касается руки [them] и говорит, что [them] не похож на того, кто соблюдает правила и предписания.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -291,7 +291,7 @@
   {
     "strName": "SOCTradeFixerConvoCharmResist",
     "strTitle": "Сопротивляться обаянию",
-    "strDesc": "[us] [отдергивает] руку и [говорит], что не настолько отчаялся, чтобы заниматься подобным, даже на такой захолустной станции, как OKLG.",
+    "strDesc": "[us] отдергивает руку и говорит, что не настолько отчаялся, чтобы заниматься подобным, даже на такой захолустной станции, как OKLG.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -317,7 +317,7 @@
   {
     "strName": "SOCTradeFixerConvoCharmResistPrefs",
     "strTitle": "Сопротивляться обаянию",
-    "strDesc": "[us] [улыбается], но [отдергивает] руку и [говорит], что его это не интересует.",
+    "strDesc": "[us] улыбается, но отдергивает руку и говорит, что его это не интересует.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -343,7 +343,7 @@
   {
     "strName": "SOCTradeFixerConvoCharmSuccumbMan",
     "strTitle": "Поддаться обаянию",
-    "strDesc": "[us] [делает] суровое лицо, но [us-subj] явно краснеет. [us-subj] [оставляет] руку на месте и [говорит], что черный рынок открыт для [them-obj], когда [them-subj] [понадобится].",
+    "strDesc": "[us] делает суровое лицо, но [us] явно краснеет. [us] оставляет руку на месте и говорит, что черный рынок открыт для [them-obj], когда [them-subj] понадобится.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -372,7 +372,7 @@
   {
     "strName": "SOCTradeFixerConvoCharmSuccumbWoman",
     "strTitle": "Поддаться обаянию",
-    "strDesc": "[us] [делает] суровое лицо, но [us-subj] явно краснеет. [us-subj] [оставляет] руку на месте и [говорит], что черный рынок открыт для [them-obj], когда [them-subj] [понадобится].",
+    "strDesc": "[us] делает суровое лицо, но [us] явно краснеет. [us] оставляет руку на месте и говорит, что черный рынок открыт для [them-obj], когда [them-subj] понадобится.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -401,7 +401,7 @@
   {
     "strName": "SOCTradeFixerConvoCharmSuccumbNB",
     "strTitle": "Поддаться обаянию",
-    "strDesc": "[us] [делает] суровое лицо, но [us-subj] явно краснеет. [us-subj] [оставляет] руку на месте и [говорит], что черный рынок открыт для [them-obj], когда [them-subj] [понадобится].",
+    "strDesc": "[us] делает суровое лицо, но [us] явно краснеет. [us] оставляет руку на месте и говорит, что черный рынок открыт для [them-obj], когда [them-subj] понадобится.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -430,7 +430,7 @@
   {
     "strName": "SOCTradeFixerConvoPrivacyFail",
     "strTitle": "Послать их подальше",
-    "strDesc": "[us] [говорит], что [them] [слишком] любопытен, и велит [them-obj] убираться.",
+    "strDesc": "[us] говорит, что [them] слишком любопытен, и велит [them-obj] убираться.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -459,7 +459,7 @@
   {
     "strName": "SOCTradeFixerConvoAltruismFail",
     "strTitle": "Послать их на хер",
-    "strDesc": "[us] [говорит], что [them-subj] [them-is] бесполезен для [us-obj], просто очередной кусок космического мусора, запихнутый в забытый угол этого жалкого подобия станции, которую все вынуждены называть «домом».",
+    "strDesc": "[us] говорит, что [them-subj] [them-is] бесполезен для [us-obj], просто очередной кусок космического мусора, запихнутый в забытый угол этого жалкого подобия станции, которую все вынуждены называть «домом».",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -488,7 +488,7 @@
   {
     "strName": "SOCTradeFixerConvoNameDropCrim",
     "strTitle": "Применить имя криминального связного",
-    "strDesc": "[us] [говорит], что [us-pos] друг [3rd] [рассказал] [us-obj], что [them] — нужный человек. [3rd-subj] сказал, что [them] прямолинеен. [3rd-subj] сказал, что [them] умеет распознавать выгодные возможности, когда [them-subj] их видит.",
+    "strDesc": "[us] говорит, что [us] друг рассказал [us-obj], что [them] — нужный человек. [3rd-subj] сказал, что [them] прямолинеен. [3rd-subj] сказал, что [them] умеет распознавать выгодные возможности, когда [them-subj] их видит.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -514,7 +514,7 @@
   {
     "strName": "SOCTradeFixerConvoNameDropCrimAllow",
     "strTitle": "Отреагировать на криминальное имя",
-    "strDesc": "[us] [долго смотрит] на [them], а затем [широко улыбается]. [us] [говорит], что любой, кто достаточно безумен, чтобы общаться с [3rd], должен быть хорошим человеком. [us] [говорит], что [them-subj] может изучать [us-pos] товары в любое время, при условии, что [them-subj] [умеет] держать [them-pos] рот на замке.",
+    "strDesc": "[us] долго смотрит на [them], а затем широко улыбается. [us] говорит, что любой, кто достаточно безумен, чтобы общаться с , должен быть хорошим человеком. [us] говорит, что [them-subj] может изучать [us] товары в любое время, при условии, что [them-subj] умеет держать [them] рот на замке.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -539,7 +539,7 @@
   {
     "strName": "SOCTradeFixerConvoNameDropManager",
     "strTitle": "Применить имя связного-менеджера OKLG",
-    "strDesc": "[us] [спрашивает], не [знает] ли [them], что [3rd] [знает] о черном рынке, который действует на задворках единственного бара K-LEG.",
+    "strDesc": "[us] спрашивает, не знает ли [them], что знает о черном рынке, который действует на задворках единственного бара K-LEG.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -565,7 +565,7 @@
   {
     "strName": "SOCTradeFixerConvoNameDropManagerAllow",
     "strTitle": "Отреагировать на имя менеджера OKLG",
-    "strDesc": "[us] [вздыхает] и [говорит], что [us-subj] [надеется], будто [them] [знает], что [them-contractIs] делает. Никто не любит двойных агентов. Но если [them] [хочет] торговать, рынок для них открыт. Пока что.",
+    "strDesc": "[us] вздыхает и говорит, что [us] надеется, будто [them] знает, что [them-contractIs] делает. Никто не любит двойных агентов. Но если [them] хочет торговать, рынок для них открыт. Пока что.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -590,7 +590,7 @@
   {
     "strName": "SOCTradeFixerConvoNameDropLEO",
     "strTitle": "Применить имя связного из правоохранительных органов",
-    "strDesc": "[us] [говорит], что Офицер [3rd] [пронюхал] о черном рынке, действующем на Mescaform. Но поскольку Офицер [3rd] — друг, [us] может сбить [3rd-obj] со следа. При условии, что [them] [готов] к сотрудничеству.",
+    "strDesc": "[us] говорит, что Офицер пронюхал о черном рынке, действующем на Mescaform. Но поскольку Офицер — друг, [us] может сбить [3rd-obj] со следа. При условии, что [them] готов к сотрудничеству.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -616,7 +616,7 @@
   {
     "strName": "SOCTradeFixerConvoNameDropLEOAllow",
     "strTitle": "Отреагировать на имя правоохранителя",
-    "strDesc": "[us] [говорит], что Офицер [3rd] ни за что не сможет вычислить преступную группировку, как бы сильно от нее ни несло. Но даже глупый коп вреден для бизнеса, поэтому [us] [принимает] [them-pos] предложение и [открывает] рынок при условии, что [them-subj] сможет держать [3rd] подальше.",
+    "strDesc": "[us] говорит, что Офицер ни за что не сможет вычислить преступную группировку, как бы сильно от нее ни несло. Но даже глупый коп вреден для бизнеса, поэтому [us] принимает [them] предложение и открывает рынок при условии, что [them-subj] сможет держать подальше.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,

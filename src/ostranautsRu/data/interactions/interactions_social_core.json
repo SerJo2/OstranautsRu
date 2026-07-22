@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "ShowSocialCore",
     "strTitle": "Неловкая светская беседа",
@@ -50,7 +50,7 @@
   {
     "strName": "SOCLookBusy",
     "strTitle": "Делать Вид, Что Занят",
-    "strDesc": "[us] [ерзает], пытаясь сделать вид перед [them], что занят делом.",
+    "strDesc": "[us] ерзает, пытаясь сделать вид перед [them], что занят делом.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -128,7 +128,7 @@
   {
     "strName": "SOCAskHowDoing",
     "strTitle": "Спросить, Как Дела",
-    "strDesc": "[us] [спрашивает] [them], как у [them-contractIs] дела.",
+    "strDesc": "[us] спрашивает [them], как у [them-contractIs] дела.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -210,7 +210,7 @@
   {
     "strName": "SOCComplainAboutLAs",
     "strTitle": "Пожаловаться На Власти",
-    "strDesc": "[us] [жалуется] [them] на слишком рьяные местные власти.",
+    "strDesc": "[us] жалуется [them] на слишком рьяные местные власти.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -305,7 +305,7 @@
   {
     "strName": "SOCTalkWeather",
     "strTitle": "Поговорить О Погоде",
-    "strDesc": "[us] [комментирует] [them] недавнюю влажность и температуру на борту.",
+    "strDesc": "[us] комментирует [them] недавнюю влажность и температуру на борту.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -396,7 +396,7 @@
   {
     "strName": "SOCMildFunny",
     "strTitle": "Шутка Несильно",
-    "strDesc": "[us] [ отпускает] [them] шутку, несильно смешную.",
+    "strDesc": "[us] отпускает [them] шутку, несильно смешную.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -486,7 +486,7 @@
   {
     "strName": "SOCLookAtUs",
     "strTitle": "Посмотри На Нас",
-    "strDesc": "[us] [говорит] [them]: «Эй. Посмотри на нас.».",
+    "strDesc": "[us] говорит [them]: «Эй. Посмотри на нас.».",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -582,7 +582,7 @@
   {
     "strName": "SOCLightTouch",
     "strTitle": "Лёгкое Прикосновение",
-    "strDesc": "[us] мягко [кладёт] [us-pos] руку на [them-pos] плечо.",
+    "strDesc": "[us] мягко кладёт [us] руку на [them] плечо.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -667,7 +667,7 @@
   {
     "strName": "SOCMetaphysicalQuandary",
     "strTitle": "Метафизическая Дилемма",
-    "strDesc": "[us] [задаёт] [them] вопрос по метафизике, на который никто здесь не квалифицирован ответить.",
+    "strDesc": "[us] задаёт [them] вопрос по метафизике, на который никто здесь не квалифицирован ответить.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -761,7 +761,7 @@
   {
     "strName": "SOCSooo",
     "strTitle": "So...",
-    "strDesc": "[us] неловко [говорит] [them]: «Ну так...».",
+    "strDesc": "[us] неловко говорит [them]: «Ну так...».",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -846,7 +846,7 @@
   {
     "strName": "SOCScanRoom",
     "strTitle": "Осмотреть Комнату",
-    "strDesc": "[us] нервно [осматривает] комнату.",
+    "strDesc": "[us] нервно осматривает комнату.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,
@@ -927,7 +927,7 @@
   {
     "strName": "SOCMentionHeadline",
     "strTitle": "Упомянуть Новость",
-    "strDesc": "[us] [упоминает] [them] заголовок, который [us-subj] недавно читал.",
+    "strDesc": "[us] упоминает [them] заголовок, который [us] недавно читал.",
     "strTargetPoint": "talk",
     "strActionGroup": "Talk",
     "fTargetPointRange": 2.0,

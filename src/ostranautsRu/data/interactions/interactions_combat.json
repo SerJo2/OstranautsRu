@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "strName": "ACTCombatBlock",
     "strTitle": "Блокировать атаки",
-    "strDesc": "[us] [готовится] блокировать входящие атаки.",
+    "strDesc": "[us] готовится блокировать входящие атаки.",
     "strActionGroup": "Fight",
     "strTooltip": "На короткое время снижает урон от следующей входящей атаки. Менее утомительно, чем уклонение.",
     "strTargetPoint": null,
@@ -30,7 +30,7 @@
   {
     "strName": "ACTCombatBlockCont",
     "strTitle": "Блокировка",
-    "strDesc": "[us] [пытается] блокировать входящие атаки.",
+    "strDesc": "[us] пытается блокировать входящие атаки.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -55,7 +55,7 @@
   {
     "strName": "ACTCombatBlockEnd",
     "strTitle": "Сброс",
-    "strDesc": "[us] [прекращает] блокировать входящие атаки.",
+    "strDesc": "[us] прекращает блокировать входящие атаки.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -77,7 +77,7 @@
   {
     "strName": "ACTCombatDodge",
     "strTitle": "Уклоняться от атак",
-    "strDesc": "[us] [пытается] уклониться от входящих атак.",
+    "strDesc": "[us] пытается уклониться от входящих атак.",
     "strActionGroup": "Fight",
     "strTooltip": "На короткое время снижает точность следующей входящей атаки. Более утомительно, чем блокирование.",
     "strTargetPoint": null,
@@ -105,7 +105,7 @@
   {
     "strName": "ACTCombatDodgeCont",
     "strTitle": "Уклонение",
-    "strDesc": "[us] [пытается] уклониться от входящих атак.",
+    "strDesc": "[us] пытается уклониться от входящих атак.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -130,7 +130,7 @@
   {
     "strName": "ACTCombatDodgeEnd",
     "strTitle": "Прекратить уклонение",
-    "strDesc": "[us] [прекращает] уклоняться от входящих атак.",
+    "strDesc": "[us] прекращает уклоняться от входящих атак.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -153,7 +153,7 @@
   {
     "strName": "ACTCombatLegTrip",
     "strTitle": "Подножка",
-    "strDesc": "[us] [пытается] сделать подножку [them].",
+    "strDesc": "[us] пытается сделать подножку [them].",
     "strTooltip": "Попытка сбить цель с ног. Атакующий должен стоять и иметь навыки безоружного ближнего боя.\nПри попадании цель падает и на короткое время оглушается.",
     "strActionGroup": "Fight",
     "strAttackMode": "AModeTrip",
@@ -193,7 +193,7 @@
   {
     "strName": "ACTCombatLegTripFail",
     "strTitle": "Подножка — промах",
-    "strDesc": "[us] [не] [удаётся] свалить [them].",
+    "strDesc": "[us] не удаётся свалить [them].",
     "strTooltip": "Не удалось прервать и сбить цель с ног.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -218,7 +218,7 @@
   {
     "strName": "ACTCombatLegTripSuccess",
     "strTitle": "Подножка — попадание",
-    "strDesc": "[us] успешно [делает] подножку [them].",
+    "strDesc": "[us] успешно делает подножку [them].",
     "strTooltip": "Успешное прерывание и опрокидывание цели.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -243,7 +243,7 @@
   {
     "strName": "ACTShipKnockDown",
     "strTitle": "Член экипажа сбит с ног",
-    "strDesc": "[us] [сбит] с ног резким манёвром корабля.",
+    "strDesc": "[us] сбит с ног резким манёвром корабля.",
     "strTooltip": "Цель сбита с ног.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -270,7 +270,7 @@
   {
     "strName": "ACTShipKnockDownDone",
     "strTitle": "Член экипажа поднялся",
-    "strDesc": "[us] [встаёт] на ноги после падения из-за резкого манёвра корабля.",
+    "strDesc": "[us] встаёт на ноги после падения из-за резкого манёвра корабля.",
     "strTooltip": "Цель полностью опрокинута и находится на земле.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -294,7 +294,7 @@
   {
     "strName": "ACTCombatPullDown",
     "strTitle": "Свалить",
-    "strDesc": "[us] [пытается] свалить [them].",
+    "strDesc": "[us] пытается свалить [them].",
     "strTooltip": "Попытка повалить стоящую цель. Атакующий должен находиться в положении лежа.\nВ случае успеха цель падает и на короткое время оглушается. Доступно не всегда.",
     "strActionGroup": "Fight",
     "strAttackMode": "AModeTrip",
@@ -333,7 +333,7 @@
   {
     "strName": "ACTCombatPullDownFail",
     "strTitle": "Свалить — промах",
-    "strDesc": "[us] [не] [удаётся] свалить [them].",
+    "strDesc": "[us] не удаётся свалить [them].",
     "strTooltip": "Не удалось прервать и сбить цель с ног.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -358,7 +358,7 @@
   {
     "strName": "ACTCombatPullDownSuccess",
     "strTitle": "Свалить — попадание",
-    "strDesc": "[us] успешно [выводит] [them] из равновесия.",
+    "strDesc": "[us] успешно выводит [them] из равновесия.",
     "strTooltip": "Успешное прерывание и опрокидывание цели.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -383,7 +383,7 @@
   {
     "strName": "ACTCombatTakeDown",
     "strTitle": "Повалить",
-    "strDesc": "[us] [пытается] повалить [them].",
+    "strDesc": "[us] пытается повалить [them].",
     "strTooltip": "Попытка произвести захват цели. Атакующий падает.\nВ случае успеха цель падает и на короткое время оглушается.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -423,7 +423,7 @@
   {
     "strName": "ACTCombatTakeDownFail",
     "strTitle": "Промах",
-    "strDesc": "[us] не [удаётся] повалить [them].",
+    "strDesc": "[us] не удаётся повалить [them].",
     "strTooltip": "Не удалось прервать и сбить цель с ног, вместо этого вы сами упали ничком.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -448,7 +448,7 @@
   {
     "strName": "ACTCombatTakeDownSuccess",
     "strTitle": "Попадание",
-    "strDesc": "[us] успешно [валит] [them].",
+    "strDesc": "[us] успешно валит [them].",
     "strTooltip": "Успешное прерывание и опрокидывание цели.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -473,7 +473,7 @@
   {
     "strName": "ACTStandUp",
     "strTitle": "Встать",
-    "strDesc": "[us] [поднимается] из положения лёжа.",
+    "strDesc": "[us] поднимается из положения лёжа.",
     "strTooltip": "Встать и прекратить состояние лежания.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -497,7 +497,7 @@
   {
     "strName": "ACTStandUpTarget",
     "strTitle": "Встать",
-    "strDesc": "[us] [поднимается] из положения лёжа.",
+    "strDesc": "[us] поднимается из положения лёжа.",
     "strTooltip": "Встать и прекратить состояние лежания.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
@@ -521,7 +521,7 @@
   {
     "strName": "ACTMelee",
     "strTitle": "Безоружный бой: Сильный удар",
-    "strDesc": "[us] мощно [бьёт] [them].",
+    "strDesc": "[us] мощно бьёт [them].",
     "strTooltip": "Попытка нанести медленный и мощный удар без оружия в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -561,7 +561,7 @@
   {
     "strName": "ACTMeleeTired",
     "strTitle": "Безоружный бой (усталость): Сильный удар",
-    "strDesc": "[us] устало [бьёт] [them].",
+    "strDesc": "[us] устало бьёт [them].",
     "strTooltip": "Попытка нанести медленный и мощный удар в безоружном ближнем бою, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -601,7 +601,7 @@
   {
     "strName": "ACTMeleeWeapon",
     "strTitle": "Удар:",
-    "strDesc": "[us] [пытается] мощно ударить [them].",
+    "strDesc": "[us] пытается мощно ударить [them].",
     "strTooltip": "Попытка нанести удерживаемым предметом стандартные удары в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -642,7 +642,7 @@
   {
     "strName": "ACTMeleeWeaponTired",
     "strTitle": "Удар (усталость):",
-    "strDesc": "[us] устало [пытается] ударить [them].",
+    "strDesc": "[us] устало пытается ударить [them].",
     "strTooltip": "Попытка нанести удар удерживаемым предметом в ближнем бою для стандартных попаданий, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -683,7 +683,7 @@
   {
     "strName": "ACTMeleeWeaponShaft",
     "strTitle": "Замах:",
-    "strDesc": "[us] [замахивается] по [them].",
+    "strDesc": "[us] замахивается по [them].",
     "strTooltip": "Попытка нанести сильные удары длинным предметом в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -724,7 +724,7 @@
   {
     "strName": "ACTMeleeWeaponShaftTired",
     "strTitle": "Замах (усталость):",
-    "strDesc": "[us] устало [размахивается], целясь в [them].",
+    "strDesc": "[us] устало размахивается, целясь в [them].",
     "strTooltip": "Попытка нанести удар в ближнем бою длинным предметом для тяжелых попаданий, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -765,7 +765,7 @@
   {
     "strName": "ACTMeleeWeaponSharp",
     "strTitle": "Порез:",
-    "strDesc": "[us] [пытается] порезать [them].",
+    "strDesc": "[us] пытается порезать [them].",
     "strTooltip": "Попытка нанести режущие и кровоточащие раны острым краем.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -806,7 +806,7 @@
   {
     "strName": "ACTMeleeWeaponSharpTired",
     "strTitle": "Порез (усталость):",
-    "strDesc": "[us] устало [пытается] порезать [them].",
+    "strDesc": "[us] устало пытается порезать [them].",
     "strTooltip": "Попытка нанести режущие и кровоточащие раны острым краем, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -847,7 +847,7 @@
   {
     "strName": "ACTMeleeWeaponChop",
     "strTitle": "Рубящий удар:",
-    "strDesc": "[us] [пытается] рубануть [them].",
+    "strDesc": "[us] пытается рубануть [them].",
     "strTooltip": "Попытка нанести режущие, кровоточащие и тупые раны тяжелым острым краем.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -888,7 +888,7 @@
   {
     "strName": "ACTMeleeWeaponChopTired",
     "strTitle": "Рубящий удар (усталость):",
-    "strDesc": "[us] устало [пытается] рубануть [them].",
+    "strDesc": "[us] устало пытается рубануть [them].",
     "strTooltip": "Попытка нанести режущие, кровоточащие и тупые раны тяжелым острым краем, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -929,7 +929,7 @@
   {
     "strName": "ACTMeleeWeaponGrind",
     "strTitle": "Раздавливание:",
-    "strDesc": "[us] [пытается] раздавить [them].",
+    "strDesc": "[us] пытается раздавить [them].",
     "strTooltip": "Попытка нанести грубые режущие и кровоточащие раны трущим краем.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -970,7 +970,7 @@
   {
     "strName": "ACTMeleeWeaponGrindTired",
     "strTitle": "Раздавливание (усталость):",
-    "strDesc": "[us] устало [пытается] раздавить [them].",
+    "strDesc": "[us] устало пытается раздавить [them].",
     "strTooltip": "Попытка нанести грубые режущие и кровоточащие раны шлифующим краем, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1011,7 +1011,7 @@
   {
     "strName": "ACTMeleeWeaponLaser",
     "strTitle": "Ожог:",
-    "strDesc": "[us] [пытается] поджечь [them].",
+    "strDesc": "[us] пытается поджечь [them].",
     "strTooltip": "Попытка нанести глубокие раны сварочным лазером.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1052,7 +1052,7 @@
   {
     "strName": "ACTMeleeWeaponLaserTired",
     "strTitle": "Ожог (усталость):",
-    "strDesc": "[us] устало [пытается] поджечь [them].",
+    "strDesc": "[us] устало пытается поджечь [them].",
     "strTooltip": "Попытка нанести глубокие раны сварочным лазером, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1093,7 +1093,7 @@
   {
     "strName": "ACTMeleeWeaponSharpStab",
     "strTitle": "Укол:",
-    "strDesc": "[us] [пытается] заколоть [them].",
+    "strDesc": "[us] пытается заколоть [them].",
     "strTooltip": "Попытка быстро уколоть острым предметом, увеличивая скорость, дальность и пробитие, но снижая урон.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1134,7 +1134,7 @@
   {
     "strName": "ACTMeleeWeaponSharpStabTired",
     "strTitle": "Укол (усталость):",
-    "strDesc": "[us] устало [пытается] заколоть [them].",
+    "strDesc": "[us] устало пытается заколоть [them].",
     "strTooltip": "Попытка быстро уколоть острым предметом, увеличивая скорость, дальность и пробитие, но снижая урон, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1175,7 +1175,7 @@
   {
     "strName": "ACTMeleeWeaponSoft",
     "strTitle": "Шлепок:",
-    "strDesc": "[us] [пытается] ударить [them] оружием, не предназначенным для боя.",
+    "strDesc": "[us] пытается ударить [them] оружием, не предназначенным для боя.",
     "strTooltip": "Попытка нанести удар в ближнем бою мягким, неудобным или небольшим импровизированным оружием.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1216,7 +1216,7 @@
   {
     "strName": "ACTMeleeWeaponSoftTired",
     "strTitle": "Слабый удар:",
-    "strDesc": "[us] устало [пытается] ударить [them] оружием, не предназначенным для боя.",
+    "strDesc": "[us] устало пытается ударить [them] оружием, не предназначенным для боя.",
     "strTooltip": "Попытка нанести удар в ближнем бою мягким, неудобным или мелким импровизированным оружием, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1257,7 +1257,7 @@
   {
     "strName": "ACTMeleePistolWhip",
     "strTitle": "Удар пистолетом:",
-    "strDesc": "[us] [пытается] ударить [them] пистолетом.",
+    "strDesc": "[us] пытается ударить [them] пистолетом.",
     "strTooltip": "Попытка использовать пистолет в качестве оружия ближнего боя.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1298,7 +1298,7 @@
   {
     "strName": "ACTMeleePistolWhipTired",
     "strTitle": "Слабый удар пистолетом:",
-    "strDesc": "[us] устало [пытается] ударить [them] пистолетом.",
+    "strDesc": "[us] устало пытается ударить [them] пистолетом.",
     "strTooltip": "Попытка использовать пистолет в качестве оружия ближнего боя, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1339,7 +1339,7 @@
   {
     "strName": "ACTMeleeQuick",
     "strTitle": "Безоружный удар: быстрый",
-    "strDesc": "[us] [пытается] быстро нанести удар [them].",
+    "strDesc": "[us] пытается быстро нанести удар [them].",
     "strTooltip": "Попытка быстро нанести удар без оружия в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1379,7 +1379,7 @@
   {
     "strName": "ACTMeleeQuickTired",
     "strTitle": "Безоружный удар: быстрый (усталый)",
-    "strDesc": "[us] устало [пытается] быстро нанести удар [them].",
+    "strDesc": "[us] устало пытается быстро нанести удар [them].",
     "strTooltip": "Попытка быстро нанести удар безоружной атакой в ближнем бою, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1419,7 +1419,7 @@
   {
     "strName": "ACTMeleeWeaponQuick",
     "strTitle": "Быстрый удар:",
-    "strDesc": "[us] [пытается] быстро нанести удар [them].",
+    "strDesc": "[us] пытается быстро нанести удар [them].",
     "strTooltip": "Попытка быстро нанести удар в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1459,7 +1459,7 @@
   {
     "strName": "ACTMeleeWeaponQuickTired",
     "strTitle": "Слабый быстрый удар:",
-    "strDesc": "[us] устало [пытается] быстро нанести удар [them].",
+    "strDesc": "[us] устало пытается быстро нанести удар [them].",
     "strTooltip": "Попытка быстро нанести удар в ближнем бою будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1499,7 +1499,7 @@
   {
     "strName": "ACTMeleeFinalBlow",
     "strTitle": "Атака (беспомощная цель)",
-    "strDesc": "[us] [атакует] [them], пока [them-contractIs] беспомощен.",
+    "strDesc": "[us] атакует [them], пока [them-contractIs] беспомощен.",
     "strTooltip": "Нанести мощный удар уязвимой или подавленной цели в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1532,7 +1532,7 @@
   {
     "strName": "ACTMeleeFinalBlowTired",
     "strTitle": "Слабая атака (беспомощная цель)",
-    "strDesc": "[us] устало [атакует] [them], пока [them-contractIs] беспомощен.",
+    "strDesc": "[us] устало атакует [them], пока [them-contractIs] беспомощен.",
     "strTooltip": "Мощный удар по уязвимой или подавленной цели в ближнем бою, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1565,7 +1565,7 @@
   {
     "strName": "ACTMeleeFinalBlowWeapon",
     "strTitle": "Рукопашная атака (беспомощная цель):",
-    "strDesc": "[us] [атакует] [them], пока [them-contractIs] беспомощен.",
+    "strDesc": "[us] атакует [them], пока [them-contractIs] беспомощен.",
     "strTooltip": "Нанести мощный удар уязвимой или подавленной цели в ближнем бою.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1599,7 +1599,7 @@
   {
     "strName": "ACTMeleeFinalBlowWeaponTired",
     "strTitle": "Слабая рукопашная (беспомощная цель):",
-    "strDesc": "[us] устало [атакует] [them], пока [them-contractIs] беспомощен.",
+    "strDesc": "[us] устало атакует [them], пока [them-contractIs] беспомощен.",
     "strTooltip": "Мощный удар по уязвимой или подавленной цели в ближнем бою, будучи замедленным и ослабленным усталостью.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1665,7 +1665,7 @@
   {
     "strName": "ACTRanged",
     "strTitle": "Выстрел:",
-    "strDesc": "[us] [пытается] выстрелить в [them].",
+    "strDesc": "[us] пытается выстрелить в [them].",
     "strTooltip": "Попытка выстрелить в цель из заряженного оружия дальнего боя.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1708,7 +1708,7 @@
   {
     "strName": "ACTRangedHG",
     "strTitle": "Выстрел: пистолет",
-    "strDesc": "[us] [пытается] выстрелить в [them].",
+    "strDesc": "[us] пытается выстрелить в [them].",
     "strTooltip": "Попытка выстрелить в цель из заряженного оружия дальнего боя.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1751,7 +1751,7 @@
   {
     "strName": "ACTRangedRifle",
     "strTitle": "Выстрел:",
-    "strDesc": "[us] [пытается] выстрелить в [them].",
+    "strDesc": "[us] пытается выстрелить в [them].",
     "strTooltip": "Попытка выстрелить в цель из заряженного оружия дальнего боя.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1794,7 +1794,7 @@
   {
     "strName": "ACTRangedRifleHG",
     "strTitle": "Выстрел: пистолет",
-    "strDesc": "[us] [пытается] выстрелить в [them].",
+    "strDesc": "[us] пытается выстрелить в [them].",
     "strTooltip": "Попытка выстрелить в цель из заряженного оружия дальнего боя.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1837,7 +1837,7 @@
   {
     "strName": "ACTRangedCasing",
     "strTitle": "Выброс гильзы",
-    "strDesc": "[us] [выбрасывает] гильзу.",
+    "strDesc": "[us] выбрасывает гильзу.",
     "strActionGroup": "Fight",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -1857,7 +1857,7 @@
   {
     "strName": "ACTRanged3RB",
     "strTitle": "Выстрел (очередь):",
-    "strDesc": "[us] [пытается] выстрелить в [them].",
+    "strDesc": "[us] пытается выстрелить в [them].",
     "strTooltip": "Попытка обстрелять цель из заряжанного оружия дальнего боя очередью из нескольких выстрелов.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1895,7 +1895,7 @@
   {
     "strName": "ACTRanged3RBHG",
     "strTitle": "Выстрел (очередь): пистолет",
-    "strDesc": "[us] [пытается] выстрелить в [them].",
+    "strDesc": "[us] пытается выстрелить в [them].",
     "strTooltip": "Попытка обстрелять цель из заряжанного оружия дальнего боя очередью из нескольких выстрелов.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1933,7 +1933,7 @@
   {
     "strName": "ACTRangedSpread",
     "strTitle": "Выстрел дробью:",
-    "strDesc": "[us] [пытается] обстрелять [them].",
+    "strDesc": "[us] пытается обстрелять [them].",
     "strTooltip": "Попытка выстрелить в цель из заряженного оружия дальнего боя с разбросом.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -1973,7 +1973,7 @@
   {
     "strName": "ACTRangedSpreadHG",
     "strTitle": "Выстрел дробью: пистолет",
-    "strDesc": "[us] [пытается] обстрелять [them].",
+    "strDesc": "[us] пытается обстрелять [them].",
     "strTooltip": "Попытка выстрелить в цель из заряженного оружия дальнего боя с разбросом HG.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -2013,7 +2013,7 @@
   {
     "strName": "ACTSurrenderCrimesOKLGPlayer",
     "strTitle": "Сдаться за преступления",
-    "strDesc": "[us] [сдаётся] [them] и [us-готовится] заплатить за [us-pos] преступления",
+    "strDesc": "[us] сдаётся [them] и us-готовится заплатить за [us] преступления",
     "strTooltip": "Сдаться властям, чтобы отбыть наказание за ваши преступления.",
     "strActionGroup": "Use",
     "strTargetPoint": "talk",
@@ -2041,7 +2041,7 @@
   {
     "strName": "ACTSurrenderCrimesOKLGPlayerAllowPA",
     "strTitle": "Сдаться за преступления",
-    "strDesc": "[them] [сдаётся] [us] и [them-готовится] заплатить за [them-pos] преступления",
+    "strDesc": "[them] сдаётся [us] и them-готовится заплатить за [them] преступления",
     "strTooltip": "Сдаться властям, чтобы отбыть наказание за ваши преступления.",
     "strActionGroup": "Use",
     "strTargetPoint": "talk",
@@ -2069,7 +2069,7 @@
   {
     "strName": "ACTSurrenderDemand",
     "strTitle": "Потребовать капитуляцию",
-    "strDesc": "[us] [требует] от [them] сдаться.",
+    "strDesc": "[us] требует от [them] сдаться.",
     "strTooltip": "Попытка заставить цель сдаться. Если цель сдается, она прекращает бой.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
@@ -2102,7 +2102,7 @@
   {
     "strName": "ACTSurrenderDemandAllowAI",
     "strTitle": "Согласиться сдаться",
-    "strDesc": "[us] [сдаётся] [them] и будет делать так, как [them-subj] [скажет].",
+    "strDesc": "[us] сдаётся [them] и будет делать так, как [them-subj] скажет.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2127,7 +2127,7 @@
   {
     "strName": "ACTSurrenderDemandAllowAIScared",
     "strTitle": "Согласиться сдаться",
-    "strDesc": "[us] [сдаётся] [them] и будет делать так, как [them-subj] [скажет]",
+    "strDesc": "[us] сдаётся [them] и будет делать так, как [them-subj] скажет",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2153,7 +2153,7 @@
   {
     "strName": "ACTSurrenderDemandAllowPlayer",
     "strTitle": "Согласиться сдаться",
-    "strDesc": "[us] [сдаётся] [them].",
+    "strDesc": "[us] сдаётся [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2178,7 +2178,7 @@
   {
     "strName": "ACTSurrenderDemandDenyAI",
     "strTitle": "Отказаться сдаться",
-    "strDesc": "[us] [отказывается] сдаться [them].",
+    "strDesc": "[us] отказывается сдаться [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2203,7 +2203,7 @@
   {
     "strName": "ACTSurrenderOffer",
     "strTitle": "Предложить капитуляцию",
-    "strDesc": "[us] [предлагает] сдаться [them].",
+    "strDesc": "[us] предлагает сдаться [them].",
     "strTooltip": "Предлагает цель сдаться. Если цель соглашается, бой заканчивается.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
@@ -2235,7 +2235,7 @@
   {
     "strName": "ACTSurrenderOfferAllowAI",
     "strTitle": "Принять их капитуляцию",
-    "strDesc": "[us] [принимает] капитуляцию от [them].",
+    "strDesc": "[us] принимает капитуляцию от [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2260,7 +2260,7 @@
   {
     "strName": "ACTSurrenderOfferAllowPlayer",
     "strTitle": "Принять их капитуляцию",
-    "strDesc": "[us] [принимает] капитуляцию от [them].",
+    "strDesc": "[us] принимает капитуляцию от [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2286,7 +2286,7 @@
   {
     "strName": "ACTSurrenderOfferDenyAI",
     "strTitle": "Отклонить их капитуляцию",
-    "strDesc": "[us] [отклоняет] капитуляцию [them-pos].",
+    "strDesc": "[us] отклоняет капитуляцию [them].",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 7,
@@ -2311,7 +2311,7 @@
   {
     "strName": "Flee",
     "strTitle": "Бежать",
-    "strDesc": "[us] [пытается] сбежать от [them].",
+    "strDesc": "[us] пытается сбежать от [them].",
     "strTooltip": "Переместиться в случайное место поблизости.",
     "strActionGroup": "Use",
     "strTargetPoint": "random",
@@ -2333,7 +2333,7 @@
   {
     "strName": "CombatWait",
     "strTitle": "Ждать",
-    "strDesc": "[us] [ждёт] и [наблюдает] за [them].",
+    "strDesc": "[us] ждёт и наблюдает за [them].",
     "strTooltip": "Подождать немного, без угрозы.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
@@ -2355,7 +2355,7 @@
   {
     "strName": "PLGCombatRobotFight",
     "strTitle": "Мы хотим атаковать их",
-    "strDesc": "[us] [выбирает] ход для боя с [them].",
+    "strDesc": "[us] выбирает ход для боя с [them].",
     "strActionGroup": "Fight",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2375,7 +2375,7 @@
   {
     "strName": "PLGCombatFight",
     "strTitle": "Мы хотим атаковать их",
-    "strDesc": "[us] [выбирает] ход для боя с [them].",
+    "strDesc": "[us] выбирает ход для боя с [them].",
     "strActionGroup": "Fight",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2398,7 +2398,7 @@
   {
     "strName": "PLGCombatFlee",
     "strTitle": "Мы хотим сбежать от них",
-    "strDesc": "[us] [выбирает] ход для отступления от [them].",
+    "strDesc": "[us] выбирает ход для отступления от [them].",
     "strActionGroup": "Fight",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2426,7 +2426,7 @@
   {
     "strName": "PLGCombatPassive",
     "strTitle": "Мы хотим рассмотреть варианты без боя",
-    "strDesc": "[us] [выбирает] пассивные действия против [them].",
+    "strDesc": "[us] выбирает пассивные действия против [them].",
     "strActionGroup": "Fight",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2445,7 +2445,7 @@
   {
     "strName": "PLGCombatPosition",
     "strTitle": "Мы хотим удерживать позицию от них",
-    "strDesc": "[us] [выбирает] ход для удержания позиции против [them].",
+    "strDesc": "[us] выбирает ход для удержания позиции против [them].",
     "strActionGroup": "Fight",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -2492,7 +2492,7 @@
   {
     "strName": "ACTWitnessCancel",
     "strTitle": "Стать свидетелем отмены",
-    "strDesc": "[them] [видит], как [us] что-то делает с [3rd], и останавливается.",
+    "strDesc": "[them] видит, как [us] что-то делает с , и останавливается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2517,7 +2517,7 @@
   {
     "strName": "SOCBegMercy",
     "strTitle": "Молить о пощаде",
-    "strDesc": "[us] [умоляет] [them] о пощаде.",
+    "strDesc": "[us] умоляет [them] о пощаде.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
     "fTargetPointRange": 2.0,
@@ -2559,7 +2559,7 @@
   {
     "strName": "ACTJoinFightCommand",
     "strTitle": "Приказ вступить в бой:",
-    "strDesc": "[us] [приказывает] [them] сражаться с [3rd].",
+    "strDesc": "[us] приказывает [them] сражаться с .",
     "strTargetPoint": null,
     "strActionGroup": "Fight",
     "fTargetPointRange": 99,
@@ -2585,7 +2585,7 @@
   {
     "strName": "ACTJoinFightCommandAllow",
     "strTitle": "Согласиться на бой",
-    "strDesc": "[us] [соглашается] присоединиться к бою.",
+    "strDesc": "[us] соглашается присоединиться к бою.",
     "strTargetPoint": null,
     "strActionGroup": "Fight",
     "fTargetPointRange": 99,

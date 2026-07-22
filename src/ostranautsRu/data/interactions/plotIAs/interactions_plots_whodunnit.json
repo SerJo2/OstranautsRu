@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "strName": "Plot_Whodunnit_StartTrigger",
     "strTitle": "Триггер для начала сюжета «Детектив»",
-    "strDesc": "[us] [is] готов начать сюжет «Детектив».",
+    "strDesc": "[us] готов начать сюжет «Детектив».",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -18,7 +18,7 @@
   {
     "strName": "Plot_Whodunnit_VictimFoundTrigger",
     "strTitle": "Триггер для этапа сюжета «Детектив»: Найдена жертва",
-    "strDesc": "[us] [has] нашел убитое тело [them-pos] в сюжете «Детектив».",
+    "strDesc": "[us] имеет нашел убитое тело [them] в сюжете «Детектив».",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -39,7 +39,7 @@
   {
     "strName": "Plot_Whodunnit_BodyFoundTrigger",
     "strTitle": "Триггер для этапа сюжета «Детектив»: Найдено тело",
-    "strDesc": "[us] [has] нашел тело [them-pos] в сюжете «Детектив».",
+    "strDesc": "[us] имеет нашел тело [them] в сюжете «Детектив».",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -56,7 +56,7 @@
   {
     "strName": "Plot_Whodunnit_CasefileFoundTrigger",
     "strTitle": "Триггер для этапа сюжета Whodunnit: CasefileFound",
-    "strDesc": "[us] [has] начал дело [them-pos] в сюжете Whodunnit.",
+    "strDesc": "[us] имеет начал дело [them] в сюжете Whodunnit.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -74,7 +74,7 @@
   {
     "strName": "Plot_Whodunnit_KinFoundTrigger",
     "strTitle": "Поиск ближайших родственников жертвы",
-    "strDesc": "[us] [attempts] найти близких родственников или врагов [them-pos].",
+    "strDesc": "[us] пытается найти близких родственников или врагов [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -99,7 +99,7 @@
   {
     "strName": "Plot_Whodunnit_KinFoundReply",
     "strTitle": "Поиск близких отношений",
-    "strDesc": "[them] [learns] что [us] [is] в близких отношениях с [3rd].",
+    "strDesc": "[them] [learns] что [us] в близких отношениях с .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -122,7 +122,7 @@
   {
     "strName": "Plot_Whodunnit_KinEnemyFoundReply2",
     "strTitle": "Поиск враждебных отношений",
-    "strDesc": "[them] [learns] что [us] [is] во враждебных отношениях с [3rd].",
+    "strDesc": "[them] [learns] что [us] во враждебных отношениях с .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -142,7 +142,7 @@
   {
     "strName": "Plot_Whodunnit_KinFoundReplyNone",
     "strTitle": "Нет родственников для раскрытия",
-    "strDesc": "[us] [has] родственников, которых можно раскрыть для [them].",
+    "strDesc": "[us] имеет родственников, которых можно раскрыть для [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -158,7 +158,7 @@
   {
     "strName": "Plot_Whodunnit_KinEnemyFoundTrigger",
     "strTitle": "Поиск врага жертвы",
-    "strDesc": "[us] [attempts] найти врагов [them-pos].",
+    "strDesc": "[us] пытается найти врагов [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -181,7 +181,7 @@
   {
     "strName": "Plot_Whodunnit_KinEnemyFoundReply",
     "strTitle": "Поиск враждебных отношений",
-    "strDesc": "[us] [searches] врага [3rd], чтобы раскрыть для [them].",
+    "strDesc": "[us] [searches] врага , чтобы раскрыть для [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -200,7 +200,7 @@
   {
     "strName": "Plot_Whodunnit_KinEnemyFoundReplyNone",
     "strTitle": "Нет врагов для раскрытия",
-    "strDesc": "У [us] [has] врагов для раскрытия [them].",
+    "strDesc": "У [us] имеет врагов для раскрытия [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -808,7 +808,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerHomeCloudbreakTrigger",
     "strTitle": "Улика об убийце: Cloudbreak",
-    "strDesc": "[us] [замечает] в [them], что [3rd-pos] убийца вырос в районе Клаудбрейк Аэростат.",
+    "strDesc": "[us] замечает в [them], что [3rd-pos] убийца вырос в районе Клаудбрейк Аэростат.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -922,7 +922,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerBODragonsTrigger",
     "strTitle": "Улика на убийцу: Фанат Dragons",
-    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца [is] болельщиком команды по брейк-ауту New Xian Dragons.",
+    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца болельщиком команды по брейк-ауту New Xian Dragons.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -941,7 +941,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerBOGodsTrigger",
     "strTitle": "Улика на убийцу: Фанат Gods",
-    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца [is] болельщиком команды по брейк-ауту Gods of Olympus.",
+    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца болельщиком команды по брейк-ауту Gods of Olympus.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -960,7 +960,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerBORiotersTrigger",
     "strTitle": "Улика на убийцу: Фанат Rioters",
-    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца [is] болельщиком команды по брейк-ауту Ceres Rioters.",
+    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца болельщиком команды по брейк-ауту Ceres Rioters.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -979,7 +979,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerBOShootersTrigger",
     "strTitle": "Улика на убийцу: Фанат Shooters",
-    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца [is] болельщиком команды по брейк-ауту Ceres Shooters.",
+    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца болельщиком команды по брейк-ауту Ceres Shooters.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -998,7 +998,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerBOTimberwolvesTrigger",
     "strTitle": "Улика на убийцу: Фанат Timberwolves",
-    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца [is] болельщиком команды по брейк-ауту Tharsis Landing Timber Wolves.",
+    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца болельщиком команды по брейк-ауту Tharsis Landing Timber Wolves.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1017,7 +1017,7 @@
   {
     "strName": "Plot_Whodunnit_ClueKillerBOWarriorsTrigger",
     "strTitle": "Улика на убийцу: Фанат Warriors",
-    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца [is] болельщиком команды по брейк-ауту New Xian Warriors.",
+    "strDesc": "[us] [notes] на [them], что [3rd-pos] убийца болельщиком команды по брейк-ауту New Xian Warriors.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1036,7 +1036,7 @@
   {
     "strName": "Plot_Whodunnit_MotiveAccident",
     "strTitle": "Признанный мотив убийцы: Несчастный случай",
-    "strDesc": "[us] [notes] на [them], что [3rd] с раскаянием признался в убийстве, заявив, что это был несчастный случай.",
+    "strDesc": "[us] [notes] на [them], что с раскаянием признался в убийстве, заявив, что это был несчастный случай.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1055,7 +1055,7 @@
   {
     "strName": "Plot_Whodunnit_MotivePassion",
     "strTitle": "Признанный мотив убийцы: Сильные эмоции",
-    "strDesc": "[us] [notes] на [them], что [3rd] с раскаянием признался в убийстве, заявив, что это был не premeditated акт страсти.",
+    "strDesc": "[us] [notes] на [them], что с раскаянием признался в убийстве, заявив, что это был не premeditated акт страсти.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1074,7 +1074,7 @@
   {
     "strName": "Plot_Whodunnit_MotiveSelfDefense",
     "strTitle": "Признанный мотив убийцы: Самооборона",
-    "strDesc": "[us] [notes] на [them], что [3rd] признался в убийстве, заявив, что действовал в целях самообороны.",
+    "strDesc": "[us] [notes] на [them], что признался в убийстве, заявив, что действовал в целях самообороны.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1093,7 +1093,7 @@
   {
     "strName": "Plot_Whodunnit_MotiveVengeance",
     "strTitle": "Признанный мотив убийцы: Месть",
-    "strDesc": "[us] [notes] на [them], что [3rd] признался в убийстве, заявив, что это была оправданная месть.",
+    "strDesc": "[us] [notes] на [them], что признался в убийстве, заявив, что это была оправданная месть.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1112,7 +1112,7 @@
   {
     "strName": "Plot_Whodunnit_MotiveVigilante",
     "strTitle": "Признанный мотив убийцы: Самосуд",
-    "strDesc": "[us] [notes] на [them], что [3rd] признался в убийстве, заявив, что это был акт правосудия.",
+    "strDesc": "[us] [notes] на [them], что признался в убийстве, заявив, что это был акт правосудия.",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1131,7 +1131,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzedBloodTrigger",
     "strTitle": "Улика на убийцу: Кровь проанализирована",
-    "strDesc": "[us] проанализировал кровь с места преступления, которая совпадает с профилем [3rd].",
+    "strDesc": "[us] проанализировал кровь с места преступления, которая совпадает с профилем .",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1150,7 +1150,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzedDNATrigger",
     "strTitle": "Улика на убийцу: ДНК проанализирована",
-    "strDesc": "[us] проанализировал ДНК с места преступления, которая совпадает с профилем [3rd].",
+    "strDesc": "[us] проанализировал ДНК с места преступления, которая совпадает с профилем .",
     "strActionGroup": "Use",
     "fDuration": 0.0,
     "strThemType": "Other",
@@ -1259,7 +1259,7 @@
   {
     "strName": "PLOT_ExamineDeadBody",
     "strTitle": "Осмотр мертвого тела",
-    "strDesc": "[us] тщательно [examines] тело, чтобы лучше понять, что произошло. После такой grisly работы рекомендуется умыться.",
+    "strDesc": "[us] тщательно осматривает тело, чтобы лучше понять, что произошло. После такой grisly работы рекомендуется умыться.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1329,7 +1329,7 @@
   {
     "strName": "Plot_WhodunnitBasicsAge",
     "strTitle": "",
-    "strDesc": "Раскрывает [them-pos] базовые данные.",
+    "strDesc": "Раскрывает [them] базовые данные.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1351,7 +1351,7 @@
   {
     "strName": "Plot_WhodunnitBasicsAge01",
     "strTitle": "",
-    "strDesc": "[them] [is] ребенок.",
+    "strDesc": "[them] ребенок.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1425,7 +1425,7 @@
   {
     "strName": "Plot_WhodunnitBasicsAge02",
     "strTitle": "",
-    "strDesc": "[them] [is] молодой взрослый.",
+    "strDesc": "[them] молодой взрослый.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1721,7 +1721,7 @@
   {
     "strName": "Plot_WhodunnitBasics",
     "strTitle": "Определить причину смерти",
-    "strDesc": "Раскрывает одно из смертельных состояний [them-pos].",
+    "strDesc": "Раскрывает одно из смертельных состояний [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1753,7 +1753,7 @@
   {
     "strName": "Plot_WhodunnitBasicsDeathHandprint",
     "strTitle": "",
-    "strDesc": "Очевидной причины смерти [them] [has], однако кожа некротизирована и почернела в форме руки со слишком длинными пальцами. Эта смерть явно носит неестественный характер.",
+    "strDesc": "Очевидной причины смерти [them] имеет, однако кожа некротизирована и почернела в форме руки со слишком длинными пальцами. Эта смерть явно носит неестественный характер.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1769,7 +1769,7 @@
   {
     "strName": "Plot_WhodunnitBasicsPulmonaryHemorrhage",
     "strTitle": "",
-    "strDesc": "У [them-pos] наблюдалось острое легочное кровотечение.",
+    "strDesc": "У [them] наблюдалось острое легочное кровотечение.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1963,7 +1963,7 @@
   {
     "strName": "Plot_WhodunnitBasicsDcBodyTemp09",
     "strTitle": "",
-    "strDesc": "У [them-pos] произошел отказ органов из-за теплового удара.",
+    "strDesc": "У [them] произошел отказ органов из-за теплового удара.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2205,7 +2205,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplit",
     "strTitle": "Искать улики",
-    "strDesc": "Может раскрыть улику на теле [them-pos] об убийце.",
+    "strDesc": "Может раскрыть улику на теле [them] об убийце.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2236,7 +2236,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSocial",
     "strTitle": "Обсудить улики",
-    "strDesc": "Может раскрыть улику об убийце [them-pos].",
+    "strDesc": "Может раскрыть улику об убийце [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2268,7 +2268,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitCareer",
     "strTitle": "",
-    "strDesc": "Убийца [them-pos] оставил улику о своей профессии.",
+    "strDesc": "Убийца [them] оставил улику о своей профессии.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2295,7 +2295,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitCareerShipbreaker",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] работает утильщиком кораблей.",
+    "strDesc": "[us] [finds] улику, что убийца [them] работает утильщиком кораблей.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2313,7 +2313,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitCareerCriminal",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] зарабатывает на жизнь преступной деятельностью.",
+    "strDesc": "[us] [finds] улику, что убийца [them] зарабатывает на жизнь преступной деятельностью.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2349,7 +2349,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitCareerLEO",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] работает по контракту частным офицером безопасности.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] работает по контракту частным офицером безопасности.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2367,7 +2367,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitCareerPirate",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] зарабатывает на жизнь пиратством.",
+    "strDesc": "[us] [finds] улику, что убийца [them] зарабатывает на жизнь пиратством.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2385,7 +2385,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitCareerOther",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] не зарабатывает на жизнь типичными методами.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] не зарабатывает на жизнь типичными методами.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2403,7 +2403,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitGender",
     "strTitle": "",
-    "strDesc": "Убийца [them-pos] оставил улику о своем поле.",
+    "strDesc": "Убийца [them] оставил улику о своем поле.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2427,7 +2427,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitGenderMale",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] — мужчина.",
+    "strDesc": "[us] [finds] улику, что убийца [them] — мужчина.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2445,7 +2445,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitGenderNB",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] — небинарной гендерной принадлежности.",
+    "strDesc": "[us] [finds] улику, что убийца [them] — небинарной гендерной принадлежности.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2463,7 +2463,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitGenderFemale",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] — женщина.",
+    "strDesc": "[us] [finds] улику, что убийца [them] — женщина.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2481,7 +2481,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworld",
     "strTitle": "",
-    "strDesc": "Убийца [them-pos] оставил улику о своей родной планете.",
+    "strDesc": "Убийца [them] оставил улику о своей родной планете.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2510,7 +2510,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldMercury",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на Меркурии, вероятно, в исправительной колонии Прокофьева.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на Меркурии, вероятно, в исправительной колонии Прокофьева.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2528,7 +2528,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldVenus",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] вырос на Венере.",
+    "strDesc": "[us] [finds] улику, что убийца [them] вырос на Венере.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2546,7 +2546,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldLuna",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] вырос на Луне.",
+    "strDesc": "[us] [finds] улику, что убийца [them] вырос на Луне.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2564,7 +2564,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldEarth",
     "strTitle": "",
-    "strDesc": "[us] [finds] улику, что убийца [them-pos] вырос на Земле.",
+    "strDesc": "[us] [finds] улику, что убийца [them] вырос на Земле.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2582,7 +2582,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldMars",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос на Марсе или в его окрестностях.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос на Марсе или в его окрестностях.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2600,7 +2600,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeCCRE",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на Церере или вблизи неё, на территории CCRE.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на Церере или вблизи неё, на территории CCRE.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2618,7 +2618,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldJupiter",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос среди лун Юпитера или астероидов.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос среди лун Юпитера или астероидов.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2636,7 +2636,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeworldSaturn",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос среди спутников Сатурна.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос среди спутников Сатурна.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2654,7 +2654,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHome",
     "strTitle": "",
-    "strDesc": "Убийца [them-pos] оставил зацепку о своей домашней колонии.",
+    "strDesc": "Убийца [them] оставил зацепку о своей домашней колонии.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2693,7 +2693,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeOKLG",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос в регионе K-LEG.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос в регионе K-LEG.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2711,7 +2711,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeAtlantis",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос в Атлантиде, Европа, луна Юпитера.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос в Атлантиде, Европа, луна Юпитера.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2729,7 +2729,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeFortSimpson",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на станции Цюаньчжань/Кольцо, также известной как \"Монетный двор\", в Поясе.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на станции Цюаньчжань/Кольцо, также известной как \"Монетный двор\", в Поясе.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2747,7 +2747,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeCalicoCity",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос в Calico City на Церере.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос в Calico City на Церере.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2765,7 +2765,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeRingStation",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос в Вольтере на Деймосе, луне Марса.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос в Вольтере на Деймосе, луне Марса.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2783,7 +2783,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeVoltaire",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на орбитальной станции Ханчжоу на марсианской орбите.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на орбитальной станции Ханчжоу на марсианской орбите.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2801,7 +2801,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeHangzhou",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на орбитальной станции Сучжоу на марсианской орбите.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на орбитальной станции Сучжоу на марсианской орбите.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2819,7 +2819,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeSuzhou",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос в Лабиринте, подземелье Марса.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос в Лабиринте, подземелье Марса.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2837,7 +2837,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeTharsis",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос в Tharsis Landing, Марс.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос в Tharsis Landing, Марс.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2855,7 +2855,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeLabyrinth",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на станции Энкантадо, Венера.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на станции Энкантадо, Венера.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2873,7 +2873,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeJadeRabbit",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос в JadeRabbit, Луна.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос в JadeRabbit, Луна.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2891,7 +2891,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeNewcal",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос в Newcal, Венера.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос в Newcal, Венера.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2909,7 +2909,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeCloudbreak",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос в Cloudbreak, Венера.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос в Cloudbreak, Венера.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2927,7 +2927,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeEncantado",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на станции Пуэрто-Нуэво, Европа, луна Юпитера.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на станции Пуэрто-Нуэво, Европа, луна Юпитера.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2945,7 +2945,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomePortoNuevo",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос на станции Циньчэн/в исправительной колонии Прокофьева, Меркурий.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос на станции Циньчэн/в исправительной колонии Прокофьева, Меркурий.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2963,7 +2963,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeQincheng",
     "strTitle": "",
-    "strDesc": "[us] [находит] улики, указывающие на то, что убийца [them-pos] вырос(ла) на станции Циньчэн / в исправительной колонии Прокофьев на Меркурии.",
+    "strDesc": "[us] находит улики, указывающие на то, что убийца [them] вырос(ла) на станции Циньчэн / в исправительной колонии Прокофьев на Меркурии.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2981,7 +2981,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeVirginia",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос в Вирджинии, на Титане, спутнике Сатурна.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос в Вирджинии, на Титане, спутнике Сатурна.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2999,7 +2999,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeVessel",
     "strTitle": "",
-    "strDesc": "[us] [finds] улики о том, что убийца [them-pos] вырос на судне.",
+    "strDesc": "[us] [finds] улики о том, что убийца [them] вырос на судне.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3017,7 +3017,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitHomeOther",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] вырос за пределами стандартных колоний.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] вырос за пределами стандартных колоний.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3035,7 +3035,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSports",
     "strTitle": "",
-    "strDesc": "Убийца [them-pos] оставил зацепку о своих спортивных интересах.",
+    "strDesc": "Убийца [them] оставил зацепку о своих спортивных интересах.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3062,7 +3062,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSportsBODragons",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] — фанат Breakout, болеющий за New Xian Dragons.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] — фанат Breakout, болеющий за New Xian Dragons.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3080,7 +3080,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSportsBOGods",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] — фанат Breakout, болеющий за Gods of Olympus.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] — фанат Breakout, болеющий за Gods of Olympus.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3098,7 +3098,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSportsBORioters",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] — фанат Breakout, болеющий за Ceres Rioters.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] — фанат Breakout, болеющий за Ceres Rioters.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3116,7 +3116,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSportsBOShooters",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] — фанат Breakout, болеющий за Ceres Shooters.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] — фанат Breakout, болеющий за Ceres Shooters.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3134,7 +3134,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSportsBOTimberwolves",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] — фанат Breakout, болеющий за Tharsis Timber Wolves.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] — фанат Breakout, болеющий за Tharsis Timber Wolves.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3152,7 +3152,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitSportsBOWarriors",
     "strTitle": "",
-    "strDesc": "[us] [finds] доказательства того, что убийца [them-pos] — фанат Breakout, болеющий за Ganymede Warriors.",
+    "strDesc": "[us] [finds] доказательства того, что убийца [them] — фанат Breakout, болеющий за Ganymede Warriors.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3170,7 +3170,7 @@
   {
     "strName": "Plot_Whodunnit_CollectCluesSplitNoMore",
     "strTitle": "",
-    "strDesc": "Убийца [them-pos] не оставил больше очевидных улик, которые [us] мог бы найти.",
+    "strDesc": "Убийца [them] не оставил больше очевидных улик, которые [us] мог бы найти.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3188,7 +3188,7 @@
   {
     "strName": "Plot_Whodunnit_CollectBlood",
     "strTitle": "Собрать кровь с тела",
-    "strDesc": "[us] собирает часть крови на и вокруг [them]. Она может принадлежать не только [them-pos]. Киоски Van Buren или высокотехнологичные медицинские койки, вероятно, смогут это проанализировать. Киоск возьмет плату за услугу.",
+    "strDesc": "[us] собирает часть крови на и вокруг [them]. Она может принадлежать не только [them]. Киоски Van Buren или высокотехнологичные медицинские койки, вероятно, смогут это проанализировать. Киоск возьмет плату за услугу.",
     "strActionGroup": "Use",
     "strTooltip": "Соберите немного крови с тела и вокруг него для судебного анализа.\nДля переноски потребуется водонепроницаемый контейнер.",
     "bIgnoreFeelings": true,
@@ -3240,7 +3240,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeBloodAllow",
     "strTitle": "Анализ крови с места преступления",
-    "strDesc": "Результаты лаборатории [them-pos] указывают, что эта кровь совпадает с профилем [3rd].",
+    "strDesc": "Результаты лаборатории [them] указывают, что эта кровь совпадает с профилем .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3285,7 +3285,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeBloodSelf",
     "strTitle": "Анализ крови (Медицинская диагностика)",
-    "strDesc": "[us] использует [them] вместе с навыками медицинской диагностики [us-pos] для проведения экспресс-лабораторного анализа крови.",
+    "strDesc": "[us] использует [them] вместе с навыками медицинской диагностики [us] для проведения экспресс-лабораторного анализа крови.",
     "strActionGroup": "Use",
     "strTooltip": "Анализирует кровь с использованием ваших собственных навыков медицинской диагностики бесплатно.\nРасходует проанализированную кровь и требует длительного непрерывного времени.",
     "bIgnoreFeelings": true,
@@ -3314,7 +3314,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeBloodSelfAllow",
     "strTitle": "Анализ крови с места преступления",
-    "strDesc": "Результаты лаборатории [us] указывают, что эта кровь совпадает с профилем [3rd].",
+    "strDesc": "Результаты лаборатории [us] указывают, что эта кровь совпадает с профилем .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3340,7 +3340,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeBloodSelfDeny",
     "strTitle": "Невозможно проанализировать кровь",
-    "strDesc": "[us] [is] не может завершить анализ крови с помощью [them].",
+    "strDesc": "[us] не может завершить анализ крови с помощью [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3359,7 +3359,7 @@
   {
     "strName": "Plot_Whodunnit_CollectDNA",
     "strTitle": "Собрать образцы ДНК с тела",
-    "strDesc": "[us] собирает образцы волос и кожи на и вокруг [them]. Они могут принадлежать не только [them-pos]. Киоски Van Buren или высокотехнологичные медицинские койки, вероятно, смогут это проанализировать. Киоск возьмет плату за услугу.",
+    "strDesc": "[us] собирает образцы волос и кожи на и вокруг [them]. Они могут принадлежать не только [them]. Киоски Van Buren или высокотехнологичные медицинские койки, вероятно, смогут это проанализировать. Киоск возьмет плату за услугу.",
     "strActionGroup": "Use",
     "strTooltip": "Соберите образцы ДНК с тела и вокруг него для судебного анализа.\nЭто неприятная и гнетущая работа.",
     "bIgnoreFeelings": true,
@@ -3410,7 +3410,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeDNAAllow",
     "strTitle": "Анализ ДНК с места преступления",
-    "strDesc": "Результаты лаборатории [them-pos] указывают, что эта ДНК совпадает с профилем [3rd].",
+    "strDesc": "Результаты лаборатории [them] указывают, что эта ДНК совпадает с профилем .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3455,7 +3455,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeDNASelf",
     "strTitle": "Анализ ДНК (Криминалистика)",
-    "strDesc": "[us] использует [them] вместе с [us-pos] навыками медицинской диагностики для проведения экспресс-лабораторного анализа ДНК.",
+    "strDesc": "[us] использует [them] вместе с [us] навыками медицинской диагностики для проведения экспресс-лабораторного анализа ДНК.",
     "strActionGroup": "Use",
     "strTooltip": "Анализирует ДНК с использованием ваших собственных навыков судебно-медицинской экспертизы бесплатно.\nПотребляет анализируемую ДНК и требует длительного непрерывного времени.",
     "bIgnoreFeelings": true,
@@ -3483,7 +3483,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeDNASelfAllow",
     "strTitle": "Анализ ДНК с места преступления",
-    "strDesc": "Результаты лаборатории [us] указывают, что эта ДНК совпадает с профилем [3rd].",
+    "strDesc": "Результаты лаборатории [us] указывают, что эта ДНК совпадает с профилем .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3509,7 +3509,7 @@
   {
     "strName": "Plot_Whodunnit_AnalyzeDNASelfDeny",
     "strTitle": "Невозможно проанализировать ДНК",
-    "strDesc": "[us] [is] не может завершить анализ ДНК с помощью [them].",
+    "strDesc": "[us] не может завершить анализ ДНК с помощью [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3528,7 +3528,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForKin",
     "strTitle": "Поиск контактов жертвы",
-    "strDesc": "[us] обыскивает [them-pos] тело и окружающее пространство в поисках улик о близких родственниках или врагах. Это неприятная работа.",
+    "strDesc": "[us] обыскивает [them] тело и окружающее пространство в поисках улик о близких родственниках или врагах. Это неприятная работа.",
     "strActionGroup": "Use",
     "strTooltip": "Попытка выяснить, кто мог бы хотеть узнать об этой смерти.\nНе для слабонервных.",
     "bIgnoreFeelings": true,
@@ -3556,7 +3556,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForKinReplyClose",
     "strTitle": "",
-    "strDesc": "[us] [finds] признаки того, что [3rd] [is] родственником или другом, который, возможно, хотел бы узнать об [them-pos] смерти.",
+    "strDesc": "[us] [finds] признаки того, что родственником или другом, который, возможно, хотел бы узнать об [them] смерти.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3577,7 +3577,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForKinReplyEnemy",
     "strTitle": "",
-    "strDesc": "[us] [finds] признаки того, что [3rd] был врагом [them] и, возможно, будет рад услышать об [them-pos] смерти.",
+    "strDesc": "[us] [finds] признаки того, что был врагом [them] и, возможно, будет рад услышать об [them] смерти.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3597,7 +3597,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForKinReplyFail",
     "strTitle": "",
-    "strDesc": "[us] [finds] никаких признаков родственников или друзей [them-pos]. Возможно, местные власти или другие группы были бы признательны за отчет.",
+    "strDesc": "[us] [finds] никаких признаков родственников или друзей [them]. Возможно, местные власти или другие группы были бы признательны за отчет.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3613,7 +3613,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinClose",
     "strTitle": "Сообщить о смерти с соболезнованиями",
-    "strDesc": "[us] [reports] [them] о том, что [us-subj] обнаружил и узнал о смерти [3rd-pos].",
+    "strDesc": "[us] [reports] [them] о том, что [us] обнаружил и узнал о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3636,7 +3636,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinCloseReply",
     "strTitle": "Благодарю вас",
-    "strDesc": "[us] скорбит, в конечном итоге предлагая [them] символ благодарности за потраченные время и усилия помочь [3rd] обрести покой и достоинство в смерти.",
+    "strDesc": "[us] скорбит, в конечном итоге предлагая [them] символ благодарности за потраченные время и усилия помочь обрести покой и достоинство в смерти.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3658,7 +3658,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinCloseReplyReply",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3701,7 +3701,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinReplyNotEnemy",
     "strTitle": "Благодарю вас",
-    "strDesc": "[us] [считает] [them] другом за то, что [them-subj] рассказал [us-obj] о смерти [3rd-pos].",
+    "strDesc": "[us] считает [them] другом за то, что [them-subj] рассказал [us-obj] о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -3722,7 +3722,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemy",
     "strTitle": "Сообщить о смерти их врага",
-    "strDesc": "[us] [сообщает] [them] пикантные подробности смерти [3rd-pos].",
+    "strDesc": "[us] сообщает [them] пикантные подробности смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3746,7 +3746,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReplyEnemy",
     "strTitle": "",
-    "strDesc": "[us] [считает] [them] врагом.",
+    "strDesc": "[us] считает [them] врагом.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3768,7 +3768,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReplyNotEnemy",
     "strTitle": "Благодарю вас",
-    "strDesc": "[us] [считает] [them] другом за то, что [them-subj] рассказал [us-obj] о смерти [3rd-pos].",
+    "strDesc": "[us] считает [them] другом за то, что [them-subj] рассказал [us-obj] о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3791,7 +3791,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReply",
     "strTitle": "Праздновать",
-    "strDesc": "[us] [exults] от [them-pos] новости о том, что [3rd] нашел свою смерть. [us-subj] [wants] разделить с ними выпивку и пачку Damask Rose.",
+    "strDesc": "[us] [exults] от [them] новости о том, что нашел свою смерть. [us] [wants] разделить с ними выпивку и пачку Damask Rose.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3813,7 +3813,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReplyShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3835,7 +3835,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReplyShim2",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [предлагает] [us] выпивку и сигарету.",
+    "strDesc": "[them] предлагает [us] выпивку и сигарету.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [
@@ -3857,7 +3857,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToKinEnemyReplyAcceptDrink",
     "strTitle": "Выпить вместе",
-    "strDesc": "[us] [присоединяется] к [them] в тосте за смерть [3rd-pos].",
+    "strDesc": "[us] присоединяется к [them] в тосте за смерть [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -3951,7 +3951,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFaction",
     "strTitle": "Выяснить принадлежность жертвы",
-    "strDesc": "[us] [examines] [them-pos] тело и окружающее пространство в поисках улик о фракционной принадлежности. Это неприятная работа.",
+    "strDesc": "[us] осматривает [them] тело и окружающее пространство в поисках улик о фракционной принадлежности. Это неприятная работа.",
     "strActionGroup": "Use",
     "strTooltip": "Попытка выяснить, кто мог бы хотеть узнать о кончине этой души.\nНе для слабонервных.",
     "bIgnoreFeelings": true,
@@ -3977,7 +3977,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReply",
     "strTitle": "",
-    "strDesc": "Раскрывает, какие фракции, возможно, захотят узнать о гибели [them-pos].",
+    "strDesc": "Раскрывает, какие фракции, возможно, захотят узнать о гибели [them].",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4001,7 +4001,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyShipbreaker",
     "strTitle": "",
-    "strDesc": "[them] [is] корабельным скупщиком, самой обычной душой на Boneyard. Сообщить об этом другу или ближайшему родственнику было бы проявлением доброты, но информирование AyoSec или сообщение менеджеру Ayotimiwa Corp об их утраченном активе может заслужить расположение или награду.",
+    "strDesc": "[them] корабельным скупщиком, самой обычной душой на Boneyard. Сообщить об этом другу или ближайшему родственнику было бы проявлением доброты, но информирование AyoSec или сообщение менеджеру Ayotimiwa Corp об их утраченном активе может заслужить расположение или награду.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4017,7 +4017,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyCriminal",
     "strTitle": "",
-    "strDesc": "[them] [is] преступник. Информирование либо влиятельного лица в криминальном мире, либо офицера AyoSec, вероятно, принесет расположение или награду от соответствующей фракции.",
+    "strDesc": "[them] преступник. Информирование либо влиятельного лица в криминальном мире, либо офицера AyoSec, вероятно, принесет расположение или награду от соответствующей фракции.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4033,7 +4033,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyPirate",
     "strTitle": "",
-    "strDesc": "[them] [is] вне закона, которого немногие уважают, но чью смерть многие бы отпраздновали. Если вы найдете того, кто считает [them-obj] своим врагом, вы сможете завести друга. В противном случае местные сотрудники службы безопасности всегда рады похвастаться тем, что еще одна угроза больше не menaceет их юрисдикции.",
+    "strDesc": "[them] вне закона, которого немногие уважают, но чью смерть многие бы отпраздновали. Если вы найдете того, кто считает [them-obj] своим врагом, вы сможете завести друга. В противном случае местные сотрудники службы безопасности всегда рады похвастаться тем, что еще одна угроза больше не menaceет их юрисдикции.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4049,7 +4049,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyLEO",
     "strTitle": "",
-    "strDesc": "[them] [is] контрактник, работающий на частную военную компанию AyoSec. Информирование менеджера Ayotimiwa Corp или другого офицера AyoSec может принести расположение или награды.",
+    "strDesc": "[them] контрактник, работающий на частную военную компанию AyoSec. Информирование менеджера Ayotimiwa Corp или другого офицера AyoSec может принести расположение или награды.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4065,7 +4065,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyManager",
     "strTitle": "",
-    "strDesc": "[them] [is] сотрудник Ayotimiwa Corp. Информирование AyoSec или менеджера Ayotimiwa Corp может принести расположение или награду.",
+    "strDesc": "[them] сотрудник Ayotimiwa Corp. Информирование AyoSec или менеджера Ayotimiwa Corp может принести расположение или награду.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4081,7 +4081,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyBartender",
     "strTitle": "",
-    "strDesc": "[them] [is] бармен, что означает, что [them-subj] [was], вероятно, хорошо известен и имел широкие связи. Информирование другого бармена или офицера AyoSec может принести расположение или награды.",
+    "strDesc": "[them] бармен, что означает, что [them-subj] [was], вероятно, хорошо известен и имел широкие связи. Информирование другого бармена или офицера AyoSec может принести расположение или награды.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4097,7 +4097,7 @@
   {
     "strName": "Plot_Whodunnit_ExamineForFactionReplyUnknown",
     "strTitle": "",
-    "strDesc": "Принадлежность [them-pos] к фракциям или род занятий неясны.",
+    "strDesc": "Принадлежность [them] к фракциям или род занятий неясны.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4113,7 +4113,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurder",
     "strTitle": "Обвинить в убийстве",
-    "strDesc": "[us] [предъявляет] улики, указываывающие на [them] как на виновного в смерти [3rd-pos].",
+    "strDesc": "[us] предъявляет улики, указываывающие на [them] как на виновного в смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4142,7 +4142,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderNotEnough",
     "strTitle": "Обвинить с шаткими уликами",
-    "strDesc": "[us] [имеет] слишком мало улик, чтобы добиться признания от убийцы [3rd-pos].",
+    "strDesc": "[us] имеет слишком мало улик, чтобы добиться признания от убийцы [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4164,7 +4164,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderNotEnoughReply",
     "strTitle": "О, пожалуйста",
-    "strDesc": "[us] [tells] [them], что эти улики едва ли указывают на [them-pos] вину. [us-subj] настаивает на наличии надежного алиби, и никто не поверит [them-pos] безумным обвинениям.",
+    "strDesc": "[us] [tells] [them], что эти улики едва ли указывают на [them] вину. [us] настаивает на наличии надежного алиби, и никто не поверит [them] безумным обвинениям.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4181,7 +4181,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnough",
     "strTitle": "Обвинить с вескими уликами",
-    "strDesc": "[us] [имеет] достаточно улик, чтобы добиться признания от убийцы [3rd-pos].",
+    "strDesc": "[us] имеет достаточно улик, чтобы добиться признания от убийцы [3rd-pos].",
     "strActionGroup": "Talk",
     "bRandomInverse": true,
     "aInverse": [
@@ -4208,7 +4208,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughReplyRemorseAccident",
     "strTitle": "Признается",
-    "strDesc": "[us] [admits] убийство [3rd] и [seems] раскаивающимся. [us-subj] [claims], что это было несчастным случаем.",
+    "strDesc": "[us] [admits] убийство и [seems] раскаивающимся. [us] [claims], что это было несчастным случаем.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4230,7 +4230,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughReplyRemorse",
     "strTitle": "Признается",
-    "strDesc": "[us] [confesses] в убийстве [3rd] и [seems] раскаивающимся. [us-subj] совершил ошибку на эмоциях.",
+    "strDesc": "[us] [confesses] в убийстве и [seems] раскаивающимся. [us] совершил ошибку на эмоциях.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4252,7 +4252,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughReplySelfDefense",
     "strTitle": "Признается",
-    "strDesc": "[us] [confesses] в убийстве [3rd], но [claims], что это было самообороной. [us-subj] [asks], неужели [them] [has] никогда не оказывался в подобной ситуации жизни и смерти.",
+    "strDesc": "[us] [confesses] в убийстве , но [claims], что это было самообороной. [us] спрашивает, неужели [them] имеет никогда не оказывался в подобной ситуации жизни и смерти.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4274,7 +4274,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughReplyVengeance",
     "strTitle": "Признается",
-    "strDesc": "[us] [confesses] в убийстве [3rd], но [claims], что этот акт был местью за ужасный вред, который [3rd] причинил им.",
+    "strDesc": "[us] [confesses] в убийстве , но [claims], что этот акт был местью за ужасный вред, который причинил им.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4296,7 +4296,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughReplyVigilante",
     "strTitle": "Признается",
-    "strDesc": "[us] [confesses] в убийстве [3rd], затем [describes], как этот акт восстановил справедливость за злодеяния, которые [3rd] причинил многим другим и продолжал бы совершать.",
+    "strDesc": "[us] [confesses] в убийстве , затем [describes], как этот акт восстановил справедливость за злодеяния, которые причинил многим другим и продолжал бы совершать.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4318,7 +4318,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughLEO",
     "strTitle": "Я здесь закон",
-    "strDesc": "[us] [reminds] [them], что [us-subj] [works] на местные власти и имеет множество влиятельных союзников. Вероятно, для [3rd-pos] смерти не будет последствий. Так это не работает.",
+    "strDesc": "[us] [reminds] [them], что [us] [works] на местные власти и имеет множество влиятельных союзников. Вероятно, для [3rd-pos] смерти не будет последствий. Так это не работает.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4335,7 +4335,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderEnoughManager",
     "strTitle": "О, пожалуйста",
-    "strDesc": "[us] [asks] [them], понимает ли [them-subj], с кем разговаривает, затем [warns] [them] следить за [them-pos] шагами. Кто поверит диким заявлениям в противовес слову человека, занимающего [us-pos] уважаемое положение?",
+    "strDesc": "[us] спрашивает [them], понимает ли [them-subj], с кем разговаривает, затем [warns] [them] следить за [them] шагами. Кто поверит диким заявлениям в противовес слову человека, занимающего [us] уважаемое положение?",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4352,7 +4352,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderOther",
     "strTitle": "Обвинить другого",
-    "strDesc": "[us] [has] другие мотивы при обвинении [them] в том, что он убийца [3rd-pos].",
+    "strDesc": "[us] имеет другие мотивы при обвинении [them] в том, что он убийца [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4371,7 +4371,7 @@
   {
     "strName": "Plot_Whodunnit_AccuseMurderOtherReply",
     "strTitle": "Отступить",
-    "strDesc": "[us] [says] отступить. [us-subj] [claims], что не понимает, о чем говорит [them], и [us-contractIs] не заинтересован ни в каких неприятностях.",
+    "strDesc": "[us] [says] отступить. [us] [claims], что не понимает, о чем говорит [them], и [us-contractIs] не заинтересован ни в каких неприятностях.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4391,7 +4391,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictim",
     "strTitle": "Спросить о жертве убийства",
-    "strDesc": "[us] [спрашивает] [them], что [them-subj] может знать о подозрительной смерти [3rd-pos].",
+    "strDesc": "[us] спрашивает [them], что [them-subj] может знать о подозрительной смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4422,7 +4422,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyStranger",
     "strTitle": "Ничего не знает",
-    "strDesc": "[us] [ничего] не знает. [us-subj] даже не знает, кто такой [3rd].",
+    "strDesc": "[us] ничего не знает. [us] даже не знает, кто такой .",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4444,7 +4444,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyStrangerClue",
     "strTitle": "Информация свидетеля",
-    "strDesc": "[us] [делится] недавним воспоминанием, которое может связать [3rd] с убийцей.",
+    "strDesc": "[us] делится недавним воспоминанием, которое может связать с убийцей.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4463,7 +4463,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyStrangerNothing",
     "strTitle": "Ничего не знает",
-    "strDesc": "[us] [doesn't] сообщает никакой полезной информации. [us-subj] [doesn't] действительно не знает, кто такой [3rd].",
+    "strDesc": "[us] [doesn't] сообщает никакой полезной информации. [us] [doesn't] действительно не знает, кто такой .",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4481,7 +4481,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyClose",
     "strTitle": "Знает их хорошо",
-    "strDesc": "[us] [knows] [3rd] с симпатией и [asks] предоставить больше информации о случившемся. [us-subj] может поделиться зацепками, если надавить.",
+    "strDesc": "[us] [knows] с симпатией и спрашивает предоставить больше информации о случившемся. [us] может поделиться зацепками, если надавить.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [
@@ -4523,7 +4523,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyEnemy",
     "strTitle": "Ненавидит их",
-    "strDesc": "[us] [hates] [3rd] и [delights] новостям о [3rd-pos] смерти. \"Скатертью дорога!\" — так можно описать [us-pos] чувства.",
+    "strDesc": "[us] [hates] и [delights] новостям о [3rd-pos] смерти. \"Скатертью дорога!\" — так можно описать [us] чувства.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4542,7 +4542,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyClue",
     "strTitle": "Поделиться воспоминаниями",
-    "strDesc": "[us] [разговаривает] о некоторых недавних воспоминаниях о [3rd], которые могут быть важны.",
+    "strDesc": "[us] разговаривает о некоторых недавних воспоминаниях о , которые могут быть важны.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4563,7 +4563,7 @@
   {
     "strName": "Plot_Whodunnit_AskAboutVictimReplyNothing",
     "strTitle": "Не хочет никаких проблем",
-    "strDesc": "[us] [не хочет] никаких проблем.",
+    "strDesc": "[us] не хочет никаких проблем.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4582,7 +4582,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurder",
     "strTitle": "Сообщить об убийстве",
-    "strDesc": "[us] [reports] [them] о том, что [us-subj] [has] обнаружил в связи с подозрительной смертью [3rd-pos].",
+    "strDesc": "[us] [reports] [them] о том, что [us] имеет обнаружил в связи с подозрительной смертью [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4612,7 +4612,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderDone",
     "strTitle": "Дело уже передано",
-    "strDesc": "[us] уже [us-pos] представил властям окончательные выводы по делу о смерти [3rd-pos]. Если не нужно сообщать семье, дело закрыто.",
+    "strDesc": "[us] уже [us] представил властям окончательные выводы по делу о смерти [3rd-pos]. Если не нужно сообщать семье, дело закрыто.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4629,7 +4629,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderNotEnoughClues",
     "strTitle": "Поделиться шатким делом",
-    "strDesc": "[us] [shares] [us-pos] заметки с минимальным количеством зацепок, указывающих на убийцу [3rd-pos].",
+    "strDesc": "[us] делится [us] заметки с минимальным количеством зацепок, указывающих на убийцу [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4668,7 +4668,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOConfession",
     "strTitle": "Сообщить о признанном случае убийства",
-    "strDesc": "[us] [shares] [us-pos] заметки расследования, включающие [3rd-pos] признание в убийстве.",
+    "strDesc": "[us] делится [us] заметки расследования, включающие [3rd-pos] признание в убийстве.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4690,7 +4690,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOConfessionReply",
     "strTitle": "Впечатлен",
-    "strDesc": "[us] [shows], что [us-subj] [is] впечатлен [them-pos] тщательным расследованием [3rd-pos] преступления. [us-contractWill] сообщить об этом в AyoSec и искать будущую работу.",
+    "strDesc": "[us] показывает, что [us] впечатлен [them] тщательным расследованием [3rd-pos] преступления. [us-contractWill] сообщить об этом в AyoSec и искать будущую работу.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4712,7 +4712,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOConfessionReplyShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4734,7 +4734,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEO",
     "strTitle": "Поделиться убедительным делом об убийстве",
-    "strDesc": "[us] [shares] [us-pos] заметки расследования, сужая круг подозреваемых в убийце [3rd-pos].",
+    "strDesc": "[us] делится [us] заметки расследования, сужая круг подозреваемых в убийце [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4757,7 +4757,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOKillerReply",
     "strTitle": "Отказ от сотрудничества",
-    "strDesc": "[us] [thanks] [them] за отчет об убийстве [3rd-pos], затем [voices] восхищение [them-pos] смелостью при сообщении [us]. [us-subj] [insists], что [us-contractWill] немедленно этим займется.",
+    "strDesc": "[us] [thanks] [them] за отчет об убийстве [3rd-pos], затем [voices] восхищение [them] смелостью при сообщении [us]. [us] [insists], что [us-contractWill] немедленно этим займется.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4776,7 +4776,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOReply",
     "strTitle": "Оформляет криминальную сводку",
-    "strDesc": "[us] [takes] интерес к [them-pos] собранным зацепкам относительно убийства [3rd-pos] и убийцы. \"Вы хотите, чтобы я обработал это, или думаете, что может быть еще?\"",
+    "strDesc": "[us] берёт интерес к [them] собранным зацепкам относительно убийства [3rd-pos] и убийцы. \"Вы хотите, чтобы я обработал это, или думаете, что может быть еще?\"",
     "strActionGroup": "Talk",
     "aInverse": [
       "Plot_Whodunnit_ReportMurderToOKLGLEOSeekMore,[them],[us],[3rd]",
@@ -4795,7 +4795,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOSeekMore",
     "strTitle": "Продолжить расследование дела",
-    "strDesc": "[us] [thinks], что [us-subj] может найти дополнительные зацепки по этому делу во имя правосудия.",
+    "strDesc": "[us] [thinks], что [us] может найти дополнительные зацепки по этому делу во имя правосудия.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4812,7 +4812,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEOSubmitCase",
     "strTitle": "Подать итоговое дело",
-    "strDesc": "[us] [finalizes] [us-pos] дело. [us] [doesn't] планирует собирать дополнительные улики по убийству [3rd-pos].",
+    "strDesc": "[us] [finalizes] [us] дело. [us] [doesn't] планирует собирать дополнительные улики по убийству [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4839,7 +4839,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadShipbreaker",
     "strTitle": "Оформляет рапорт о происшествии",
-    "strDesc": "[us] [takes] заметки о [3rd-pos] трагическом убийстве из [them-pos] показаний, переведя [them-obj] оплату за [them-pos] усилия.\nЗакройте расследование через файл дела.",
+    "strDesc": "[us] берёт заметки о [3rd-pos] трагическом убийстве из [them] показаний, переведя [them-obj] оплату за [them] усилия.\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4861,7 +4861,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadShipbreakerShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4881,7 +4881,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadLEO",
     "strTitle": "Взбешен",
-    "strDesc": "[us] [is] явно возмущен сообщением об убийстве [3rd]. [us] [долго смотрит] на [them], затем [отдает честь] погибшему офицеру и [завершает] оформление [them-pos] отчета. [us-subj] [переводит] платеж за [them-pos] усилия.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] явно возмущен сообщением об убийстве . [us] долго смотрит на [them], затем отдает честь погибшему офицеру и завершает оформление [them] отчета. [us] переводит платеж за [them] усилия.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4903,7 +4903,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadLEOShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4923,7 +4923,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadManager",
     "strTitle": "Хладнокровный",
-    "strDesc": "[us] [is] подчеркнуто почтителен и абсолютно хладнокровен при получении [them-pos] отчета об убийстве [3rd]. Это серьезное дело. [us-subj] [переводит] вознаграждение от компании за предоставленную информацию.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] подчеркнуто почтителен и абсолютно хладнокровен при получении [them] отчета об убийстве . Это серьезное дело. [us] переводит вознаграждение от компании за предоставленную информацию.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4945,7 +4945,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadManagerShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -4965,7 +4965,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadCriminal",
     "strTitle": "Скатертью дорога",
-    "strDesc": "[us] [is] доволен тем, что [3rd] [is] мертв, и [выплачивает] [them] награду.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] доволен тем, что мертв, и выплачивает [them] награду.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -4987,7 +4987,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadCriminalShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5007,7 +5007,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadPirate",
     "strTitle": "Скатертью дорога",
-    "strDesc": "[us] [ликует], что [3rd] [is] больше не представляет угрозы, с готовностью выплачивая [them] [them-pos] невыплаченную награду.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] ликует, что больше не представляет угрозы, с готовностью выплачивая [them] [them] невыплаченную награду.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5029,7 +5029,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadPirateShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5049,7 +5049,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadBartender",
     "strTitle": "Оформляет рапорт о происшествии",
-    "strDesc": "[us] [рассказывает] трогательные истории о [3rd], [качает] [us-pos] головой в связи с бессмысленным убийством. [us-subj] [переводит] платеж за [them-pos] усилия.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] рассказывает трогательные истории о , качает [us] головой в связи с бессмысленным убийством. [us] переводит платеж за [them] усилия.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5071,7 +5071,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadBartenderShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5091,7 +5091,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadOther",
     "strTitle": "Не заинтересован",
-    "strDesc": "[us] [проявляет] незначительный интерес к [them-pos] смерти, но [переводит] стандартное поощрительное вознаграждение за [them-pos] усилия.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] проявляет незначительный интерес к [them] смерти, но переводит стандартное поощрительное вознаграждение за [them] усилия.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5113,7 +5113,7 @@
   {
     "strName": "Plot_Whodunnit_ReportMurderToOKLGLEODeadOtherShim",
     "strTitle": "Оформляет промежуточный рапорт о происшествии",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5133,7 +5133,7 @@
   {
     "strName": "Plot_Whodunnit_ReportFlimsyCase",
     "strTitle": "Сообщить о деле как о естественной смерти",
-    "strDesc": "[us] [reports] [them], что [us-subj] выяснил(а) о смерти [3rd-pos].",
+    "strDesc": "[us] [reports] [them], что [us] выяснил(а) о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "strTooltip": "[us] [сообщает] [them], что [us-subj] обнаружил тело [3rd-pos], но [us-subj] не может доказать факт преступления при наличии собранных минимальных улик.",
     "bIgnoreFeelings": true,
@@ -5159,7 +5159,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFaction",
     "strTitle": "Сообщить о смерти",
-    "strDesc": "[us] [reports] [them], что [us-subj] выяснил(а) о смерти [3rd-pos].",
+    "strDesc": "[us] [reports] [them], что [us] выяснил(а) о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5187,7 +5187,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionCasefile",
     "strTitle": "Сообщить о смерти",
-    "strDesc": "[us] [reports] [them], что [us-subj] выяснил(а) о смерти [3rd-pos].",
+    "strDesc": "[us] [reports] [them], что [us] выяснил(а) о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5220,7 +5220,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionAlready",
     "strTitle": "Уже слышал",
-    "strDesc": "[us] [conveys], что [us-subj] уже слышал(а) о смерти [3rd-pos].",
+    "strDesc": "[us] [conveys], что [us] уже слышал(а) о смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5237,7 +5237,7 @@
   {
     "strName": "Plot_Whodunnit_ReportDeathToFactionOKLGLEO",
     "strTitle": "Оформляет рапорт о происшествии",
-    "strDesc": "[us] [делает] краткие поминки о [them-pos] трагической гибели на основании показаний [them], с подозрением разглядывая [them-obj].",
+    "strDesc": "[us] делает краткие поминки о [them] трагической гибели на основании показаний [them], с подозрением разглядывая [them-obj].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5261,7 +5261,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadShipbreaker",
     "strTitle": "Оформляет рапорт о происшествии",
-    "strDesc": "[us] [делает] краткие поминки о [them-pos] трагической гибели на основании показаний [them], с подозрением разглядывая [them-obj]. Тем не менее, [us-subj] [переводит] платеж за [them-pos] усилия.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] делает краткие поминки о [them] трагической гибели на основании показаний [them], с подозрением разглядывая [them-obj]. Тем не менее, [us] переводит платеж за [them] усилия.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5283,7 +5283,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadShipbreakerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5303,7 +5303,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadLEO",
     "strTitle": "Взбешен",
-    "strDesc": "[us] [is] явно возмущен сообщением о гибели [3rd]. [us-subj] долго смотрит на [them], затем отдает честь погибшему офицеру и принимает [them-pos] отчет. [us-subj] [переводит] платеж за [them-pos] усилия.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] явно возмущен сообщением о гибели . [us] долго смотрит на [them], затем отдает честь погибшему офицеру и принимает [them] отчет. [us] переводит платеж за [them] усилия.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5325,7 +5325,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadLEOShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5345,7 +5345,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadManager",
     "strTitle": "Хладнокровный",
-    "strDesc": "[us] [is] подчеркнуто почтителен и абсолютно хладнокровен при получении [them-pos] отчета о гибели [3rd]. [us-subj] [переводит] вознаграждение за информацию.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] подчеркнуто почтителен и абсолютно хладнокровен при получении [them] отчета о гибели . [us] переводит вознаграждение за информацию.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5367,7 +5367,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadManagerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5387,7 +5387,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadCriminal",
     "strTitle": "Скатертью дорога",
-    "strDesc": "[us] [is] доволен тем, что [3rd] [is] мертв, и [выплачивает] [them] награду.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] доволен тем, что мертв, и выплачивает [them] награду.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5409,7 +5409,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadCriminalShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5429,7 +5429,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadPirate",
     "strTitle": "Скатертью дорога",
-    "strDesc": "[us] [ликует], что [3rd] [is] больше не представляет угрозы, с готовностью выплачивая [them] [them-pos] награду.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] ликует, что больше не представляет угрозы, с готовностью выплачивая [them] [them] награду.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5451,7 +5451,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadPirateShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5471,7 +5471,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadBartender",
     "strTitle": "Оформляет рапорт о происшествии",
-    "strDesc": "[us] [рассказывает] истории о [3rd], [качая] [us-pos] головой в связи с бессмысленной потерей. [us-subj] [переводит] платеж за [them-pos] усилия.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] рассказывает истории о , качая [us] головой в связи с бессмысленной потерей. [us] переводит платеж за [them] усилия.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5493,7 +5493,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadBartenderShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5513,7 +5513,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGLEODeadOther",
     "strTitle": "Не заинтересован",
-    "strDesc": "[us] [takes] слабый интерес к смерти [3rd-pos].",
+    "strDesc": "[us] берёт слабый интерес к смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5532,7 +5532,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManager",
     "strTitle": "Оформляет документацию",
-    "strDesc": "[us] [благодарит] [them] за информацию о [3rd]. [us-subj] приступает к заполнению необходимых документов.",
+    "strDesc": "[us] благодарит [them] за информацию о . [us] приступает к заполнению необходимых документов.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5555,7 +5555,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadShipbreaker",
     "strTitle": "Скорбит по утерянным активам",
-    "strDesc": "[us] [сокрушается] о потерянных человеческих ресурсах, с неохотой [оформляет] формальное пособие для [them], затем довольно быстро забывает об этом.\nЗакройте расследование через материалы дела.",
+    "strDesc": "[us] сокрушается о потерянных человеческих ресурсах, с неохотой оформляет формальное пособие для [them], затем довольно быстро забывает об этом.\nЗакройте расследование через материалы дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5577,7 +5577,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadShipbreakerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5597,7 +5597,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadBartender",
     "strTitle": "Скорбит по утерянному таланту",
-    "strDesc": "[us] [ворчит] о позоре от потери таланта, но [восстанавливает] самообладание и [переводит] пособие в сторону [them-pos].\nЗакройте расследование через файл дела.",
+    "strDesc": "[us] ворчит о позоре от потери таланта, но восстанавливает самообладание и переводит пособие в сторону [them].\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5619,7 +5619,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadBartenderShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5639,7 +5639,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadManager",
     "strTitle": "Скорбит по утерянному коллеге",
-    "strDesc": "[us] [скорбит] по потере коллеги, но, возможно, рад возможности реструктуризации. [us-subj] [переводит] пособие в сторону [them-pos].\nЗакройте расследование через файл дела.",
+    "strDesc": "[us] скорбит по потере коллеги, но, возможно, рад возможности реструктуризации. [us] переводит пособие в сторону [them].\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5661,7 +5661,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadManagerShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5681,7 +5681,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGManagerDeadOther",
     "strTitle": "Не заинтересован",
-    "strDesc": "[us] [has] нулевой интерес к смерти [3rd-pos].",
+    "strDesc": "[us] имеет нулевой интерес к смерти [3rd-pos].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5700,7 +5700,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminal",
     "strTitle": "Благодарит",
-    "strDesc": "[us] [благодарит] [them] за данные о [3rd] вместо передачи их в AyoSec. [us-subj] начинают обсуждать устранение последствий и заполнение пробела в операциях.",
+    "strDesc": "[us] благодарит [them] за данные о вместо передачи их в AyoSec. [us] начинают обсуждать устранение последствий и заполнение пробела в операциях.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5726,7 +5726,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadLEOStreetEtiquette",
     "strTitle": "Смерть ублюдку",
-    "strDesc": "Маскируясь под тонкости уличного сленга, [us] [злорадствует] по поводу смерти [3rd]. [us-subj] [настаивает] на кровавых подробностях, явно желая разнести слух, затем [передает] [them] крепкий напиток и денежный перевод.\nЗакройте расследование через файл дела.",
+    "strDesc": "Маскируясь под тонкости уличного сленга, [us] злорадствует по поводу смерти . [us] настаивает на кровавых подробностях, явно желая разнести слух, затем передает [them] крепкий напиток и денежный перевод.\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5750,7 +5750,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadLEOStreetEtiquetteShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5773,7 +5773,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadLEO",
     "strTitle": "Еще одна галочка",
-    "strDesc": "[us] [бормочет] о том, что все корпоративные наемники — ублюдки, затем [благодарит] [them] за новости о [3rd]. [us-subj] [переводит] платеж за усилия [them-pos].\nЗакройте расследование через файл дела.",
+    "strDesc": "[us] бормочет о том, что все корпоративные наемники — ублюдки, затем благодарит [them] за новости о . [us] переводит платеж за усилия [them].\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5797,7 +5797,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadLEOShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5817,7 +5817,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadManager",
     "strTitle": "Скатертью дорога",
-    "strDesc": "[us] [трещит] о свержении корпоративных элит, но слова — это всё, что [us-contractHas] может предложить.",
+    "strDesc": "[us] трещит о свержении корпоративных элит, но слова — это всё, что [us-contractHas] может предложить.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5838,7 +5838,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadCriminalStreetEtiquette",
     "strTitle": "Потерянная душа",
-    "strDesc": "Используя сложные жесты и ритуалы межпланетных преступников, [us] [скорбит] по [3rd], обнимая [them] за принесенные вести. [us-subj] [жмет] руки, передает оружие, давая понять, что [them], возможно, стоит либо занять образовавшуюся брешь, либо отомстить за гибель. [us-subj] также [передает] оплату за [them-pos] преданность.\nЗакройте расследование через файл дела.",
+    "strDesc": "Используя сложные жесты и ритуалы межпланетных преступников, [us] скорбит по , обнимая [them] за принесенные вести. [us] жмет руки, передает оружие, давая понять, что [them], возможно, стоит либо занять образовавшуюся брешь, либо отомстить за гибель. [us] также передает оплату за [them] преданность.\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5862,7 +5862,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadCriminalStreetEtiquetteShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5885,7 +5885,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadCriminal",
     "strTitle": "Благодарит",
-    "strDesc": "[us] [благодарит] [them] за информацию о [3rd]. [us-subj] [начинает] обсуждать устранение улик и заполнение пробела. [us-subj] [переводит] платеж за верность [them-pos].\nЗакройте расследование через файл дела.",
+    "strDesc": "[us] благодарит [them] за информацию о . [us] начинает обсуждать устранение улик и заполнение пробела. [us] переводит платеж за верность [them].\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5909,7 +5909,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadCriminalShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5929,7 +5929,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGCriminalDeadOther",
     "strTitle": "Не заинтересован",
-    "strDesc": "[us] [имеет] слабый интерес к смерти [3rd-pos]. Еще один труп для пустоты.",
+    "strDesc": "[us] имеет слабый интерес к смерти [3rd-pos]. Еще один труп для пустоты.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -5948,7 +5948,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGBartender",
     "strTitle": "Рассказывает небылицы",
-    "strDesc": "[us] [благодарит] [them] за трагические новости о [3rd]. [us-subj] [начинает] рассказывать истории о [3rd-obj] всем, кто готов слушать.",
+    "strDesc": "[us] благодарит [them] за трагические новости о . [us] начинает рассказывать истории о [3rd-obj] всем, кто готов слушать.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5970,7 +5970,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGBartenderDeadBartender",
     "strTitle": "Плетет небылицы",
-    "strDesc": "[us] [скорбит] из-за вести о смерти [3rd]. [3rd-subj], очевидно, [был] выдающимся человеком, и его будут许多人 скучать. [us] [благодарит] [them], предоставляя бесплатную бутылку за трагические известия, а затем [начинает] рассказывать истории о [3rd] всем желающим слушать. [us-subj] [передает] оплату за [them-pos] усилия.\nЗакройте расследование через файл дела.",
+    "strDesc": "[us] скорбит из-за вести о смерти . [3rd-subj], очевидно, был выдающимся человеком, и его будут许多人 скучать. [us] благодарит [them], предоставляя бесплатную бутылку за трагические известия, а затем начинает рассказывать истории о всем желающим слушать. [us] передает оплату за [them] усилия.\nЗакройте расследование через файл дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -5994,7 +5994,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGBartenderDeadBartenderShim",
     "strTitle": "Перемычка платежа за расследование",
-    "strDesc": "[them] [платит] [us].",
+    "strDesc": "[them] платит [us].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -6017,7 +6017,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGBartenderDeadOther",
     "strTitle": "Занят",
-    "strDesc": "[us] [is] опечален(а) смертью [3rd-pos], [us-subj] правда [is].",
+    "strDesc": "[us] опечален(а) смертью [3rd-pos], [us] правда .",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -6036,7 +6036,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGNoCasefile",
     "strTitle": "Нет папки с делом",
-    "strDesc": "[them] стоит показать [us] папку с делом, содержащую данные о [3rd].",
+    "strDesc": "[them] стоит показать [us] папку с делом, содержащую данные о .",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -6056,7 +6056,7 @@
   {
     "strName": "Plot_Whodunnit_ReportToFactionOKLGNotInterested",
     "strTitle": "Не интересно",
-    "strDesc": "[us] [не несет] ответственности за мертвых. Фракционные власти могут проявить больший интерес.",
+    "strDesc": "[us] не несет ответственности за мертвых. Фракционные власти могут проявить больший интерес.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -6073,7 +6073,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCasefile",
     "strTitle": "Закрыть папку с делом",
-    "strDesc": "[us] [завершает] файл своего дела на [3rd], расчищая путь для предстоящего расследования.",
+    "strDesc": "[us] завершает файл своего дела на , расчищая путь для предстоящего расследования.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -6097,7 +6097,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCasefileRemove",
     "strTitle": "Дело закрыто",
-    "strDesc": "[them] [removes] [them-pos] папку с делом на [3rd].",
+    "strDesc": "[them] [removes] [them] папку с делом на .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -6144,7 +6144,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCaseRemoveFindandClear",
     "strTitle": "Дело закрыто",
-    "strDesc": "[us] [прекращает] расследование в отношении [3rd].",
+    "strDesc": "[us] прекращает расследование в отношении .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -6172,7 +6172,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCaseRemoveFindandClearKin",
     "strTitle": "Дело закрыто",
-    "strDesc": "[us] [прекращает] расследование связи [3rd-pos] с покойным.",
+    "strDesc": "[us] прекращает расследование связи [3rd-pos] с покойным.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -6199,7 +6199,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCaseRemoveFindandClearKiller",
     "strTitle": "Дело закрыто",
-    "strDesc": "[us] [прекращает] расследование убийцы [3rd].",
+    "strDesc": "[us] прекращает расследование убийцы .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -6225,7 +6225,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCaseRemove",
     "strTitle": "Дело закрыто",
-    "strDesc": "[us] [удаляет] [us-pos] дело.",
+    "strDesc": "[us] удаляет [us] дело.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -6247,7 +6247,7 @@
   {
     "strName": "Plot_Whodunnit_CloseCaseRemoveRemoteShim",
     "strTitle": "Дело закрыто",
-    "strDesc": "[us] [готовится] удалить [3rd].",
+    "strDesc": "[us] готовится удалить .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [

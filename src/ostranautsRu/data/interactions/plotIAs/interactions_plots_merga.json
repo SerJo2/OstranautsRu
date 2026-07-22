@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "PLOT_Merga_StartTrigger",
     "strTitle": "Триггер для начальной фазы сюжета Merga",
@@ -100,7 +100,7 @@
   {
     "strName": "PLOT_Merga_WhispersFoundTrigger",
     "strTitle": "Странный вызов от Урсулы К.",
-    "strDesc": "[us] [receives] странный вызов от Урсулы К., указывающий [us-obj] встретиться с детективом на Венере по имени [3rd].",
+    "strDesc": "[us] [receives] странный вызов от Урсулы К., указывающий [us-obj] встретиться с детективом на Венере по имени .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -122,7 +122,7 @@
   {
     "strName": "PLOT_Merga_WhispersFoundTriggerReply",
     "strTitle": "Странный вызов от Урсулы К.",
-    "strDesc": "Ursula K. говорит, что заметила, как [us] [was] внимательно изучала смерти с черным отпечатком руки и дело Camellia Middlemist. Они связаны, и Детектив [3rd] знает больше. Вам следует посетить Детектива в баре под названием Sol Vermelho Lounge, на аэростате Encantado. Если вы не можете спустить корабль даунвелл на аэростат, вы можете воспользоваться системой PASS от Venus Orbital (VORB).",
+    "strDesc": "Ursula K. говорит, что заметила, как [us] [was] внимательно изучала смерти с черным отпечатком руки и дело Camellia Middlemist. Они связаны, и Детектив знает больше. Вам следует посетить Детектива в баре под названием Sol Vermelho Lounge, на аэростате Encantado. Если вы не можете спустить корабль даунвелл на аэростат, вы можете воспользоваться системой PASS от Venus Orbital (VORB).",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -156,7 +156,7 @@
   {
     "strName": "PLOT_Merga_MergaEngagedTrigger",
     "strTitle": "Триггер для перехода к фазе Merga Plot's Merga Engaged",
-    "strDesc": "[us] [has] собрал улики на подозреваемого по делу Миддлмист. Доставьте результаты детективу.",
+    "strDesc": "[us] имеет собрал улики на подозреваемого по делу Миддлмист. Доставьте результаты детективу.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -173,7 +173,7 @@
   {
     "strName": "PLOT_Merga_MergaKnownTrigger",
     "strTitle": "Триггер для перехода к фазе Merga Plot's Merga Known",
-    "strDesc": "[us] [has] рисковал повреждениями, чтобы взаимодействовать с проявлениями глубокой истины.",
+    "strDesc": "[us] имеет рисковал повреждениями, чтобы взаимодействовать с проявлениями глубокой истины.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -190,7 +190,7 @@
   {
     "strName": "PLOT_Merga_EndgamePreparedTrigger",
     "strTitle": "Триггер для перехода к фазе Merga Plot's Endgame Prepared",
-    "strDesc": "[us] [has] собрал и подготовил эндгейм, связанный с глубокой истиной.",
+    "strDesc": "[us] имеет собрал и подготовил эндгейм, связанный с глубокой истиной.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -207,7 +207,7 @@
   {
     "strName": "PLOT_Merga_EndgameCompletedTrigger",
     "strTitle": "Триггер для перехода к фазе Merga Plot's Endgame Completed",
-    "strDesc": "[us] [has] достиг завершения глубокой истины.",
+    "strDesc": "[us] имеет достиг завершения глубокой истины.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -224,7 +224,7 @@
   {
     "strName": "PLOT_Merga_EndTrigger",
     "strTitle": "Триггер для перехода к фазе Merga Plot's End",
-    "strDesc": "[us] [has] завершил сюжет Merga.",
+    "strDesc": "[us] имеет завершил сюжет Merga.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -343,7 +343,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound04",
     "strTitle": "Слух о Мисс М",
-    "strDesc": "Не могу перестать думать о том, что Мисс М пропала из своего дома на аэростате Encantado, прямо на Венере? Готов поспорить, [3rd] был к этому причастен. Мне плевать, сколько гонок Grande Prêmio [3rd-contractHas] выиграл. Этот тип подозрительный.",
+    "strDesc": "Не могу перестать думать о том, что Мисс М пропала из своего дома на аэростате Encantado, прямо на Венере? Готов поспорить, был к этому причастен. Мне плевать, сколько гонок Grande Prêmio [3rd-contractHas] выиграл. Этот тип подозрительный.",
     "strActionGroup": "Ship",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -357,7 +357,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound05",
     "strTitle": "Просмотреть новости: Чемпион гонок RCS",
-    "strDesc": "[us] [watches] за [them] внимательнее и [learns] о венерианской гоночной иконе [3rd] и [3rd-pos] недавних скандалах.",
+    "strDesc": "[us] [watches] за [them] внимательнее и [learns] о венерианской гоночной иконе и [3rd-pos] недавних скандалах.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -380,7 +380,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound05Reply",
     "strTitle": "Просмотреть новости: Чемпион гонок RCS",
-    "strDesc": "Феноменальный гонщик RCS [3rd] на этой неделе выиграл свой рекордный четвёртый Grande Prêmio do Encantado. Эта в остальном радостная occasion омрачена подозрениями и интригами, поскольку супруга гонщика, лаунж-певица Камиллия Миддлмист, всё ещё пропала без вести.",
+    "strDesc": "Феноменальный гонщик RCS на этой неделе выиграл свой рекордный четвёртый Grande Prêmio do Encantado. Эта в остальном радостная occasion омрачена подозрениями и интригами, поскольку супруга гонщика, лаунж-певица Камиллия Миддлмист, всё ещё пропала без вести.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -425,7 +425,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound06ReplyManager",
     "strTitle": "Жаловаться на продуктивность",
-    "strDesc": "[us] [grumbles] [them] о падении производительности в [us-pos] рабочей силе с тех пор, как исчезла Мисс М. Словно никто больше не хочет работать...",
+    "strDesc": "[us] [grumbles] [them] о падении производительности в [us] рабочей силе с тех пор, как исчезла Мисс М. Словно никто больше не хочет работать...",
     "strActionGroup": "Talk",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -486,7 +486,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound07",
     "strTitle": "Спросить теории о Камилле Миддлмист",
-    "strDesc": "[us] [asks] у [them] [them-pos] текущую теорию о том, где может находиться пропавшая певица из лаунж-бара.",
+    "strDesc": "[us] спрашивает у [them] [them] текущую теорию о том, где может находиться пропавшая певица из лаунж-бара.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [
@@ -514,7 +514,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound07ReplyAngry",
     "strTitle": "Отклонить теорию",
-    "strDesc": "[us] [says] [us-subj] [tries] не обращать внимания на бульварную прессу.",
+    "strDesc": "[us] [says] [us] [tries] не обращать внимания на бульварную прессу.",
     "strActionGroup": "Talk",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -575,7 +575,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound07Reply2",
     "strTitle": "Обсудить вторую теорию о пропавшей знаменитости",
-    "strDesc": "[us] [says], что [us-subj] [has] просматривал записи концертов, сделанные кем-то, кто кажется совершенно невменяемым. [us-subj] [insists], что этот человек каким-то образом замешан.",
+    "strDesc": "[us] [says], что [us] имеет просматривал записи концертов, сделанные кем-то, кто кажется совершенно невменяемым. [us] [insists], что этот человек каким-то образом замешан.",
     "strActionGroup": "Talk",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -595,7 +595,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound07Reply3",
     "strTitle": "Обсудить третью теорию о пропавшей знаменитости",
-    "strDesc": "[us] читал на форуме, что у Миддлист был роман с кем-то из правоохранительных органов. [us-subj] также [insists], что она клон.",
+    "strDesc": "[us] читал на форуме, что у Миддлист был роман с кем-то из правоохранительных органов. [us] также [insists], что она клон.",
     "strActionGroup": "Talk",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -635,7 +635,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound08",
     "strTitle": "Выразить личную теорию о Камилле Миддлмист",
-    "strDesc": "[us] [describes] [them] [them-pos] текущую теорию о том, где может находиться пропавшая певица из лаунж-бара.",
+    "strDesc": "[us] [describes] [them] [them] текущую теорию о том, где может находиться пропавшая певица из лаунж-бара.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [
@@ -659,7 +659,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound08_Agree",
     "strTitle": "Поддержать теорию",
-    "strDesc": "[us] [listens] [them-pos] теорию и [adds] детали, подтверждающие такую возможность.",
+    "strDesc": "[us] [listens] [them] теорию и [adds] детали, подтверждающие такую возможность.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [],
@@ -679,7 +679,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound08_Disagree",
     "strTitle": "Поддержать теорию",
-    "strDesc": "[us] внимательно [listens] и [offers] несколько критически важных деталей, которые опровергают и ставят под сомнение [them-pos] теорию.",
+    "strDesc": "[us] внимательно [listens] и [offers] несколько критически важных деталей, которые опровергают и ставят под сомнение [them] теорию.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [],
@@ -699,7 +699,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound09",
     "strTitle": "Спросить теории о смертях Черной Руки",
-    "strDesc": "[us] [asks] у [them] [them-pos] теорию о том, почему люди продолжают погибать с черными отпечатками рук на телах.",
+    "strDesc": "[us] спрашивает у [them] [them] теорию о том, почему люди продолжают погибать с черными отпечатками рук на телах.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [
@@ -788,7 +788,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound09Reply2",
     "strTitle": "Нервный ответ о Черной Руке",
-    "strDesc": "[us] [glances] по комнате и [starts] что-то говорить, прежде чем [them] отмахнуться.",
+    "strDesc": "[us] [glances] по комнате и начинает что-то говорить, прежде чем [them] отмахнуться.",
     "strActionGroup": "Talk",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -828,7 +828,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound09Reply4",
     "strTitle": "Ответ Black Hand: Земля",
-    "strDesc": "[us] [says] [us-pos] дедушка видел нечто подобное раньше, на Земле.",
+    "strDesc": "[us] [says] [us] дедушка видел нечто подобное раньше, на Земле.",
     "strActionGroup": "Talk",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -848,7 +848,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound10",
     "strTitle": "Высказать личную теорию о смертях Black Hand",
-    "strDesc": "[us] [описывает] [us-pos] нынешнюю теорию [them], касающуюся тел, обнаруженных мертвыми на OKLG с черными отпечатками ладоней на них.",
+    "strDesc": "[us] описывает [us] нынешнюю теорию [them], касающуюся тел, обнаруженных мертвыми на OKLG с черными отпечатками ладоней на них.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [
@@ -872,7 +872,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound10_Agree",
     "strTitle": "Поддержать теорию",
-    "strDesc": "[us] [listens] [them-pos] теорию и [adds] детали, подтверждающие такую возможность.",
+    "strDesc": "[us] [listens] [them] теорию и [adds] детали, подтверждающие такую возможность.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [],
@@ -892,7 +892,7 @@
   {
     "strName": "PLOT_Merga_WhispersFound10_Disagree",
     "strTitle": "Поддержать теорию",
-    "strDesc": "[us] [внимательно] [слушает] и [предлагает] несколько критически важных деталей, которые противоречат [them-pos] теории и ставят ее под сомнение.",
+    "strDesc": "[us] внимательно слушает и предлагает несколько критически важных деталей, которые противоречат [them] теории и ставят ее под сомнение.",
     "strActionGroup": "Talk",
     "bSocial": true,
     "aInverse": [],
@@ -912,7 +912,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed01",
     "strTitle": "Спросить о подозреваемых по делу Middlemist",
-    "strDesc": "[us] [спрашивает] детектива [them] о шести главных подозреваемых по делу Миддлмист.",
+    "strDesc": "[us] спрашивает детектива [them] о шести главных подозреваемых по делу Миддлмист.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -936,7 +936,7 @@
   {
     "strName": "PLOT_Merga_SuspectList",
     "strTitle": "Ответить: подозреваемые",
-    "strDesc": "Детектив [us] [предоставляет] информацию о шести главных подозреваемых по делу Миддлмист. \"Записывай, новичок.\"",
+    "strDesc": "Детектив [us] предоставляет информацию о шести главных подозреваемых по делу Миддлмист. \"Записывай, новичок.\"",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -965,7 +965,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Racing_Icon",
     "strTitle": "Спросить об иконке гонок",
-    "strDesc": "[us] [спрашивает] детектива [them] об иконке гонок.",
+    "strDesc": "[us] спрашивает детектива [them] об иконке гонок.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -990,7 +990,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Racing_Icon_Reply",
     "strTitle": "Краткая информация о подозреваемом: иконка гонок",
-    "strDesc": "Детектив [us] [говорит], что один из главных подозреваемых — [3rd], пятикратный победитель Grande Prêmio do Encantado и нынешний супруг Миддлмист. Их бурные отношения являются предметом многочисленных таблоидных роликов.",
+    "strDesc": "Детектив [us] говорит, что один из главных подозреваемых — , пятикратный победитель Grande Prêmio do Encantado и нынешний супруг Миддлмист. Их бурные отношения являются предметом многочисленных таблоидных роликов.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1017,7 +1017,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Journalist",
     "strTitle": "Спросить о журналисте",
-    "strDesc": "[us] [спрашивает] детектива [them] о журналисте.",
+    "strDesc": "[us] спрашивает детектива [them] о журналисте.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1042,7 +1042,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Journalist_Reply",
     "strTitle": "Краткая информация о подозреваемом: журналист",
-    "strDesc": "Детектив [us] [сообщает], что [3rd] издаёт мусорную газетёнку, пользующуюся бешеной популярностью, особенно в New Cal. Миддлмист был [3rd-pos] единственной темой с самого начала дела.",
+    "strDesc": "Детектив [us] сообщает, что издаёт мусорную газетёнку, пользующуюся бешеной популярностью, особенно в New Cal. Миддлмист был [3rd-pos] единственной темой с самого начала дела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1069,7 +1069,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Superfan",
     "strTitle": "Спросить о фанате",
-    "strDesc": "[us] [спрашивает] детектива [them] о фанате.",
+    "strDesc": "[us] спрашивает детектива [them] о фанате.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1094,7 +1094,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Superfan_Reply",
     "strTitle": "Краткая информация о подозреваемом: фанат",
-    "strDesc": "Детектив [us] [говорит], что [3rd] абсолютно одержим мисс М и появлялась почти на каждом шоу, пока Миддлмист не выдала запретительный судебный приказ против них.",
+    "strDesc": "Детектив [us] говорит, что абсолютно одержим мисс М и появлялась почти на каждом шоу, пока Миддлмист не выдала запретительный судебный приказ против них.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1121,7 +1121,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Mogul",
     "strTitle": "Спросить о магнате",
-    "strDesc": "[us] [спрашивает] детектива [them] о магнате.",
+    "strDesc": "[us] спрашивает детектива [them] о магнате.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1146,7 +1146,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Mogul_Reply",
     "strTitle": "Краткая информация о подозреваемом: магнат",
-    "strDesc": "Детектив [us] [говорит], что [3rd] является видным бизнес-руководителем на Encantado, которому, среди прочего, принадлежит лаунж, где мисс М раньше пела.",
+    "strDesc": "Детектив [us] говорит, что является видным бизнес-руководителем на Encantado, которому, среди прочего, принадлежит лаунж, где мисс М раньше пела.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1173,7 +1173,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Tanner",
     "strTitle": "Спросить о Таннере",
-    "strDesc": "[us] [спрашивает] детектива [them] о бывшем копе.",
+    "strDesc": "[us] спрашивает детектива [them] о бывшем копе.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1196,7 +1196,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Tanner_Reply",
     "strTitle": "Краткая информация о подозреваемом: Таннер",
-    "strDesc": "Детектив [us] [говорит], что Джозефус Таннер — их бывший напарник, который сорвался с катушек, преследуя зацепки по странному делу. По причинам, которые [us-subj] [не] [понимает] до конца, Миддлмист недавно стала частью этого расследования.",
+    "strDesc": "Детектив [us] говорит, что Джозефус Таннер — их бывший напарник, который сорвался с катушек, преследуя зацепки по странному делу. По причинам, которые [us] не понимает до конца, Миддлмист недавно стала частью этого расследования.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1223,7 +1223,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Middlemist",
     "strTitle": "Спросить о Middlemist",
-    "strDesc": "[us] [спрашивает] детектива [them] о Middlemist",
+    "strDesc": "[us] спрашивает детектива [them] о Middlemist",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1246,7 +1246,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Middlemist_Reply",
     "strTitle": "Краткая информация о подозреваемом: Middlemist",
-    "strDesc": "Детектив [us] [говорит], что знаменитую певицу Камиллию Миддлмист, мисс М, недавно нашли мертвой в ее гримерной в лаунже Sol Vermelho на Encantado. На ее пояснице был черный отпечаток ладони, но в остальном явной причины смерти не было.",
+    "strDesc": "Детектив [us] говорит, что знаменитую певицу Камиллию Миддлмист, мисс М, недавно нашли мертвой в ее гримерной в лаунже Sol Vermelho на Encantado. На ее пояснице был черный отпечаток ладони, но в остальном явной причины смерти не было.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1273,7 +1273,7 @@
   {
     "strName": "PLOT_Merga_Suspect_Return",
     "strTitle": "Завершить опрос о подозреваемых",
-    "strDesc": "[us] [говорит] [us-contractWill] обдумать это дальше. Затем детектив [them] [советует] поговорить с подозреваемыми и проверить их алиби.",
+    "strDesc": "[us] говорит [us-contractWill] обдумать это дальше. Затем детектив [them] советует поговорить с подозреваемыми и проверить их алиби.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1293,7 +1293,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02",
     "strTitle": "Потребовать алиби",
-    "strDesc": "[us] [спрашивает] [them], где [them-subj] [находился] в ночь исчезновения Middlemist.",
+    "strDesc": "[us] спрашивает [them], где [them-subj] находился в ночь исчезновения Middlemist.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1315,7 +1315,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Racing_Icon_Alibi",
     "strTitle": "Ответить с алиби",
-    "strDesc": "[us] [говорит], [us-subj] [был] в отключке от алкоголя, отмечая с [us-pos] приятелями [us-pos] недавнюю третью подряд победу в Grande Prêmio do Encantado.",
+    "strDesc": "[us] говорит, [us] был в отключке от алкоголя, отмечая с [us] приятелями [us] недавнюю третью подряд победу в Grande Prêmio do Encantado.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1337,7 +1337,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Racing_Icon_Alibi_Threat",
     "strTitle": "Допрос с помощью страха",
-    "strDesc": "[us] [сильно] [напирает] на [them], угрожая всяческими увечьями, если [them-subj] [не] [начнет] говорить.",
+    "strDesc": "[us] сильно напирает на [them], угрожая всяческими увечьями, если [them-subj] не начнет говорить.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1360,7 +1360,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Racing_Icon_Alibi_Threat_Fail",
     "strTitle": "Противостоять страху",
-    "strDesc": "[us] [говорит], что люди с Венеры пугаются с трудом, и что, возможно, [them] стоит вернуться в тот темный угол, откуда [them-subj] выползли на OKLG.",
+    "strDesc": "[us] говорит, что люди с Венеры пугаются с трудом, и что, возможно, [them] стоит вернуться в тот темный угол, откуда [them-subj] выползли на OKLG.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1379,7 +1379,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Racing_Icon_Alibi_Threat_Succeed",
     "strTitle": "Поддаться страху",
-    "strDesc": "[us] [отшатывается] и [говорит], что человеком, которого стоит изучить, является офицер Джозефус Таннер. Он не мог держаться от нее подальше до ее исчезновения.",
+    "strDesc": "[us] отшатывается и говорит, что человеком, которого стоит изучить, является офицер Джозефус Таннер. Он не мог держаться от нее подальше до ее исчезновения.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1440,7 +1440,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Racing_Icon_Alibi_Charm_Fail",
     "strTitle": "Сопротивляться обаянию",
-    "strDesc": "[us] [scowls] и [says], что у [us-subj] нет причин разговаривать с незнакомцем из OKLG.",
+    "strDesc": "[us] [scowls] и [says], что у [us] нет причин разговаривать с незнакомцем из OKLG.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1459,7 +1459,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed03",
     "strTitle": "Потребовать алиби",
-    "strDesc": "[us] [спрашивает] [them], где [them-subj] [находился] в ночь исчезновения Middlemist.",
+    "strDesc": "[us] спрашивает [them], где [them-subj] находился в ночь исчезновения Middlemist.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1481,7 +1481,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed03_Superfan_Alibi",
     "strTitle": "Ответить с алиби",
-    "strDesc": "[us] [flashes] странной ухмылкой и [says], что в тот вечер [us-subj] [was] дома и монтировал видео недавних выступлений Миддлмист.",
+    "strDesc": "[us] [flashes] странной ухмылкой и [says], что в тот вечер [us] [was] дома и монтировал видео недавних выступлений Миддлмист.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1503,7 +1503,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed03_Superfan_Alibi_SeeVid_Charm",
     "strTitle": "Очаровать их, чтобы получить видео",
-    "strDesc": "[us] [says], что [us-subj] — поклонник роликов [them-pos], и [us-asks], может ли [us-subj] посмотреть тот, [them-subj] сделанный в тот вечер.",
+    "strDesc": "[us] [says], что [us] — поклонник роликов [them], и [us-asks], может ли [us] посмотреть тот, [them-subj] сделанный в тот вечер.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -1526,7 +1526,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Superfan_Alibi_Charm_Succeed",
     "strTitle": "Поддаться обаянию",
-    "strDesc": "[us] жадно [retrieves] [us-pos] КПК и [shows] [them] нарезку любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: [3rd] покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] [steps] невозмутимо в свой гоночный корабль, отстыковывается и ловко исчезает в облаках.",
+    "strDesc": "[us] жадно [retrieves] [us] КПК и показывает [them] нарезку любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] шагает невозмутимо в свой гоночный корабль, отстыковывается и ловко исчезает в облаках.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1545,7 +1545,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Superfan_Alibi_Charm_Fail",
     "strTitle": "Сопротивляться обаянию",
-    "strDesc": "[us] [says] [us-contractHas] никогда не видел вас в комментариях, а затем достает [us-pos] КПК. На видео — нарезка любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: [3rd] покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] [steps] невозмутимо в свой гоночный корабль, отстыковывается и ловко исчезает в пустоте.",
+    "strDesc": "[us] [says] [us-contractHas] никогда не видел вас в комментариях, а затем достает [us] КПК. На видео — нарезка любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] шагает невозмутимо в свой гоночный корабль, отстыковывается и ловко исчезает в пустоте.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1587,7 +1587,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Superfan_Alibi_Threat_Succeed",
     "strTitle": "Поддаться угрозе",
-    "strDesc": "[us] быстро [retrieves] [us-pos] КПК и [shows] [them] нарезку любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: [3rd] покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] [steps] невозмутимо в свой гоночный корабль, отстыковывается и ловко исчезает в пустоте.",
+    "strDesc": "[us] быстро [retrieves] [us] КПК и показывает [them] нарезку любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] шагает невозмутимо в свой гоночный корабль, отстыковывается и ловко исчезает в пустоте.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1606,7 +1606,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed02_Superfan_Alibi_Threat_Fail",
     "strTitle": "Игнорировать угрозу",
-    "strDesc": "[us] [says] [us-subj] [doesn't] пугается легко, но всегда рад новым фанатам. [us-subj] [shows] нарезку любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: [3rd] покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] [steps] невозмутимо в свой гоночный корабль, [undocks] и [darts] ловко исчезает в пустоте.",
+    "strDesc": "[us] [says] [us] [doesn't] пугается легко, но всегда рад новым фанатам. [us] показывает нарезку любительских видеороликов под жизнерадостную поп-музыку. Один кадр выделяется: покидает Encantado в ночь своей недавней победы на Grande Prêmio. [3rd-subj] шагает невозмутимо в свой гоночный корабль, [undocks] и [darts] ловко исчезает в пустоте.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1625,7 +1625,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed04",
     "strTitle": "Потребовать алиби",
-    "strDesc": "[us] [спрашивает] [them], где [them-subj] [находился] в ночь исчезновения Middlemist.",
+    "strDesc": "[us] спрашивает [them], где [them-subj] находился в ночь исчезновения Middlemist.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1646,7 +1646,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed04_Mogul_Alibi",
     "strTitle": "Ответить с алиби",
-    "strDesc": "[us] [says], что в тот вечер [us-subj] [was] на ужине со своим главным юрисконсультом в известном ресторане в НьюКэле.",
+    "strDesc": "[us] [says], что в тот вечер [us] [was] на ужине со своим главным юрисконсультом в известном ресторане в НьюКэле.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1665,7 +1665,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed05",
     "strTitle": "Потребовать алиби",
-    "strDesc": "[us] [спрашивает] [them], где [them-subj] [находился] в ночь исчезновения Middlemist.",
+    "strDesc": "[us] спрашивает [them], где [them-subj] находился в ночь исчезновения Middlemist.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1725,7 +1725,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed07",
     "strTitle": "Отследить местоположение фаната",
-    "strDesc": "[us] [uses] учетку LEO, чтобы отследить [3rd-pos] местоположение. В ночь исчезновения Миддлмист локальные сети фиксировали [3rd-obj] по всему Сан-Диего; [3rd-subj], по-видимому, [made] повторные посещения различных магазинов в этом районе.",
+    "strDesc": "[us] использует учетку LEO, чтобы отследить [3rd-pos] местоположение. В ночь исчезновения Миддлмист локальные сети фиксировали [3rd-obj] по всему Сан-Диего; [3rd-subj], по-видимому, [made] повторные посещения различных магазинов в этом районе.",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1745,7 +1745,7 @@
   {
     "strName": "PLOT_Merga_SignsDiscussed08",
     "strTitle": "Спросить о покупательском frenzy фаната",
-    "strDesc": "[us] [asks] [them], [remembers] ли [them-subj] [3rd] в тот вечер.",
+    "strDesc": "[us] спрашивает [them], [remembers] ли [them-subj] в тот вечер.",
     "strActionGroup": "Talk",
     "aInverse": [
       "PLOT_Merga_SD_Trader_ReplyNegative1",
@@ -1775,7 +1775,7 @@
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyNegative1",
     "strTitle": "Свободный Ответ Нет Один",
-    "strDesc": "[us] [says], что за день [us-subj] [sees] столько людей, что [us-subj] никак не может запомнить кого-то подобного.",
+    "strDesc": "[us] [says], что за день [us] [sees] столько людей, что [us] никак не может запомнить кого-то подобного.",
     "strActionGroup": "Use",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -1795,7 +1795,7 @@
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyNegative2",
     "strTitle": "Свободный Ответ Нет Два",
-    "strDesc": "[us] [says], что [us-subj] [wishes] помочь, но [us-subj] [didn't] никого видеть, соответствующего этому описанию.",
+    "strDesc": "[us] [says], что [us] [wishes] помочь, но [us] [didn't] никого видеть, соответствующего этому описанию.",
     "strActionGroup": "Use",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -1815,7 +1815,7 @@
   {
     "strName": "PLOT_Merga_SD_Trader_ReplyNegative3",
     "strTitle": "Свободный Ответ Нет Три",
-    "strDesc": "[us] [appears] раздраженным вторжением и [says], что [us-subj] [is] абсолютно уверен: такой человек не заходил в [us-pos] магазин в тот день.",
+    "strDesc": "[us] [appears] раздраженным вторжением и [says], что [us] абсолютно уверен: такой человек не заходил в [us] магазин в тот день.",
     "strActionGroup": "Use",
     "aInverse": [],
     "fDuration": 0.0005,
@@ -1935,7 +1935,7 @@
   {
     "strName": "PLOT_Merga_MergaEngaged01",
     "strTitle": "Попросить представить доказательства",
-    "strDesc": "[us] [asks] [them], может ли [us-subj] представить доказательства по определенному подозреваемому в деле Middlemist.",
+    "strDesc": "[us] спрашивает [them], может ли [us] представить доказательства по определенному подозреваемому в деле Middlemist.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -1959,7 +1959,7 @@
   {
     "strName": "PLOT_Merga_MergaEngaged_Done_Present_Evidence",
     "strTitle": "На данный момент представление доказательств завершено",
-    "strDesc": "[us] [заканчивает] представление доказательств, пока что.",
+    "strDesc": "[us] заканчивает представление доказательств, пока что.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -1981,7 +1981,7 @@
   {
     "strName": "PLOT_Merga_MergaEngaged01_Present_Suspects",
     "strTitle": "Спросить, о ком они хотят услышать",
-    "strDesc": "[us] [спрашивает], на кого у [them] [имеются] доказательства.",
+    "strDesc": "[us] спрашивает, на кого у [them] имеются доказательства.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": false,
     "aInverse": [
@@ -2036,7 +2036,7 @@
   {
     "strName": "PLOT_Merga_Present_Evidence_RacingIcon_Clue0",
     "strTitle": "Гоночная икона: нет улик",
-    "strDesc": "[us] [говорит], у вас почти ничего нет. Для начала попробуйте прижать их вопросом об алиби.",
+    "strDesc": "[us] говорит, у вас почти ничего нет. Для начала попробуйте прижать их вопросом об алиби.",
     "aInverse": [
       "PLOT_Merga_MergaEngaged01_Present_Suspects,[us],[them]"
     ],
@@ -2102,7 +2102,7 @@
   {
     "strName": "PLOT_Merga_Present_Evidence_RacingIcon_Clue3",
     "strTitle": "Гоночная икона: три улики",
-    "strDesc": "[us] [says], [us-contractHas] выслушал достаточно. [us-subj] [is] собирается осмотреть бар, а затем вы вместе сможете конфронтировать гонщика.",
+    "strDesc": "[us] [says], [us-contractHas] выслушал достаточно. [us] собирается осмотреть бар, а затем вы вместе сможете конфронтировать гонщика.",
     "aInverse": [
       "PLOT_Merga_EndgamePrepared01"
     ],
@@ -2338,7 +2338,7 @@
   {
     "strName": "PLOT_Merga_Present_Evidence_Superfan_Clue0",
     "strTitle": "Суперфанат: нет улик",
-    "strDesc": "[us] [говорит], у вас почти ничего нет. Для начала попробуйте прижать их вопросом об алиби.",
+    "strDesc": "[us] говорит, у вас почти ничего нет. Для начала попробуйте прижать их вопросом об алиби.",
     "aInverse": [
       "PLOT_Merga_MergaEngaged01_Present_Suspects,[us],[them]"
     ],
@@ -2360,7 +2360,7 @@
   {
     "strName": "PLOT_Merga_Present_Evidence_Superfan_Clue1",
     "strTitle": "Суперфанат: одна улика",
-    "strDesc": "[us] [says], что видео не доказывает, что [us-subj] [was] дома всю ночь. К тому же, нахождение дома едва ли является алиби. Детектив передает [them] учетные данные для ПО LEO и говорит использовать любой терминал для проверки данных журнала точки сетевого доступа фаната, чтобы выяснить, где они находились той ночью.",
+    "strDesc": "[us] [says], что видео не доказывает, что [us] [was] дома всю ночь. К тому же, нахождение дома едва ли является алиби. Детектив передает [them] учетные данные для ПО LEO и говорит использовать любой терминал для проверки данных журнала точки сетевого доступа фаната, чтобы выяснить, где они находились той ночью.",
     "aInverse": [
       "PLOT_Merga_MergaEngaged01_Present_Suspects,[us],[them]"
     ],
@@ -2404,7 +2404,7 @@
   {
     "strName": "PLOT_Merga_Present_Evidence_Superfan_Clue3",
     "strTitle": "Суперфанат: три улики",
-    "strDesc": "[us] [считает], что это достаточно подозрительно, чтобы как минимум устроить фанату серьёзный разговор. Вместе вы находите его и confront them.",
+    "strDesc": "[us] считает, что это достаточно подозрительно, чтобы как минимум устроить фанату серьёзный разговор. Вместе вы находите его и confront them.",
     "aInverse": [
       "PLOT_Merga_EndgamePrepared02"
     ],
@@ -2871,7 +2871,7 @@
   {
     "strName": "PLOT_Merga_MergaEngaged06",
     "strTitle": "Опровергнуть алиби",
-    "strDesc": "[us] [shows] [them] запись, [3rd] сделанную трезвым [racing_icon-surname] в ночь исчезновения Миддлмист, и [us-asks], почему [them-subj] солгал(а) о том, что был(а) пьян(а).",
+    "strDesc": "[us] показывает [them] запись, сделанную трезвым [racing_icon-surname] в ночь исчезновения Миддлмист, и [us-asks], почему [them-subj] солгал(а) о том, что был(а) пьян(а).",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [
@@ -2891,7 +2891,7 @@
   {
     "strName": "PLOT_Merga_MergaEngaged06_Reply",
     "strTitle": "Ответ: опровергнуть алиби",
-    "strDesc": "[us] [says], что [3rd] [is] назойливый мелкий извращенец. Кроме того, запись не доказывает, что [us-subj] [was] трезв(а). [us-contractHas] всегда умел(а) держать [us-pos] выпивку.",
+    "strDesc": "[us] [says], что назойливый мелкий извращенец. Кроме того, запись не доказывает, что [us] [was] трезв(а). [us-contractHas] всегда умел(а) держать [us] выпивку.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -2909,7 +2909,7 @@
   {
     "strName": "PLOT_Merga_MergaEngaged07",
     "strTitle": "Опровергнуть алиби",
-    "strDesc": "[us] [asks] [them], почему [them-subj] солгал(а), и почему [them-subj] нанес(а) столько визитов в магазины Сан-Диего в ночь исчезновения миссис М.",
+    "strDesc": "[us] спрашивает [them], почему [them-subj] солгал(а), и почему [them-subj] нанес(а) столько визитов в магазины Сан-Диего в ночь исчезновения миссис М.",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [

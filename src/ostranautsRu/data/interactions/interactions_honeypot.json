@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "strName": "SOCHoneypotCombatStart",
     "strTitle": "Начать романтическую ловушку",
@@ -30,7 +30,7 @@
   {
     "strName": "SOCHoneypotPrivacyFail",
     "strTitle": "Сказать им, что вам нужно личное пространство",
-    "strDesc": "[us] [says] [them] [is] начинает слишком сильно стеснять [us-obj], и что прямо сейчас [us-subj] [needs] немного личного пространства.",
+    "strDesc": "[us] [says] [them] начинает слишком сильно стеснять [us-obj], и что прямо сейчас [us] [needs] немного личного пространства.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -58,7 +58,7 @@
   {
     "strName": "SOCHoneypotSecurityFail",
     "strTitle": "Озвучить свои подозрения",
-    "strDesc": "[us] [says], что все это внимание начинает казаться подозрительным, и [asks] [them]: «Хоть что-нибудь из этого было настоящим?»",
+    "strDesc": "[us] [says], что все это внимание начинает казаться подозрительным, и спрашивает [them]: «Хоть что-нибудь из этого было настоящим?»",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -86,7 +86,7 @@
   {
     "strName": "SOCHoneypotDance",
     "strTitle": "Танцевать",
-    "strDesc": "[us] [attempts] втянуть [them] в спонтанный танец.",
+    "strDesc": "[us] пытается втянуть [them] в спонтанный танец.",
     "strActionGroup": "Talk",
     "strTooltip": "Пытается флиртовать с целью с помощью танца.",
     "strTargetPoint": "use",
@@ -111,7 +111,7 @@
   {
     "strName": "SOCHoneypotDemonstrateVulnerability",
     "strTitle": "Продемонстрировать уязвимость",
-    "strDesc": "[us] кратко [exposes] черту [us-pos] характера, которую большинство людей предпочитают скрывать.",
+    "strDesc": "[us] кратко [exposes] черту [us] характера, которую большинство людей предпочитают скрывать.",
     "strActionGroup": "Talk",
     "strTooltip": "Делится с целью слабостью, чтобы выстроить более сильную эмоциональную связь.",
     "strTargetPoint": "use",
@@ -136,7 +136,7 @@
   {
     "strName": "SOCHoneypotMirrorBehavior",
     "strTitle": "Отзеркалить их манеры",
-    "strDesc": "[us] [makes] непринужденную беседу, тонко копируя [them-pos] манеры, особенности речи и жесты.",
+    "strDesc": "[us] [makes] непринужденную беседу, тонко копируя [them] манеры, особенности речи и жесты.",
     "strActionGroup": "Talk",
     "strTooltip": "Незаметно имитировать язык их тела, чтобы вызвать доверие.",
     "strTargetPoint": "use",

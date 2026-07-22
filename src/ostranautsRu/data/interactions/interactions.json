@@ -2,7 +2,7 @@
   {
     "strName": "ACTAddConnection",
     "strTitle": "AddConnection",
-    "strDesc": "[us] [добавляет] связь с [them]",
+    "strDesc": "[us] добавляет связь с [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -25,7 +25,7 @@
   {
     "strName": "ACTRemoveConnection",
     "strTitle": "Удалить связь",
-    "strDesc": "[us] [удаляет] связь с [them]",
+    "strDesc": "[us] удаляет связь с [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -48,7 +48,7 @@
   {
     "strName": "ACTAddSignal",
     "strTitle": "Добавить сигнал",
-    "strDesc": "[us] [добавляет] сигнал для [them]",
+    "strDesc": "[us] добавляет сигнал для [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -73,7 +73,7 @@
   {
     "strName": "ACTRemoveSignal",
     "strTitle": "Удалить сигнал",
-    "strDesc": "[us] [удаляет] сигнал для [them]",
+    "strDesc": "[us] удаляет сигнал для [them]",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -98,7 +98,7 @@
   {
     "strName": "ACTBash",
     "strTitle": "Ударить",
-    "strDesc": "[us] [собирается] ударить [them].",
+    "strDesc": "[us] собирается ударить [them].",
     "strTooltip": "Снижает состояние цели, пока она не будет повреждена или уничтожена.",
     "strActionGroup": "Work",
     "nQabOrderPriority": -4,
@@ -133,7 +133,7 @@
   {
     "strName": "ACTBashBig",
     "strTitle": "Ударить",
-    "strDesc": "[us] [собирается] ударить [them].",
+    "strDesc": "[us] собирается ударить [them].",
     "strTooltip": "Снижает состояние цели, пока она не будет повреждена или уничтожена.",
     "strActionGroup": "Work",
     "nQabOrderPriority": -4,
@@ -168,7 +168,7 @@
   {
     "strName": "ACTBashAllow",
     "strTitle": "Ударить",
-    "strDesc": "[us] [бьёт] [them].",
+    "strDesc": "[us] бьёт [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -223,7 +223,7 @@
   {
     "strName": "BlowDust",
     "strTitle": "Сдуть пыль",
-    "strDesc": "[us] [сдувает] пыль с [them].",
+    "strDesc": "[us] сдувает пыль с [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 1,
     "fDuration": 0.0003,
@@ -237,7 +237,7 @@
   {
     "strName": "ACTCancelTaskThem",
     "strTitle": "Отменить задачу(и)",
-    "strDesc": "[us] [отменяет] задачи на [them].",
+    "strDesc": "[us] отменяет задачи на [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
@@ -251,7 +251,7 @@
   {
     "strName": "ACTChairSit",
     "strTitle": "Сесть",
-    "strDesc": "[us] [собирается] сесть на [them].",
+    "strDesc": "[us] собирается сесть на [them].",
     "strTooltip": "Садится.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -281,7 +281,7 @@
   {
     "strName": "ACTChairSitShim",
     "strTitle": "Сесть",
-    "strDesc": "[us] [sits] на [them].",
+    "strDesc": "[us] садится на [them].",
     "strTooltip": "Садится.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -315,7 +315,7 @@
   {
     "strName": "ACTChairSitAllow",
     "strTitle": "Сидит",
-    "strDesc": "[us] [сидит] на [them].",
+    "strDesc": "[us] сидит на [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "sit",
     "fTargetPointRange": 0,
@@ -345,7 +345,7 @@
   {
     "strName": "ACTChairSitCancel",
     "strTitle": "Встать",
-    "strDesc": "[us] [перестаёт] сидеть.",
+    "strDesc": "[us] перестаёт сидеть.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "strTeleport": "use",
@@ -374,7 +374,7 @@
   {
     "strName": "ACTChairSitEnd",
     "strTitle": "Встать",
-    "strDesc": "[us] [перестаёт] сидеть.",
+    "strDesc": "[us] перестаёт сидеть.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -405,7 +405,7 @@
   {
     "strName": "ACTChairSitSecure",
     "strTitle": "Сесть",
-    "strDesc": "[us] [собирается] надёжно закрепиться сидя на [them].",
+    "strDesc": "[us] собирается надёжно закрепиться сидя на [them].",
     "strTooltip": "Садится и надежно пристегивается.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -436,7 +436,7 @@
   {
     "strName": "ACTChairSitSecureShim",
     "strTitle": "Сесть",
-    "strDesc": "[us] [sits] надежно пристегнувшись на [them].",
+    "strDesc": "[us] садится надежно пристегнувшись на [them].",
     "strTooltip": "Садится и надежно пристегивается.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -471,7 +471,7 @@
   {
     "strName": "ACTChairSitSecureAllow",
     "strTitle": "Сидит",
-    "strDesc": "[us] [сидит], надёжно закрепившись на [them].",
+    "strDesc": "[us] сидит, надёжно закрепившись на [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "sit",
     "fTargetPointRange": 0,
@@ -500,7 +500,7 @@
   {
     "strName": "ACTChairSitSecureCancel",
     "strTitle": "Встать",
-    "strDesc": "[us] [отстёгивает ремни] и [перестаёт] сидеть.",
+    "strDesc": "[us] отстёгивает ремни и перестаёт сидеть.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "strTeleport": "use",
@@ -529,7 +529,7 @@
   {
     "strName": "ACTChairSitSecureEnd",
     "strTitle": "Встать",
-    "strDesc": "[us] [отстёгивает ремни] и [перестаёт] сидеть.",
+    "strDesc": "[us] отстёгивает ремни и перестаёт сидеть.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -560,7 +560,7 @@
   {
     "strName": "ACTKioskUseNPC",
     "strTitle": "Воспользоваться услугой",
-    "strDesc": "[us] [пользуется] услугами на [them].",
+    "strDesc": "[us] пользуется услугами на [them].",
     "strTooltip": "Использует услугу киоска.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -590,7 +590,7 @@
   {
     "strName": "ACTKioskUseNPCAllow",
     "strTitle": "Использование услуги",
-    "strDesc": "[us] [использует] [them].",
+    "strDesc": "[us] использует [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0,
@@ -617,7 +617,7 @@
   {
     "strName": "ACTKioskUseNPCCancel",
     "strTitle": "Завершение",
-    "strDesc": "[us] [перестаёт] использовать [them].",
+    "strDesc": "[us] перестаёт использовать [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -642,7 +642,7 @@
   {
     "strName": "ACTKioskUseNPCEnd",
     "strTitle": "Завершение",
-    "strDesc": "[us] [перестаёт] использовать [them].",
+    "strDesc": "[us] перестаёт использовать [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -669,7 +669,7 @@
   {
     "strName": "ACTCrate01Scrap",
     "strTitle": "Вскрыть",
-    "strDesc": "[us] [собирается] вскрыть [them].",
+    "strDesc": "[us] собирается вскрыть [them].",
     "strTooltip": "Уничтожает контейнер для получения доступа к его содержимому.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -702,7 +702,7 @@
   {
     "strName": "ACTCrate01ScrapAllow",
     "strTitle": "Вскрыть ящик",
-    "strDesc": "[us] [вскрывает] [them].",
+    "strDesc": "[us] вскрывает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -728,7 +728,7 @@
   {
     "strName": "ACTCrate01ScrapFinish",
     "strTitle": "Завершение вскрытия ящика",
-    "strDesc": "[us] [заканчивает] вскрывать [them].",
+    "strDesc": "[us] заканчивает вскрывать [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -753,7 +753,7 @@
   {
     "strName": "ACTDebugTEMP",
     "strTitle": "Отладка ошибок",
-    "strDesc": "[us] [собирается] отладить ошибки [them].",
+    "strDesc": "[us] собирается отладить ошибки [them].",
     "strTooltip": "Запускает процедуры отладки и устранения неполадок для удаления ошибок в программном обеспечении цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -772,7 +772,7 @@
   {
     "strName": "ACTDebugTEMPAllow",
     "strTitle": "Отладка ошибок на TEMP",
-    "strDesc": "[us] [отлаживает] ошибки [them-pos].",
+    "strDesc": "[us] отлаживает ошибки [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -789,7 +789,7 @@
   {
     "strName": "ACTDebugFinish",
     "strTitle": "Завершить отладку ошибок",
-    "strDesc": "[us] больше [has] ошибок.",
+    "strDesc": "[us] больше имеет ошибок.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -803,7 +803,7 @@
   {
     "strName": "ACTDecorAdmire",
     "strTitle": "Восхищаться",
-    "strDesc": "[us] [тратит] немного времени, любуясь деталями [them].",
+    "strDesc": "[us] тратит немного времени, любуясь деталями [them].",
     "strActionGroup": "Use",
     "strTooltip": "Ищет улучшение настроения, созерцая красоту. Цель должна быть установлена.",
     "strTargetPoint": "use",
@@ -830,7 +830,7 @@
   {
     "strName": "ACTDecorAdmireAllow",
     "strTitle": "Восхищение",
-    "strDesc": "[us] [любуется] [them] и [us-appreciates] его эстетическими качествами.",
+    "strDesc": "[us] любуется [them] и восхищается его эстетическими качествами.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -854,7 +854,7 @@
   {
     "strName": "ACTDecorAdmireFinish",
     "strTitle": "",
-    "strDesc": "[them] [заканчивает] любоваться [us].",
+    "strDesc": "[them] заканчивает любоваться [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -874,7 +874,7 @@
   {
     "strName": "ACTDecorAdmireDenyCooldown",
     "strTitle": "",
-    "strDesc": "[them] [смотрит] на [us], но [не] [хочет] сейчас любоваться эстетикой. Может быть, позже.",
+    "strDesc": "[them] смотрит на [us], но не хочет сейчас любоваться эстетикой. Может быть, позже.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -895,7 +895,7 @@
   {
     "strName": "ACTDenyTired",
     "strTitle": "Отказ: Слишком устал",
-    "strDesc": "[us] [is] слишком истощен для этого.",
+    "strDesc": "[us] слишком истощен для этого.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -913,7 +913,7 @@
   {
     "strName": "ACTDestroySelf",
     "strTitle": "Начало самоуничтожения",
-    "strDesc": "[us] [вот-вот будет] уничтожен.",
+    "strDesc": "[us] вот-вот будет уничтожен.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -936,7 +936,7 @@
   {
     "strName": "ACTDestroySelfAllow",
     "strTitle": "Самоуничтожение",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -959,7 +959,7 @@
   {
     "strName": "ACTDismantleTEMP",
     "strTitle": "Разобрать",
-    "strDesc": "[us] [собирается] разобрать [them].",
+    "strDesc": "[us] собирается разобрать [them].",
     "strTooltip": "Аккуратно разбирает предмет для максимального выхода лома. Внимание: демонтаж обычно необратим.",
     "strActionGroup": "Work",
     "nQabOrderPriority": -5,
@@ -986,7 +986,7 @@
   {
     "strName": "ACTDismantleTEMPAllow",
     "strTitle": "Разборка",
-    "strDesc": "[us] [разбирает] [them].",
+    "strDesc": "[us] разбирает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -1010,7 +1010,7 @@
   {
     "strName": "ACTDismantleNoSparksTEMP",
     "strTitle": "Разобрать",
-    "strDesc": "[us] [собирается] разобрать [them].",
+    "strDesc": "[us] собирается разобрать [them].",
     "strTooltip": "Аккуратно разбирает предмет для максимального получения годных деталей. Внимание: демонтаж обычно необратим.",
     "strActionGroup": "Work",
     "nQabOrderPriority": -5,
@@ -1037,7 +1037,7 @@
   {
     "strName": "ACTDismantleNoSparksTEMPAllow",
     "strTitle": "Разборка",
-    "strDesc": "[us] [разбирает] [them].",
+    "strDesc": "[us] разбирает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -1061,7 +1061,7 @@
   {
     "strName": "ACTFeedItem",
     "strTitle": "Доставить",
-    "strDesc": "[us] [собирается] доставить детали к [them]: [object]",
+    "strDesc": "[us] собирается доставить детали к [them]: предмет",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -1103,7 +1103,7 @@
   {
     "strName": "ACTFireExtinguish",
     "strTitle": "Тушить",
-    "strDesc": "[us] [is] собирается потушить [them].",
+    "strDesc": "[us] собирается потушить [them].",
     "strTooltip": "Пытается потушить пожар огнетушителем.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -1137,7 +1137,7 @@
   {
     "strName": "ACTFireExtinguishAllow",
     "strTitle": "Тушение",
-    "strDesc": "[us] [тушит] [them].",
+    "strDesc": "[us] тушит [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -1169,7 +1169,7 @@
   {
     "strName": "ACTFireExtinguishCancel",
     "strTitle": "Отменить тушение",
-    "strDesc": "[us] [stops] тушить [them].",
+    "strDesc": "[us] перестаёт тушить [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -1191,7 +1191,7 @@
   {
     "strName": "ACTFireExtinguishDone",
     "strTitle": "Тушение завершено",
-    "strDesc": "[us] [is] закончил тушить [them].",
+    "strDesc": "[us] закончил тушить [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -1213,7 +1213,7 @@
   {
     "strName": "ACTFireStamp",
     "strTitle": "Топтать",
-    "strDesc": "[us] [is] собирается затоптать [them].",
+    "strDesc": "[us] собирается затоптать [them].",
     "strTooltip": "Пытается затоптать огонь без использования специальных инструментов.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -1243,7 +1243,7 @@
   {
     "strName": "ACTFireStampAllow",
     "strTitle": "Топтание",
-    "strDesc": "[us] [затаптывает] [them].",
+    "strDesc": "[us] затаптывает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -1270,7 +1270,7 @@
   {
     "strName": "ACTDispenseLiquid",
     "strTitle": "Налить жидкость",
-    "strDesc": "[us] [собирается] налить жидкость из [them].",
+    "strDesc": "[us] собирается налить жидкость из [them].",
     "strTooltip": "Выдает жидкость в переносной герметичный контейнер.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1336,7 +1336,7 @@
   {
     "strName": "ACTExcerciseSimple",
     "strTitle": "Упражнение",
-    "strDesc": "[us] [intends] тренироваться, используя [them].",
+    "strDesc": "[us] намеревается тренироваться, используя [them].",
     "strTooltip": "Выполняет физические упражнения до состояния сильной усталости, перегрева или до момента намеренной остановки.\nДва часа упражнений в день необходимы для предотвращения атрофии без применения медикаментов.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1368,7 +1368,7 @@
   {
     "strName": "ACTExcerciseSimpleAIReserve",
     "strTitle": "Упражнение",
-    "strDesc": "[us] [intends] зарезервировать [them].",
+    "strDesc": "[us] намеревается зарезервировать [them].",
     "strTooltip": "Резервирование цели для использования, чтобы предотвратить конфликты между несколькими пользователями.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -1398,7 +1398,7 @@
   {
     "strName": "ACTExcerciseSimpleAIReserveSuccess",
     "strTitle": "Упражнение",
-    "strDesc": "[us] [intends] тренироваться, используя [them].",
+    "strDesc": "[us] намеревается тренироваться, используя [them].",
     "strTooltip": "Выполняет физические упражнения до состояния сильной усталости, перегрева или до момента намеренной остановки.\nДва часа упражнений в день необходимы для предотвращения атрофии без применения медикаментов.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1430,7 +1430,7 @@
   {
     "strName": "ACTExcerciseTreadmillDo",
     "strTitle": "Упражнение",
-    "strDesc": "[us] [тренируется] на [them].",
+    "strDesc": "[us] тренируется на [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "strAnim": "Walk",
@@ -1460,7 +1460,7 @@
   {
     "strName": "ACTExcerciseTreadmillDoHot",
     "strTitle": "Интенсивная тренировка",
-    "strDesc": "[us] [тренируется] на [them], чувствуя жар.",
+    "strDesc": "[us] тренируется на [them], чувствуя жар.",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "strAnim": "Walk",
@@ -1490,7 +1490,7 @@
   {
     "strName": "ACTDenyExerciseTreadmillTired",
     "strTitle": "Отказ: слишком устал или жарко",
-    "strDesc": "[us] [слишком] плохо себя чувствует для этого. [them] переходит в режим ожидания.",
+    "strDesc": "[us] слишком плохо себя чувствует для этого. [them] переходит в режим ожидания.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Idle",
@@ -1516,7 +1516,7 @@
   {
     "strName": "ACTExcerciseStrengthTrainerDo",
     "strTitle": "Упражнение",
-    "strDesc": "[us] [тренируется] на [them].",
+    "strDesc": "[us] тренируется на [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "fRotation": 180,
@@ -1548,7 +1548,7 @@
   {
     "strName": "ACTExcerciseStrengthTrainerDoHot",
     "strTitle": "Интенсивная тренировка",
-    "strDesc": "[us] [тренируется] на [them], чувствуя жар.",
+    "strDesc": "[us] тренируется на [them], чувствуя жар.",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "strAnim": "Squat",
@@ -1578,7 +1578,7 @@
   {
     "strName": "ACTDenyExerciseStrengthTrainerTired",
     "strTitle": "Отказ: Слишком устал",
-    "strDesc": "[us] [слишком] плохо себя чувствует для этого. [them] переходит в режим ожидания.",
+    "strDesc": "[us] слишком плохо себя чувствует для этого. [them] переходит в режим ожидания.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Idle",
@@ -1604,7 +1604,7 @@
   {
     "strName": "ACTFloorGrate01Patch",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -1635,7 +1635,7 @@
   {
     "strName": "ACTFloorGrate01PatchAllow",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [запечатан].",
+    "strDesc": "[us] запечатан.",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -1659,7 +1659,7 @@
   {
     "strName": "ACTHaulItem",
     "strTitle": "Тащить",
-    "strDesc": "[us] [переносит] [object] на склад.",
+    "strDesc": "[us] переносит предмет на склад.",
     "strTooltip": "Перемещает предмет в соответствующую зону хранения (если она назначена).",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -1676,7 +1676,7 @@
   {
     "strName": "ACTHatchCloseStart",
     "strTitle": "Закрыть",
-    "strDesc": "[us] [starts] закрывать [them].",
+    "strDesc": "[us] начинает закрывать [them].",
     "strTooltip": "Закрывает дверь, перезапуская автозакрытие, если оно было ранее отключено. Внимание: атмосферные условия по другую сторону могут значительно отличаться!",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1724,7 +1724,7 @@
   {
     "strName": "ACTHatchOpenStart",
     "strTitle": "Открыть",
-    "strDesc": "[us] [starts] открывать [them].",
+    "strDesc": "[us] начинает открывать [them].",
     "strTooltip": "Открывает дверь, временно отключая автозакрытие до ручного закрытия. Внимание: атмосферные условия по другую сторону могут значительно отличаться!",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1771,7 +1771,7 @@
   {
     "strName": "ACTInstallNoSparksTEMP",
     "strTitle": "Установить",
-    "strDesc": "[us] [is] собирается установить [them].",
+    "strDesc": "[us] собирается установить [them].",
     "strTooltip": "Устанавливает незакрепленный предмет в выбранном месте, чтобы сделать его функционирующей частью корабля.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -1791,7 +1791,7 @@
   {
     "strName": "ACTInstallNoSparksTEMPAllow",
     "strTitle": "Установка ВРЕМ",
-    "strDesc": "[us] [устанавливает] [them].",
+    "strDesc": "[us] устанавливает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -1811,7 +1811,7 @@
   {
     "strName": "ACTInstallTEMP",
     "strTitle": "Установить",
-    "strDesc": "[us] [is] собирается установить [them].",
+    "strDesc": "[us] собирается установить [them].",
     "strTooltip": "Устанавливает незакрепленный предмет в выбранном месте, чтобы сделать его функционирующей частью корабля.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -1831,7 +1831,7 @@
   {
     "strName": "ACTInstallTEMPAllow",
     "strTitle": "Установка ВРЕМ",
-    "strDesc": "[us] [устанавливает] [them].",
+    "strDesc": "[us] устанавливает [them].",
     "strTooltip": "Начинает установку [them] в выбранном месте.",
     "strActionGroup": "Work",
     "strTargetPoint": null,
@@ -1852,7 +1852,7 @@
   {
     "strName": "ACTReloadItem",
     "strTitle": "Перезарядка",
-    "strDesc": "[us] [is] собирается перезарядить [them].",
+    "strDesc": "[us] собирается перезарядить [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -1868,7 +1868,7 @@
   {
     "strName": "ACTResumeTaskThem",
     "strTitle": "Продолжить задачу(и)",
-    "strDesc": "[us] [resumes] задачи на [them].",
+    "strDesc": "[us] возобновляет задачи на [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
@@ -1902,7 +1902,7 @@
   {
     "strName": "ACTSwitchLightColorBlue",
     "strTitle": "Установить синий",
-    "strDesc": "[us] [decides] установить для [them] синий цвет.",
+    "strDesc": "[us] решает установить для [them] синий цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1930,7 +1930,7 @@
   {
     "strName": "ACTSwitchLightColorBlueAllow",
     "strTitle": "Установка синего света",
-    "strDesc": "[them] [sets] светильник на синий цвет.",
+    "strDesc": "[them] устанавливает светильник на синий цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -1951,7 +1951,7 @@
   {
     "strName": "ACTSwitchLightColorOrange",
     "strTitle": "Установить оранжевый",
-    "strDesc": "[us] [decides] установить для [them] оранжевый цвет.",
+    "strDesc": "[us] решает установить для [them] оранжевый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -1979,7 +1979,7 @@
   {
     "strName": "ACTSwitchLightColorOrangeAllow",
     "strTitle": "Установка оранжевого света",
-    "strDesc": "[them] [sets] светильник на оранжевый цвет.",
+    "strDesc": "[them] устанавливает светильник на оранжевый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2000,7 +2000,7 @@
   {
     "strName": "ACTSwitchLightColorRed",
     "strTitle": "Установить красный",
-    "strDesc": "[us] [decides] установить для [them] красный цвет.",
+    "strDesc": "[us] решает установить для [them] красный цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2028,7 +2028,7 @@
   {
     "strName": "ACTSwitchLightColorRedAllow",
     "strTitle": "Настройка красного света",
-    "strDesc": "[them] [sets] свет на красный цвет.",
+    "strDesc": "[them] устанавливает свет на красный цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2049,7 +2049,7 @@
   {
     "strName": "ACTSwitchLightColorPurple",
     "strTitle": "Установить фиолетовый",
-    "strDesc": "[us] [decides] установить для [them] [purple] цвет.",
+    "strDesc": "[us] решает установить для [them] фиолетовый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2077,7 +2077,7 @@
   {
     "strName": "ACTSwitchLightColorPurpleAllow",
     "strTitle": "Настройка фиолетового света",
-    "strDesc": "[them] [sets] свет на фиолетовый цвет.",
+    "strDesc": "[them] устанавливает свет на фиолетовый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2098,7 +2098,7 @@
   {
     "strName": "ACTSwitchLightColorGreen",
     "strTitle": "Установить зеленый",
-    "strDesc": "[us] [decides] установить для [them] зеленый цвет.",
+    "strDesc": "[us] решает установить для [them] зеленый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2126,7 +2126,7 @@
   {
     "strName": "ACTSwitchLightColorGreenAllow",
     "strTitle": "Настройка зеленого света",
-    "strDesc": "[them] [sets] свет на зеленый цвет.",
+    "strDesc": "[them] устанавливает свет на зеленый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2147,7 +2147,7 @@
   {
     "strName": "ACTSwitchLightColorWhite",
     "strTitle": "Установить белый",
-    "strDesc": "[us] [decides] установить для [them] белый цвет.",
+    "strDesc": "[us] решает установить для [them] белый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2175,7 +2175,7 @@
   {
     "strName": "ACTSwitchLightColorWhiteAllow",
     "strTitle": "Настройка белого света",
-    "strDesc": "[them] [sets] свет на белый цвет.",
+    "strDesc": "[them] устанавливает свет на белый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2196,7 +2196,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorBlue",
     "strTitle": "Установить синий",
-    "strDesc": "[us] [decides] установить для [them] синий цвет.",
+    "strDesc": "[us] решает установить для [them] синий цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2224,7 +2224,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorBlueAllow",
     "strTitle": "Установка синего света",
-    "strDesc": "[them] [sets] светильник на синий цвет.",
+    "strDesc": "[them] устанавливает светильник на синий цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -2245,7 +2245,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorOrange",
     "strTitle": "Установить оранжевый",
-    "strDesc": "[us] [decides] установить для [them] оранжевый цвет.",
+    "strDesc": "[us] решает установить для [them] оранжевый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2273,7 +2273,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorOrangeAllow",
     "strTitle": "Установка оранжевого света",
-    "strDesc": "[them] [sets] светильник на оранжевый цвет.",
+    "strDesc": "[them] устанавливает светильник на оранжевый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2294,7 +2294,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorRed",
     "strTitle": "Установить красный",
-    "strDesc": "[us] [decides] установить для [them] красный цвет.",
+    "strDesc": "[us] решает установить для [them] красный цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2322,7 +2322,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorRedAllow",
     "strTitle": "Настройка красного света",
-    "strDesc": "[them] [sets] свет на красный цвет.",
+    "strDesc": "[them] устанавливает свет на красный цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2343,7 +2343,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorPurple",
     "strTitle": "Установить фиолетовый",
-    "strDesc": "[us] [decides] установить для [them] [purple] цвет.",
+    "strDesc": "[us] решает установить для [them] фиолетовый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2371,7 +2371,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorPurpleAllow",
     "strTitle": "Настройка фиолетового света",
-    "strDesc": "[them] [sets] свет на фиолетовый цвет.",
+    "strDesc": "[them] устанавливает свет на фиолетовый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2392,7 +2392,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorGreen",
     "strTitle": "Установить зеленый",
-    "strDesc": "[us] [decides] установить для [them] зеленый цвет.",
+    "strDesc": "[us] решает установить для [them] зеленый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2420,7 +2420,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorGreenAllow",
     "strTitle": "Настройка зеленого света",
-    "strDesc": "[them] [sets] свет на зеленый цвет.",
+    "strDesc": "[them] устанавливает свет на зеленый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2441,7 +2441,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorWhite",
     "strTitle": "Установить белый",
-    "strDesc": "[us] [decides] установить для [them] белый цвет.",
+    "strDesc": "[us] решает установить для [them] белый цвет.",
     "strTooltip": "Назначает светильнику выбранный цвет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2469,7 +2469,7 @@
   {
     "strName": "ACTSwitchCeilingLightColorWhiteAllow",
     "strTitle": "Настройка белого света",
-    "strDesc": "[them] [sets] свет на белый цвет.",
+    "strDesc": "[them] устанавливает свет на белый цвет.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tooling",
@@ -2490,7 +2490,7 @@
   {
     "strName": "ACTLockResetTEMP",
     "strTitle": "Сброс до заводских настроек",
-    "strDesc": "[us] [is] выполняет сброс [them] до заводских настроек с PIN-кодом 0000.",
+    "strDesc": "[us] выполняет сброс [them] до заводских настроек с PIN-кодом 0000.",
     "strTooltip": "Сбрасывает замок до заводских настроек с PIN-кодом 0000.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -2510,7 +2510,7 @@
   {
     "strName": "ACTLockResetTEMPAllow",
     "strTitle": "Заводской сброс TEMP",
-    "strDesc": "[us] выполняет заводской [resets] [them].",
+    "strDesc": "[us] выполняет заводской сбрасывает [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -2545,7 +2545,7 @@
   {
     "strName": "HackingCrimePenalty",
     "strTitle": "Применить штраф за преступный взлом",
-    "strDesc": "[us] [is] совершает преступление в сфере взлома против [them].",
+    "strDesc": "[us] совершает преступление в сфере взлома против [them].",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
     "fDuration": 0.0,
@@ -2560,7 +2560,7 @@
   {
     "strName": "ACTFloorGrate01PatchNPC",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -2611,7 +2611,7 @@
   {
     "strName": "ACTWall1x1PatchNPC",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -2661,7 +2661,7 @@
   {
     "strName": "ACTWallPlastic1x1PatchNPC",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -2711,7 +2711,7 @@
   {
     "strName": "ACTWallWindow1x1PatchNPC",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -2761,7 +2761,7 @@
   {
     "strName": "ACTMaintenanceTechFireExtinguishNPC",
     "strTitle": "Тушить",
-    "strDesc": "[us] [starts] тушить [them].",
+    "strDesc": "[us] начинает тушить [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 200,
@@ -2809,7 +2809,7 @@
   {
     "strName": "ACTMaintenanceTechReplaceRTAO2NPC",
     "strTitle": "Заменить",
-    "strDesc": "[us] [starts] заменять пустой на [them].",
+    "strDesc": "[us] начинает заменять пустой на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 3,
@@ -2857,7 +2857,7 @@
   {
     "strName": "ACTMaintenanceTechReplaceRTACO2NPC",
     "strTitle": "Опустошить CO2",
-    "strDesc": "[us] [starts] заменять полный на [them].",
+    "strDesc": "[us] начинает заменять полный на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 40,
@@ -2905,7 +2905,7 @@
   {
     "strName": "ACTMaintenanceTechReplaceRTAN2NPC",
     "strTitle": "Заменить",
-    "strDesc": "[us] [starts] заменять пустой на [them].",
+    "strDesc": "[us] начинает заменять пустой на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 3,
@@ -2953,7 +2953,7 @@
   {
     "strName": "ACTWall1x1RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3000,7 +3000,7 @@
   {
     "strName": "ACTWallPlastic1x1RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3047,7 +3047,7 @@
   {
     "strName": "ACTWallWindow1x1RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3094,7 +3094,7 @@
   {
     "strName": "ACTFloorGrate01RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3141,7 +3141,7 @@
   {
     "strName": "ACTAlarmN2RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3188,7 +3188,7 @@
   {
     "strName": "ACTAlarmO2RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3235,7 +3235,7 @@
   {
     "strName": "ACTAlarmCO2RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3282,7 +3282,7 @@
   {
     "strName": "ACTAlarmSmokeRepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3329,7 +3329,7 @@
   {
     "strName": "ACTAlarmSmokeRepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3376,7 +3376,7 @@
   {
     "strName": "ACTAlarmTempRepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3423,7 +3423,7 @@
   {
     "strName": "ACTConduit00RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -3470,7 +3470,7 @@
   {
     "strName": "ACTCooler01RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3517,7 +3517,7 @@
   {
     "strName": "ACTHeater01RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3564,7 +3564,7 @@
   {
     "strName": "ACTAirPump02RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 1.5,
@@ -3611,7 +3611,7 @@
   {
     "strName": "ACTAtmoScrubber01RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 50,
@@ -3658,7 +3658,7 @@
   {
     "strName": "ACTAtmoScrubber02RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 50,
@@ -3705,7 +3705,7 @@
   {
     "strName": "ACTRTAO2RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 10,
@@ -3752,7 +3752,7 @@
   {
     "strName": "ACTRTAN2RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 10,
@@ -3799,7 +3799,7 @@
   {
     "strName": "ACTRTACO2RepairNPC",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [starts] восстанавливать повреждения на [them].",
+    "strDesc": "[us] начинает восстанавливать повреждения на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
     "fTargetPointRange": 50,
@@ -3846,7 +3846,7 @@
   {
     "strName": "ACTPlayGame",
     "strTitle": "Играть",
-    "strDesc": "[us] [решает] поиграть в [them].",
+    "strDesc": "[us] решает поиграть в [them].",
     "strTooltip": "Проходит сложную аркадную игру, получая немного времени наедине с собой, автономию и спасение от страхов и бессмысленности реальной жизни.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -3873,7 +3873,7 @@
   {
     "strName": "ACTPlayGameDeny",
     "strTitle": "Сейчас не интересно",
-    "strDesc": "[us] [не] [хочет] сейчас играть в [them].",
+    "strDesc": "[us] не хочет сейчас играть в [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -3894,7 +3894,7 @@
   {
     "strName": "ACTPlayGameDenyContact",
     "strTitle": "Хочет общения",
-    "strDesc": "[us] [не] хочет сейчас играть с [them], потому что [us-subj] prefers prefers prefers prefers prefers prefers.",
+    "strDesc": "[us] не хочет сейчас играть с [them], потому что [us] prefers prefers prefers prefers prefers prefers.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -3917,7 +3917,7 @@
   {
     "strName": "ACTPlayGameDenyEsteem",
     "strTitle": "Жаждет признания",
-    "strDesc": "[us] [не] хочет сейчас играть с [them], потому что [us-subj] prefers prefers.",
+    "strDesc": "[us] не хочет сейчас играть с [them], потому что [us] prefers prefers.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -3940,7 +3940,7 @@
   {
     "strName": "ACTPlayGameJoin",
     "strTitle": "Присоединиться к игре",
-    "strDesc": "[us] [решает] присоединиться к [3rd] и поиграть в [them].",
+    "strDesc": "[us] решает присоединиться к и поиграть в [them].",
     "strTooltip": "Играет в игру с напарником.\nОбеспечивает вам обоим контакт и, возможно, чувство принадлежности.\nОбеспечивает автономию и спасение от страхов и бессмысленности реальной жизни.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -3968,7 +3968,7 @@
   {
     "strName": "ACTPlayGameAllowNew",
     "strTitle": "Начать новую игру",
-    "strDesc": "[us] [начинает] новую игру на [them] и настраивает персонажа.",
+    "strDesc": "[us] начинает новую игру на [them] и настраивает персонажа.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4020,7 +4020,7 @@
   {
     "strName": "ACTPlayGameJoinAllow",
     "strTitle": "",
-    "strDesc": "[us] играет в [them] вместе с [3rd].",
+    "strDesc": "[us] играет в [them] вместе с .",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4076,7 +4076,7 @@
   {
     "strName": "ACTPlayGameContSide",
     "strTitle": "Проходит побочное задание",
-    "strDesc": "[us] [выполняет] дополнительное побочное задание в [them].",
+    "strDesc": "[us] выполняет дополнительное побочное задание в [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4108,7 +4108,7 @@
   {
     "strName": "ACTPlayGameContBoss",
     "strTitle": "Проходит кульминационный уровень",
-    "strDesc": "[us] [достиг] напряжённого кульминационного момента в [them].",
+    "strDesc": "[us] достиг напряжённого кульминационного момента в [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4137,7 +4137,7 @@
   {
     "strName": "ACTPlayGameContBossWin",
     "strTitle": "Победа!",
-    "strDesc": "[us] [одержал] победу, преодолев мощный кульминационный рубеж в [them], и [повышает] уровень.",
+    "strDesc": "[us] одержал победу, преодолев мощный кульминационный рубеж в [them], и повышает уровень.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4163,7 +4163,7 @@
   {
     "strName": "ACTPlayGameOver",
     "strTitle": "Игра окончена",
-    "strDesc": "ИГРА ОКОНЧЕНА. В другой раз повезёт. [us] [перестаёт] играть в [them].",
+    "strDesc": "ИГРА ОКОНЧЕНА. В другой раз повезёт. [us] перестаёт играть в [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -4190,7 +4190,7 @@
   {
     "strName": "ACTPlayGameOverBoss",
     "strTitle": "Игра окончена",
-    "strDesc": "GAME OVER. [us] был так близок к победе. Может быть, в следующий раз. [us] [перестает] играть в [them].",
+    "strDesc": "GAME OVER. [us] был так близок к победе. Может быть, в следующий раз. [us] перестает играть в [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -4216,7 +4216,7 @@
   {
     "strName": "ACTPlayGameStopShift",
     "strTitle": "",
-    "strDesc": "[us] [перестаёт] играть на [them] из-за смены.",
+    "strDesc": "[us] перестаёт играть на [them] из-за смены.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -4244,7 +4244,7 @@
   {
     "strName": "ACTPlayGameStop",
     "strTitle": "",
-    "strDesc": "[us] [перестаёт] играть на [them].",
+    "strDesc": "[us] перестаёт играть на [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -4293,7 +4293,7 @@
   {
     "strName": "ACTTogglePowerGateVLA",
     "strTitle": "Переключить несанкционированный доступ к стыковке",
-    "strDesc": "[us] [начинает] получать несанкционированный задний доступ к сервисному доку через корабельные коммуникации, используя [them].",
+    "strDesc": "[us] начинает получать несанкционированный задний доступ к сервисному доку через корабельные коммуникации, используя [them].",
     "strTooltip": "Переключает питание вкл./выкл.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -4371,7 +4371,7 @@
   {
     "strName": "ACTPlaySongOKLG03",
     "strTitle": "Включить трек 3: Black Glass",
-    "strDesc": "[us] [настраивает] [them] на воспроизведение трека 3: «Black Glass».",
+    "strDesc": "[us] настраивает [them] на воспроизведение трека 3: «Black Glass».",
     "strTooltip": "Воспроизводит трек 3: The Metal Barge на данном устройстве.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -4395,7 +4395,7 @@
   {
     "strName": "ACTPlaySongOKLGNone",
     "strTitle": "Остановить музыку",
-    "strDesc": "[us] [настраивает] [them] на воспроизведение без музыки.",
+    "strDesc": "[us] настраивает [them] на воспроизведение без музыки.",
     "strTooltip": "Не воспроизводит музыку, оставаясь в режиме ожидания при включенном питании.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -4419,7 +4419,7 @@
   {
     "strName": "ACTPlayToyStart",
     "strTitle": "Играть с",
-    "strDesc": "[us] [собирается] поиграть с [them].",
+    "strDesc": "[us] собирается поиграть с [them].",
     "strTooltip": "Взаимодействует с [them] с воображением.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -4444,7 +4444,7 @@
   {
     "strName": "ACTPlayToy",
     "strTitle": "Играть с: По умолчанию",
-    "strDesc": "[us] [разыгрывает] небольшую сценку с [them].",
+    "strDesc": "[us] разыгрывает небольшую сценку с [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4462,7 +4462,7 @@
   {
     "strName": "ACTPlayToyDinoSingle",
     "strTitle": "Играть с: Одиночный динозавр",
-    "strDesc": "[us] [осматривает] эти земли вместе с [them], отмечая их плодородие.",
+    "strDesc": "[us] осматривает эти земли вместе с [them], отмечая их плодородие.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4501,7 +4501,7 @@
   {
     "strName": "ACTPryOpen",
     "strTitle": "Взорвать",
-    "strDesc": "[us] [начинает] вскрывать [them].",
+    "strDesc": "[us] начинает вскрывать [them].",
     "strTooltip": "Принудительно открывает цель с помощью инструмента для взлома.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -4531,7 +4531,7 @@
   {
     "strName": "ACTPryOpenAllow",
     "strTitle": "Взорвать",
-    "strDesc": "[us] [взламывает] [them].",
+    "strDesc": "[us] взламывает [them].",
     "strActionGroup": "Use",
     "strAnim": "Tooling",
     "strIdleAnim": null,
@@ -4556,7 +4556,7 @@
   {
     "strName": "ACTRepairTEMP",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [собирается] починить [them].",
+    "strDesc": "[us] собирается починить [them].",
     "strTooltip": "Чинит неработающий, поврежденный предмет, возвращая ему работоспособность.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -4576,7 +4576,7 @@
   {
     "strName": "ACTRepairTEMPAllow",
     "strTitle": "Ремонт ВРЕМ",
-    "strDesc": "[us] [чинит] [them].",
+    "strDesc": "[us] чинит [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -4596,7 +4596,7 @@
   {
     "strName": "ACTScrapTEMP",
     "strTitle": "Утилизировать",
-    "strDesc": "[us] [собирается] разобрать [them] на запчасти.",
+    "strDesc": "[us] собирается разобрать [them] на запчасти.",
     "strTooltip": "Спешно разбирает предмет для его удаления. Получается несколько ломаных деталей.",
     "strActionGroup": "Work",
     "nQabOrderPriority": -5,
@@ -4620,7 +4620,7 @@
   {
     "strName": "ACTScrapTEMPAllow",
     "strTitle": "Утилизация ВРЕМ",
-    "strDesc": "[us] [разбирает] [them] на запчасти.",
+    "strDesc": "[us] разбирает [them] на запчасти.",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -4640,7 +4640,7 @@
   {
     "strName": "ACTNavStationCheck",
     "strTitle": "Использовать",
-    "strDesc": "[us] [проверяет] [them] на наличие корректировок курса.",
+    "strDesc": "[us] проверяет [them] на наличие корректировок курса.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0,
@@ -4670,7 +4670,7 @@
   {
     "strName": "ACTSpaceSelf",
     "strTitle": "Космическое пространство: сам",
-    "strDesc": "[us] [создает] [пространство] для [us-reflexive].",
+    "strDesc": "[us] создает пространство для себя.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -4693,7 +4693,7 @@
   {
     "strName": "ACTSpacedFlail",
     "strTitle": "Размахивать",
-    "strDesc": "[us] [бешено размахивает] руками.",
+    "strDesc": "[us] бешено размахивает руками.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -4717,7 +4717,7 @@
   {
     "strName": "ACTSpacedFlail2",
     "strTitle": "Размахивать",
-    "strDesc": "[us] [слабо машет] руками.",
+    "strDesc": "[us] слабо машет руками.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0,
@@ -4741,7 +4741,7 @@
   {
     "strName": "ACTStorageBinFloor1x101Patch",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -4795,7 +4795,7 @@
   {
     "strName": "ACTStudySkill",
     "strTitle": "Изучение тренировки навыка",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Учится для постепенного прогресса в обретении нового навыка. Приносит уединение и чувство достижения, но может утомлять или вызывать одиночество.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -4865,7 +4865,7 @@
   {
     "strName": "ACTStudySkillDenyContact",
     "strTitle": "Хочет общения",
-    "strDesc": "[us] [не] хочет сейчас заниматься с [them], потому что [us-subj] prefers prefers prefers.",
+    "strDesc": "[us] не хочет сейчас заниматься с [them], потому что [us] prefers prefers prefers.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4887,7 +4887,7 @@
   {
     "strName": "ACTStudySkillDenyMeaning",
     "strTitle": "Хочет смысла",
-    "strDesc": "[us] [не] хочет сейчас заниматься с [them], потому что [us-subj] prefers prefers prefers prefers.",
+    "strDesc": "[us] не хочет сейчас заниматься с [them], потому что [us] prefers prefers prefers prefers.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -4954,7 +4954,7 @@
   {
     "strName": "ACTStudySkillAllow",
     "strTitle": "Подготовка к учёбе",
-    "strDesc": "[us] готовится к занятиям с [them], размышляя о том, что [us] уже узнал, и как это связано с опытом [us-pos].",
+    "strDesc": "[us] готовится к занятиям с [them], размышляя о том, что [us] уже узнал, и как это связано с опытом [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -5107,7 +5107,7 @@
   {
     "strName": "ACTStudySkillEngConstruction",
     "strTitle": "Изучение строительной инженерии",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Учится для постепенного повышения мастерства в навыке строительства. Приносит уединение и чувство достижения, но может утомлять или вызывать одиночество.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5189,7 +5189,7 @@
   {
     "strName": "ACTStudySkillEngCivil",
     "strTitle": "Изучение гражданского строительства",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Учится для постепенного повышения мастерства в навыке гражданского строительства. Приносит уединение и чувство достижения, но может утомлять или вызывать одиночество.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5271,7 +5271,7 @@
   {
     "strName": "ACTStudySkillEngCombat",
     "strTitle": "Изучение боевой инженерии",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области боевой инженерии. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5299,7 +5299,7 @@
   {
     "strName": "ACTStudySkillEngCombatAllow",
     "strTitle": "Выбор следующего этапа изучения",
-    "strDesc": "[us] [выбирает] следующий этап изучения боевой инженерии.",
+    "strDesc": "[us] выбирает следующий этап изучения боевой инженерии.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -5353,7 +5353,7 @@
   {
     "strName": "ACTStudySkillEngElectronic",
     "strTitle": "Изучить электротехнику",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области электротехники. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5435,7 +5435,7 @@
   {
     "strName": "ACTStudySkillEngExcavation",
     "strTitle": "Изучение раскопок",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области земляных работ. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5494,7 +5494,7 @@
   {
     "strName": "ACTStudySkillDenyEngExcavationAlready",
     "strTitle": "Уже освоено",
-    "strDesc": "[us] [is] уже обладает навыками в раскопках.",
+    "strDesc": "[us] уже обладает навыками в раскопках.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -5517,7 +5517,7 @@
   {
     "strName": "ACTStudySkillEngMechanical",
     "strTitle": "Изучить механику",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области машиностроения. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5599,7 +5599,7 @@
   {
     "strName": "ACTStudySkillEngRobotics",
     "strTitle": "Изучить робототехнику",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области робототехники. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5681,7 +5681,7 @@
   {
     "strName": "ACTStudySkillEngSoftware",
     "strTitle": "Изучить программирование",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области программной инженерии. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5763,7 +5763,7 @@
   {
     "strName": "ACTStudySkillEngSpaceship",
     "strTitle": "Изучить космическое кораблестроение",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области космической инженерии. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5845,7 +5845,7 @@
   {
     "strName": "ACTStudySkillHacking",
     "strTitle": "Изучить хакинг",
-    "strDesc": "[us] [решает] изучить [them].",
+    "strDesc": "[us] решает изучить [them].",
     "strTooltip": "Обучение для постепенного повышения квалификации в области взлома. Обеспечивает уединение и чувство достижения, но может стать утомительным или одиноким.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -5979,7 +5979,7 @@
   {
     "strName": "ACTStudySkillContChallenge",
     "strTitle": "Обучение: сложная задача",
-    "strDesc": "[us] [добрался] до сложного раздела, требующего практической отработки с вовлечением.",
+    "strDesc": "[us] добрался до сложного раздела, требующего практической отработки с вовлечением.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -6333,7 +6333,7 @@
   {
     "strName": "ACTTVChannelDrama",
     "strTitle": "Переключить на канал сериалов",
-    "strDesc": "[us] [начинает] переключать [them] на канал сериалов.",
+    "strDesc": "[us] начинает переключать [them] на канал сериалов.",
     "strTooltip": "Переключает канал для просмотра драматических повторов.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6359,7 +6359,7 @@
   {
     "strName": "ACTTVChannelDramaAllow",
     "strTitle": "Канал сериалов включён",
-    "strDesc": "[them] [заканчивает] переключать [us] на канал сериалов.",
+    "strDesc": "[them] заканчивает переключать [us] на канал сериалов.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -6383,7 +6383,7 @@
   {
     "strName": "ACTTVChannelNews",
     "strTitle": "Переключить на новостной канал",
-    "strDesc": "[us] [начинает] переключать [them] на новостной канал.",
+    "strDesc": "[us] начинает переключать [them] на новостной канал.",
     "strTooltip": "Переключает канал на общесистемные новости.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6409,7 +6409,7 @@
   {
     "strName": "ACTTVChannelNewsAllow",
     "strTitle": "Новостной канал включён",
-    "strDesc": "[them] [заканчивает] переключать [us] на новостной канал.",
+    "strDesc": "[them] заканчивает переключать [us] на новостной канал.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -6433,7 +6433,7 @@
   {
     "strName": "ACTTVWatchNews",
     "strTitle": "Смотреть новости",
-    "strDesc": "[us] [решает] посмотреть новости на [them].",
+    "strDesc": "[us] решает посмотреть новости на [them].",
     "strTooltip": "Тратит немного времени на просмотр новостей.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6459,7 +6459,7 @@
   {
     "strName": "ACTTVWatchNewsAllow",
     "strTitle": "Просмотр новостей",
-    "strDesc": "[us] [смотрит] новости на [them].",
+    "strDesc": "[us] смотрит новости на [them].",
     "strTooltip": "Тратит немного времени на просмотр новостей.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6490,7 +6490,7 @@
   {
     "strName": "ACTTVWatchDrama",
     "strTitle": "Смотреть повторы сериалов",
-    "strDesc": "[us] [решает] посмотреть повторы сериалов на [them].",
+    "strDesc": "[us] решает посмотреть повторы сериалов на [them].",
     "strTooltip": "Тратит немного времени на просмотр драматических повторов.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6518,7 +6518,7 @@
   {
     "strName": "ACTTVWatchDramaAllow",
     "strTitle": "Просмотр повторов сериалов",
-    "strDesc": "[us] [смотрит] повторы сериалов на [them].",
+    "strDesc": "[us] смотрит повторы сериалов на [them].",
     "strTooltip": "Тратит немного времени на просмотр драматических повторов.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6549,7 +6549,7 @@
   {
     "strName": "ACTTVWatchEnd",
     "strTitle": "Прекратить просмотр новостей",
-    "strDesc": "[them] [перестаёт] смотреть [us].",
+    "strDesc": "[them] перестаёт смотреть [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fForcedChance": 0.5,
@@ -6571,7 +6571,7 @@
   {
     "strName": "ACTTVWatchEndShift",
     "strTitle": "Прекратить просмотр новостей",
-    "strDesc": "[them] [перестаёт] смотреть [us].",
+    "strDesc": "[them] перестаёт смотреть [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fForcedChance": 1.0,
@@ -6594,7 +6594,7 @@
   {
     "strName": "ACTUndamageTEMP",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [собирается] восстановить [them].",
+    "strDesc": "[us] собирается восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6619,7 +6619,7 @@
   {
     "strName": "ACTUndamageTEMPAllow",
     "strTitle": "Восстановление",
-    "strDesc": "[us] [восстанавливает] [them].",
+    "strDesc": "[us] восстанавливает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -6642,7 +6642,7 @@
   {
     "strName": "ACTUndamageHullTEMPNPC",
     "strTitle": "Обслуживать",
-    "strDesc": "[us] [собирается] восстановить [them].",
+    "strDesc": "[us] собирается восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6667,7 +6667,7 @@
   {
     "strName": "ACTUndamageHullTEMPNPCAllow",
     "strTitle": "Обслуживать",
-    "strDesc": "[us] [обслуживает] [them].",
+    "strDesc": "[us] обслуживает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 2,
@@ -6690,7 +6690,7 @@
   {
     "strName": "ACTUndamageTEMPNPC",
     "strTitle": "Обслуживать",
-    "strDesc": "[us] [собирается] восстановить [them].",
+    "strDesc": "[us] собирается восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6715,7 +6715,7 @@
   {
     "strName": "ACTUndamageTEMPNPCAllow",
     "strTitle": "Обслуживать",
-    "strDesc": "[us] [обслуживает] [them].",
+    "strDesc": "[us] обслуживает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 2,
@@ -6738,7 +6738,7 @@
   {
     "strName": "ACTUndamageNoSparksTEMP",
     "strTitle": "Ремонт",
-    "strDesc": "[us] [собирается] восстановить [them].",
+    "strDesc": "[us] собирается восстановить [them].",
     "strTooltip": "Устраняет износ и повреждения работающего, но изношенного предмета.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6763,7 +6763,7 @@
   {
     "strName": "ACTUndamageNoSparksTEMPAllow",
     "strTitle": "Восстановление",
-    "strDesc": "[us] [восстанавливает] [them].",
+    "strDesc": "[us] восстанавливает [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -6786,7 +6786,7 @@
   {
     "strName": "ACTUndamageABLTEMP",
     "strTitle": "Заменить лайнер ядра ABL",
-    "strDesc": "[us] [собирается] заменить лайнер ядра ABL на [them].",
+    "strDesc": "[us] собирается заменить лайнер ядра ABL на [them].",
     "strTooltip": "Заменяет изношенный абляционный вкладыш сердечника реактора.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6813,7 +6813,7 @@
   {
     "strName": "ACTUndamageABLTEMPAllow",
     "strTitle": "Заменить лайнер ядра ABL",
-    "strDesc": "[us] [заменяет] лайнер ядра ABL на [them].",
+    "strDesc": "[us] заменяет лайнер ядра ABL на [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -6839,7 +6839,7 @@
   {
     "strName": "ACTUninstallTEMP",
     "strTitle": "Демонтировать",
-    "strDesc": "[us] [собирается] демонтировать [them].",
+    "strDesc": "[us] собирается демонтировать [them].",
     "strTooltip": "Демонтирует деталь корабля для перемещения в другое место.",
     "strActionGroup": "Work",
     "nQabOrderPriority": -1,
@@ -6863,7 +6863,7 @@
   {
     "strName": "ACTUninstallTEMPAllow",
     "strTitle": "Демонтаж TEMP",
-    "strDesc": "[us] [демонтирует] [them].",
+    "strDesc": "[us] демонтирует [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -6884,7 +6884,7 @@
   {
     "strName": "ACTUninstallNoSparksTEMP",
     "strTitle": "Демонтировать",
-    "strDesc": "[us] [собирается] демонтировать [them].",
+    "strDesc": "[us] собирается демонтировать [them].",
     "strTooltip": "Демонтирует деталь корабля для перемещения в другое место.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6907,7 +6907,7 @@
   {
     "strName": "ACTUninstallNoSparksTEMPAllow",
     "strTitle": "Демонтаж TEMP",
-    "strDesc": "[us] [демонтирует] [them].",
+    "strDesc": "[us] демонтирует [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -6928,7 +6928,7 @@
   {
     "strName": "ACTWall1x1Patch",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -6982,7 +6982,7 @@
   {
     "strName": "ACTWallPlastic1x1Patch",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -7036,7 +7036,7 @@
   {
     "strName": "ACTWallAeroToggleLayout",
     "strTitle": "Изменить расположение",
-    "strDesc": "[us] [начинает] перенастраивать [them] для альтернативного расположения.",
+    "strDesc": "[us] начинает перенастраивать [them] для альтернативного расположения.",
     "strTooltip": "Изменяет расположение детали для использования в альтернативной конфигурации.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -7195,7 +7195,7 @@
   {
     "strName": "ACTWallWindow1x1Patch",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -7249,7 +7249,7 @@
   {
     "strName": "ACTWallWindow1x1SqPatch",
     "strTitle": "Заплатить",
-    "strDesc": "[us] [начинает] латать пробоину в [them].",
+    "strDesc": "[us] начинает латать пробоину в [them].",
     "strTooltip": "Накладывает пластырь для быстрой герметизации утечек газа.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -7303,7 +7303,7 @@
   {
     "strName": "ACTWallWindowToggleLayout",
     "strTitle": "Изменить расположение",
-    "strDesc": "[us] [начинает] перенастраивать [them] для альтернативного расположения.",
+    "strDesc": "[us] начинает перенастраивать [them] для альтернативного расположения.",
     "strTooltip": "Изменяет расположение детали для использования в альтернативной конфигурации.",
     "strActionGroup": "Work",
     "strTargetPoint": "use",
@@ -7374,7 +7374,7 @@
   {
     "strName": "AIModeDisable",
     "strTitle": "Поведение: Ручное",
-    "strDesc": "[us] [отключает] ИИ.",
+    "strDesc": "[us] отключает ИИ.",
     "strActionGroup": "Use",
     "aInverse": [],
     "fDuration": 0.0,
@@ -7387,7 +7387,7 @@
   {
     "strName": "AIModeEnable",
     "strTitle": "Поведение: Автоматическое",
-    "strDesc": "[us] [включает] ИИ.",
+    "strDesc": "[us] включает ИИ.",
     "strActionGroup": "Use",
     "aInverse": [],
     "fDuration": 0.0,
@@ -7400,7 +7400,7 @@
   {
     "strName": "CancelAction",
     "strTitle": "Отменить действие",
-    "strDesc": "[us] [отменяет] [us-pos] текущее действие.",
+    "strDesc": "[us] отменяет [us] текущее действие.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -7474,7 +7474,7 @@
   {
     "strName": "AIClearAttemptCO2",
     "strTitle": "Сброс ПопыткаВыживанияCO2",
-    "strDesc": "[us] [снимает] конд.",
+    "strDesc": "[us] снимает конд.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -7490,7 +7490,7 @@
   {
     "strName": "AIClearAttemptO2",
     "strTitle": "Сброс ПопыткаВыживанияO2",
-    "strDesc": "[us] [снимает] конд.",
+    "strDesc": "[us] снимает конд.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -7506,7 +7506,7 @@
   {
     "strName": "GUIAtmoScrubber",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к ручкам управления, переключателям и сигнальным каналам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -7553,7 +7553,7 @@
   {
     "strName": "GUIAtmoScrubber02",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к ручкам управления, переключателям и сигнальным каналам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -8048,7 +8048,7 @@
   {
     "strName": "CGEncRichSchmuckIntro",
     "strTitle": "Король инкогнито",
-    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда [they] пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
+    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда они пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
     "aInverse": [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -8068,7 +8068,7 @@
   {
     "strName": "CGEncRichSchmuckIntroMan",
     "strTitle": "Король инкогнито",
-    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда [they] пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
+    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда они пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
     "aInverse": [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -8087,7 +8087,7 @@
   {
     "strName": "CGEncRichSchmuckIntroWoman",
     "strTitle": "Король инкогнито",
-    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда [they] пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
+    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда они пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
     "aInverse": [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -8106,7 +8106,7 @@
   {
     "strName": "CGEncRichSchmuckIntroNB",
     "strTitle": "Король инкогнито",
-    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда [they] пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
+    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда они пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
     "aInverse": [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -8125,7 +8125,7 @@
   {
     "strName": "CGEncRichSchmuckIntroNone",
     "strTitle": "Король инкогнито",
-    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда [they] пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
+    "strDesc": "Вы пропускаете стаканчик в местной забегаловке после смены — и тут видите его. Единорога. Наследника кого-то из руководства Ayotimiwa, который тайком выбрался в народ — потусовать и поразвлечься с простыми смертными. Вы морщитесь, когда они пытаются расплатиться за круг юанями — таким, как мы, подавай доллары, друг.",
     "aInverse": [
       "CGEncRichSchmuckInciteRiot",
       "CGEncRichSchmuckPickpocket",
@@ -8143,7 +8143,7 @@
   {
     "strName": "CGEncRichSchmuckInciteRiot",
     "strTitle": "Начать бунт",
-    "strDesc": "Ладно, возможно, сегодня вы перебрали. И, возможно, ваши чувства к богачам лучше описываются не как «обобрать», а как «сожрать». Барки на K-LEG — штука взрывоопасная даже в лучшие времена, и понадобилась лишь капля театральности с вашей стороны, чтобы натравить на [them-pos] шелковые одёжки разъярённую толпу.",
+    "strDesc": "Ладно, возможно, сегодня вы перебрали. И, возможно, ваши чувства к богачам лучше описываются не как «обобрать», а как «сожрать». Барки на K-LEG — штука взрывоопасная даже в лучшие времена, и понадобилась лишь капля театральности с вашей стороны, чтобы натравить на [them] шелковые одёжки разъярённую толпу.",
     "aInverse": [],
     "fDuration": 0.0,
     "LootCTsUs": "CTRichSchmuckInciteRiot",
@@ -8780,7 +8780,7 @@
   {
     "strName": "CGEncTestE",
     "strTitle": "Сообщить о слабой безопасности",
-    "strDesc": "Когда смена заканчивается, вы заходите в офис к менеджеру и сообщаете [them] об утечке данных по безопасности на рабочей барже. [They] ценят вашу преданность и говорят, чтобы вы связались с [them], если вам когда-нибудь что-нибудь понадобится.",
+    "strDesc": "Когда смена заканчивается, вы заходите в офис к менеджеру и сообщаете [them] об утечке данных по безопасности на рабочей барже. Они ценят вашу преданность и говорят, чтобы вы связались с [them], если вам когда-нибудь что-нибудь понадобится.",
     "aInverse": [],
     "fDuration": 0.0,
     "LootCTsUs": "CTEncTestE",
@@ -8929,7 +8929,7 @@
   {
     "strName": "CGEncRichSchmuckExAdd",
     "strTitle": "Добавляет все влечения к [us]",
-    "strDesc": "[us] [получает] влечение ко всем людям.",
+    "strDesc": "[us] получает влечение ко всем людям.",
     "nLogging": 0,
     "strTargetPoint": null,
     "aInverse": [],
@@ -8944,7 +8944,7 @@
   {
     "strName": "CGEncRichSchmuckExAddPartner",
     "strTitle": "Добавляет партнёра Ayotimiwa к [us]",
-    "strDesc": "[us] [получает] партнёра Ayotimiwa: [3rd].",
+    "strDesc": "[us] получает партнёра Ayotimiwa: .",
     "nLogging": 0,
     "strTargetPoint": null,
     "aInverse": [],
@@ -8963,7 +8963,7 @@
   {
     "strName": "DEBUGAskSkills",
     "strTitle": "Спросить о навыках.",
-    "strDesc": "[us] [спрашивает] [them], какими навыками [them-subj] [обладает].",
+    "strDesc": "[us] спрашивает [them], какими навыками [them-subj] обладает.",
     "strTooltip": "Предлагает цели продемонстрировать все свои навыки.",
     "strActionGroup": "Talk",
     "fTargetPointRange": 0,
@@ -8983,7 +8983,7 @@
   {
     "strName": "DEBUGAskSkillsAllow",
     "strTitle": "Рассказать о навыках.",
-    "strDesc": "[us] [рассказывает] [them], какими навыками [us] [обладает].",
+    "strDesc": "[us] рассказывает [them], какими навыками [us] обладает.",
     "fTargetPointRange": 0,
     "strAnim": "Talk",
     "strIdleAnim": "Talk",
@@ -9001,7 +9001,7 @@
   {
     "strName": "DEBUGAskSkillsAllowOK",
     "strTitle": "OK.",
-    "strDesc": "[us] [говорит] «хорошо» и [благодарит] [them] за [them-pos] время.",
+    "strDesc": "[us] говорит «хорошо» и благодарит [them] за [them] время.",
     "strActionGroup": "Talk",
     "fTargetPointRange": 0,
     "strAnim": "Talk",
@@ -9034,7 +9034,7 @@
   {
     "strName": "Defecation",
     "strTitle": "Подготовка к испражнению",
-    "strDesc": "[us] [пытается] испражниться.",
+    "strDesc": "[us] пытается испражниться.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9061,7 +9061,7 @@
   {
     "strName": "DefecationFinish",
     "strTitle": "Нужда",
-    "strDesc": "[us] [закончил] испражнение.",
+    "strDesc": "[us] закончил испражнение.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9088,7 +9088,7 @@
   {
     "strName": "DefecationFailSpaceSuit",
     "strTitle": "",
-    "strDesc": "[them] [готовит] доступ в [them-pos] скафандре для [us].",
+    "strDesc": "[them] готовит доступ в [them] скафандре для [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9138,7 +9138,7 @@
   {
     "strName": "DoneUsing",
     "strTitle": "",
-    "strDesc": "[us] [is] закончил использование [them].",
+    "strDesc": "[us] закончил использование [them].",
     "strTeleport": "use",
     "strIdleAnim": "Idle",
     "fDuration": 2.8e-05,
@@ -9148,7 +9148,7 @@
   {
     "strName": "DoneUsingNoTeleport",
     "strTitle": "",
-    "strDesc": "[us] [is] закончил использование [them].",
+    "strDesc": "[us] закончил использование [them].",
     "strIdleAnim": "Idle",
     "fDuration": 2.8e-05,
     "bNoRemember": true,
@@ -9157,7 +9157,7 @@
   {
     "strName": "DoneUsingWander",
     "strTitle": "",
-    "strDesc": "[us] [is] закончил использование [them].",
+    "strDesc": "[us] закончил использование [them].",
     "strTeleport": "use",
     "strIdleAnim": "Idle",
     "fDuration": 2.8e-05,
@@ -9172,7 +9172,7 @@
   {
     "strName": "Draft",
     "strTitle": "Прямой приказ",
-    "strDesc": "[us] [пытается] взять [them] под прямое управление...",
+    "strDesc": "[us] пытается взять [them] под прямое управление...",
     "strActionGroup": "Use",
     "strAnim": "Talk",
     "aInverse": [
@@ -9192,7 +9192,7 @@
   {
     "strName": "DraftAllow",
     "strTitle": "DraftAllow",
-    "strDesc": "[us] [соглашается].",
+    "strDesc": "[us] соглашается.",
     "strActionGroup": "Use",
     "strAnim": "Yes",
     "aInverse": [
@@ -9211,7 +9211,7 @@
   {
     "strName": "DraftDeny",
     "strTitle": "DraftDeny",
-    "strDesc": "[us] [отказывается].",
+    "strDesc": "[us] отказывается.",
     "strActionGroup": "Use",
     "strAnim": "No",
     "aInverse": [
@@ -9230,7 +9230,7 @@
   {
     "strName": "DropItem",
     "strTitle": "Бросить",
-    "strDesc": "[us] [is] собирается выбросить [them].",
+    "strDesc": "[us] собирается выбросить [them].",
     "strTooltip": "Выбросить один предмет из инвентаря на соседнюю клетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9257,7 +9257,7 @@
   {
     "strName": "DropItemAllow",
     "strTitle": "Выбросить предмет: выполнено",
-    "strDesc": "[them] [выбрасывает] [us].",
+    "strDesc": "[them] выбрасывает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9281,7 +9281,7 @@
   {
     "strName": "DropItemStack",
     "strTitle": "Выбросить стопку предметов",
-    "strDesc": "[us] [is] собирается выбросить [them].",
+    "strDesc": "[us] собирается выбросить [them].",
     "strTooltip": "Выбросить стопку предметов из инвентаря на соседнюю клетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9308,7 +9308,7 @@
   {
     "strName": "DropItemStackAllow",
     "strTitle": "Выбросить стопку предметов: выполнено",
-    "strDesc": "[them] [выбрасывает] [us].",
+    "strDesc": "[them] выбрасывает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9332,7 +9332,7 @@
   {
     "strName": "EquipItem",
     "strTitle": "Экипировать",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Пытается поместить предмет в подходящий свободный слот экипировки или удержания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9359,7 +9359,7 @@
   {
     "strName": "EquipItemAllow",
     "strTitle": "Экипировать предмет: выполнено",
-    "strDesc": "[them] [экипирует] [us].",
+    "strDesc": "[them] экипирует [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9384,7 +9384,7 @@
   {
     "strName": "EquipHelmetEvenIfSlotted",
     "strTitle": "Надеть шлем",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Пытается поместить предмет в подходящий свободный слот экипировки или удержания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9411,7 +9411,7 @@
   {
     "strName": "EquipHelmetNotCarried",
     "strTitle": "Надеть шлем",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Пытается поместить предмет в подходящий свободный слот экипировки или удержания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9438,7 +9438,7 @@
   {
     "strName": "EquipSuitEvenIfSlotted",
     "strTitle": "Надеть скафандр",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Пытается поместить предмет в подходящий свободный слот экипировки или удержания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9465,7 +9465,7 @@
   {
     "strName": "EquipSuitNotCarried",
     "strTitle": "Надеть скафандр",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Пытается поместить предмет в подходящий свободный слот экипировки или удержания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9492,7 +9492,7 @@
   {
     "strName": "GUIAccessPanel",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [получает] доступ к панели управления [them].",
+    "strDesc": "[us] получает доступ к панели управления [them].",
     "strTooltip": "Получает доступ к переключателям и тумблерам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9579,7 +9579,7 @@
   {
     "strName": "GUIAirPump",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к ручкам управления, переключателям и сигнальным каналам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9626,7 +9626,7 @@
   {
     "strName": "GUIAlarm",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к настройкам обхода, переключателям и тумблерам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9673,7 +9673,7 @@
   {
     "strName": "GUIBattery",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [проверяет] статус [them].",
+    "strDesc": "[us] проверяет статус [them].",
     "strTooltip": "Просматривает индикатор заряда цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9700,7 +9700,7 @@
   {
     "strName": "GUICargoPod",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [проверяет] статус [them].",
+    "strDesc": "[us] проверяет статус [them].",
     "strTooltip": "Просматривает панель управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9766,7 +9766,7 @@
   {
     "strName": "GUIBreaker",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к ручкам управления, переключателям и сигнальным каналам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9813,7 +9813,7 @@
   {
     "strName": "GUIChargenBody",
     "strTitle": "Посмотреть в зеркало",
-    "strDesc": "[us] [смотрит] в зеркало.",
+    "strDesc": "[us] смотрит в зеркало.",
     "strTooltip": "Просматривает или изменяет внешность персонажа.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9840,7 +9840,7 @@
   {
     "strName": "GUIChargenBodyAllow",
     "strTitle": "",
-    "strDesc": "[them] [проверяет] свою внешность.",
+    "strDesc": "[them] проверяет свою внешность.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9860,7 +9860,7 @@
   {
     "strName": "GUIChargenBodyStarter",
     "strTitle": "Посмотреть в зеркало",
-    "strDesc": "[us] [смотрит] в зеркало.",
+    "strDesc": "[us] смотрит в зеркало.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0,
@@ -9886,7 +9886,7 @@
   {
     "strName": "GUIChargenCareer",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к карьерному терминалу.",
+    "strDesc": "[us] получает доступ к карьерному терминалу.",
     "strTooltip": "Просматривает или выбирает предысторию, контакты и навыки персонажа.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9913,7 +9913,7 @@
   {
     "strName": "GUIChargenCareerAllow",
     "strTitle": "",
-    "strDesc": "[them] [начинает] работать над резюме.",
+    "strDesc": "[them] начинает работать над резюме.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9933,7 +9933,7 @@
   {
     "strName": "GUIChargenHomeworld",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к системному терминалу связи.",
+    "strDesc": "[us] получает доступ к системному терминалу связи.",
     "strTooltip": "Просматривает или изменяет родную планету и юридический статус персонажа.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9960,7 +9960,7 @@
   {
     "strName": "GUIChargenHomeworldAllow",
     "strTitle": "",
-    "strDesc": "[them] [звонит] домой.",
+    "strDesc": "[them] звонит домой.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -9980,7 +9980,7 @@
   {
     "strName": "GUIChargenLaunch",
     "strTitle": "Запуск корабля",
-    "strDesc": "[us] [получает] доступ к зоне запуска.",
+    "strDesc": "[us] получает доступ к зоне запуска.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0,
@@ -10006,7 +10006,7 @@
   {
     "strName": "GUIChargenLaunchAllow",
     "strTitle": "",
-    "strDesc": "[them] [начинает] процесс запуска.",
+    "strDesc": "[them] начинает процесс запуска.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10026,7 +10026,7 @@
   {
     "strName": "GUIChargenTraits",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к терминалу личного ухода.",
+    "strDesc": "[us] получает доступ к терминалу личного ухода.",
     "strTooltip": "Просматривает или изменяет черты характера персонажа.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10053,7 +10053,7 @@
   {
     "strName": "GUIChargenTraitsAllow",
     "strTitle": "",
-    "strDesc": "[them] [начинает] выбирать варианты обслуживания.",
+    "strDesc": "[them] начинает выбирать варианты обслуживания.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10073,7 +10073,7 @@
   {
     "strName": "GUIComputer",
     "strTitle": "Использовать КПК",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Активирует КПК.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10100,7 +10100,7 @@
   {
     "strName": "GUIComputerLink",
     "strTitle": "Подключить к КПК",
-    "strDesc": "[us] [начинает] подключать свой КПК к [them] корабля [data].",
+    "strDesc": "[us] начинает подключать свой КПК к [them] корабля данные.",
     "strTooltip": "Подключает уведомления корабля для вывода на личный КПК.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10129,7 +10129,7 @@
   {
     "strName": "GUIComputerAllow",
     "strTitle": "",
-    "strDesc": "[them] [начинает] использовать [us].",
+    "strDesc": "[them] начинает использовать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10150,7 +10150,7 @@
   {
     "strName": "GUIComputerAllowNAV",
     "strTitle": "",
-    "strDesc": "[them] [начинает] использовать [us].",
+    "strDesc": "[them] начинает использовать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10171,7 +10171,7 @@
   {
     "strName": "GUICooler",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к ручкам управления, переключателям и сигнальным каналам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10218,7 +10218,7 @@
   {
     "strName": "GUIHeater",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к ручкам управления, переключателям и сигнальным каналам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10265,7 +10265,7 @@
   {
     "strName": "GUIHeavyLiftRotor",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к настройкам обхода, переключателям и тумблерам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10312,7 +10312,7 @@
   {
     "strName": "GUIHire",
     "strTitle": "Нанять (отладка)",
-    "strDesc": "[us] [хочет] обсудить приём на работу с [them].",
+    "strDesc": "[us] хочет обсудить приём на работу с [them].",
     "strTooltip": "Начинает переговоры о найме.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
@@ -10338,7 +10338,7 @@
   {
     "strName": "GUIHireFire",
     "strTitle": "Уволить (отладка)",
-    "strDesc": "[us] [хочет] обсудить приём на работу с [them].",
+    "strDesc": "[us] хочет обсудить приём на работу с [them].",
     "strTooltip": "Завершает работу цели в составе этого экипажа.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
@@ -10364,7 +10364,7 @@
   {
     "strName": "GUIHireAllow",
     "strTitle": "Обсудить приём на работу",
-    "strDesc": "[them] [соглашается] обсудить приём на работу.",
+    "strDesc": "[them] соглашается обсудить приём на работу.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10384,7 +10384,7 @@
   {
     "strName": "GUIJobs",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к Gig Nexus.",
+    "strDesc": "[us] получает доступ к Gig Nexus.",
     "strTooltip": "Поиск и принятие оплачиваемых работ.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10411,7 +10411,7 @@
   {
     "strName": "GUIJobsAllow",
     "strTitle": "",
-    "strDesc": "[them] [начинает] просматривать задания.",
+    "strDesc": "[them] начинает просматривать задания.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10431,7 +10431,7 @@
   {
     "strName": "GUILocks",
     "strTitle": "Доступ к замку",
-    "strDesc": "[us] [accesses] замок [them].",
+    "strDesc": "[us] получает доступ к замок [them].",
     "strTooltip": "Просматривает или взаимодействует с панелью замка предмета.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10478,7 +10478,7 @@
   {
     "strName": "GUIMultiSheet",
     "strTitle": "Читать",
-    "strDesc": "[us] [читает] [them].",
+    "strDesc": "[us] читает [them].",
     "strTooltip": "Детально просматривает содержимое предмета.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10505,7 +10505,7 @@
   {
     "strName": "GUIMultiSheetAllow",
     "strTitle": "",
-    "strDesc": "[them] [читает] [us].",
+    "strDesc": "[them] читает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10525,7 +10525,7 @@
   {
     "strName": "GUIOneSheet",
     "strTitle": "Читать",
-    "strDesc": "[us] [читает] [them].",
+    "strDesc": "[us] читает [them].",
     "strTooltip": "Детально просматривает предмет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10552,7 +10552,7 @@
   {
     "strName": "GUIOneSheetAllow",
     "strTitle": "",
-    "strDesc": "[them] [читает] [us].",
+    "strDesc": "[them] читает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10572,7 +10572,7 @@
   {
     "strName": "GUIOneSheetInspect",
     "strTitle": "Осмотреть",
-    "strDesc": "[us] [осматривает] [them].",
+    "strDesc": "[us] осматривает [them].",
     "strActionGroup": "Use",
     "strTooltip": "Детально просматривает предмет.",
     "strTargetPoint": "use",
@@ -10600,7 +10600,7 @@
   {
     "strName": "GUIOneSheetInspectAllow",
     "strTitle": "",
-    "strDesc": "[them] [осматривает] [us].",
+    "strDesc": "[them] осматривает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10620,7 +10620,7 @@
   {
     "strName": "GUIOneSheetInspectAllowClue",
     "strTitle": "",
-    "strDesc": "[them] [осматривает] [us].",
+    "strDesc": "[them] осматривает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10642,7 +10642,7 @@
   {
     "strName": "GUIOneSheetInspectAdmire",
     "strTitle": "Восхищаться",
-    "strDesc": "[us] [тратит] немного времени, любуясь деталями [them].",
+    "strDesc": "[us] тратит немного времени, любуясь деталями [them].",
     "strActionGroup": "Use",
     "strTooltip": "Ищет улучшение настроения, созерцая красоту. Цель должна быть установлена.",
     "strTargetPoint": "use",
@@ -10671,7 +10671,7 @@
   {
     "strName": "GUIOneSheetInspectAdmireAllowClue",
     "strTitle": "",
-    "strDesc": "[them] [осматривает] [us].",
+    "strDesc": "[them] осматривает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10694,7 +10694,7 @@
   {
     "strName": "GUIOneSheetInspectAllowAdmire",
     "strTitle": "",
-    "strDesc": "[them] [восхищается] [us] и оценивает его эстетические качества.",
+    "strDesc": "[them] восхищается [us] и оценивает его эстетические качества.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10715,7 +10715,7 @@
   {
     "strName": "GUIOneSheetLicense",
     "strTitle": "Информация о лицензии",
-    "strDesc": "[us] [читает] уведомление с информацией о лицензии.",
+    "strDesc": "[us] читает уведомление с информацией о лицензии.",
     "strTooltip": "Детально просматривает предмет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10742,7 +10742,7 @@
   {
     "strName": "GUIOneSheetUserGuide",
     "strTitle": "Открыть руководство пользователя",
-    "strDesc": "[us] [читает] руководство пользователя, размещённое на [them].",
+    "strDesc": "[us] читает руководство пользователя, размещённое на [them].",
     "strTooltip": "Просматривает схему предмета и метки использования.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10769,7 +10769,7 @@
   {
     "strName": "GUIPDAFerry",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Получает доступ к услуге вызова парома через терминал.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10818,7 +10818,7 @@
   {
     "strName": "GUIRacingKiosk",
     "strTitle": "Начать гонку или просмотреть лиги",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Позволяет регистрироваться и просматривать гоночные лиги.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10866,7 +10866,7 @@
   {
     "strName": "GUIRefuelStation",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Позволяет заправлять установленные на корабле топливные баки и системы жизнеобеспечения.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10914,7 +10914,7 @@
   {
     "strName": "GUISensor",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к настройкам обхода, переключателям и тумблерам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10941,7 +10941,7 @@
   {
     "strName": "GUISensorAllow",
     "strTitle": "",
-    "strDesc": "[them] [checks] панель.",
+    "strDesc": "[them] проверяет панель.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -10961,7 +10961,7 @@
   {
     "strName": "GUIStabilizer",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к настройкам обхода, переключателям и тумблерам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -10988,7 +10988,7 @@
   {
     "strName": "GUIStabilizerAllow",
     "strTitle": "",
-    "strDesc": "[them] [checks] панель.",
+    "strDesc": "[them] проверяет панель.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11008,7 +11008,7 @@
   {
     "strName": "GUINavStation",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к панели управления [them].",
+    "strDesc": "[us] получает доступ к панели управления [them].",
     "strTooltip": "Открывает доступ к управлению пилотированием корабля, стыковкой, навигацией и контролем состояния.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11035,7 +11035,7 @@
   {
     "strName": "GUINavStationSit",
     "strTitle": "Сесть",
-    "strDesc": "[us] [садится] за панель управления [them].",
+    "strDesc": "[us] садится за панель управления [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "strIdleAnim": "Sitting",
@@ -11064,7 +11064,7 @@
   {
     "strName": "GUINavStationAllow",
     "strTitle": "",
-    "strDesc": "[them] [позволяет] [us] использовать панель управления [them].",
+    "strDesc": "[them] позволяет [us] использовать панель управления [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11090,7 +11090,7 @@
   {
     "strName": "GUINAVSitCancel",
     "strTitle": "Встать",
-    "strDesc": "[us] [перестаёт] сидеть.",
+    "strDesc": "[us] перестаёт сидеть.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "strTeleport": "use",
@@ -11116,7 +11116,7 @@
   {
     "strName": "GUINAVSitEnd",
     "strTitle": "Встать",
-    "strDesc": "[us] [перестаёт] сидеть.",
+    "strDesc": "[us] перестаёт сидеть.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11144,7 +11144,7 @@
   {
     "strName": "GUIReactor",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Открывает доступ к циферблатам, переключателям и настройкам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11192,7 +11192,7 @@
   {
     "strName": "GUIResBroker",
     "strTitle": "Открыть брокера по недвижимости",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Предоставляет доступ к выбору объектов недвижимости от агента по недвижимости, доступных законным резидентам.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11219,7 +11219,7 @@
   {
     "strName": "GUIShipBroker",
     "strTitle": "Открыть брокера по кораблям",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Предоставляет доступ к выбору судов от брокера, транспондерам принадлежащих вам судов и сервисам оценки.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11246,7 +11246,7 @@
   {
     "strName": "GUIShipBrokerTransponder",
     "strTitle": "Открыть продажу транспондеров",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Позволяет получить доступ к ассортименту транспондеров судового брокера для ваших кораблей",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11273,7 +11273,7 @@
   {
     "strName": "GUIShipBrokerRating",
     "strTitle": "Открыть рейтинг кораблей",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Позволяет получить доступ к сервису оценки кораблей судового брокера",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11300,7 +11300,7 @@
   {
     "strName": "GUITrade",
     "strTitle": "Предложить сделку",
-    "strDesc": "[us] [предлагает] совершить сделку с [them].",
+    "strDesc": "[us] предлагает совершить сделку с [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Use",
     "strTargetPoint": "talk",
@@ -11336,7 +11336,7 @@
   {
     "strName": "GUITradeTalk",
     "strTitle": "Предложить сделку",
-    "strDesc": "[us] [предлагает] совершить сделку с [them].",
+    "strDesc": "[us] предлагает совершить сделку с [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -11373,7 +11373,7 @@
   {
     "strName": "GUITradeAllow",
     "strTitle": "Просмотреть рынок",
-    "strDesc": "[us] [показывает] [us-pos] доступные товары [them].",
+    "strDesc": "[us] показывает [us] доступные товары [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
@@ -11399,7 +11399,7 @@
   {
     "strName": "GUITradeAllowOKLGFixer",
     "strTitle": "Просмотреть чёрный рынок OKLG",
-    "strDesc": "[us] [показывает] [us-pos] товары на чёрном рынке [them].",
+    "strDesc": "[us] показывает [us] товары на чёрном рынке [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
@@ -11424,7 +11424,7 @@
   {
     "strName": "GUITradeAllowOKLGFixerTrustIssues",
     "strTitle": "Просмотреть чёрный рынок OKLG",
-    "strDesc": "[us] [показывает] [us-pos] товары на чёрном рынке [them].",
+    "strDesc": "[us] показывает [us] товары на чёрном рынке [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
@@ -11450,7 +11450,7 @@
   {
     "strName": "GUITradeAllowOKLGLicensed",
     "strTitle": "Просмотреть лицензированный киоск OKLG",
-    "strDesc": "[us] [uses] [us-pos] разрешение, чтобы начать торговлю с [them].",
+    "strDesc": "[us] использует [us] разрешение, чтобы начать торговлю с [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -11477,7 +11477,7 @@
   {
     "strName": "GUITradeBuyOKLGLicense",
     "strTitle": "Купить лицензию на 24 часа ($5000)",
-    "strDesc": "[us] [requests] жёлтую лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] запрашивает жёлтую лицензию на сбор лома Ayotimiwa.",
     "strTooltip": "Покупает официальную 24-часовую \"Желтую\" лицензию на сбор обломков.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11502,7 +11502,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseAllow",
     "strTitle": "Разрешить покупку лицензии на сбор лома",
-    "strDesc": "[us] [purchases] жёлтую лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] покупает жёлтую лицензию на сбор лома Ayotimiwa.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11525,7 +11525,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseB",
     "strTitle": "Купить лицензию на 72 часа ($13,500)",
-    "strDesc": "[us] [requests] красную лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] запрашивает красную лицензию на сбор лома Ayotimiwa.",
     "strTooltip": "Покупает официальную 72-часовую \"Красную\" лицензию на сбор обломков.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11550,7 +11550,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseBAllow",
     "strTitle": "Разрешить покупку лицензии на сбор лома",
-    "strDesc": "[them] [purchases] красную лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[them] покупает красную лицензию на сбор лома Ayotimiwa.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11573,7 +11573,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseC",
     "strTitle": "Купить лицензию на 7 дней ($30,000)",
-    "strDesc": "[us] [requests] синюю лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] запрашивает синюю лицензию на сбор лома Ayotimiwa.",
     "strTooltip": "Покупает официальную 7-дневную \"Синюю\" лицензию на сбор обломков.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11598,7 +11598,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseCAllow",
     "strTitle": "Разрешить покупку лицензии на сбор лома",
-    "strDesc": "[them] [purchases] синюю лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[them] покупает синюю лицензию на сбор лома Ayotimiwa.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11621,7 +11621,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseD",
     "strTitle": "Купить лицензию на 30 дней ($120,000)",
-    "strDesc": "[us] [requests] серебряную лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] запрашивает серебряную лицензию на сбор лома Ayotimiwa.",
     "strTooltip": "Покупает официальную 30-дневную \"Серебряную\" лицензию на сбор обломков.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11646,7 +11646,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseDAllow",
     "strTitle": "Разрешить покупку лицензии на сбор лома",
-    "strDesc": "[them] [purchases] серебряную лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[them] покупает серебряную лицензию на сбор лома Ayotimiwa.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11669,7 +11669,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseE",
     "strTitle": "Купить лицензию на 300 дней ($1 миллион)",
-    "strDesc": "[us] [requests] чёрную лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] запрашивает чёрную лицензию на сбор лома Ayotimiwa.",
     "strTooltip": "Покупает официальную 300-дневную \"Черную\" лицензию на сбор обломков.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11694,7 +11694,7 @@
   {
     "strName": "GUITradeBuyOKLGLicenseEAllow",
     "strTitle": "Разрешить покупку лицензии на сбор лома",
-    "strDesc": "[them] [purchases] чёрную лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[them] покупает чёрную лицензию на сбор лома Ayotimiwa.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11736,7 +11736,7 @@
   {
     "strName": "GUITradeCheckOKLGLicensed",
     "strTitle": "Проверить лицензию на сбор лома OKLG",
-    "strDesc": "[us] [asks] у [them] действующую лицензию на сбор лома Ayotimiwa.",
+    "strDesc": "[us] спрашивает у [them] действующую лицензию на сбор лома Ayotimiwa.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11783,7 +11783,7 @@
   {
     "strName": "GUITradeDenyOKLGLicensedExpiredCheck",
     "strTitle": "Проверить, истекла ли лицензия игрока",
-    "strDesc": "[us] [presents] [us-pos] лицензию на сбор лома [them].",
+    "strDesc": "[us] предъявляет [us] лицензию на сбор лома [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11830,7 +11830,7 @@
   {
     "strName": "GUITradeKiosk",
     "strTitle": "Торговать",
-    "strDesc": "[us] [browses] ассортимент [them].",
+    "strDesc": "[us] просматривает ассортимент [them].",
     "strTooltip": "Позволяет покупать или продавать предметы из инвентаря или зон бартера, назначенных на вашем судне.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11859,7 +11859,7 @@
   {
     "strName": "GUIBulkTraderPodTrade",
     "strTitle": "Обмен грузовыми капсулами",
-    "strDesc": "[us] [browses] ассортимент [them].",
+    "strDesc": "[us] просматривает ассортимент [them].",
     "strTooltip": "Позволяет покупать или продавать интермодальные грузовые контейнеры между этой станцией и вашим кораблем.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11887,7 +11887,7 @@
   {
     "strName": "GUITradeUIOpen",
     "strTitle": "Начать торговлю",
-    "strDesc": "[us] [открывает] интерфейс.",
+    "strDesc": "[us] открывает интерфейс.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -11908,7 +11908,7 @@
   {
     "strName": "GUITradeScripBCRSBuy100",
     "strTitle": "Купить 100 сертификатов CCRE ($10,000)",
-    "strDesc": "[us] [обменивает] обычную валюту на 100 сертификатов CCRE.",
+    "strDesc": "[us] обменивает обычную валюту на 100 сертификатов CCRE.",
     "strTooltip": "Позволяет приобрести 100 единиц валюты фракции CCRE, «скрип» (по невыгодному обменному курсу).\nПримечание: Этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11933,7 +11933,7 @@
   {
     "strName": "GUITradeScripBCRSBuy1000",
     "strTitle": "Купить 1000 сертификатов CCRE ($50,000)",
-    "strDesc": "[us] [обменивает] обычную валюту на 1000 сертификатов CCRE.",
+    "strDesc": "[us] обменивает обычную валюту на 1000 сертификатов CCRE.",
     "strTooltip": "Позволяет приобрести 1000 единиц валюты фракции CCRE, «скрип» (по невыгодному обменному курсу).\nПримечание: Этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11958,7 +11958,7 @@
   {
     "strName": "GUITradeScripBCERBuy100",
     "strTitle": "Купить 100 сертификатов GalFed ($10,000)",
-    "strDesc": "[us] [обменивает] обычную валюту на 100 сертификатов Galilean Confederacy.",
+    "strDesc": "[us] обменивает обычную валюту на 100 сертификатов Galilean Confederacy.",
     "strTooltip": "Покупает 100 единиц валюты фракции Galilean Confederacy, «скрипа» (по грабительскому курсу).\nПримечание: этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -11983,7 +11983,7 @@
   {
     "strName": "GUITradeScripBCERBuy1000",
     "strTitle": "Купить 1000 сертификатов GalFed ($50,000)",
-    "strDesc": "[us] [обменивает] обычную валюту на 1000 сертификатов Galilean Confederacy.",
+    "strDesc": "[us] обменивает обычную валюту на 1000 сертификатов Galilean Confederacy.",
     "strTooltip": "Покупает 1000 единиц валюты фракции Galilean Confederacy, «скрипа» (по грабительскому курсу).\nПримечание: этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12008,7 +12008,7 @@
   {
     "strName": "GUITradeScripBCRSSell100",
     "strTitle": "Продать 100 сертификатов CCRE (+$1,000)",
-    "strDesc": "[us] [обменивает] 100 сертификатов CCRE на обычную валюту.",
+    "strDesc": "[us] обменивает 100 сертификатов CCRE на обычную валюту.",
     "strTooltip": "Продает 100 единиц валюты фракции CCRE, «скрипа» (по грабительскому курсу).\nПримечание: этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12033,7 +12033,7 @@
   {
     "strName": "GUITradeScripBCRSSell1000",
     "strTitle": "Продать 1000 сертификатов CCRE (+$15,000)",
-    "strDesc": "[us] [обменивает] 1000 сертификатов CCRE на обычную валюту.",
+    "strDesc": "[us] обменивает 1000 сертификатов CCRE на обычную валюту.",
     "strTooltip": "Продает 1000 единиц валюты фракции CCRE, «скрипа» (по грабительскому курсу).\nПримечание: этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12058,7 +12058,7 @@
   {
     "strName": "GUITradeScripBCERSell100",
     "strTitle": "Продать 100 сертификатов GalFed (+$1,000)",
-    "strDesc": "[us] [обменивает] 100 сертификатов Galilean Confederacy на обычную валюту.",
+    "strDesc": "[us] обменивает 100 сертификатов Galilean Confederacy на обычную валюту.",
     "strTooltip": "Продает 100 единиц валюты фракции Galilean Confederacy, «скрипа» (по грабительскому курсу).\nПримечание: этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12083,7 +12083,7 @@
   {
     "strName": "GUITradeScripBCERSell1000",
     "strTitle": "Продать 1000 сертификатов GalFed (+$15,000)",
-    "strDesc": "[us] [обменивает] 1000 сертификатов Galilean Confederacy на обычную валюту.",
+    "strDesc": "[us] обменивает 1000 сертификатов Galilean Confederacy на обычную валюту.",
     "strTooltip": "Продает 1000 единиц валюты фракции Galilean Confederacy, «скрипа» (по грабительскому курсу).\nПримечание: этот обмен не влияет на репутацию.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12108,7 +12108,7 @@
   {
     "strName": "GUITransit",
     "strTitle": "Воспользоваться транспортом",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strTooltip": "Позволяет перемещаться между районами станции.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12135,7 +12135,7 @@
   {
     "strName": "GUITransponder",
     "strTitle": "Панель управления",
-    "strDesc": "[us] [accesses] панель [them-pos].",
+    "strDesc": "[us] получает доступ к панель [them].",
     "strTooltip": "Получает доступ к настройкам обхода, переключателям и тумблерам панели управления цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12182,7 +12182,7 @@
   {
     "strName": "GUITransitAllow",
     "strTitle": "",
-    "strDesc": "[them] [steps] в трамвай.",
+    "strDesc": "[them] шагает в трамвай.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -12202,7 +12202,7 @@
   {
     "strName": "GUIFeatureVote",
     "strTitle": "Использовать",
-    "strDesc": "[us] [получает] доступ к [them].",
+    "strDesc": "[us] получает доступ к [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 2,
@@ -12228,7 +12228,7 @@
   {
     "strName": "GUIFeatureVoteAllow",
     "strTitle": "",
-    "strDesc": "[us] [shows] [them] свои услуги.",
+    "strDesc": "[us] показывает [them] свои услуги.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -12248,7 +12248,7 @@
   {
     "strName": "HoverMenacingly",
     "strTitle": "Нависнуть угрожающе",
-    "strDesc": "[us] [lurks] угрожающе рядом с [them], высматривая кого-то.",
+    "strDesc": "[us] крадётся угрожающе рядом с [them], высматривая кого-то.",
     "strActionGroup": "Talk",
     "strTargetPoint": "use",
     "fTargetPointRange": 4.0,
@@ -12274,7 +12274,7 @@
   {
     "strName": "Inventory",
     "strTitle": "Инвентарь",
-    "strDesc": "[us] [scans] содержимое [them].",
+    "strDesc": "[us] сканирует содержимое [them].",
     "strTooltip": "Просматривает содержимое цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12297,7 +12297,7 @@
   {
     "strName": "ACTInventoryPryAllow",
     "strTitle": "Инвентарь",
-    "strDesc": "[us] [pries] и [scans] содержимое [them].",
+    "strDesc": "[us] взламывает и сканирует содержимое [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -12319,7 +12319,7 @@
   {
     "strName": "JettisonItemAllow",
     "strTitle": "Выбросить предмет: готово",
-    "strDesc": "[them] [катапультирует] [us].",
+    "strDesc": "[them] катапультирует [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -12342,7 +12342,7 @@
   {
     "strName": "JettisonItem",
     "strTitle": "Катапультировать",
-    "strDesc": "[us] [is] собирается выбросить [them]",
+    "strDesc": "[us] собирается выбросить [them]",
     "strTooltip": "Безвозвратно выбрасывает предмет в открытый космос.",
     "strActionGroup": "Use",
     "nQabOrderPriority": -10,
@@ -12370,7 +12370,7 @@
   {
     "strName": "UnjamWeapon",
     "strTitle": "Устранить заедание оружия",
-    "strDesc": "[us] [устраняет] [заедание] [them]",
+    "strDesc": "[us] устраняет заедание [them]",
     "strTooltip": "Устраняет заедание этого оружия",
     "strActionGroup": "Use",
     "nQabOrderPriority": -10,
@@ -12392,7 +12392,7 @@
   {
     "strName": "DeployStructureCCRE",
     "strTitle": "Развернуть маяк (Фракция CCRE)",
-    "strDesc": "[us] [разворачивает] [them]",
+    "strDesc": "[us] разворачивает [them]",
     "strTooltip": "Развертывает конструкцию в космосе",
     "strActionGroup": "Use",
     "nQabOrderPriority": -10,
@@ -12420,7 +12420,7 @@
   {
     "strName": "DeployStructureGalileanConfederacy",
     "strTitle": "Развернуть маяк (Galilean Confederacy)",
-    "strDesc": "[us] [разворачивает] [them]",
+    "strDesc": "[us] разворачивает [them]",
     "strTooltip": "Развертывает конструкцию в космосе",
     "strActionGroup": "Use",
     "nQabOrderPriority": -10,
@@ -12448,7 +12448,7 @@
   {
     "strName": "JettisonCorpse",
     "strTitle": "Катапультировать",
-    "strDesc": "[us] [катапультирует] [them]",
+    "strDesc": "[us] катапультирует [them]",
     "strTooltip": "Безвозвратно катапультирует цель в открытый космос.",
     "strActionGroup": "Use",
     "nQabOrderPriority": -10,
@@ -12475,7 +12475,7 @@
   {
     "strName": "JettisonRobot",
     "strTitle": "Катапультировать",
-    "strDesc": "[us] [катапультирует] [them]",
+    "strDesc": "[us] катапультирует [them]",
     "strTooltip": "Безвозвратно катапультирует цель в открытый космос.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12518,7 +12518,7 @@
   {
     "strName": "JOBKioskPickup",
     "strTitle": "Доступ к шкафчику",
-    "strDesc": "[us] [заглядывает] в шкафчик.",
+    "strDesc": "[us] заглядывает в шкафчик.",
     "strTooltip": " Забирает или доставляет рабочие предметы.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12604,7 +12604,7 @@
   {
     "strName": "JOBMVPCourierTestDo",
     "strTitle": "Доставить предметы",
-    "strDesc": "[us] [передаёт] доставку [them].",
+    "strDesc": "[us] передаёт доставку [them].",
     "strTooltip": " Доставляет рабочий предмет цели.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -12693,7 +12693,7 @@
   {
     "strName": "JOBMVPCourierTestSetupClient00",
     "strTitle": "COURIER",
-    "strDesc": "[us] ищет надёжную и быструю доставку [itm] для [them], который в данный момент находится на борту [them-shipfriendly]. [them] нуждается в данном предмете [txt1].",
+    "strDesc": "[us] ищет надёжную и быструю доставку предмет для [them], который в данный момент находится на борту [them-shipfriendly]. [them] нуждается в данном предмете .",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -12713,7 +12713,7 @@
   {
     "strName": "JOBMVPCourierTestSetupClientLocker",
     "strTitle": "COURIER",
-    "strDesc": "[us] ищет надёжную и быструю доставку [itm] для [them], который нуждается в данном предмете [txt1].",
+    "strDesc": "[us] ищет надёжную и быструю доставку предмет для [them], который нуждается в данном предмете .",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -12733,7 +12733,7 @@
   {
     "strName": "JOBMVPPowerItemSetupClientLocker",
     "strTitle": "ДОСТАВКА ОПАСНОГО ПРЕДМЕТА (ПИТАНИЕ, ТЕМП.)",
-    "strDesc": "[us] ищет надёжную и быструю доставку продвинутого суперкомпьютера с ИИ, обладающего значительными требованиями к электропитанию и тепловыделению. На борту компьютера находится [txt1]",
+    "strDesc": "[us] ищет надёжную и быструю доставку продвинутого суперкомпьютера с ИИ, обладающего значительными требованиями к электропитанию и тепловыделению. На борту компьютера находится",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -12952,7 +12952,7 @@
   {
     "strName": "JOBMVPTestDo",
     "strTitle": "Сделать фото",
-    "strDesc": "[us] [пытается] сфотографировать [them].",
+    "strDesc": "[us] пытается сфотографировать [them].",
     "strTooltip": "Делает фотографию цели для задания.",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -12974,7 +12974,7 @@
   {
     "strName": "JOBMVPTestDoAllow",
     "strTitle": "Идет фотографирование",
-    "strDesc": "[us] [фотографирует] [them].",
+    "strDesc": "[us] фотографирует [them].",
     "strTooltip": "Делает фотографию цели для задания.",
     "strActionGroup": "Use",
     "nLogging": 1,
@@ -12994,7 +12994,7 @@
   {
     "strName": "JOBMVPTest01Do",
     "strTitle": "Сделать фото",
-    "strDesc": "[us] [пытается] сфотографировать [them].",
+    "strDesc": "[us] пытается сфотографировать [them].",
     "strTooltip": "Делает фотографию цели для задания.",
     "strActionGroup": "Use",
     "nLogging": 0,
@@ -13016,7 +13016,7 @@
   {
     "strName": "JOBMVPTest01DoAllow",
     "strTitle": "Идет фотографирование",
-    "strDesc": "[us] [фотографирует] [them].",
+    "strDesc": "[us] фотографирует [them].",
     "strTooltip": "Делает фотографию цели для задания.",
     "strActionGroup": "Use",
     "nLogging": 1,
@@ -13036,7 +13036,7 @@
   {
     "strName": "JOBHeavy1DoInvis",
     "strTitle": "Передать привет",
-    "strDesc": "[us] [отправляет] [them] недвусмысленное сообщение.",
+    "strDesc": "[us] отправляет [them] недвусмысленное сообщение.",
     "bIgnoreFeelings": true,
     "strActionGroup": "Use",
     "strTooltip": "Попытаться завершить заказ, сообщив цели, кто назначил награду за её устранение. Требуется, чтобы цель испытывала сильную боль или страх, но не была мертва.",
@@ -13060,7 +13060,7 @@
   {
     "strName": "JOBHeavy1TellThemWhoSentYouSuccess",
     "strTitle": "Передать привет",
-    "strDesc": "[us] [сообщает] [them], кто их послал, и передает привет.",
+    "strDesc": "[us] сообщает [them], кто их послал, и передает привет.",
     "strActionGroup": "Use",
     "nLogging": 2,
     "strTargetPoint": "talk",
@@ -13079,7 +13079,7 @@
   {
     "strName": "JOBHeavy1TellThemWhoSentYouFail",
     "strTitle": "Отправить недвусмысленное сообщение",
-    "strDesc": "[them] [испытывает] недостаточно боли или страха, чтобы [us] мог[ли] послать [3rd] чёткое послание.",
+    "strDesc": "[them] испытывает недостаточно боли или страха, чтобы [us] могли послать чёткое послание.",
     "strActionGroup": "Use",
     "nLogging": 2,
     "strTargetPoint": "talk",
@@ -13115,7 +13115,7 @@
   {
     "strName": "JOBDeadBody1Do",
     "strTitle": "Осмотреть медицинское состояние",
-    "strDesc": "[us] тщательно [осматривает] [them], чтобы определить их медицинское состояние.",
+    "strDesc": "[us] тщательно осматривает [them], чтобы определить их медицинское состояние.",
     "strTooltip": "Проверяет медицинское состояние цели для задания.",
     "strActionGroup": "Use",
     "nLogging": 1,
@@ -13159,7 +13159,7 @@
   {
     "strName": "JOBDeadBody1DoAliveFinish",
     "strTitle": "",
-    "strDesc": "[us] [takes] внимание видимую кондицию [them]. Все хорошо, что хорошо кончается, верно? Будем надеяться, что заказчик не разочаруется этим отчетом.",
+    "strDesc": "[us] берёт внимание видимую кондицию [them]. Все хорошо, что хорошо кончается, верно? Будем надеяться, что заказчик не разочаруется этим отчетом.",
     "strTooltip": ".",
     "strActionGroup": "Use",
     "nLogging": 1,
@@ -13177,7 +13177,7 @@
   {
     "strName": "JOBDeadBody1DoDeadAllow",
     "strTitle": "Определить причину смерти",
-    "strDesc": "[us] тщательно [examines] тело [them], чтобы установить причину смерти. Настоятельно рекомендуется помыть руки после такой кровавой работы.",
+    "strDesc": "[us] тщательно осматривает тело [them], чтобы установить причину смерти. Настоятельно рекомендуется помыть руки после такой кровавой работы.",
     "strTooltip": "Пытается определить причину смерти путем тщательного осмотра.",
     "strActionGroup": "Use",
     "nLogging": 1,
@@ -13199,7 +13199,7 @@
   {
     "strName": "JOBDeadBody1DoDeadFinish",
     "strTitle": "",
-    "strDesc": "[us] [takes] внимание наиболее вероятную причину смерти [them]. Время возвращаться с докладом. Данные могут быть неточными, но если клиенту нужна точность, пусть сам пачкает руки.",
+    "strDesc": "[us] берёт внимание наиболее вероятную причину смерти [them]. Время возвращаться с докладом. Данные могут быть неточными, но если клиенту нужна точность, пусть сам пачкает руки.",
     "strTooltip": ".",
     "strActionGroup": "Use",
     "nLogging": 1,
@@ -13253,7 +13253,7 @@
   {
     "strName": "JOBMVPHoneypotDo",
     "strTitle": "Попытка извлечь конфиденциальную информацию",
-    "strDesc": "[us] [attempts] использовать [us-pos] химию с [them], чтобы добыть ценные разведданные.",
+    "strDesc": "[us] пытается использовать [us] химию с [them], чтобы добыть ценные разведданные.",
     "strTooltip": "Попытаться использовать романтическую химию с целью для извлечения ценных разведданных.\n\nДля этого цель должна считать агента объектом воздыхания.",
     "strActionGroup": "Talk",
     "nLogging": 1,
@@ -13278,7 +13278,7 @@
   {
     "strName": "JOBMVPHoneypotDoSuccess",
     "strTitle": "Успешное извлечение конфиденциальной информации",
-    "strDesc": "[us] [делится] ценной информацией с [them].",
+    "strDesc": "[us] делится ценной информацией с [them].",
     "strActionGroup": "Talk",
     "nLogging": 0,
     "strTargetPoint": "talk",
@@ -13301,7 +13301,7 @@
   {
     "strName": "JOBMVPHoneypotDoSuccessWords",
     "strTitle": "Поделиться конфиденциальной информацией",
-    "strDesc": "[us] [shares] ценной информацией с [them] в уверенности, что возлюбленный никогда не предаст.",
+    "strDesc": "[us] делится ценной информацией с [them] в уверенности, что возлюбленный никогда не предаст.",
     "strActionGroup": "Talk",
     "nLogging": 1,
     "strTargetPoint": "talk",
@@ -13322,7 +13322,7 @@
   {
     "strName": "JOBMVPHoneypotDoFail",
     "strTitle": "Не удалось добыть конфиденциальную информацию",
-    "strDesc": "[us] [говорит] [them] «нет».",
+    "strDesc": "[us] говорит [them] «нет».",
     "strActionGroup": "Talk",
     "nLogging": 0,
     "strTargetPoint": "talk",
@@ -13345,7 +13345,7 @@
   {
     "strName": "JOBMVPHoneypotDoFailWords",
     "strTitle": "Отказаться от разглашения конфиденциальной информации",
-    "strDesc": "[us] [говорит], что [us-subj] ни за что не стал(а) бы обсуждать с [them] нечто столь личное.",
+    "strDesc": "[us] говорит, что [us] ни за что не стал(а) бы обсуждать с [them] нечто столь личное.",
     "strActionGroup": "Talk",
     "nLogging": 1,
     "strTargetPoint": "talk",
@@ -13541,7 +13541,7 @@
   {
     "strName": "JOBMVPTestSetupClient00",
     "strTitle": "РАЗВЕДКА БЕЗОПАСНОСТИ",
-    "strDesc": "[us] хочет подставить [them] на [them-shipfriendly], но сначала [us] нужно, чтобы кто-то провел разведку и выяснил, [is] ли там [them-contract].\n\n - Проникнуть на борт [them-shipfriendly]\n - Использовать КПК, чтобы сделать разведывательный снимок [them]\n - Вернуться к терминалу заданий и завершить работу.",
+    "strDesc": "[us] хочет подставить [them] на [them-shipfriendly], но сначала [us] нужно, чтобы кто-то провел разведку и выяснил, ли там [them-contract].\n\n - Проникнуть на борт [them-shipfriendly]\n - Использовать КПК, чтобы сделать разведывательный снимок [them]\n - Вернуться к терминалу заданий и завершить работу.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strTargetPoint": null,
@@ -13561,7 +13561,7 @@
   {
     "strName": "JOBMVPTestSetupClient01",
     "strTitle": "РАЗВЕДКА БЕЗОПАСНОСТИ",
-    "strDesc": "[us] разыскивает информацию о местонахождении [them], который [txt1]\n\nВам необходимо обнаружить [them] на [them-shipfriendly] и использовать КПК, чтобы сделать фотографию, подтверждающую последнее местонахождение.",
+    "strDesc": "[us] разыскивает информацию о местонахождении [them], который \n\nВам необходимо обнаружить [them] на [them-shipfriendly] и использовать КПК, чтобы сделать фотографию, подтверждающую последнее местонахождение.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "strAnim": "Idle",
@@ -13580,7 +13580,7 @@
   {
     "strName": "JOBViolentHeavy1SetupClient",
     "strTitle": "ТЯЖЁЛАЯ РАБОТА",
-    "strDesc": "[us] хочет показать [them], насколько серьезно [us-subj] [is] после того, как [them] [txt1]\n\n\n - Проникнуть на борт [them-shipfriendly]\n - Найти и тяжело ранить [them], не убивая [them-obj]\n - Передать [them], что [us] передает [us-pos] приветствия \n - Вернуться к терминалу заданий и завершить работу",
+    "strDesc": "[us] хочет показать [them], насколько серьезно [us] после того, как [them] \n\n\n - Проникнуть на борт [them-shipfriendly]\n - Найти и тяжело ранить [them], не убивая [them-obj]\n - Передать [them], что [us] передает [us] приветствия \n - Вернуться к терминалу заданий и завершить работу",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strThemType": "Other",
@@ -13594,7 +13594,7 @@
   {
     "strName": "JOBMVPHoneypotSetupClient01",
     "strTitle": "HONEYPOT",
-    "strDesc": "[us] ищет опытного оператора для романтической ловушки, чтобы скомпрометировать [them] в рамках плана по [txt1]\n\nНайдите [them] на борту [them-shipfriendly] и завяжите романтические отношения с [them-obj]. После установления доверия извлеките из [them-obj] нужную информацию и вернитесь к терминалу.",
+    "strDesc": "[us] ищет опытного оператора для романтической ловушки, чтобы скомпрометировать [them] в рамках плана по \n\nНайдите [them] на борту [them-shipfriendly] и завяжите романтические отношения с [them-obj]. После установления доверия извлеките из [them-obj] нужную информацию и вернитесь к терминалу.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strThemType": "Other",
@@ -13608,7 +13608,7 @@
   {
     "strName": "JOBDeadBody1SetupClient01",
     "strTitle": "РАССЛЕДОВАНИЕ СМЕРТИ",
-    "strDesc": "[us] ищет услуги частного детектива для расследования сообщенной смерти [them]. Объект [txt1]\n\nНайдите тело [them-pos] на [them-shipfriendly], осмотрите тело [them-pos], чтобы установить причину смерти, затем передайте эту информацию на терминал Gig Nexus.",
+    "strDesc": "[us] ищет услуги частного детектива для расследования сообщенной смерти [them]. Объект \n\nНайдите тело [them] на [them-shipfriendly], осмотрите тело [them], чтобы установить причину смерти, затем передайте эту информацию на терминал Gig Nexus.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strThemType": "Other",
@@ -13707,7 +13707,7 @@
   {
     "strName": "PickupDragStart",
     "strTitle": "Захват",
-    "strDesc": "[us] [собирается] тащить [them].",
+    "strDesc": "[us] собирается тащить [them].",
     "strTooltip": "Удерживайте предмет в слоте перетаскивания. Замедляет движение.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13735,7 +13735,7 @@
   {
     "strName": "PickupDragStartNPCPledge",
     "strTitle": "Захват",
-    "strDesc": "[us] [собирается] тащить [them].",
+    "strDesc": "[us] собирается тащить [them].",
     "strTooltip": "Удерживайте предмет в слоте перетаскивания. Замедляет движение.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13763,7 +13763,7 @@
   {
     "strName": "PickupDragAllow",
     "strTitle": "Перетаскивание: завершено",
-    "strDesc": "[them] [тащит] [us].",
+    "strDesc": "[them] тащит [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -13785,7 +13785,7 @@
   {
     "strName": "PickupDragStop",
     "strTitle": "Прекратить перетаскивание",
-    "strDesc": "[us] [собирается] прекратить перетаскивание.",
+    "strDesc": "[us] собирается прекратить перетаскивание.",
     "strTooltip": "Убрать предмет из слота перетаскивания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13809,7 +13809,7 @@
   {
     "strName": "DropCorpse",
     "strTitle": "Бросить",
-    "strDesc": "[us] [бросает] [them].",
+    "strDesc": "[us] бросает [them].",
     "strTooltip": "Убрать цель из слота перетаскивания.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13833,7 +13833,7 @@
   {
     "strName": "ShakeOff",
     "strTitle": "Скинуть с себя",
-    "strDesc": "[us] [стряхивает] предметы с [them].",
+    "strDesc": "[us] стряхивает предметы с [them].",
     "strTooltip": "Стряхнуть предмет с перетаскивающего. Возвращает перетаскиваемый предмет на пол.",
     "strActionGroup": "Fight",
     "strTargetPoint": "use",
@@ -13868,7 +13868,7 @@
   {
     "strName": "PickupItem",
     "strTitle": "Поднять",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Переместить предмет в подходящий слот инвентаря или в стопку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13895,7 +13895,7 @@
   {
     "strName": "PickupItemAllow",
     "strTitle": "Подбор предмета: завершено",
-    "strDesc": "[them] [берёт] [us].",
+    "strDesc": "[them] берёт [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -13918,7 +13918,7 @@
   {
     "strName": "PickupItemStack",
     "strTitle": "Поднять стопку",
-    "strDesc": "[us] [собирается] забрать [them].",
+    "strDesc": "[us] собирается забрать [them].",
     "strTooltip": "Переместить стопку предметов в подходящий пустой слот инвентаря.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -13945,7 +13945,7 @@
   {
     "strName": "PickupItemStackAllow",
     "strTitle": "Подбор стопки предметов: завершено",
-    "strDesc": "[them] [берёт] [us].",
+    "strDesc": "[them] берёт [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -13968,7 +13968,7 @@
   {
     "strName": "Placeholder",
     "strTitle": "Замена заглушки",
-    "strDesc": "[us] [берется] установить [them].",
+    "strDesc": "[us] берется установить [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "placeholder",
     "fTargetPointRange": 0,
@@ -13993,7 +13993,7 @@
   {
     "strName": "PlaceholderAllow",
     "strTitle": "",
-    "strDesc": "[us] [заменяет] себя на [them].",
+    "strDesc": "[us] заменяет себя на [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -14029,7 +14029,7 @@
   {
     "strName": "SeekAchievement",
     "strTitle": "Вспомнить обман смерти",
-    "strDesc": "[us] [вспоминает] о том времени, когда [us-subj] обманул[а] смерть, и [пытается] заставить [us-reflexive] почувствовать себя более успешным.",
+    "strDesc": "[us] вспоминает о том времени, когда [us] обманула смерть, и пытается заставить себя почувствовать себя более успешным.",
     "strTooltip": "Пытается повысить чувство достижения.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
@@ -14052,7 +14052,7 @@
   {
     "strName": "SeekDefecation",
     "strTitle": "Справить нужду на",
-    "strDesc": "[us] [ищет] место, чтобы справить нужду.",
+    "strDesc": "[us] ищет место, чтобы справить нужду.",
     "strTooltip": "Пытается опорожнить кишечник в унитаз.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14081,7 +14081,7 @@
   {
     "strName": "SeekDefecationNoNeed",
     "strTitle": "Справить нужду на (низкая потребность)",
-    "strDesc": "[us] [ищет] место, чтобы справить нужду.",
+    "strDesc": "[us] ищет место, чтобы справить нужду.",
     "strTooltip": "Пытается опорожнить кишечник в туалете, даже если в данный момент в этом нет необходимости.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14111,7 +14111,7 @@
   {
     "strName": "SeekDefecationAllow",
     "strTitle": "",
-    "strDesc": "[us] [позволяет] [them] справить нужду в [us].",
+    "strDesc": "[us] позволяет [them] справить нужду в [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 3,
@@ -14135,7 +14135,7 @@
   {
     "strName": "SeekDrink",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[us] [решает] выпить [them].",
+    "strDesc": "[us] решает выпить [them].",
     "strTooltip": "Выпивает одну порцию жидкости или жидкого содержимого.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14165,7 +14165,7 @@
   {
     "strName": "SeekDrinkHydratorNotThirstyPlayer",
     "strTitle": "Пить (нет жажды)",
-    "strDesc": "[us] [решает] выпить [them].",
+    "strDesc": "[us] решает выпить [them].",
     "strTooltip": "Выпивает одну порцию жидкости или жидкого содержимого, даже не испытывая жажды.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14197,7 +14197,7 @@
   {
     "strName": "SeekDrinkLiquor",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[us] [решает] выпить [them].",
+    "strDesc": "[us] решает выпить [them].",
     "strTooltip": "Выпивает одну порцию жидкости или жидкого содержимого в рекреационных целях.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14227,7 +14227,7 @@
   {
     "strName": "SeekDrinkLiquorPlayerDrunk",
     "strTitle": "Пить в пьяном виде",
-    "strDesc": "[us] [решает] выпить [them], хотя уже пьян.",
+    "strDesc": "[us] решает выпить [them], хотя уже пьян.",
     "strTooltip": "Выпивает одну порцию жидкости или жидкого содержимого в рекреационных целях или просто для разрушения печени.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14257,7 +14257,7 @@
   {
     "strName": "SeekDrinkLiquorPlayerTemperate",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[us] [решает] выпить [them].",
+    "strDesc": "[us] решает выпить [them].",
     "strTooltip": "Выпивает одну порцию жидкости или жидкого содержимого в рекреационных целях.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14288,7 +14288,7 @@
   {
     "strName": "SeekDrinkBlood",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[us] [решает] выпить [them].",
+    "strDesc": "[us] решает выпить [them].",
     "strTooltip": "Выпивает одну порцию жидкости или жидкого содержимого.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14319,7 +14319,7 @@
   {
     "strName": "SeekDrinkGluttonously",
     "strTitle": "Пить обжористо",
-    "strDesc": "[us] [решает] жадно выпить [them].",
+    "strDesc": "[us] решает жадно выпить [them].",
     "strTooltip": "Глотает залпом жидкость или жидкое содержимое.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14351,7 +14351,7 @@
   {
     "strName": "SeekDrinkAllow",
     "strTitle": "Пить (обычно)",
-    "strDesc": "[them] [пьёт] [us].",
+    "strDesc": "[them] пьёт [us].",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14396,7 +14396,7 @@
   {
     "strName": "SeekDrinkAllowBloodDrinker",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[them] [выпивает] [us]. Это великолепно. Яркое, священное утешение. Возвращение потерянного отпечатка человечности домой из пустоты.",
+    "strDesc": "[them] выпивает [us]. Это великолепно. Яркое, священное утешение. Возвращение потерянного отпечатка человечности домой из пустоты.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14417,7 +14417,7 @@
   {
     "strName": "SeekDrinkAllowBloodNotDrinker",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[them] [выпивает] [us]. Напиток не освежает, но всё же ощущается почти священным.",
+    "strDesc": "[them] выпивает [us]. Напиток не освежает, но всё же ощущается почти священным.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14439,7 +14439,7 @@
   {
     "strName": "SeekDrinkAllowBloodMeat",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[them] [выпивает] [us]. Это мерзко на вкус и не ладится с желудком, но при этом странно бодрит.",
+    "strDesc": "[them] выпивает [us]. Это мерзко на вкус и не ладится с желудком, но при этом странно бодрит.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14463,7 +14463,7 @@
   {
     "strName": "SeekDrinkAllowCoffee",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[them] [пьёт] [us].",
+    "strDesc": "[them] пьёт [us].",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14486,7 +14486,7 @@
   {
     "strName": "SeekDrinkAllowLiquor",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[them] [пьёт] [us].",
+    "strDesc": "[them] пьёт [us].",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14509,7 +14509,7 @@
   {
     "strName": "SeekDrinkAllowWater",
     "strTitle": "Техобслуживание: получение",
-    "strDesc": "[them] [пьёт] [us].",
+    "strDesc": "[them] пьёт [us].",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": "Tablet",
@@ -14552,7 +14552,7 @@
   {
     "strName": "SeekDenyTemperateUnderTheInfluenceShim",
     "strTitle": "",
-    "strDesc": "[us] [слишком] воздержан, чтобы хотеть сделать это прямо сейчас.",
+    "strDesc": "[us] слишком воздержан, чтобы хотеть сделать это прямо сейчас.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "aInverse": [
@@ -14568,7 +14568,7 @@
   {
     "strName": "SeekDenyTemperateUnderTheInfluenceNicotineShim",
     "strTitle": "",
-    "strDesc": "[us] [слишком] воздержан, чтобы курить ещё, уже будучи под мухой.",
+    "strDesc": "[us] слишком воздержан, чтобы курить ещё, уже будучи под мухой.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "aInverse": [
@@ -14584,7 +14584,7 @@
   {
     "strName": "SeekDenyTemperateUnderTheInfluenceHighShim",
     "strTitle": "",
-    "strDesc": "[us] [слишком] воздержан, чтобы курить ещё, уже будучи в наркотическом опьянении.",
+    "strDesc": "[us] слишком воздержан, чтобы курить ещё, уже будучи в наркотическом опьянении.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "aInverse": [
@@ -14600,7 +14600,7 @@
   {
     "strName": "SeekDenyTemperateUnderTheInfluence",
     "strTitle": "",
-    "strDesc": "[them] [слишком] воздержан, чтобы хотеть сделать это прямо сейчас.",
+    "strDesc": "[them] слишком воздержан, чтобы хотеть сделать это прямо сейчас.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14620,7 +14620,7 @@
   {
     "strName": "SeekDenyTemperateUnderTheInfluenceLiquor",
     "strTitle": "",
-    "strDesc": "[them] [слишком] воздержан, чтобы пить ещё, уже будучи навеселе.",
+    "strDesc": "[them] слишком воздержан, чтобы пить ещё, уже будучи навеселе.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14640,7 +14640,7 @@
   {
     "strName": "SeekDenyTemperate",
     "strTitle": "",
-    "strDesc": "[them] [слишком] воздержан, чтобы хотеть сделать это прямо сейчас.",
+    "strDesc": "[them] слишком воздержан, чтобы хотеть сделать это прямо сейчас.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14680,7 +14680,7 @@
   {
     "strName": "SeekConsumeFoodAirtight",
     "strTitle": "",
-    "strDesc": "[them] [использует] порт доступа, чтобы съесть [us] в герметичном состоянии.",
+    "strDesc": "[them] использует порт доступа, чтобы съесть [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14705,7 +14705,7 @@
   {
     "strName": "SeekConsumeMeatBlobAirtight",
     "strTitle": "",
-    "strDesc": "[them] [использует] порт доступа, чтобы съесть [us] в герметичном состоянии.",
+    "strDesc": "[them] использует порт доступа, чтобы съесть [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14729,7 +14729,7 @@
   {
     "strName": "SeekConsumeAntibioticPrescAirtight",
     "strTitle": "",
-    "strDesc": "[them] [использует] порт доступа, чтобы взять [us] в герметичном состоянии.",
+    "strDesc": "[them] использует порт доступа, чтобы взять [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14752,7 +14752,7 @@
   {
     "strName": "SeekConsumeAntiNauseaAirtight",
     "strTitle": "",
-    "strDesc": "[them] [использует] порт доступа, чтобы взять [us] в герметичном состоянии.",
+    "strDesc": "[them] использует порт доступа, чтобы взять [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14775,7 +14775,7 @@
   {
     "strName": "SeekConsumePainkillerPrescAirtight",
     "strTitle": "",
-    "strDesc": "[them] [использует] порт доступа, чтобы взять [us] в герметичном состоянии.",
+    "strDesc": "[them] использует порт доступа, чтобы взять [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14798,7 +14798,7 @@
   {
     "strName": "SeekConsumePainkillerMinorAirtight",
     "strTitle": "",
-    "strDesc": "[them] [использует] порт доступа, чтобы взять [us] в герметичном состоянии.",
+    "strDesc": "[them] использует порт доступа, чтобы взять [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14821,7 +14821,7 @@
   {
     "strName": "SeekDrinkAirtight",
     "strTitle": "",
-    "strDesc": "[them] [подготавливает] [them-pos] шлемный порт для употребления [us] в герметичном состоянии.",
+    "strDesc": "[them] подготавливает [them] шлемный порт для употребления [us] в герметичном состоянии.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -14849,7 +14849,7 @@
   {
     "strName": "SeekDrugAntibioticPrescDirect",
     "strTitle": "Использовать",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Принимает одну таблетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14876,7 +14876,7 @@
   {
     "strName": "SeekDrugAntibioticPrescDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [принимает] [us].",
+    "strDesc": "[them] принимает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -14899,7 +14899,7 @@
   {
     "strName": "SeekDrugAntiGravPrescDirect",
     "strTitle": "Ввести препарат",
-    "strDesc": "[us] [решает] ввести [them].",
+    "strDesc": "[us] решает ввести [them].",
     "strTooltip": "Вводит препарат для кратковременного повышения переносимости высоких перегрузок.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -14926,7 +14926,7 @@
   {
     "strName": "SeekDrugAntiGravPrescDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [вводит] [us].",
+    "strDesc": "[them] вводит [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -14949,7 +14949,7 @@
   {
     "strName": "SeekDrugAntiGravPrescDirectAllowDone",
     "strTitle": "Выбрасывание пустого инжектора",
-    "strDesc": "[them] [выбрасывает] использованный [us] как мусор.",
+    "strDesc": "[them] выбрасывает использованный [us] как мусор.",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -14994,7 +14994,7 @@
   {
     "strName": "SeekDrugAntiNauseaDirect",
     "strTitle": "Использовать",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Принимает одну таблетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15021,7 +15021,7 @@
   {
     "strName": "SeekDrugAntiNauseaDirectNoNeed",
     "strTitle": "Использовать (нет тошноты)",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Принимает одну таблетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15050,7 +15050,7 @@
   {
     "strName": "SeekDrugAntiNauseaDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [принимает] [us].",
+    "strDesc": "[them] принимает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15189,7 +15189,7 @@
   {
     "strName": "SeekDrugAntiRadPrescDirect",
     "strTitle": "Ввести препарат",
-    "strDesc": "[us] [решает] ввести [them].",
+    "strDesc": "[us] решает ввести [them].",
     "strTooltip": "Вводит препарат для снижения уровня радиации в организме.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15216,7 +15216,7 @@
   {
     "strName": "SeekDrugAntiRadPrescDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [вводит] [us].",
+    "strDesc": "[them] вводит [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15239,7 +15239,7 @@
   {
     "strName": "SeekDrugAntiRadPrescDirectAllowDone",
     "strTitle": "Выбрасывание пустого инжектора",
-    "strDesc": "[them] [выбрасывает] использованный [us] как мусор.",
+    "strDesc": "[them] выбрасывает использованный [us] как мусор.",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -15284,7 +15284,7 @@
   {
     "strName": "SeekDrugBoneDensityPrescDirect",
     "strTitle": "Ввести препарат",
-    "strDesc": "[us] [решает] ввести [them].",
+    "strDesc": "[us] решает ввести [them].",
     "strTooltip": "Вводит медикаменты для предотвращения атрофии, хрупкости костей и других последствий для здоровья от жизни в условиях микрогравитации.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15311,7 +15311,7 @@
   {
     "strName": "SeekDrugBoneDensityPrescDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [вводит] [us].",
+    "strDesc": "[them] вводит [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15334,7 +15334,7 @@
   {
     "strName": "SeekDrugBoneDensityPrescDirectAllowDone",
     "strTitle": "Выбрасывание пустого инжектора",
-    "strDesc": "[them] [выбрасывает] использованный [us] как мусор.",
+    "strDesc": "[them] выбрасывает использованный [us] как мусор.",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -15379,7 +15379,7 @@
   {
     "strName": "SeekDrugPainkillerPrescDirect",
     "strTitle": "Использовать",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Принимает одну таблетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15406,7 +15406,7 @@
   {
     "strName": "SeekDrugPainkillerPrescDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [принимает] [us].",
+    "strDesc": "[them] принимает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15429,7 +15429,7 @@
   {
     "strName": "SeekDrugPainkillerMinorDirect",
     "strTitle": "Использовать",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Принимает одну таблетку.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15456,7 +15456,7 @@
   {
     "strName": "SeekDrugPainkillerMinorDirectAllow",
     "strTitle": "",
-    "strDesc": "[them] [принимает] [us].",
+    "strDesc": "[them] принимает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15479,7 +15479,7 @@
   {
     "strName": "SeekFamily",
     "strTitle": "Вспомнить семью",
-    "strDesc": "[us] [тоскливо] смотрит на старую фотографию.",
+    "strDesc": "[us] тоскливо смотрит на старую фотографию.",
     "strTooltip": "Пытается улучшить чувство принадлежности.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
@@ -15502,7 +15502,7 @@
   {
     "strName": "SeekFoodDirect",
     "strTitle": "Прием жидкости",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Потребляет предмет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15531,7 +15531,7 @@
   {
     "strName": "SeekFoodDirectLowNeed",
     "strTitle": "Есть (нет голода)",
-    "strDesc": "[us] [решает] съесть [them], хотя не голоден.",
+    "strDesc": "[us] решает съесть [them], хотя не голоден.",
     "strTooltip": "Потребляет предмет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15561,7 +15561,7 @@
   {
     "strName": "SeekFoodDirectGlutton",
     "strTitle": "Есть обжористо",
-    "strDesc": "[us] [решает] жадно съесть [them].",
+    "strDesc": "[us] решает жадно съесть [them].",
     "strTooltip": "Потребляет предмет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15590,7 +15590,7 @@
   {
     "strName": "SeekFoodDirectMeatBlob",
     "strTitle": "Прием жидкости",
-    "strDesc": "[us] [решает] съесть [them].",
+    "strDesc": "[us] решает съесть [them].",
     "strTooltip": "Потребляет предмет.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15618,7 +15618,7 @@
   {
     "strName": "SeekFoodItem",
     "strTitle": "Искать еду",
-    "strDesc": "[us] [ищет] еду в [them].",
+    "strDesc": "[us] ищет еду в [them].",
     "strTooltip": "Извлекает пищевой предмет из цели, если возможно.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -15647,7 +15647,7 @@
   {
     "strName": "SeekFoodAllowDirect",
     "strTitle": "",
-    "strDesc": "[them] [принимает] [us].",
+    "strDesc": "[them] принимает [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15671,7 +15671,7 @@
   {
     "strName": "SeekFoodAllowDirectPrepared",
     "strTitle": "",
-    "strDesc": "[them] [ест] [us], наслаждаясь тёплым удовольствием настоящей еды.",
+    "strDesc": "[them] ест [us], наслаждаясь тёплым удовольствием настоящей еды.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15695,7 +15695,7 @@
   {
     "strName": "SeekFoodAllowDirectMeatBlob",
     "strTitle": "",
-    "strDesc": "[them] [съедает] [us]. Вкус немного неприятный, но странно бодрящий. Поедание склизкого сырого мяса отвратительно и, скорее всего, приведёт к расстройству желудка.",
+    "strDesc": "[them] съедает [us]. Вкус немного неприятный, но странно бодрящий. Поедание склизкого сырого мяса отвратительно и, скорее всего, приведёт к расстройству желудка.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15719,7 +15719,7 @@
   {
     "strName": "SeekFoodAllowItem",
     "strTitle": "",
-    "strDesc": "[them] [берёт] немного еды из [us].",
+    "strDesc": "[them] берёт немного еды из [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15763,7 +15763,7 @@
   {
     "strName": "SeekOxygen",
     "strTitle": "Искать кислород",
-    "strDesc": "[us] [пытается] найти датчик O2, показывающий безопасный уровень O2.",
+    "strDesc": "[us] пытается найти датчик O2, показывающий безопасный уровень O2.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "strAnim": "Idle",
@@ -15782,7 +15782,7 @@
   {
     "strName": "SeekOxygenAllow",
     "strTitle": "Дыхание кислородом",
-    "strDesc": "[us] [находится] в процессе насыщения кислородом.",
+    "strDesc": "[us] находится в процессе насыщения кислородом.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "strAnim": "Idle",
@@ -15797,7 +15797,7 @@
   {
     "strName": "SeekPrivacy",
     "strTitle": "Кокон",
-    "strDesc": "[us] [считает], что всё это немного подавляет.",
+    "strDesc": "[us] считает, что всё это немного подавляет.",
     "strTooltip": "Пытается найти уединение.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -15820,7 +15820,7 @@
   {
     "strName": "SeekPrivacy2",
     "strTitle": "Искать уединение",
-    "strDesc": "[us] [пытается] найти немного покоя и тишины.",
+    "strDesc": "[us] пытается найти немного покоя и тишины.",
     "strTooltip": "Пытается найти личное пространство.",
     "strActionGroup": "Use",
     "strTargetPoint": "room",
@@ -15842,7 +15842,7 @@
   {
     "strName": "SeekPrivacy2Allow",
     "strTitle": "Минута передышки",
-    "strDesc": "[us] [берёт] минуту передышки, чтобы побыть вдали от всех.",
+    "strDesc": "[us] берёт минуту передышки, чтобы побыть вдали от всех.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "strAnim": "Idle",
@@ -15879,7 +15879,7 @@
   {
     "strName": "SeekSecurity",
     "strTitle": "Отдых",
-    "strDesc": "[us] [расслабляется] и [успокаивается].",
+    "strDesc": "[us] расслабляется и успокаивается.",
     "strTooltip": "Пытается успокоиться, чтобы восстановить чувство безопасности. Необходимо сидеть и не находиться в состоянии физического или социального конфликта.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -15903,7 +15903,7 @@
   {
     "strName": "ACTSeekSecurityChair",
     "strTitle": "Отдых",
-    "strDesc": "[us] [пытается] отдохнуть на [them].",
+    "strDesc": "[us] пытается отдохнуть на [them].",
     "strTooltip": "Пытается успокоиться, чтобы восстановить чувство безопасности. Необходимо сидеть и не находиться в состоянии физического или социального конфликта.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -15929,7 +15929,7 @@
   {
     "strName": "ACTSeekSecurityChairAllow",
     "strTitle": "Отдых",
-    "strDesc": "[us] [отдыхает].",
+    "strDesc": "[us] отдыхает.",
     "strTooltip": "Пытается успокоиться, чтобы восстановить чувство безопасности. Необходимо сидеть и не находиться в состоянии физического или социального конфликта.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -15955,7 +15955,7 @@
   {
     "strName": "ACTSeekSecurityChairDeny",
     "strTitle": "Невозможно расслабиться",
-    "strDesc": "[us] [не может] расслабиться.",
+    "strDesc": "[us] не может расслабиться.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -15979,7 +15979,7 @@
   {
     "strName": "SeekSleepSimple",
     "strTitle": "Спать",
-    "strDesc": "[us] [пытается] уснуть на [them].",
+    "strDesc": "[us] пытается уснуть на [them].",
     "strTooltip": "Пытается уснуть здесь.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16010,7 +16010,7 @@
   {
     "strName": "SeekSleepSimpleAllow",
     "strTitle": "Сон",
-    "strDesc": "[us] [спит].",
+    "strDesc": "[us] спит.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16042,7 +16042,7 @@
   {
     "strName": "SeekSleepSimpleCont",
     "strTitle": "",
-    "strDesc": "[us] [спит].",
+    "strDesc": "[us] спит.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16069,7 +16069,7 @@
   {
     "strName": "SeekSleepSimpleDeny",
     "strTitle": "Пытается заснуть",
-    "strDesc": "[us] [испытывает] трудности с засыпанием.",
+    "strDesc": "[us] испытывает трудности с засыпанием.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16142,7 +16142,7 @@
   {
     "strName": "SeekSleepSimpleWake",
     "strTitle": "",
-    "strDesc": "[us] [просыпается].",
+    "strDesc": "[us] просыпается.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16172,7 +16172,7 @@
   {
     "strName": "SeekSleepSimpleCancel",
     "strTitle": "",
-    "strDesc": "[us] [просыпается].",
+    "strDesc": "[us] просыпается.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16203,7 +16203,7 @@
   {
     "strName": "SeekSleepSimpleLieDown",
     "strTitle": "Пытается заснуть",
-    "strDesc": "[us] [ложится] на [them].",
+    "strDesc": "[us] ложится на [them].",
     "strTooltip": "Пытается уснуть здесь.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -16234,7 +16234,7 @@
   {
     "strName": "SeekSleepSimpleLieDownComfortable",
     "strTitle": "Попытка удобно уснуть",
-    "strDesc": "[us] [удобно] [ложится] на [them].",
+    "strDesc": "[us] удобно ложится на [them].",
     "strTooltip": "Пытается уснуть здесь.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -16265,7 +16265,7 @@
   {
     "strName": "SeekSleepSimpleLieDownMedical",
     "strTitle": "Попытка отдохнуть и восстановиться",
-    "strDesc": "[us] [ложится] отдохнуть и восстановиться на [them].",
+    "strDesc": "[us] ложится отдохнуть и восстановиться на [them].",
     "strTooltip": "Пытается уснуть здесь.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -16296,7 +16296,7 @@
   {
     "strName": "ACTActivateDroneDecoy",
     "strTitle": "Активировать приманку-дрон «Rave» (одноразовая)",
-    "strDesc": "[us] [решает] активировать [them], чтобы привлечь дронов.",
+    "strDesc": "[us] решает активировать [them], чтобы привлечь дронов.",
     "strTooltip": "Активирует режим 'Rave' для привлечения внимания ближайших дронов. После активации ловушку нельзя деактивировать или использовать повторно.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16318,7 +16318,7 @@
   {
     "strName": "ACTActivateDroneDecoyAllow",
     "strTitle": "",
-    "strDesc": "[us] [активирует] [them].",
+    "strDesc": "[us] активирует [them].",
     "strTooltip": "Активирует режим 'Rave' для привлечения внимания ближайших дронов. После активации ловушку нельзя деактивировать или использовать повторно.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -16337,7 +16337,7 @@
   {
     "strName": "ACTActivateOxygenCandle",
     "strTitle": "Активировать кислородную свечу (одноразовая)",
-    "strDesc": "[us] [решает] активировать [them] для производства кислорода.",
+    "strDesc": "[us] решает активировать [them] для производства кислорода.",
     "strTooltip": "Запускает химическую реакцию, генерирующую медленный, но стабильный приток кислорода даже в вакууме. После активации кислородную свечу нельзя деактивировать или использовать повторно.\nДля более быстрого повышения давления используйте в небольшом помещении.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16366,7 +16366,7 @@
   {
     "strName": "ACTActivateOxygenCandleAllow",
     "strTitle": "",
-    "strDesc": "[us] [активирует] [them].",
+    "strDesc": "[us] активирует [them].",
     "strTooltip": "Запускает химическую реакцию, генерирующую медленный, но стабильный приток кислорода даже в вакууме. После активации кислородную свечу нельзя деактивировать или использовать повторно.\nДля более быстрого повышения давления используйте в небольшом помещении.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16394,7 +16394,7 @@
   {
     "strName": "ACTRefillHelmet",
     "strTitle": "Заправка скафандра кислородом из баллона",
-    "strDesc": "[us] [решает] освежить атмосферу [them] газом из баллона.",
+    "strDesc": "[us] решает освежить атмосферу [them] газом из баллона.",
     "strTooltip": "Частично стравливает атмосферу скафандра, одновременно закачивая O2 из баллона.\nСкафандр должен быть герметичным, а в инвентаре должен быть переносной баллон с O2.\nВнимание: Чем ниже давление в баллоне, тем меньше O2 будет закачано в ваш скафандр.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16451,7 +16451,7 @@
   {
     "strName": "ACTRefillHelmetPickup",
     "strTitle": "Взять баллон с кислородом",
-    "strDesc": "[them] [решает] взять [us].",
+    "strDesc": "[them] решает взять [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -16481,7 +16481,7 @@
   {
     "strName": "ACTRefillHelmetAllow",
     "strTitle": "Заправка скафандра кислородом из баллона",
-    "strDesc": "[them] частично [стравливает] и [освежает] атмосферу скафандра газом из баллона.",
+    "strDesc": "[them] частично стравливает и освежает атмосферу скафандра газом из баллона.",
     "strTooltip": "Частично стравливает атмосферу скафандра, одновременно закачивая O2 из баллона.\nСкафандр должен быть герметичным, а в инвентаре должен быть переносной баллон с O2.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16509,7 +16509,7 @@
   {
     "strName": "ACTRefillHelmetInject",
     "strTitle": "Заправка скафандра кислородом из баллона",
-    "strDesc": "[us] [решает] накачать атмосферу [them] газом из баллона.",
+    "strDesc": "[us] решает накачать атмосферу [them] газом из баллона.",
     "strTooltip": "Закачивает O2 из баллона.\nСкафандр должен быть герметичным, а в инвентаре должен быть переносной баллон с O2.\nВнимание: Чем ниже давление в баллоне, тем меньше O2 будет закачано в ваш скафандр.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16566,7 +16566,7 @@
   {
     "strName": "ACTRefillHelmetInjectPickup",
     "strTitle": "Взять баллон с кислородом",
-    "strDesc": "[them] [решает] взять [us].",
+    "strDesc": "[them] решает взять [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -16596,7 +16596,7 @@
   {
     "strName": "ACTRefillHelmetInjectAllow",
     "strTitle": "Заправка скафандра кислородом из баллона",
-    "strDesc": "[them] [накачивает] атмосферу скафандра газом из баллона.",
+    "strDesc": "[them] накачивает атмосферу скафандра газом из баллона.",
     "strTooltip": "Закачивает O2 из баллона.\nСкафандр должен быть герметичным, а в инвентаре должен быть переносной баллон с O2.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16624,7 +16624,7 @@
   {
     "strName": "ACTRouseSleeper",
     "strTitle": "Разбудить",
-    "strDesc": "[us] [пытается] разбудить [them].",
+    "strDesc": "[us] пытается разбудить [them].",
     "strTooltip": "Пытается разбудить цель ото сна.\nНе сработает, если цель потеряла сознание, а не просто спит.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16655,7 +16655,7 @@
   {
     "strName": "ACTRouseSleeperSurprise",
     "strTitle": "Разбудить",
-    "strDesc": "[them] [будит] резкий толчок от [us].",
+    "strDesc": "[them] будит резкий толчок от [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 0,
@@ -16685,7 +16685,7 @@
   {
     "strName": "SeekSocialDeny",
     "strTitle": "",
-    "strDesc": "[us] [справляется] с социальной неадаптированностью.",
+    "strDesc": "[us] справляется с социальной неадаптированностью.",
     "strActionGroup": "Talk",
     "strTargetPoint": null,
     "strAnim": "Idle",
@@ -16711,7 +16711,7 @@
   {
     "strName": "SOCComplainAboutWork",
     "strTitle": "Пожаловаться на работу",
-    "strDesc": "[us] [бормочет] что-то о проблемах на работе.",
+    "strDesc": "[us] бормочет что-то о проблемах на работе.",
     "strTargetPoint": null,
     "strActionGroup": "Talk",
     "strAnim": "Talk",
@@ -16743,7 +16743,7 @@
   {
     "strName": "SocialCombat",
     "strTitle": "Общаться",
-    "strDesc": "[us] [привлекает] внимание.",
+    "strDesc": "[us] привлекает внимание.",
     "strTooltip": "Открывает интерфейс социального взаимодействия.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
@@ -16769,7 +16769,7 @@
   {
     "strName": "SocialCombatNPC",
     "strTitle": "Социальный конфликт с NPC",
-    "strDesc": "[us] [привлекает] внимание.",
+    "strDesc": "[us] привлекает внимание.",
     "strActionGroup": "Talk",
     "strTargetPoint": "talk",
     "fTargetPointRange": 1,
@@ -16791,7 +16791,7 @@
   {
     "strName": "Strip",
     "strTitle": "Снять",
-    "strDesc": "[us] [собирается] раздеть [them].",
+    "strDesc": "[us] собирается раздеть [them].",
     "strTooltip": "Снимает надетые и переносимые предметы с не отвечающего на запросы объекта.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16816,7 +16816,7 @@
   {
     "strName": "StripSucceed",
     "strTitle": "Разрешить раздевание",
-    "strDesc": "[them] [is] раздет(-а) с помощью [us].",
+    "strDesc": "[them] раздет(-а) с помощью [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16837,7 +16837,7 @@
   {
     "strName": "StripDeny",
     "strTitle": "Запретить раздевание",
-    "strDesc": "[us] [отказывается] позволить [them] себя раздеть.",
+    "strDesc": "[us] отказывается позволить [them] себя раздеть.",
     "strTooltip": "Запрещает объекту снимать наши надетые и переносимые предметы.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
@@ -16859,7 +16859,7 @@
   {
     "strName": "DismantleRobot",
     "strTitle": "Разобрать дрон",
-    "strDesc": "[us] [собирается] разобрать [them] на запчасти.",
+    "strDesc": "[us] собирается разобрать [them] на запчасти.",
     "strTooltip": "Разбирает не отвечающего на запросы робототехнического объекта на составные части.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -16888,7 +16888,7 @@
   {
     "strName": "DismantleRobotSucceed",
     "strTitle": "Утилизировать",
-    "strDesc": "[us] [начинает] разбирать [them].",
+    "strDesc": "[us] начинает разбирать [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
     "fTargetPointRange": 1,
@@ -16916,7 +16916,7 @@
   {
     "strName": "DismantleRobotSucceedRemove01",
     "strTitle": "Разрешить демонтаж",
-    "strDesc": "[them] [устраняется] [us].",
+    "strDesc": "[them] устраняется [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -16941,7 +16941,7 @@
   {
     "strName": "DismantleRobotSucceedRemove02",
     "strTitle": "Разрешить демонтаж",
-    "strDesc": "[them] [устраняется] [us].",
+    "strDesc": "[them] устраняется [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17031,7 +17031,7 @@
   {
     "strName": "TASKCourseCorrection",
     "strTitle": "Коррекция курса",
-    "strDesc": "[us] [sits] за [them-pos] панелью управления.",
+    "strDesc": "[us] садится за [them] панелью управления.",
     "strTooltip": "Дважды проверяет траекторию полета.",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
@@ -17059,7 +17059,7 @@
   {
     "strName": "TASKCourseCorrectionOperate",
     "strTitle": "Коррекция курса",
-    "strDesc": "[us] [наблюдает] за [them].",
+    "strDesc": "[us] наблюдает за [them].",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "strIdleAnim": "Sitting",
@@ -17086,7 +17086,7 @@
   {
     "strName": "Unconscious",
     "strTitle": "Без сознания",
-    "strDesc": "[us] [обмякает].",
+    "strDesc": "[us] обмякает.",
     "strActionGroup": "Use",
     "fTargetPointRange": 0,
     "fRotation": 0,
@@ -17113,7 +17113,7 @@
   {
     "strName": "Undraft",
     "strTitle": "Снять с Draft-режима",
-    "strDesc": "[us] [освобождает] [them] от прямого управления.",
+    "strDesc": "[us] освобождает [them] от прямого управления.",
     "strActionGroup": "Use",
     "strAnim": "Talk",
     "aInverse": [
@@ -17131,7 +17131,7 @@
   {
     "strName": "UndraftAllow",
     "strTitle": "Снять с Draft-режима (Разрешить)",
-    "strDesc": "[us] [соглашается].",
+    "strDesc": "[us] соглашается.",
     "strActionGroup": "Use",
     "strAnim": "Yes",
     "aInverse": [
@@ -17148,7 +17148,7 @@
   {
     "strName": "Wait",
     "strTitle": "Ждать",
-    "strDesc": "[us] [ждёт] немного.",
+    "strDesc": "[us] ждёт немного.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17168,7 +17168,7 @@
   {
     "strName": "QuickWait",
     "strTitle": "Ждать",
-    "strDesc": "[us] [ждёт] краткий момент.",
+    "strDesc": "[us] ждёт краткий момент.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17191,7 +17191,7 @@
   {
     "strName": "Walk",
     "strTitle": "Идти к",
-    "strDesc": "[us] [идёт].",
+    "strDesc": "[us] идёт.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17214,7 +17214,7 @@
   {
     "strName": "Wander",
     "strTitle": "Бродить",
-    "strDesc": "[us] [бродит].",
+    "strDesc": "[us] бродит.",
     "strTooltip": "Дойти до случайного места поблизости.",
     "strActionGroup": "Use",
     "strTargetPoint": "random",
@@ -17236,7 +17236,7 @@
   {
     "strName": "WanderSoon",
     "strTitle": "",
-    "strDesc": "[us] [собирается] начать бродить.",
+    "strDesc": "[us] собирается начать бродить.",
     "strActionGroup": "Use",
     "nLogging": 0,
     "strIdleAnim": "Idle",
@@ -17272,7 +17272,7 @@
   {
     "strName": "SeekDrawCigDenyAirtight",
     "strTitle": "",
-    "strDesc": "[them] не может дотянуться до [them-pos] рта в скафандре.",
+    "strDesc": "[them] не может дотянуться до [them] рта в скафандре.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17293,7 +17293,7 @@
   {
     "strName": "DrawCig",
     "strTitle": "Достать сигарету",
-    "strDesc": "[us] [собирается] достать незажжённую сигарету из [them].",
+    "strDesc": "[us] собирается достать незажжённую сигарету из [them].",
     "strTooltip": "Помещает сигарету в пустой слот для рта или руки.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17368,7 +17368,7 @@
   {
     "strName": "ACTLightCig",
     "strTitle": "Прикурить",
-    "strDesc": "[us] [решает] прикурить [them].",
+    "strDesc": "[us] решает прикурить [them].",
     "strTooltip": "Поджигает незажженную сигарету в слоте для рта или руки.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17400,7 +17400,7 @@
   {
     "strName": "ACTLightCigViceroyAllow",
     "strTitle": "Освещение",
-    "strDesc": "[them] [заканчивает] прикуривать [us].",
+    "strDesc": "[them] заканчивает прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17424,7 +17424,7 @@
   {
     "strName": "ACTLightCigViceroy02Allow",
     "strTitle": "Освещение",
-    "strDesc": "[them] [заканчивает] прикуривать [us].",
+    "strDesc": "[them] заканчивает прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17448,7 +17448,7 @@
   {
     "strName": "ACTLightCigDamaskRoseAllow",
     "strTitle": "Освещение",
-    "strDesc": "[them] [заканчивает] прикуривать [us].",
+    "strDesc": "[them] заканчивает прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17472,7 +17472,7 @@
   {
     "strName": "ACTLightCigUnicornDreamAllow",
     "strTitle": "Освещение",
-    "strDesc": "[them] [заканчивает] прикуривать [us].",
+    "strDesc": "[them] заканчивает прикуривать [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17518,7 +17518,7 @@
   {
     "strName": "ACTSnuffCig",
     "strTitle": "Потушить",
-    "strDesc": "[us] [решает] потушить [them].",
+    "strDesc": "[us] решает потушить [them].",
     "strTooltip": "Превращает зажженную сигарету в окурок.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17546,7 +17546,7 @@
   {
     "strName": "ACTSnuffCigAllow",
     "strTitle": "Тушение",
-    "strDesc": "[them] [тушит] [us].",
+    "strDesc": "[them] тушит [us].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
@@ -17613,7 +17613,7 @@
   {
     "strName": "ACTSmokeCig",
     "strTitle": "Дым",
-    "strDesc": "[us] [собирается] курить [them].",
+    "strDesc": "[us] собирается курить [them].",
     "strTooltip": "Продолжает курить зажженную сигарету, находящуюся во рту или в руке, пока действие не будет отменено или сигарета не догорит.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17642,7 +17642,7 @@
   {
     "strName": "ACTSmokeCigViceroyAllow",
     "strTitle": "Дым",
-    "strDesc": "[us] [курит] [them].",
+    "strDesc": "[us] курит [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -17668,7 +17668,7 @@
   {
     "strName": "ACTSmokeCigViceroy02Allow",
     "strTitle": "Дым",
-    "strDesc": "[us] [курит] [them].",
+    "strDesc": "[us] курит [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -17694,7 +17694,7 @@
   {
     "strName": "ACTSmokeCigDamaskRoseAllow",
     "strTitle": "Дым",
-    "strDesc": "[us] [курит] [them].",
+    "strDesc": "[us] курит [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -17720,7 +17720,7 @@
   {
     "strName": "ACTSmokeCigUnicornDreamAllow",
     "strTitle": "Дым",
-    "strDesc": "[us] [курит] [them].",
+    "strDesc": "[us] курит [them].",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 1,
@@ -17767,7 +17767,7 @@
   {
     "strName": "SeekHygiene",
     "strTitle": "Освежиться",
-    "strDesc": "[us] [решает] освежиться с помощью [them].",
+    "strDesc": "[us] решает освежиться с помощью [them].",
     "strTooltip": "Улучшает гигиену за счет расхода предмета.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17794,7 +17794,7 @@
   {
     "strName": "SeekHygieneLowNeed",
     "strTitle": "Освежиться (низкая потребность)",
-    "strDesc": "[us] [решает] освежиться с помощью [them], хотя на самом деле в этом нет необходимости.",
+    "strDesc": "[us] решает освежиться с помощью [them], хотя на самом деле в этом нет необходимости.",
     "strTooltip": "Улучшает гигиену за счет расхода предмета.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17822,7 +17822,7 @@
   {
     "strName": "ACTSeekHygieneAllowTrash",
     "strTitle": "Очищение",
-    "strDesc": "[us] [освежается], используя [them].",
+    "strDesc": "[us] освежается, используя [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -17847,7 +17847,7 @@
   {
     "strName": "ACTSeekHygieneAllowTrashDone",
     "strTitle": "Выбрасывание использованной салфетки",
-    "strDesc": "[them] [выбрасывает] [us] как мусор.",
+    "strDesc": "[them] выбрасывает [us] как мусор.",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -17873,7 +17873,7 @@
   {
     "strName": "SeekHygieneTeeth",
     "strTitle": "Чистить зубы",
-    "strDesc": "[us] [решает] почистить зубы с помощью [them].",
+    "strDesc": "[us] решает почистить зубы с помощью [them].",
     "strTooltip": "Улучшает гигиену, но эффект может применяться лишь раз в несколько часов, а также после приема пищи или курения.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -17902,7 +17902,7 @@
   {
     "strName": "ACTSeekHygieneTeethAllow",
     "strTitle": "Чистка зубов",
-    "strDesc": "[them] [чистит] [us-pos] зубы с помощью [us].",
+    "strDesc": "[them] чистит [us] зубы с помощью [us].",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -17930,7 +17930,7 @@
   {
     "strName": "ACTSeekHygieneTeethAllow2",
     "strTitle": "Чистка зубов",
-    "strDesc": "[us] [чистит] [us-pos] зубы с помощью [them].",
+    "strDesc": "[us] чистит [us] зубы с помощью [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -17956,7 +17956,7 @@
   {
     "strName": "ACTSeekHygieneTeethAllowEnd",
     "strTitle": "",
-    "strDesc": "[us] [заканчивает] чистить [us-pos] зубы с помощью [them].",
+    "strDesc": "[us] заканчивает чистить [us] зубы с помощью [them].",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -17980,7 +17980,7 @@
   {
     "strName": "ACTSeekHygieneTeethDenyCooldown",
     "strTitle": "Чистка зубов",
-    "strDesc": "[them] [использует] [us], чтобы почистить зубы, но поскольку [them] [являются] уже достаточно свежими, это не даёт особого эффекта.",
+    "strDesc": "[them] использует [us], чтобы почистить зубы, но поскольку [them] являются уже достаточно свежими, это не даёт особого эффекта.",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 0,
@@ -18026,7 +18026,7 @@
   {
     "strName": "SeekHygieneWater",
     "strTitle": "Освежиться водой",
-    "strDesc": "[us] [решает] освежиться с помощью [them].",
+    "strDesc": "[us] решает освежиться с помощью [them].",
     "strTooltip": "Улучшает гигиену за счет расхода воды.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -18055,7 +18055,7 @@
   {
     "strName": "ACTSeekHygieneAllowWater",
     "strTitle": "Очищение",
-    "strDesc": "[us] [использует] [them], чтобы освежиться.",
+    "strDesc": "[us] использует [them], чтобы освежиться.",
     "strActionGroup": "Use",
     "strTargetPoint": "",
     "fTargetPointRange": 1,
@@ -18080,7 +18080,7 @@
   {
     "strName": "ACTSeekHygieneAllowWaterDone",
     "strTitle": "",
-    "strDesc": "[them] [заканчивает] использовать [us] для освежения.",
+    "strDesc": "[them] заканчивает использовать [us] для освежения.",
     "strActionGroup": "Use",
     "strTargetPoint": null,
     "fTargetPointRange": 0,

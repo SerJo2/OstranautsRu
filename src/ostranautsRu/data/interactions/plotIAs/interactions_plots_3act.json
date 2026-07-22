@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "strName": "PLOTTEMP3ActBEGStartTrigger",
     "strTitle": "Триггер для начала сюжета TEMP3ActBEG",
-    "strDesc": "[them] [messages] [us], с просьбой к [us] TEMP3ActBEG [3rd].",
+    "strDesc": "[them] [messages] [us], с просьбой к [us] TEMP3ActBEG .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -52,7 +52,7 @@
   {
     "strName": "PLOTTEMP3ActBEGTarget",
     "strTitle": "Цель TEMP3ActBEG",
-    "strDesc": "[us] TEMP3ActBEG [them] ради [3rd].",
+    "strDesc": "[us] TEMP3ActBEG [them] ради .",
     "strActionGroup": "Use",
     "bIgnoreFeelings": true,
     "aInverse": [],
@@ -71,7 +71,7 @@
   {
     "strName": "PLOTTEMP3ActBEGTurnIn",
     "strTitle": "Сдать TEMP3ActBEG",
-    "strDesc": "[us] [turns] в TEMP3ActBEG [3rd] для [them].",
+    "strDesc": "[us] [turns] в TEMP3ActBEG для [them].",
     "strActionGroup": "Talk",
     "bIgnoreFeelings": true,
     "aInverse": [],

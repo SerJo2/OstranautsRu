@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "strName": "MSAICargo01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -22,7 +22,7 @@
   {
     "strName": "MSAICargo01OffLooseAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -42,7 +42,7 @@
   {
     "strName": "MSAirPump02Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -52,7 +52,7 @@
   {
     "strName": "MSAirPump02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -62,7 +62,7 @@
   {
     "strName": "MSAirPump02LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -72,7 +72,7 @@
   {
     "strName": "MSAirPump02LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -82,7 +82,7 @@
   {
     "strName": "MSAirPump02OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -102,7 +102,7 @@
   {
     "strName": "MSAirPump02OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -122,7 +122,7 @@
   {
     "strName": "MSAlarmDmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -132,7 +132,7 @@
   {
     "strName": "MSAlarmDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -142,7 +142,7 @@
   {
     "strName": "MSAlarmCO2Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -152,7 +152,7 @@
   {
     "strName": "MSAlarmCO2DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -162,7 +162,7 @@
   {
     "strName": "MSAlarmContaminantsDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -172,7 +172,7 @@
   {
     "strName": "MSAlarmContaminantsDmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -182,7 +182,7 @@
   {
     "strName": "MSAlarmN2Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -192,7 +192,7 @@
   {
     "strName": "MSAlarmN2DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -202,7 +202,7 @@
   {
     "strName": "MSAlarmO2Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -212,7 +212,7 @@
   {
     "strName": "MSAlarmO2DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -222,7 +222,7 @@
   {
     "strName": "MSAlarmSmokeDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -232,7 +232,7 @@
   {
     "strName": "MSAlarmSmokeDmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -242,7 +242,7 @@
   {
     "strName": "MSAlarmTempDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -252,7 +252,7 @@
   {
     "strName": "MSAlarmTempDmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -304,7 +304,7 @@
   {
     "strName": "MSAlarmCO2SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -386,7 +386,7 @@
   {
     "strName": "MSAlarmContaminantsSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -468,7 +468,7 @@
   {
     "strName": "MSAlarmN2SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -550,7 +550,7 @@
   {
     "strName": "MSAlarmO2SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -632,7 +632,7 @@
   {
     "strName": "MSAlarmSmokeSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -714,7 +714,7 @@
   {
     "strName": "MSAlarmTempSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -792,7 +792,7 @@
   {
     "strName": "MSAmmoSpentDefault",
     "strTitle": "",
-    "strDesc": "[us] [is] израсходован(о).",
+    "strDesc": "[us] израсходован(о).",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -808,7 +808,7 @@
   {
     "strName": "MSArcadeGame01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -818,7 +818,7 @@
   {
     "strName": "MSArcadeGame01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -828,7 +828,7 @@
   {
     "strName": "MSArcadeGame01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -838,7 +838,7 @@
   {
     "strName": "MSArcadeGame01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -848,7 +848,7 @@
   {
     "strName": "MSArcadeGame01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -888,7 +888,7 @@
   {
     "strName": "MSAntenna01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -898,7 +898,7 @@
   {
     "strName": "MSAntenna01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -908,7 +908,7 @@
   {
     "strName": "MSAntenna01DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -938,7 +938,7 @@
   {
     "strName": "MSAntenna01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -978,7 +978,7 @@
   {
     "strName": "MSAntenna02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -988,7 +988,7 @@
   {
     "strName": "MSAntenna02Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -998,7 +998,7 @@
   {
     "strName": "MSAntenna02DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1028,7 +1028,7 @@
   {
     "strName": "MSAntenna02SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1068,7 +1068,7 @@
   {
     "strName": "MSAtmoScrubber01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1078,7 +1078,7 @@
   {
     "strName": "MSAtmoScrubber01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1088,7 +1088,7 @@
   {
     "strName": "MSAtmoScrubber01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1098,7 +1098,7 @@
   {
     "strName": "MSAtmoScrubber01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1108,7 +1108,7 @@
   {
     "strName": "MSAtmoScrubber01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1128,7 +1128,7 @@
   {
     "strName": "MSAtmoScrubber01OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1148,7 +1148,7 @@
   {
     "strName": "MSAtmoScrubber02Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1158,7 +1158,7 @@
   {
     "strName": "MSAtmoScrubber02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1168,7 +1168,7 @@
   {
     "strName": "MSAtmoScrubber02LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1178,7 +1178,7 @@
   {
     "strName": "MSAtmoScrubber02LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1188,7 +1188,7 @@
   {
     "strName": "MSAtmoScrubber02OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1208,7 +1208,7 @@
   {
     "strName": "MSAtmoScrubber02OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1228,7 +1228,7 @@
   {
     "strName": "MSBed01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1248,7 +1248,7 @@
   {
     "strName": "MSBed01OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1268,7 +1268,7 @@
   {
     "strName": "MSBedMedical01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1288,7 +1288,7 @@
   {
     "strName": "MSBedMedical01OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1308,7 +1308,7 @@
   {
     "strName": "MSCargoWeb01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1318,7 +1318,7 @@
   {
     "strName": "MSCargoWeb01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1328,7 +1328,7 @@
   {
     "strName": "MSCanister01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1338,7 +1338,7 @@
   {
     "strName": "MSCanister01DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1348,7 +1348,7 @@
   {
     "strName": "MSCanisterO2SmallDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1368,7 +1368,7 @@
   {
     "strName": "MSCargoPod01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1378,7 +1378,7 @@
   {
     "strName": "MSCargoPod01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1388,7 +1388,7 @@
   {
     "strName": "MSCargoPod01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1398,7 +1398,7 @@
   {
     "strName": "MSCargoPodClimate01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1408,7 +1408,7 @@
   {
     "strName": "MSCargoPodClimate01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1418,7 +1418,7 @@
   {
     "strName": "MSCargoPodClimate01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1428,7 +1428,7 @@
   {
     "strName": "MSCargoPodRad01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1438,7 +1438,7 @@
   {
     "strName": "MSCargoPodRad01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1448,7 +1448,7 @@
   {
     "strName": "MSCargoPodRad01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1458,7 +1458,7 @@
   {
     "strName": "MSCargoPodSpec01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1468,7 +1468,7 @@
   {
     "strName": "MSCargoPodSpec01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1478,7 +1478,7 @@
   {
     "strName": "MSCargoPodSpec01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1488,7 +1488,7 @@
   {
     "strName": "MSChair01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1498,7 +1498,7 @@
   {
     "strName": "MSChair01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1508,7 +1508,7 @@
   {
     "strName": "MSChair01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1518,7 +1518,7 @@
   {
     "strName": "MSChair02Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1528,7 +1528,7 @@
   {
     "strName": "MSChair02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1538,7 +1538,7 @@
   {
     "strName": "MSChair02LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1548,7 +1548,7 @@
   {
     "strName": "MSChairCube01bDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1558,7 +1558,7 @@
   {
     "strName": "MSChairCube01bDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1568,7 +1568,7 @@
   {
     "strName": "MSChairCube01bLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1578,7 +1578,7 @@
   {
     "strName": "MSChairStrap01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1588,7 +1588,7 @@
   {
     "strName": "MSChairStrap01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1598,7 +1598,7 @@
   {
     "strName": "MSChairStrap01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1608,7 +1608,7 @@
   {
     "strName": "MSChairStrap01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1648,7 +1648,7 @@
   {
     "strName": "MSChargerBattDrill01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1658,7 +1658,7 @@
   {
     "strName": "MSChargerBattDrill01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1668,7 +1668,7 @@
   {
     "strName": "MSChargerBattDrill01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1678,7 +1678,7 @@
   {
     "strName": "MSChargerBattDrill01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1688,7 +1688,7 @@
   {
     "strName": "MSChargerDrill01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1708,7 +1708,7 @@
   {
     "strName": "MSChargerBattEVADamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1718,7 +1718,7 @@
   {
     "strName": "MSChargerBattEVADestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1728,7 +1728,7 @@
   {
     "strName": "MSChargerBattEVALooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1738,7 +1738,7 @@
   {
     "strName": "MSChargerBattEVALooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1748,7 +1748,7 @@
   {
     "strName": "MSChargerEVASwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1768,7 +1768,7 @@
   {
     "strName": "MSChargerBattery04Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1778,7 +1778,7 @@
   {
     "strName": "MSChargerBattery04Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1788,7 +1788,7 @@
   {
     "strName": "MSChargerBattery04LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1798,7 +1798,7 @@
   {
     "strName": "MSChargerBattery04LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1808,7 +1808,7 @@
   {
     "strName": "MSCharger04SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1828,7 +1828,7 @@
   {
     "strName": "MSChargerBattWelder01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1838,7 +1838,7 @@
   {
     "strName": "MSChargerBattWelder01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1848,7 +1848,7 @@
   {
     "strName": "MSChargerBattWelder01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1858,7 +1858,7 @@
   {
     "strName": "MSChargerBattWelder01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1868,7 +1868,7 @@
   {
     "strName": "MSChargerWelder01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1888,7 +1888,7 @@
   {
     "strName": "MSConduit00Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1898,7 +1898,7 @@
   {
     "strName": "MSConduit00Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1908,7 +1908,7 @@
   {
     "strName": "MSConduit00LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1918,7 +1918,7 @@
   {
     "strName": "MSConduit00LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1928,7 +1928,7 @@
   {
     "strName": "MSCooler01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1938,7 +1938,7 @@
   {
     "strName": "MSCooler01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1948,7 +1948,7 @@
   {
     "strName": "MSCooler01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1958,7 +1958,7 @@
   {
     "strName": "MSCooler01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -1968,7 +1968,7 @@
   {
     "strName": "MSCooler01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -1988,7 +1988,7 @@
   {
     "strName": "MSCooler01OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2008,7 +2008,7 @@
   {
     "strName": "MSCrate01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2030,7 +2030,7 @@
   {
     "strName": "MSCrate01LockAllow",
     "strTitle": "",
-    "strDesc": "[us] [блокируется].",
+    "strDesc": "[us] блокируется.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2050,7 +2050,7 @@
   {
     "strName": "MSCrate01UnlockAllow",
     "strTitle": "",
-    "strDesc": "[us] [разблокируется].",
+    "strDesc": "[us] разблокируется.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2070,7 +2070,7 @@
   {
     "strName": "MSDamageBed01",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2083,7 +2083,7 @@
   {
     "strName": "MSDamageBed01Loose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2096,7 +2096,7 @@
   {
     "strName": "MSDestroyBed01",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2109,7 +2109,7 @@
   {
     "strName": "MSDestroyBed02",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2122,7 +2122,7 @@
   {
     "strName": "MSDestroyBedMedical01",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2135,7 +2135,7 @@
   {
     "strName": "MSDamageBedMedical01",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2148,7 +2148,7 @@
   {
     "strName": "MSDamageBedMedical01Loose",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2161,7 +2161,7 @@
   {
     "strName": "MSDestroyClothes",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2174,7 +2174,7 @@
   {
     "strName": "MSDestroyDefault",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2204,7 +2204,7 @@
   {
     "strName": "MSDestroyPressureSuit",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2217,7 +2217,7 @@
   {
     "strName": "MSDestroyPressureSuitDmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2230,7 +2230,7 @@
   {
     "strName": "MSDestroyEVASuit",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2243,7 +2243,7 @@
   {
     "strName": "MSDestroyEVASuitDmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2256,7 +2256,7 @@
   {
     "strName": "MSDolly01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2278,7 +2278,7 @@
   {
     "strName": "MSDolly01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -2300,7 +2300,7 @@
   {
     "strName": "MSHatch01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -2310,7 +2310,7 @@
   {
     "strName": "MSHelmet03Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2323,7 +2323,7 @@
   {
     "strName": "MSHelmet03Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2336,7 +2336,7 @@
   {
     "strName": "MSHelmet02Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2349,7 +2349,7 @@
   {
     "strName": "MSHelmet02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2362,7 +2362,7 @@
   {
     "strName": "MSDestroyMeat",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2414,7 +2414,7 @@
   {
     "strName": "MSDestroyMeatEye",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2427,7 +2427,7 @@
   {
     "strName": "MSDestroyMeatHoof",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2440,7 +2440,7 @@
   {
     "strName": "MSDestroyMeatHorn",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2466,7 +2466,7 @@
   {
     "strName": "MSDestroyMech",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2479,7 +2479,7 @@
   {
     "strName": "MSDestroyDrill",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2492,7 +2492,7 @@
   {
     "strName": "MSDamageDrill",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2505,7 +2505,7 @@
   {
     "strName": "MSDamageDrinkBottle",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2518,7 +2518,7 @@
   {
     "strName": "MSDamageSolderingIron",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2531,7 +2531,7 @@
   {
     "strName": "MSBattery02Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2544,7 +2544,7 @@
   {
     "strName": "MSBattery02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2557,7 +2557,7 @@
   {
     "strName": "MSBattery02LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2570,7 +2570,7 @@
   {
     "strName": "MSBattery02LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2583,7 +2583,7 @@
   {
     "strName": "MSBattery02bDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2596,7 +2596,7 @@
   {
     "strName": "MSBattery02bDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2609,7 +2609,7 @@
   {
     "strName": "MSBattery02bLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2622,7 +2622,7 @@
   {
     "strName": "MSBattery02bLooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2635,7 +2635,7 @@
   {
     "strName": "MSBattery02cDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2648,7 +2648,7 @@
   {
     "strName": "MSBattery02cDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2661,7 +2661,7 @@
   {
     "strName": "MSBattery02cLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2674,7 +2674,7 @@
   {
     "strName": "MSBattery02cLooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2687,7 +2687,7 @@
   {
     "strName": "MSBattery03Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2700,7 +2700,7 @@
   {
     "strName": "MSBattery03Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2713,7 +2713,7 @@
   {
     "strName": "MSBattery04Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2726,7 +2726,7 @@
   {
     "strName": "MSBattery04Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2739,7 +2739,7 @@
   {
     "strName": "MSBatteryDrill01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2752,7 +2752,7 @@
   {
     "strName": "MSBatteryDrill01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2765,7 +2765,7 @@
   {
     "strName": "MSBatteryWelder01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2778,7 +2778,7 @@
   {
     "strName": "MSBatteryWelder01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2791,7 +2791,7 @@
   {
     "strName": "MSCapacitor01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2804,7 +2804,7 @@
   {
     "strName": "MSCapacitor01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2817,7 +2817,7 @@
   {
     "strName": "MSCapacitor01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2830,7 +2830,7 @@
   {
     "strName": "MSCapacitor01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2843,7 +2843,7 @@
   {
     "strName": "MSDestroySolderingIron",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2856,7 +2856,7 @@
   {
     "strName": "MSDamageGrinder",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2869,7 +2869,7 @@
   {
     "strName": "MSDamageWelder",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2882,7 +2882,7 @@
   {
     "strName": "MSDamagePDA",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2895,7 +2895,7 @@
   {
     "strName": "MSDestroyPDA",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2908,7 +2908,7 @@
   {
     "strName": "MSDestroyPlastic",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2921,7 +2921,7 @@
   {
     "strName": "MSDestroyWelder",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2934,7 +2934,7 @@
   {
     "strName": "MSDestroyGrinder",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2947,7 +2947,7 @@
   {
     "strName": "MSDestroyTech",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2960,7 +2960,7 @@
   {
     "strName": "MSDamageLaser",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2973,7 +2973,7 @@
   {
     "strName": "MSDestroyLaser",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -2986,7 +2986,7 @@
   {
     "strName": "MSAeroParts3x301Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3007,7 +3007,7 @@
   {
     "strName": "MSAeroParts3x301Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3028,7 +3028,7 @@
   {
     "strName": "MSAeroParts3x302Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3049,7 +3049,7 @@
   {
     "strName": "MSAeroParts3x302Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3070,7 +3070,7 @@
   {
     "strName": "MSDestroyCargoAI",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -3083,7 +3083,7 @@
   {
     "strName": "MSDestroyCargoAIShell",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -3096,7 +3096,7 @@
   {
     "strName": "MSDestroyCargoAILoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -3130,7 +3130,7 @@
   {
     "strName": "MSDockSysCloseAllow",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3151,7 +3151,7 @@
   {
     "strName": "MSDockSysCloseAllowAddAuto",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3172,7 +3172,7 @@
   {
     "strName": "MSDockSysOpenAllow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3193,7 +3193,7 @@
   {
     "strName": "MSDockSysOpenAllowRemoveAuto",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3235,7 +3235,7 @@
   {
     "strName": "MSDockSys03CloseAllow",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3256,7 +3256,7 @@
   {
     "strName": "MSDockSys03CloseAllowAddAuto",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3277,7 +3277,7 @@
   {
     "strName": "MSDockSys03OpenAllow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3298,7 +3298,7 @@
   {
     "strName": "MSDockSys03OpenAllowRemoveAuto",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3319,7 +3319,7 @@
   {
     "strName": "MSDockSys03ClosedDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3329,7 +3329,7 @@
   {
     "strName": "MSDockSys03ClosedDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3339,7 +3339,7 @@
   {
     "strName": "MSDockSys03ClosedLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3349,7 +3349,7 @@
   {
     "strName": "MSDockSys03ClosedLooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3359,7 +3359,7 @@
   {
     "strName": "MSDoor01ClosedDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3369,7 +3369,7 @@
   {
     "strName": "MSDoor01ClosedDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3379,7 +3379,7 @@
   {
     "strName": "MSDoor01ClosedLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3389,7 +3389,7 @@
   {
     "strName": "MSDoor01ClosedLooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -3419,7 +3419,7 @@
   {
     "strName": "MSDoor01ClosedLockedShutdownAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3439,7 +3439,7 @@
   {
     "strName": "MSDoor01ClosedOnOpenAllow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3460,7 +3460,7 @@
   {
     "strName": "MSDoor01ClosedOnOpenAllowRemoveAuto",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3481,7 +3481,7 @@
   {
     "strName": "MSDoor01ClosedOpenAllow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3521,7 +3521,7 @@
   {
     "strName": "MSDoor01ClosedOpenDenyLocked",
     "strTitle": "",
-    "strDesc": "[us] [is] заблокирован(о) и не откроется.",
+    "strDesc": "[us] заблокирован(о) и не откроется.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3541,7 +3541,7 @@
   {
     "strName": "MSDoor01ClosedPowerupAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3561,7 +3561,7 @@
   {
     "strName": "MSDoor01ClosedShutdownAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3581,7 +3581,7 @@
   {
     "strName": "MSDoor01OpenLockedShutdownAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3601,7 +3601,7 @@
   {
     "strName": "MSDoor01OpenLockedPowerupAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3642,7 +3642,7 @@
   {
     "strName": "MSDoor01OpenOnCloseAllow",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3663,7 +3663,7 @@
   {
     "strName": "MSDoor01OpenOnCloseAllowAddAuto",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3704,7 +3704,7 @@
   {
     "strName": "MSDoor01OpenedCloseDenyLocked",
     "strTitle": "",
-    "strDesc": "[us] [is] заблокирован(о) и не закроется.",
+    "strDesc": "[us] заблокирован(о) и не закроется.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3724,7 +3724,7 @@
   {
     "strName": "MSDoor01OpenPowerupAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3744,7 +3744,7 @@
   {
     "strName": "MSDoor01OpenShutdownAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3764,7 +3764,7 @@
   {
     "strName": "MSCrate01LockAllowSelf",
     "strTitle": "",
-    "strDesc": "[us] [блокируется].",
+    "strDesc": "[us] блокируется.",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
     "strThemType": "Self",
@@ -3775,7 +3775,7 @@
   {
     "strName": "MSCrate01UnlockAllowSelf",
     "strTitle": "",
-    "strDesc": "[us] [разблокируется].",
+    "strDesc": "[us] разблокируется.",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
     "strThemType": "Self",
@@ -3786,7 +3786,7 @@
   {
     "strName": "MSDoor01ClosedLockAllow",
     "strTitle": "",
-    "strDesc": "[us] [блокируется].",
+    "strDesc": "[us] блокируется.",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
     "strThemType": "Self",
@@ -3797,7 +3797,7 @@
   {
     "strName": "MSDoor01ClosedUnlockAllow",
     "strTitle": "",
-    "strDesc": "[us] [разблокируется].",
+    "strDesc": "[us] разблокируется.",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
     "strThemType": "Self",
@@ -3808,7 +3808,7 @@
   {
     "strName": "MSDoor01OpenLockAllow",
     "strTitle": "",
-    "strDesc": "[us] [блокируется].",
+    "strDesc": "[us] блокируется.",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
     "strThemType": "Self",
@@ -3819,7 +3819,7 @@
   {
     "strName": "MSDoor01OpenUnlockAllow",
     "strTitle": "",
-    "strDesc": "[us] [разблокируется].",
+    "strDesc": "[us] разблокируется.",
     "fTargetPointRange": 0,
     "fDuration": 0.0,
     "strThemType": "Self",
@@ -3830,7 +3830,7 @@
   {
     "strName": "MSCeilingLightSwitchOffWhiteCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3868,7 +3868,7 @@
   {
     "strName": "MSCeilingLightSwitchOffCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3906,7 +3906,7 @@
   {
     "strName": "MSCeilingLightSwitchOffOrangeCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3944,7 +3944,7 @@
   {
     "strName": "MSCeilingLightSwitchOffVibrantRedCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -3982,7 +3982,7 @@
   {
     "strName": "MSCeilingLightSwitchOffVibrantPurpleCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4020,7 +4020,7 @@
   {
     "strName": "MSCeilingLightSwitchOffVibrantGreenCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4058,7 +4058,7 @@
   {
     "strName": "MSLightSwitchOrangeOffCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4096,7 +4096,7 @@
   {
     "strName": "MSLightSwitchOffCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4134,7 +4134,7 @@
   {
     "strName": "MSLightSwitchOffOrangeCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4172,7 +4172,7 @@
   {
     "strName": "MSLightSwitchOffRedCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4210,7 +4210,7 @@
   {
     "strName": "MSLightSwitchOffVibrantPurpleCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4248,7 +4248,7 @@
   {
     "strName": "MSLightSwitchOffVibrantGreenCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4286,7 +4286,7 @@
   {
     "strName": "MSLightSwitchOffWhiteCustomAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4354,7 +4354,7 @@
   {
     "strName": "MSElectricalBox01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4364,7 +4364,7 @@
   {
     "strName": "MSElectricalBox01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4374,7 +4374,7 @@
   {
     "strName": "MSElectricalBox01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4384,7 +4384,7 @@
   {
     "strName": "MSElectricalBox01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4394,7 +4394,7 @@
   {
     "strName": "MSElectricalBox01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4434,7 +4434,7 @@
   {
     "strName": "MSEVASwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4474,7 +4474,7 @@
   {
     "strName": "MSFloor01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4495,7 +4495,7 @@
   {
     "strName": "MSFloor01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4516,7 +4516,7 @@
   {
     "strName": "MSFloor01Dismantle",
     "strTitle": "",
-    "strDesc": "[us] [is] демонтирован(о).",
+    "strDesc": "[us] демонтирован(о).",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4537,7 +4537,7 @@
   {
     "strName": "MSFloor4x401Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4558,7 +4558,7 @@
   {
     "strName": "MSFloor4x401Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4579,7 +4579,7 @@
   {
     "strName": "MSFloorPlastic01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4600,7 +4600,7 @@
   {
     "strName": "MSFloorPlastic01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4621,7 +4621,7 @@
   {
     "strName": "MSFloorPlastic01Dismantle",
     "strTitle": "",
-    "strDesc": "[us] [is] демонтирован(о).",
+    "strDesc": "[us] демонтирован(о).",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4642,7 +4642,7 @@
   {
     "strName": "MSFilterCO201Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4652,7 +4652,7 @@
   {
     "strName": "MSFilterCO202Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4662,7 +4662,7 @@
   {
     "strName": "MSFridge01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4672,7 +4672,7 @@
   {
     "strName": "MSFridge01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4682,7 +4682,7 @@
   {
     "strName": "MSFridge01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4692,7 +4692,7 @@
   {
     "strName": "MSFridge01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4702,7 +4702,7 @@
   {
     "strName": "MSFusionReactorCore01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4712,7 +4712,7 @@
   {
     "strName": "MSFusionReactorCore01DamageExplode",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4722,7 +4722,7 @@
   {
     "strName": "MSFusionReactorCore01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4732,7 +4732,7 @@
   {
     "strName": "MSFusionReactorCore01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4742,7 +4742,7 @@
   {
     "strName": "MSFusionReactorCore01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4772,7 +4772,7 @@
   {
     "strName": "MSFusionReactorCore01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4814,7 +4814,7 @@
   {
     "strName": "MSFusionCorePump01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4824,7 +4824,7 @@
   {
     "strName": "MSFusionCorePump01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4834,7 +4834,7 @@
   {
     "strName": "MSFusionCorePump01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4844,7 +4844,7 @@
   {
     "strName": "MSFusionCorePump01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4854,7 +4854,7 @@
   {
     "strName": "MSFusionCorePump01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4894,7 +4894,7 @@
   {
     "strName": "MSFusionCryoPump01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4904,7 +4904,7 @@
   {
     "strName": "MSFusionCryoPump01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4914,7 +4914,7 @@
   {
     "strName": "MSFusionCryoPump01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4924,7 +4924,7 @@
   {
     "strName": "MSFusionCryoPump01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4934,7 +4934,7 @@
   {
     "strName": "MSFusionCryoPump01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -4974,7 +4974,7 @@
   {
     "strName": "MSFusionFieldCoils01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4984,7 +4984,7 @@
   {
     "strName": "MSFusionFieldCoils01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -4994,7 +4994,7 @@
   {
     "strName": "MSFusionFieldCoils01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5004,7 +5004,7 @@
   {
     "strName": "MSFusionFieldCoils01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5014,7 +5014,7 @@
   {
     "strName": "MSFusionFieldCoils01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5054,7 +5054,7 @@
   {
     "strName": "MSFusionFuelRegulator01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5064,7 +5064,7 @@
   {
     "strName": "MSFusionFuelRegulator01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5074,7 +5074,7 @@
   {
     "strName": "MSFusionFuelRegulator01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5084,7 +5084,7 @@
   {
     "strName": "MSFusionFuelRegulator01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5094,7 +5094,7 @@
   {
     "strName": "MSFusionFuelRegulator01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5134,7 +5134,7 @@
   {
     "strName": "MSFusionLaserArray01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5144,7 +5144,7 @@
   {
     "strName": "MSFusionLaserArray01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5154,7 +5154,7 @@
   {
     "strName": "MSFusionLaserArray01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5164,7 +5164,7 @@
   {
     "strName": "MSFusionLaserArray01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5174,7 +5174,7 @@
   {
     "strName": "MSFusionLaserArray01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5214,7 +5214,7 @@
   {
     "strName": "MSFusionMHDGenerator01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5254,7 +5254,7 @@
   {
     "strName": "MSFusionMHDGenerator01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -5267,7 +5267,7 @@
   {
     "strName": "MSFusionMHDGenerator01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -5280,7 +5280,7 @@
   {
     "strName": "MSFusionMHDGenerator01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -5293,7 +5293,7 @@
   {
     "strName": "MSFusionMHDGenerator01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Self",
     "bIgnoreFeelings": true,
@@ -5306,7 +5306,7 @@
   {
     "strName": "MSFusionPelletFeeder01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5316,7 +5316,7 @@
   {
     "strName": "MSFusionPelletFeeder01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5326,7 +5326,7 @@
   {
     "strName": "MSFusionPelletFeeder01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5336,7 +5336,7 @@
   {
     "strName": "MSFusionPelletFeeder01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5346,7 +5346,7 @@
   {
     "strName": "MSFusionPelletFeeder01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5386,7 +5386,7 @@
   {
     "strName": "MSHeater01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5396,7 +5396,7 @@
   {
     "strName": "MSHeater01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5406,7 +5406,7 @@
   {
     "strName": "MSHeater01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5416,7 +5416,7 @@
   {
     "strName": "MSHeater01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5426,7 +5426,7 @@
   {
     "strName": "MSHeater01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5466,7 +5466,7 @@
   {
     "strName": "MSHeavyLiftRotor01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5476,7 +5476,7 @@
   {
     "strName": "MSHeavyLiftRotor01DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5486,7 +5486,7 @@
   {
     "strName": "MSHeavyLiftRotor01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -5496,7 +5496,7 @@
   {
     "strName": "MSHeavyLiftRotor01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5536,7 +5536,7 @@
   {
     "strName": "MSJukeboxSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5576,7 +5576,7 @@
   {
     "strName": "MSCeilingLightSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5616,7 +5616,7 @@
   {
     "strName": "MSCeilingLightSwitchOffOrangeAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5656,7 +5656,7 @@
   {
     "strName": "MSCeilingLightSwitchOffVibrantRedAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5696,7 +5696,7 @@
   {
     "strName": "MSCeilingLightSwitchOffVibrantPurpleAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5736,7 +5736,7 @@
   {
     "strName": "MSCeilingLightSwitchOffVibrantGreenAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5776,7 +5776,7 @@
   {
     "strName": "MSCeilingLightSwitchOffWhiteAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5816,7 +5816,7 @@
   {
     "strName": "MSLightSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5856,7 +5856,7 @@
   {
     "strName": "MSLightSwitchOffOrangeAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5896,7 +5896,7 @@
   {
     "strName": "MSLightSwitchOffRedAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5936,7 +5936,7 @@
   {
     "strName": "MSLightSwitchOffVibrantPurpleAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -5976,7 +5976,7 @@
   {
     "strName": "MSLightSwitchOffVibrantGreenAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6016,7 +6016,7 @@
   {
     "strName": "MSLightSwitchOffWhiteAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6056,7 +6056,7 @@
   {
     "strName": "MSLitCeilingDmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6066,7 +6066,7 @@
   {
     "strName": "MSLitWallDmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6096,7 +6096,7 @@
   {
     "strName": "MSPortalCloseStart",
     "strTitle": "Закрыть",
-    "strDesc": "[us] [starts] закрывать [them].",
+    "strDesc": "[us] начинает закрывать [them].",
     "strTooltip": "Закрывает дверь, перезапуская автозакрытие, если оно было ранее отключено. Внимание: атмосферные условия по другую сторону могут значительно отличаться!",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6125,7 +6125,7 @@
   {
     "strName": "MSPortalCloseStartAddAuto",
     "strTitle": "Закрыть",
-    "strDesc": "[us] [starts] закрывать [them].",
+    "strDesc": "[us] начинает закрывать [them].",
     "strTooltip": "Открывает дверь. Внимание: атмосферные условия по другую сторону могут значительно отличаться!",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6154,7 +6154,7 @@
   {
     "strName": "MSPortalOpenStart",
     "strTitle": "Открыть",
-    "strDesc": "[us] [starts] открывать [them].",
+    "strDesc": "[us] начинает открывать [them].",
     "strTooltip": "Открывает дверь, временно отключая автозакрытие до ручного закрытия. Внимание: атмосферные условия по другую сторону могут значительно отличаться!",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6185,7 +6185,7 @@
   {
     "strName": "MSPortalOpenStartRemoveAuto",
     "strTitle": "Открыть",
-    "strDesc": "[us] [starts] открывать [them].",
+    "strDesc": "[us] начинает открывать [them].",
     "strTooltip": "Закрывает [them] для предотвращения свободного обмена газом и давлением между отсеками.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -6214,7 +6214,7 @@
   {
     "strName": "MSRack1x101Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6224,7 +6224,7 @@
   {
     "strName": "MSRack1x101LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6234,7 +6234,7 @@
   {
     "strName": "MSRack1x101DormDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -6243,7 +6243,7 @@
   {
     "strName": "MSRack1x101DormLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -6252,7 +6252,7 @@
   {
     "strName": "MSRack1x201Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6262,7 +6262,7 @@
   {
     "strName": "MSRack1x201LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6272,7 +6272,7 @@
   {
     "strName": "MSRack1x301Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6282,7 +6282,7 @@
   {
     "strName": "MSRack1x301LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6292,7 +6292,7 @@
   {
     "strName": "MSRack1x401Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6302,7 +6302,7 @@
   {
     "strName": "MSRack1x401LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6312,7 +6312,7 @@
   {
     "strName": "MSRack2x2C01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6322,7 +6322,7 @@
   {
     "strName": "MSRack2x2C01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6332,7 +6332,7 @@
   {
     "strName": "MSRackUnder01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6342,7 +6342,7 @@
   {
     "strName": "MSRackUnder01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6352,7 +6352,7 @@
   {
     "strName": "MSSignalBeacon01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6362,7 +6362,7 @@
   {
     "strName": "MSSignalBeacon01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6372,7 +6372,7 @@
   {
     "strName": "MSSignalBeacon01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6382,7 +6382,7 @@
   {
     "strName": "MSSignalBeacon01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6392,7 +6392,7 @@
   {
     "strName": "MSStorageBin1x101Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6402,7 +6402,7 @@
   {
     "strName": "MSStorageBin1x101LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6412,7 +6412,7 @@
   {
     "strName": "MSStorageBin2x101Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6422,7 +6422,7 @@
   {
     "strName": "MSStorageBin2x101LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6432,7 +6432,7 @@
   {
     "strName": "MSStorageBin3x101Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6442,7 +6442,7 @@
   {
     "strName": "MSStorageBin3x101LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6452,7 +6452,7 @@
   {
     "strName": "MSStorageBinFloor1x101Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6462,7 +6462,7 @@
   {
     "strName": "MSStorageBin2x2C01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6472,7 +6472,7 @@
   {
     "strName": "MSStorageBin2x2C01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6482,7 +6482,7 @@
   {
     "strName": "MSStorageBin2x104Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6492,7 +6492,7 @@
   {
     "strName": "MSStorageBin2x104LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6502,7 +6502,7 @@
   {
     "strName": "MSStorageBin2x2C04Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6512,7 +6512,7 @@
   {
     "strName": "MSStorageBin2x2C04LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6522,7 +6522,7 @@
   {
     "strName": "MSRCSCluster01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6532,7 +6532,7 @@
   {
     "strName": "MSRCSCluster01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6542,7 +6542,7 @@
   {
     "strName": "MSRCSCluster01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6552,7 +6552,7 @@
   {
     "strName": "MSRCSCluster01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6562,7 +6562,7 @@
   {
     "strName": "MSRCSCluster01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6602,7 +6602,7 @@
   {
     "strName": "MSRCSDistro01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6612,7 +6612,7 @@
   {
     "strName": "MSRCSDistro01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6622,7 +6622,7 @@
   {
     "strName": "MSRCSDistro01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6632,7 +6632,7 @@
   {
     "strName": "MSRCSDistro01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6642,7 +6642,7 @@
   {
     "strName": "MSRCSDistro01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6682,7 +6682,7 @@
   {
     "strName": "MSRCSDistro02Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6692,7 +6692,7 @@
   {
     "strName": "MSRCSDistro02Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6702,7 +6702,7 @@
   {
     "strName": "MSRCSDistro02LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6712,7 +6712,7 @@
   {
     "strName": "MSRCSDistro02LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6722,7 +6722,7 @@
   {
     "strName": "MSRCSDistro02OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6782,7 +6782,7 @@
   {
     "strName": "MSReactor02SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6822,7 +6822,7 @@
   {
     "strName": "MSReactorIC03Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6832,7 +6832,7 @@
   {
     "strName": "MSReactorIC03DamageExplode",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6842,7 +6842,7 @@
   {
     "strName": "MSReactorIC03Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6852,7 +6852,7 @@
   {
     "strName": "MSReactorIC03LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6862,7 +6862,7 @@
   {
     "strName": "MSReactorIC03LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6892,7 +6892,7 @@
   {
     "strName": "MSReactor03SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -6934,7 +6934,7 @@
   {
     "strName": "MSRTACO2Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6944,7 +6944,7 @@
   {
     "strName": "MSRTACO2DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6954,7 +6954,7 @@
   {
     "strName": "MSRTAN2Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6964,7 +6964,7 @@
   {
     "strName": "MSRTAN2DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6974,7 +6974,7 @@
   {
     "strName": "MSRTAO2Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6984,7 +6984,7 @@
   {
     "strName": "MSRTAO2DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -6994,7 +6994,7 @@
   {
     "strName": "MSScrapClothDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -7004,7 +7004,7 @@
   {
     "strName": "MSScrapClothDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -7834,7 +7834,7 @@
   {
     "strName": "MSAmmoMissile01DamageExplode",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -7844,7 +7844,7 @@
   {
     "strName": "MSAmmoMissile02DamageExplode",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -7854,7 +7854,7 @@
   {
     "strName": "MSAmmoMissile03DamageExplode",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8664,7 +8664,7 @@
   {
     "strName": "MSSignNeon01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -8704,7 +8704,7 @@
   {
     "strName": "MSSignNeon01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8714,7 +8714,7 @@
   {
     "strName": "MSSplintDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8724,7 +8724,7 @@
   {
     "strName": "MSStationNavDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8734,7 +8734,7 @@
   {
     "strName": "MSStationNavDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8744,7 +8744,7 @@
   {
     "strName": "MSStationNavLooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8754,7 +8754,7 @@
   {
     "strName": "MSStationNavLooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8764,7 +8764,7 @@
   {
     "strName": "MSStationNavSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -8804,7 +8804,7 @@
   {
     "strName": "MSStrengthTrainer01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -8813,7 +8813,7 @@
   {
     "strName": "MSStrengthTrainer01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -8822,7 +8822,7 @@
   {
     "strName": "MSStrengthTrainer01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -8831,7 +8831,7 @@
   {
     "strName": "MSStrengthTrainer01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -8869,7 +8869,7 @@
   {
     "strName": "MSSwitch01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8879,7 +8879,7 @@
   {
     "strName": "MSSwitch01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8889,7 +8889,7 @@
   {
     "strName": "MSSwitch01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8899,7 +8899,7 @@
   {
     "strName": "MSSwitch01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -8909,7 +8909,7 @@
   {
     "strName": "MSSwitchSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -8969,7 +8969,7 @@
   {
     "strName": "MSSwitch02SwitchOnAllow",
     "strTitle": "",
-    "strDesc": "[us] [впредь] предоставляет доступ к сервисному доку через корабельные коммуникации.",
+    "strDesc": "[us] впредь предоставляет доступ к сервисному доку через корабельные коммуникации.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -8993,7 +8993,7 @@
   {
     "strName": "MSTerminal01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9033,7 +9033,7 @@
   {
     "strName": "MSToolBox01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9043,7 +9043,7 @@
   {
     "strName": "MSToolBox02Dmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9053,7 +9053,7 @@
   {
     "strName": "MSToolFireEx01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9063,7 +9063,7 @@
   {
     "strName": "MSTowingBrace01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9073,7 +9073,7 @@
   {
     "strName": "MSTowingBrace01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9083,7 +9083,7 @@
   {
     "strName": "MSTowingBrace01DamageSecured",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9093,7 +9093,7 @@
   {
     "strName": "MSTowingBrace01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9103,7 +9103,7 @@
   {
     "strName": "MSTowingBrace01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9113,7 +9113,7 @@
   {
     "strName": "MSTowingBrace01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9153,7 +9153,7 @@
   {
     "strName": "MSTowingBrace01OffSecuredAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9193,7 +9193,7 @@
   {
     "strName": "MSTransponder01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9203,7 +9203,7 @@
   {
     "strName": "MSTransponder01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9213,7 +9213,7 @@
   {
     "strName": "MSTransponder01DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9223,7 +9223,7 @@
   {
     "strName": "MSTransponder01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9263,7 +9263,7 @@
   {
     "strName": "MSTreadmill01Damage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -9272,7 +9272,7 @@
   {
     "strName": "MSTreadmill01LooseDamage",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -9281,7 +9281,7 @@
   {
     "strName": "MSTreadmill01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "nLogging": 1,
@@ -9290,7 +9290,7 @@
   {
     "strName": "MSTreadmill01OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9309,7 +9309,7 @@
   {
     "strName": "MSTreadmill01OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9328,7 +9328,7 @@
   {
     "strName": "MSTV01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9338,7 +9338,7 @@
   {
     "strName": "MSTV01LooseDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9348,7 +9348,7 @@
   {
     "strName": "MSTV01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9368,7 +9368,7 @@
   {
     "strName": "MSTV01SwitchOnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9388,7 +9388,7 @@
   {
     "strName": "MSVent01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9398,7 +9398,7 @@
   {
     "strName": "MSVent02Dmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9408,7 +9408,7 @@
   {
     "strName": "MSVent01CloseAllow",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9429,7 +9429,7 @@
   {
     "strName": "MSVentCloseStart",
     "strTitle": "Закрыть",
-    "strDesc": "[us] [starts] закрывать [them].",
+    "strDesc": "[us] начинает закрывать [them].",
     "strTooltip": "[us] [looks] на [them] озадаченно, а затем [us-shakes] головой. [us-subj] [doesn't] нанимается к совершенно незнакомым людям.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9456,7 +9456,7 @@
   {
     "strName": "MSVent01OpenAllow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9476,7 +9476,7 @@
   {
     "strName": "MSVentOpenStart",
     "strTitle": "Открыть",
-    "strDesc": "[us] [starts] открывать [them].",
+    "strDesc": "[us] начинает открывать [them].",
     "strTooltip": "Открывает [them], позволяя свободный обмен газом и давлением между отсеками.",
     "strActionGroup": "Use",
     "strTargetPoint": "use",
@@ -9503,7 +9503,7 @@
   {
     "strName": "MSVent02CloseAllow",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9524,7 +9524,7 @@
   {
     "strName": "MSVent02CloseO2Allow",
     "strTitle": "",
-    "strDesc": "[us] [закрывается].",
+    "strDesc": "[us] закрывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9545,7 +9545,7 @@
   {
     "strName": "MSVent02OpenAllow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9565,7 +9565,7 @@
   {
     "strName": "MSVent02OpenO2Allow",
     "strTitle": "",
-    "strDesc": "[us] [открывается].",
+    "strDesc": "[us] открывается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9585,7 +9585,7 @@
   {
     "strName": "MSVent02OffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9605,7 +9605,7 @@
   {
     "strName": "MSVent02OnAllow",
     "strTitle": "",
-    "strDesc": "[us] [включается].",
+    "strDesc": "[us] включается.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9625,7 +9625,7 @@
   {
     "strName": "MSWall1x1Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9647,7 +9647,7 @@
   {
     "strName": "MSWall1x1Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9668,7 +9668,7 @@
   {
     "strName": "MSWallPlastic1x1Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9690,7 +9690,7 @@
   {
     "strName": "MSWallPlastic1x1Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9711,7 +9711,7 @@
   {
     "strName": "MSWallAero1x1Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9733,7 +9733,7 @@
   {
     "strName": "MSWallAero1x1Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9754,7 +9754,7 @@
   {
     "strName": "MSWallAero1x2SlantDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9776,7 +9776,7 @@
   {
     "strName": "MSWallAero1x2SlantDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9797,7 +9797,7 @@
   {
     "strName": "MSWallAero1x3SlantDestroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9819,7 +9819,7 @@
   {
     "strName": "MSWallAero1x3SlantDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9840,7 +9840,7 @@
   {
     "strName": "MSWallThin1x1Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9862,7 +9862,7 @@
   {
     "strName": "MSWallWindow1x1Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9884,7 +9884,7 @@
   {
     "strName": "MSWallWindow1x1Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9905,7 +9905,7 @@
   {
     "strName": "MSWallWindow1x1SqDmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9926,7 +9926,7 @@
   {
     "strName": "MSToolWorkLamp01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9936,7 +9936,7 @@
   {
     "strName": "MSWorkLampSwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
@@ -9976,7 +9976,7 @@
   {
     "strName": "MSCigStub",
     "strTitle": "",
-    "strDesc": "[us] [сокращен] до заглушки.",
+    "strDesc": "[us] сокращен до заглушки.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9988,7 +9988,7 @@
   {
     "strName": "MSStabilizerActive01Dmg",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -9998,7 +9998,7 @@
   {
     "strName": "MSStabilizerActive01DmgLoose",
     "strTitle": "",
-    "strDesc": "[us] [is] уничтожен.",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -10008,7 +10008,7 @@
   {
     "strName": "MSStabilizerActive01Destroy",
     "strTitle": "",
-    "strDesc": "[us] [уничтожен].",
+    "strDesc": "[us] уничтожен.",
     "fDuration": 0.0,
     "strThemType": "Other",
     "bIgnoreFeelings": true,
@@ -10018,7 +10018,7 @@
   {
     "strName": "MSStabilizerActive01SwitchOffAllow",
     "strTitle": "",
-    "strDesc": "[us] [is] поврежден.",
+    "strDesc": "[us] поврежден.",
     "strTargetPoint": null,
     "fTargetPointRange": 0,
     "strAnim": null,
