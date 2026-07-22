@@ -8,7 +8,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] [присылает сообщение] [us], прося «бупнуть» [3rd]."
+      "strDesc|[them] [messages] [us], asking for a boop of [3rd]."
     ]
   },
   {
@@ -20,7 +20,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] должен сообщить [them], что [3rd] был «бупнут»."
+      "strDesc|[us] should tell [them] that [3rd] was booped."
     ]
   },
   {
@@ -32,7 +32,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] запускает «буп» сюжетной ветки 2, с целью [3rd] и контактом [them]."
+      "strDesc|[us] triggers boop plot beat 2, with target [3rd] and contact [them]."
     ]
   },
   {
@@ -45,7 +45,7 @@
       "bNoObjective|false"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|Динамик на станции захрипел: «[us-fullname], просьба явиться к представителю Портового управления [them-surname] в коммерческой зоне Azikiwe в удобное для вас время».",
+      "strDesc|The station's loudspeaker crackles: \",
       "CTTestUs|TIsNot_Plot_Any_Cooldown",
       "ShipTestUs|AnyStation_OKLG",
       "ShipTestThem|OKLG_BIZ",
@@ -64,7 +64,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] [передаёт] то, что похоже на跟踪 device. [them-subj] невозмутимо [поручает] [us] незаметно подкинуть его [3rd].",
+      "strDesc|[them] [hands] over what looks like a tracking device. [them-subj] nonchalantly [instructs] [us] to plant it on [3rd] without [3rd-pos] notice.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -77,7 +77,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|Устройство подкинуто, но [us] [задаётся] вопросом, что это будет значить для [3rd]. И для [us-obj]. На этой скале Ayotimiwa обладает силой как благословлять, так и проклинать.",
+      "strDesc|The device is planted, but [us] [wonders] what this may mean for [3rd]. And for [us-obj]. On this rock, Ayotimiwa holds the power to both bless and curse.",
       "strColor|Goodish",
       "nLogging|1"
     ]
@@ -91,7 +91,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] [отменяет] установку жучка на [3rd] для [them]"
+      "strDesc|[us] [cancels] planting a bug on [3rd] for [them]"
     ]
   },
   {
@@ -103,7 +103,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] [принимает] звонок от [them], который [просит] о скорой встрече. [them-subj] [кажется] в ужасе.",
+      "strDesc|[us] [takes] a call from [them] who asks for a meeting soon. [them-subj] [seems] terrified.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|RandomAdultGigTargetLiving",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -120,7 +120,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] [бледнеет] как полотно. [them-subj] [сообщает], что кто-то из высшего руководства AyoSec по имени [3rd] [обвиняет] [them-obj] в контрабанде, якобы связанной с какой-то мошеннической схемой сканирования запчастей. [them] [просит] [us] поговорить с [3rd] и уладить дело.",
+      "strDesc|[them] [is] white as a sheet. [them-subj] [says] someone high up in AyoSec named [3rd] is accusing [them-obj] of being a smuggler involved in some kind of bogus part scanning outfit. [them] [asks] [us] to go talk to [3rd] and straighten things out.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -133,7 +133,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] [соглашается] временно отстать от [them], но [3rd-insists] на том, что [3rd-subj] [продолжает] [сомневаться] — не [был] ли [them-subj] всё-таки замешан в контрабанде.",
+      "strDesc|[3rd] is convinced to lay off [them] for the time being, but [3rd-insists] that [3rd-subj] [wonders] whether [them-subj] might have been involved in smuggling after all.",
       "strColor|Goodish"
     ]
   },
@@ -146,7 +146,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] [принимает] звонок от [them], высокопоставленного корпоративного менеджера, который [просит] о скорой встрече. [them-subj] [кажется] в ужасе.",
+      "strDesc|[us] [takes] a call from [them], a high level corporate manager, who asks for a meeting soon. [them-subj] [seems] terrified.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|GigTargetManager",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -163,7 +163,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] нервничает. [them-subj] [говорит], что коллега из Ayotimiwa по имени [3rd] ложно обвиняет [them-obj] в организации враждебного поглощения отдела пищевой обработки. [them] [просит] [us] напугать [3rd], чтобы [3rd] отказался от [3rd-pos] планов.",
+      "strDesc|[them] is nervous. [them-subj] [says] an Ayotimiwa colleague named [3rd] is wrongfully accusing [them-obj] of orchestrating a hostile takeover of the Food Processing department. [them] [asks] [us] to go scare [3rd] into abandoning [3rd-pos] scheme.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -176,7 +176,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] достаточно напуган и соглашается отказаться от [3rd-pos] заговора против [them]. Прежде чем [us] [уходит], [3rd] [говорит], что [them], возможно, не говорит всей правды об отделе пищевой обработки.",
+      "strDesc|[3rd] is sufficiently terrified and agrees to abandon [3rd-pos] plot against [them]. Before [us] [leaves], [3rd] [says] [them] might not be telling the whole truth about the Food Processing department.",
       "strColor|Goodish"
     ]
   },
@@ -189,7 +189,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] [принимает] вызов от [them], сотрудника правоохранительных органов, в чьём голосе слышится страх. [them-contractWould] хотел бы встретиться с [us-obj] как можно скорее.",
+      "strDesc|[us] [takes] a call from [them], a law enforcement officer with fear in their voice. [them-contractWould] like a meeting with [us-obj] as soon as possible.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|OKLGLEOStranger",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -206,7 +206,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] утверждает, что коллега по имени [3rd] обвиняет [them] в продаже вещей из комнаты хранения вещественных доказательств на чёрном рынке. [them] просит [us] навестить [3rd], проучить [3rd-obj] и убедить прекратить распространять эти гнусные слухи.",
+      "strDesc|[them] claims a fellow officer named [3rd] is accusing them of selling goods from the evidence locker on the black market. [them] asks [us] to go rough up [3rd] and convince [3rd-obj] to stop spreading such nasty rumors.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -219,7 +219,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] испытывает достаточно мучений. [3rd-subj] [соглашается] прекратить [3rd-pos] кампанию против [them]. Прежде чем [us] [уходит], [3rd] спрашивает [us], почему [us-contractWould] так легко доверяет известному лжецу такому как [them].",
+      "strDesc|[3rd] is in sufficient agony. [3rd-subj] [agrees] to stop [3rd-pos] crusade against [them]. Before [us] [leaves], [3rd] asks [us] why [us-contractWould] be so quick to trust a known liar like [them].",
       "strColor|Goodish"
     ]
   },
@@ -232,7 +232,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] принимает вызов от [them], бывшего заключённого, который настаивает на личной встрече в ближайшее время. Собеседник ведёт себя уклончиво, нервничает, торопится закончить разговор.",
+      "strDesc|[us] takes a call from [them], an ex-con who insists on speaking in person very soon. They seem cagey, nervous, eager to get off comms.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|CriminalVanilla",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip"
@@ -248,7 +248,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] говорит, что оказался в затруднительном положении. Контрактный агент Ogiso из Ayotimiwa по имени [3rd] обвиняет [them] в подаче страхового иска на недавно уничтоженный гоночный корабль, оформленный на чужое имя. [them] просит [us] поговорить с [3rd] и прояснить ситуацию.",
+      "strDesc|[them] says they are in a tight spot. An Ayotimiwa contracted Ogiso agent named [3rd] is accusing them of filing an insurance claim on a recently destroyed racing vessel that was in someone else's name. [them] asks [us] to go talk to them and set the record straight.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -261,7 +261,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] поддаётся давлению. [3rd] соглашается отозвать расследование в отношении [them], но настаивает, что в этой истории есть больше, чем кажется на первый взгляд.",
+      "strDesc|[3rd] relents to the pressure. They agree to retract the investigation into [them], but insists that there is more to the story than meets the eye.",
       "strColor|Goodish"
     ]
   },
@@ -274,7 +274,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] принимает вызов от [them], менеджера Ogiso, обвинившего [3rd] в мошенничестве. [them] говорит, что хочет поговорить, и что это срочно."
+      "strDesc|[us] takes a call from [them], the Ogiso manager who accused [3rd] of fraud. They say they'd like to talk and that it is urgent."
     ]
   },
   {
@@ -289,7 +289,7 @@
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
       "ShipTest3rd|PlayerCurrentShip",
-      "strDesc|[them] говорит, что нашёл бывшего владельца корабля, на который ваш маленький криминальный друг подал страховой иск — некоего [3rd]. Он мёртв. Если [us] не верит [them], [us] может отправиться на корабль [3rd] и убедиться воочию."
+      "strDesc|[them] says they located the former owner of the ship that your little criminal friend filed a claim for, someone named [3rd]. They're dead. If you don't believe [them] you can go to [3rd]'s ship and see for yourself."
     ]
   },
   {
@@ -301,7 +301,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|Значит, [them] говорил правду всё это время. Оказывается, [3rd] — лжец.",
+      "strDesc|So [them] was telling the truth all along. Turns out [3rd] is a liar.",
       "strColor|Goodish"
     ]
   },
@@ -314,7 +314,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] принимает вызов от [them], [them-pos] бывшего сокамерника. [them] хочет встретиться в ближайшее время, лично. [them] кажется нервным, даже напуганным.",
+      "strDesc|[us] takes a call from [them], their former cellmate. [them] wants to meet soon, in person. They seem nervous, scared even.",
       "strLootRELChangeUsSees3rd|null",
       "PSpecTestThem|CGEncHomeworldPrisonerFriend",
       "ShipTestThem|AnyShip_OKLGNotPlayerCurrentShip",
@@ -331,7 +331,7 @@
     ],
     "aOverrideTriggerIAValues": [
       "strColor|Dialogue",
-      "strDesc|[them] выглядит скверно. В синяках, порезах, растрёпанный. Говорит, что некий заносчивый сотрудник AyoSec по имени [3rd] взял его на прицел и утверждает, что [them] вернулся к прежней преступной жизни. [3rd] говорит, что травля не прекратится, пока [them] не заплатит за защиту, причём сумма всё время растёт. Они хотят, чтобы вы поговорили с этим копом и урезонили его любым способом.",
+      "strDesc|[them] looks bad. Bruised, cut and disheveled. They say an arrogant AyoSec LEO named [3rd] has targeted them and is insisting that [them] has returned to their former life of crime. [3rd] says the harassment won't stop until [them] pays a protection fee, which keeps going up. They want you to go talk to the cop, straighten him out any way you can.",
       "strLootRELChangeUsSees3rd|RELContact"
     ]
   },
@@ -344,7 +344,7 @@
       "bTension|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[3rd] поддаётся давлению. [3rd] соглашается перестать требовать деньги с [them], но продолжает настаивать, что [them] связан с криминальными сетями из [them-pos] прошлого.",
+      "strDesc|[3rd] relents to the pressure. They agree to stop demanding payments from [them], but continue to insist [them] is involved in criminal networks from their past.",
       "strColor|Dialogue"
     ]
   },
@@ -355,7 +355,7 @@
     "strReplace": "ChoiceXYZ",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] пишет сообщение с просьбой прийти поговорить и выбрать один из вариантов.",
+      "strDesc|[them] messages, asking [us] to come talk to them and choose between options.",
       "ShipTestThem|PlayerCurrentShip",
       "CTTestUs|TIsNotChoiceXYZCooldown"
     ]
@@ -367,7 +367,7 @@
     "strReplace": "ChoiceXYZ01a",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] предлагает [us] второй выбор."
+      "strDesc|[them] presents [us] with a 2nd choice."
     ]
   },
   {
@@ -377,7 +377,7 @@
     "strReplace": "ChoiceXYZ01b",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] предлагает [us] второй выбор."
+      "strDesc|[them] presents [us] with a 2nd choice."
     ]
   },
   {
@@ -387,7 +387,7 @@
     "strReplace": "ChoiceXYZ02a",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] предлагает [us] третий выбор."
+      "strDesc|[them] presents [us] with a 3rd choice."
     ]
   },
   {
@@ -397,7 +397,7 @@
     "strReplace": "ChoiceXYZ02b",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] предлагает [us] третий выбор."
+      "strDesc|[them] presents [us] with a 3rd choice."
     ]
   },
   {
@@ -407,7 +407,7 @@
     "strReplace": "ChoiceXYZ03a",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] больше не предлагает [us] никаких вариантов."
+      "strDesc|[them] presents [us] with no further choices."
     ]
   },
   {
@@ -417,7 +417,7 @@
     "strReplace": "ChoiceXYZ03b",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] больше не предлагает [us] никаких вариантов."
+      "strDesc|[them] presents [us] with no further choices."
     ]
   },
   {
@@ -435,11 +435,11 @@
     "strReplace": "ChoiceFanBreakoutTeam",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] обращает внимание на [us]. Похоже, [them-subj] [them-wants] поболтать.",
+      "strDesc|[them] gestures at [us]. Looks like [them-subj] [them-wants] to banter.",
       "ShipTestThem|PlayerCurrentShip",
       "CTTestThem|TIsFanBreakoutTeam",
       "bNoWalk|true",
-      "strTargetPoint|использовать",
+      "strTargetPoint|use",
       "fTargetPointRange|5.0",
       "aInverse|null",
       "strLootRELChangeUsSeesThem|null"
@@ -512,11 +512,11 @@
     "strReplace": "ChoiceFanSmokes",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] [жестикулирует] в сторону [us]. Похоже, [them-subj] [them-wants] поболтать.",
+      "strDesc|[them] [gestures] at [us]. Looks like [them-subj] [them-wants] to banter.",
       "ShipTestThem|PlayerCurrentShip",
       "CTTestThem|TIsFanSmokes",
       "bNoWalk|true",
-      "strTargetPoint|использовать",
+      "strTargetPoint|use",
       "fTargetPointRange|5.0",
       "aInverse|null",
       "strLootRELChangeUsSeesThem|null"
@@ -531,7 +531,7 @@
       "bRelease|true"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] [спрашивает] [us], какие сигареты лучше: Sungura Viceroys или Damask Rose? Вековое соперничество вновь даёт о себе знать."
+      "strDesc|[them] [asks] [us] which smokes are superior: Sungura Viceroys or Damask Rose? The age-old rivalry rears it's head."
     ]
   },
   {

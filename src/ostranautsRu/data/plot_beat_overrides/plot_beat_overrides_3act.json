@@ -8,7 +8,7 @@
       "strIATrigger|PLOTTEMP3ActMIDStartTrigger,[protag],[contact],[target]"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] пишет [us], прося о TEMP3ActMID для [3rd]."
+      "strDesc|[them] messages [us], asking for a TEMP3ActMID of [3rd]."
     ]
   },
   {
@@ -18,7 +18,7 @@
     "strReplace": "TEMP3ActMID",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] должен сказать [them], что [3rd] был TEMP3ActMIDed."
+      "strDesc|[us] should tell [them] that [3rd] was TEMP3ActMIDed."
     ]
   },
   {
@@ -28,7 +28,7 @@
     "strReplace": "TEMP3ActMID",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] запускает TEMP3ActMID, сюжетный эпизод 2, с целью [3rd] и контактом [them]."
+      "strDesc|[us] triggers TEMP3ActMID plot beat 2, with target [3rd] and contact [them]."
     ]
   },
   {
@@ -40,7 +40,7 @@
       "strIATrigger|PLOTTEMP3ActENDStartTrigger,[protag],[contact],[target]"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|[them] пишет [us], прося о TEMP3ActEND для [3rd]."
+      "strDesc|[them] messages [us], asking for a TEMP3ActEND of [3rd]."
     ]
   },
   {
@@ -50,7 +50,7 @@
     "strReplace": "TEMP3ActEND",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] должен сказать [them], что [3rd] был TEMP3ActENDed."
+      "strDesc|[us] should tell [them] that [3rd] was TEMP3ActENDed."
     ]
   },
   {
@@ -60,7 +60,7 @@
     "strReplace": "TEMP3ActEND",
     "aOverrideBeatValues": [],
     "aOverrideTriggerIAValues": [
-      "strDesc|[us] запускает TEMP3ActEND, сюжетный эпизод 2, с целью [3rd] и контактом [them]."
+      "strDesc|[us] triggers TEMP3ActEND plot beat 2, with target [3rd] and contact [them]."
     ]
   }
 ]

@@ -6,7 +6,7 @@
     "strReplace": "TEMP3ActMID",
     "aOverrideValues": [
       "strTitle|Цель TEMP3ActMID",
-      "strDesc|[us] TEMP3ActMID [them] для [3rd]."
+      "strDesc|[us] TEMP3ActMIDs [them] for [3rd]."
     ]
   },
   {
@@ -16,7 +16,7 @@
     "strReplace": "TEMP3ActMID",
     "aOverrideValues": [
       "strTitle|Сдать TEMP3ActMID",
-      "strDesc|[us] сдаёт TEMP3ActMID [them] для [3rd]."
+      "strDesc|[us] turns in TEMP3ActMID [them] for [3rd]."
     ]
   },
   {
@@ -26,7 +26,7 @@
     "strReplace": "TEMP3ActEND",
     "aOverrideValues": [
       "strTitle|Цель TEMP3ActEND",
-      "strDesc|[us] TEMP3ActEND [them] для [3rd]."
+      "strDesc|[us] TEMP3ActENDs [them] for [3rd]."
     ]
   },
   {
@@ -36,7 +36,7 @@
     "strReplace": "TEMP3ActEND",
     "aOverrideValues": [
       "strTitle|Сдать TEMP3ActEND",
-      "strDesc|[us] сдаёт TEMP3ActEND [them] для [3rd]."
+      "strDesc|[us] turns in TEMP3ActEND [them] for [3rd]."
     ]
   }
 ]
