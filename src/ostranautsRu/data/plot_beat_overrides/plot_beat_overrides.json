@@ -45,7 +45,7 @@
       "bNoObjective|false"
     ],
     "aOverrideTriggerIAValues": [
-      "strDesc|The station's loudspeaker crackles: \",
+      "strDesc|The station's loudspeaker crackles: \"[us-fullname], please report to Port Authority [them-surname] in Azikiwe Commercial at your earliest convenience.\"",
       "CTTestUs|TIsNot_Plot_Any_Cooldown",
       "ShipTestUs|AnyStation_OKLG",
       "ShipTestThem|OKLG_BIZ",
