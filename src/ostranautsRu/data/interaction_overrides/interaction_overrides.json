@@ -5,8 +5,8 @@
 		"strFind" : "SnapPhoto",
 		"strReplace" : "Boop",
         "aOverrideValues" : [
-			"strTitle|Boop", 
-			"strDesc|[us] boops [them] for [3rd]."
+			"strTitle|Буп", 
+			"strDesc|[us] «бупает» [them] ради [3rd]."
 		]
 	},
     {
@@ -16,7 +16,7 @@
 		"strReplace" : "Boop",
         "aOverrideValues" : [
 			"strTitle|Turn In Boop", 
-			"strDesc|[us] turns in boop [them] for [3rd]."
+			"strDesc|[us] сдаёт «буп» [them] ради [3rd]."
 		]
 	},
 
@@ -28,7 +28,7 @@
 		"strReplace" : "AyoCorpSnitch",
         "aOverrideValues" : [
 			"strTitle|Ask About Being Summoned", 
-			"strDesc|[us] [mentions] the P.A. summons that directed [us-obj] to contact [them].",
+			"strDesc|[us] [упоминает] вызов к П.А., который направил [us-obj] к контакту с [them].",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
 			"fTargetPointRange|2.0",
@@ -43,7 +43,7 @@
 		"strReplace" : "AyoCorpSnitch",
         "aOverrideValues" : [
 			"strTitle|Subtly Plant Device", 
-			"strDesc|[us] [feigns] nearly colliding with [them]. An apology and a few angry gestures later, and [3rd-pos] request is complete.",
+			"strDesc|[us] [притворяется], что чуть не столкнулся с [them]. После извинений и пары сердитых жестов задание [3rd-pos] выполнено.",
 			"strActionGroup|Use"
 		]
 	},
@@ -56,7 +56,7 @@
 		"strReplace" : "WrongfullyAccusedBreakerBEG",
         "aOverrideValues" : [
 			"strTitle|Ask About Being Called", 
-			"strDesc|[us] [asks] [them] what has got them so spooked.",
+			"strDesc|[us] [спрашивает] [them], что их так напугало.",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
 			"fTargetPointRange|2.0"
@@ -69,7 +69,7 @@
 		"strReplace" : "WrongfullyAccusedBreakerBEG",
         "aOverrideValues" : [
 			"strTitle|Convince To Back Off", 
-			"strDesc|[us] [uses] the social tactics at [us-pos] disposal to convince [3rd] to lay off [them] for a while.",
+			"strDesc|[us] [использует] социальные тактики, чтобы убедить [3rd] оставить [them] в покое на время.",
 			"strActionGroup|Use"
 		]
 	},
@@ -81,7 +81,7 @@
 		"strReplace" : "WrongfullyAccusedManagerBEG",
         "aOverrideValues" : [
 			"strTitle|Ask About Being Called", 
-			"strDesc|[us] [asks] [them] what has got [them-obj] so spooked.",
+			"strDesc|[us] [спрашивает] [them], что так напугало [them-obj].",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
 			"fTargetPointRange|2.0"
@@ -94,7 +94,7 @@
 		"strReplace" : "WrongfullyAccusedManagerBEG",
         "aOverrideValues" : [
 			"strTitle|Deliver Message of Threat", 
-			"strDesc|[us] [uses] the social tactics at [us-pos] disposal to convince [3rd] to lay off [them].",
+			"strDesc|[us] [использует] социальные тактики, чтобы убедить [3rd] оставить [them] в покое.",
 			"strActionGroup|Use",
 			"strLootRELChangeThemSeesUs|RELFriendLossJob"
 		]
@@ -107,7 +107,7 @@
 		"strReplace" : "WrongfullyAccusedLEOBEG",
         "aOverrideValues" : [
 			"strTitle|Ask About Being Called", 
-			"strDesc|[us] [asks] [them] why [them-subj] [seems] so upset.",
+			"strDesc|[us] [спрашивает] [them], почему [them-subj] [кажется] таким расстроенным.",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
 			"fTargetPointRange|2.0"
@@ -120,7 +120,7 @@
 		"strReplace" : "WrongfullyAccusedLEOBEG",
         "aOverrideValues" : [
 			"strTitle|Scare Into Backing Off", 
-			"strDesc|[us] [tells] [them] to lay off or else more pain is coming.",
+			"strDesc|[us] [говорит] [them] отвалить, иначе будет больно.",
 			"strActionGroup|Use",
 			"CTTestThem|TIsTargetInPain0203",
 			"strLootRELChangeThemSeesUs|RELEnemyJob"
@@ -134,7 +134,7 @@
 		"strReplace" : "WrongfullyAccusedCrimBEG",
         "aOverrideValues" : [
 			"strTitle|Ask About Being Called", 
-			"strDesc|[us] [asks] [them] why [them-subj] called.",
+			"strDesc|[us] [спрашивает] [them], зачем [them-subj] звонил.",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
 			"fTargetPointRange|2.0"
@@ -147,7 +147,7 @@
 		"strReplace" : "WrongfullyAccusedCrimBEG",
         "aOverrideValues" : [
 			"strTitle|Scare Into Backing Off", 
-			"strDesc|[us] [tells] [them] to bury the insurance fraud report or else.",
+			"strDesc|[us] [говорит] [them] похоронить отчёт о страховом мошенничестве, иначе.",
 			"strActionGroup|Use",
 			"strLootRELChangeThemSeesUs|RELEnemyJob"
 		]
@@ -160,7 +160,7 @@
 		"strReplace" : "WrongfullyAccusedCrimMID",
         "aOverrideValues" : [
 			"strTitle|Ask About Being Called", 
-			"strDesc|[us] [asks] [them] why [them-subj] called.",
+			"strDesc|[us] [спрашивает] [them], зачем [them-subj] звонил.",
 			"PSpecTest3rd|TargetDead",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
@@ -174,7 +174,7 @@
 		"strReplace" : "WrongfullyAccusedCrimMID",
         "aOverrideValues" : [
 			"strTitle|Investigate Dead Body", 
-			"strDesc|[us] [recognizes] [them-pos] body as someone [3rd] used to spend time with. A former lover, or at least a very close friend.",
+			"strDesc|[us] [узнаёт] в теле [them-pos] того, с кем [3rd] когда-то проводил время. Бывший любовник или хотя бы очень близкий друг.",
 			"strActionGroup|Use",
 			"strLootRELChange3rdSeesUs|RELFriendJob"
 		]
@@ -187,7 +187,7 @@
 		"strReplace" : "WrongfullyAccusedPrisonerCellmateBEG",
         "aOverrideValues" : [
 			"strTitle|Consult with Former Cellmate", 
-			"strDesc|[us] [asks] [them] why [them-subj] called after so long.",
+			"strDesc|[us] [спрашивает] [them], почему [them-subj] позвонил спустя столько времени.",
 			"strActionGroup|Talk",
 			"strTargetPoint|talk",
 			"fTargetPointRange|2.0"
@@ -200,7 +200,7 @@
 		"strReplace" : "WrongfullyAccusedPrisonerCellmateBEG",
         "aOverrideValues" : [
 			"strTitle|Scare Into Backing Off", 
-			"strDesc|[us] [tells] [3rd] to stop harassing [them] or else.",
+			"strDesc|[us] [говорит] [3rd] прекратить преследовать [them], иначе.",
 			"strActionGroup|Use",
 			"strLootRELChange3rdSeesUs|RELFriendLossJob"
 		]
@@ -215,8 +215,8 @@
 		"strReplace" : "ChoiceXYZ01a",
         "aOverrideValues" : [
 			"strTitle|Вариант А", 
-			"strDesc|[us] says to [them], \"I choose Option A\".",
-			"strTooltip|This text explains this choice in more sumptuous detail so players know what they're getting into."
+			"strDesc|[us] говорит [them], \"Я выбираю вариант А\".",
+			"strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются."
 		]
 	},
 	{
@@ -226,8 +226,8 @@
 		"strReplace" : "ChoiceXYZ01b",
         "aOverrideValues" : [
 			"strTitle|Вариант Б", 
-			"strDesc|[us] says to [them], \"I choose Option B\".",
-			"strTooltip|This text explains this choice in more sumptuous detail so players know what they're getting into.",
+			"strDesc|[us] говорит [them], \"Я выбираю вариант Б\".",
+			"strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
 			"LootCondsThem|null"
 		]
 	},
@@ -238,8 +238,8 @@
 		"strReplace" : "ChoiceXYZ02a",
         "aOverrideValues" : [
 			"strTitle|Вариант 2А", 
-			"strDesc|[us] says to [them], \"I choose Option A\".",
-			"strTooltip|This text explains this choice in more sumptuous detail so players know what they're getting into.",
+			"strDesc|[us] говорит [them], \"Я выбираю вариант А\".",
+			"strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
 			"LootCondsThem|null"
 		]
 	},
@@ -250,8 +250,8 @@
 		"strReplace" : "ChoiceXYZ02b",
         "aOverrideValues" : [
 			"strTitle|Вариант 2Б", 
-			"strDesc|[us] says to [them], \"I choose Option B\".",
-			"strTooltip|This text explains this choice in more sumptuous detail so players know what they're getting into.",
+			"strDesc|[us] говорит [them], \"Я выбираю вариант Б\".",
+			"strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
 			"LootCondsThem|null"
 		]
 	},
@@ -262,8 +262,8 @@
 		"strReplace" : "ChoiceXYZ03a",
         "aOverrideValues" : [
 			"strTitle|Final Choice A", 
-			"strDesc|[us] says to [them], \"I choose Option A\".",
-			"strTooltip|This text explains this choice in more sumptuous detail so players know what they're getting into.",
+			"strDesc|[us] говорит [them], \"Я выбираю вариант А\".",
+			"strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
 			"LootCondsThem|null"
 		]
 	},
@@ -274,8 +274,8 @@
 		"strReplace" : "ChoiceXYZ03b",
         "aOverrideValues" : [
 			"strTitle|Final Choice B", 
-			"strDesc|[us] says to [them], \"I choose Option B\".",
-			"strTooltip|This text explains this choice in more sumptuous detail so players know what they're getting into.",
+			"strDesc|[us] говорит [them], \"Я выбираю вариант Б\".",
+			"strTooltip|Этот текст более подробно и красочно объясняет данный выбор, чтобы игроки понимали, во что ввязываются.",
 			"LootCondsThem|null"
 		]
 	},
@@ -288,7 +288,7 @@
 		"strReplace" : "ChoiceFanBreakoutTeam01",
         "aOverrideValues" : [
 			"strTitle|Banter about Sports", 
-			"strDesc|[us] [smiles] at [them] and [us-welcomes] banter about sports.",
+			"strDesc|[us] [улыбается] [them] и [us-рад] поболтать о спорте.",
 			"LootCondsThem|null",
 			"aInverse|PLOTChoiceFanBreakoutTeam01Reply",
 			"bInterrupt|true"
@@ -301,7 +301,7 @@
 		"strReplace" : "ChoiceFanBreakoutTeam01",
         "aOverrideValues" : [
 			"strTitle|Discuss Breakout Teams", 
-			"strDesc|[us] [is] eager to rave about Breakout teams, players, and current events with [them]. Outer League only, obviously."
+			"strDesc|[us] [хочет] говорить о командах Breakout, игроках и текущих событиях с [them]. Только Внешняя Лига, очевидно."
 		]
 	},
 	{
@@ -311,7 +311,7 @@
 		"strReplace" : "ChoiceFanBreakoutTeam02a",
         "aOverrideValues" : [
 			"strTitle|Rave about Ganymede Warriors", 
-			"strDesc|[us] [says] to [them], \"Warriors through it all.\" The team carries the hopes of all who crave second chances.",
+			"strDesc|[us] [говорит] [them], \"Warriors through it all.\" The team carries the hopes of all who crave second chances.",
 			"strTooltip|Express your preference for The Ganymede Warriors.\nThe team of enduring spirit and resilience, returning as champions after doping scandals.",
 			"LootCondsThem|null",
 			"LootCTsUs|CTPLOTFanBreakoutWarriors",
@@ -326,7 +326,7 @@
 		"strReplace" : "ChoiceFanBreakoutTeam02b",
         "aOverrideValues" : [
 			"strTitle|Rave about Ceres Shooters", 
-			"strDesc|[us] [says] to [them], \"Shooters, first and finest.\" The team raises nostalgia for the sports invention decades ago.",
+			"strDesc|[us] [говорит] [them], \"Shooters, first and finest.\" The team raises nostalgia for the sports invention decades ago.",
 			"strTooltip|Express your preference for The Ceres Shooters.\nA safe choice: The old guard, tracing an alleged pedigree to the sport's founders.",
 			"LootCondsThem|null",
 			"LootCTsUs|CTPLOTFanBreakoutShooters",
@@ -341,7 +341,7 @@
 		"strReplace" : "ChoiceFanBreakoutTeam02c",
         "aOverrideValues" : [
 			"strTitle|Rave about Ceres Rioters", 
-			"strDesc|[us] [says] to [them], \"Rioters or bust.\" The team lifts the spirits of the System's underdogs and bold risk-takers of all walks of life.",
+			"strDesc|[us] [говорит] [them], \"Rioters or bust.\" The team lifts the spirits of the System's underdogs and bold risk-takers of all walks of life.",
 			"strTooltip|Express your preference for The Ceres Rioters.\nThe cult favorite underdogs, the Shooters' nightmare, the upset proposition, the anti-establishment option.",
 			"LootCondsThem|null",
 			"LootCTsUs|CTPLOTFanBreakoutRioters",
@@ -356,7 +356,7 @@
 		"strReplace" : "ChoiceFanBreakoutTeam02d",
         "aOverrideValues" : [
 			"strTitle|Rave about 3FC Instead", 
-			"strDesc|[us] [opines] that Breakout is baby's play compared with a real sport like Freefall Fighting Championship.",
+			"strDesc|[us] [заявляет], что Breakout — это детские игры по сравнению с настоящим спортом вроде Чемпионата по свободному падению.",
 			"strTooltip|Express your dislike for Breakout altogether compared with the System's other primary sport: Freefall Fighting Championship (3FC).",
 			"LootCondsThem|null",
 			"LootCTsUs|CTPLOTFan3FC",
@@ -372,7 +372,7 @@
 		"strReplace" : "ChoiceFanSmokes01",
         "aOverrideValues" : [
 			"strTitle|Banter about Smokes", 
-			"strDesc|[us] [gives] [them] [us-pos] attention and [us-welcomes] banter about cigarette brands.",
+			"strDesc|[us] [уделяет] [them] внимание и [us-рад] поболтать о брендах сигарет.",
 			"LootCondsThem|null",
 			"aInverse|PLOTChoiceFanSmokes01Reply",
 			"bInterrupt|true"
@@ -385,7 +385,7 @@
 		"strReplace" : "ChoiceFanSmokes01",
         "aOverrideValues" : [
 			"strTitle|Discuss Cigarette Brands", 
-			"strDesc|[us] [raises] the age-old spacer debate over the best brand of smokes: Viceroys or Damask Rose?"
+			"strDesc|[us] [поднимает] извечный спор космонавтов о лучшем бренде сигарет: Viceroys или Damask Rose?"
 		]
 	},
 	{
@@ -395,7 +395,7 @@
 		"strReplace" : "ChoiceFanSmokes02a",
         "aOverrideValues" : [
 			"strTitle|Prefer Sungura Viceroys", 
-			"strDesc|[us] [extols] to [them] the virtues of Viceroys, \"Viceroy's orders. Sweeter than oxygen.\"",
+			"strDesc|[us] [расхваливает] [them] достоинства Viceroys, \"Viceroy's orders. Sweeter than oxygen.\"",
 			"strTooltip|Express your preference for Sungura Viceroy's smokes\n\nA classic choice: unfiltered tobacco Viceroy's are a staple for hard-working spacers throughout the System.",
 			"LootCondsThem|null",
 			"LootCTsUs|CTPLOTFanViceroys",
@@ -410,7 +410,7 @@
 		"strReplace" : "ChoiceFanSmokes02b",
         "aOverrideValues" : [
 			"strTitle|Prefer Damask Rose", 
-			"strDesc|[us] [extols] to [them] the virtues of Damask Rose \"Smoke a rose. Drift away.\".",
+			"strDesc|[us] [расхваливает] [them] достоинства Damask Rose \"Smoke a rose. Drift away.\".",
 			"strTooltip|Express your preference for Damask Rose smokes.\n\nYou know what you like: the preferred cannabis brand in the System, Green Energy Company's flagship product.",
 			"LootCondsThem|null",
 			"LootCTsUs|CTPLOTFanDamaskRose",
@@ -425,7 +425,7 @@
 		"strReplace" : "ChoiceFanSmokes02c",
         "aOverrideValues" : [
 			"strTitle|\"I don't smoke.\"", 
-			"strDesc|[us] [says] to [them], \"Smoking isn't really my thing.\".",
+			"strDesc|[us] [говорит] [them], \"Smoking isn't really my thing.\".",
 			"strTooltip|Express your preference for not smoking.",
 			"LootCondsThem|null",
 			"CTTestUs|TIsNotSmoker",
