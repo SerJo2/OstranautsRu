@@ -1,20 +1,22 @@
-﻿[	
-	{	
-		"strName" : "DummyInteraction2",
-		"strTitle" : "\u0412\u0437\u043b\u043e\u043c\u0430\u0442\u044c \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0430\u0440\u0445\u0438\u0432\u044b",
-		"strDesc" : "[us] \u0432\u0437\u043b\u0430\u043c\u044b\u0432\u0430\u0435\u0442 \u0430\u0440\u0445\u0438\u0432\u044b \u043c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430, \u0438\u0449\u0430 \u0434\u0430\u043d\u043d\u044b\u0435 \u043e\u0431 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0441 \u0437\u043e\u043b\u043e\u0442\u043e\u043c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f [them].",
-		"fDuration" : 0.005,
-		"bIgnoreFeelings" : true,
-		"strTargetPoint" : "use",
-		"fTargetPointRange" : 2,
-		"strAnim" : "Talk",
-		"strThemType" : "Other",
-		"nLogging" : 1,
-		"LootCondsUs" : "CONDPLOT_PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave",
-		"CTTestUs" : "CTPlot_PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave",
-		"CTTestThem" : "TIsTerminal01Installed",
-		"strActionGroup" : "Use",
-		"aInverse" : [ "PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave_Reply" ],
-			"ShipTestThem" : "BCER"
-	}
+[
+  {
+    "strName": "DummyInteraction2",
+    "strTitle": "Взломать правительственные архивы",
+    "strDesc": "[us] взламывает архивы местного правительства, ища данные об инженерных проектах с золотом, используя [them].",
+    "fDuration": 0.005,
+    "bIgnoreFeelings": true,
+    "strTargetPoint": "use",
+    "fTargetPointRange": 2,
+    "strAnim": "Talk",
+    "strThemType": "Other",
+    "nLogging": 1,
+    "LootCondsUs": "CONDPLOT_PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave",
+    "CTTestUs": "CTPlot_PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave",
+    "CTTestThem": "TIsTerminal01Installed",
+    "strActionGroup": "Use",
+    "aInverse": [
+      "PLOT_Ceres_Clandestine_Interventions_Terminal_Hack_Mojave_Reply"
+    ],
+    "ShipTestThem": "BCER"
+  }
 ]
